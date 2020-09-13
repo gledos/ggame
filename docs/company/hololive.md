@@ -86,7 +86,7 @@ dateCreated: 2021-03-18T10:33:47.007Z
 + [Cover Corp Addresses Discrepancy in Chinese Statement Regarding Virtual YouTubers Akai Haato, Kiryu Coco - Interest - Anime News Network](https://web.archive.org/web/20201011060927/https://www.animenewsnetwork.com/interest/2020-09-30/cover-corp-addresses-discrepancy-in-chinese-statement-regarding-virtual-youtubers-akai-haato-kiryu-coco/.164691)
 + [Explanation of the Events Leading to Our Public Statement on September 27th, and Our Company’s Plans Going Forward – カバー株式会社](https://web.archive.org/web/20201010155215/https://cover-corp.com/2020/09/30/093002/)
 + [[安全区剩余 7 人 票选冠军阿夸]HoloLive 1st大逃杀！录电台大亏险虎穴，大联动巫女急缩圈[快进到无人生还，比赛结束] NGA玩家社区](https://archive.is/eDDbY "https://bbs.nga.cn/read.php?tid=23809268")
-+ [HOLOLIVE 字幕组 弃坑 与 稿件删除情况汇总[ 欢迎提供最新信息 ] NGA玩家社区](https://archive.is/OkHPt "https://web.archive.org/web/20201023032742/https://webcache.googleusercontent.com/search?q=cache%3AGeXOmju7YwMJ%3Ahttps%3A%2F%2Fbbs.nga.cn%2Fread.php%3Ftid%3D23789238")
++ [HOLOLIVE 字幕组 弃坑 与 稿件删除情况汇总[ 欢迎提供最新信息 ] NGA玩家社区](https://archive.is/OkHPt "https://web.archive.org/web/20201023032742/https://webcache.googleusercontent.com/search?q=cache:GeXOmju7YwMJ:https://bbs.nga.cn/read.php?tid=23789238")
 + [GitHub - hololiveEventCollection/hololive-20200924: 桐生可可炎上事件-20200924](https://web.archive.org/web/20201023032427/https://github.com/hololiveEventCollection/hololive-20200924)
 + **33760 楼** [【閒聊】場外第七史詩 掌握在你手中的動畫 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20201023032543/https://forum.gamer.com.tw/C.php?page=1688&bsn=60076&snA=4808170)
 + [網路熱門》 Vtuber 紅什麼？ 又為什麼會「炎上」？ 宅論壇](https://web.archive.org/web/20201023034049/https://cfoforum.io/post/article/34426)

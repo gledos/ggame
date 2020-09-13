@@ -18,6 +18,6 @@ dateCreated: 2020-11-03T08:36:39.704Z
 讨论受限
 --------
 
-知乎有两个问题，分别是[如何看@公子沈这位用户的系列文章？](https://web.archive.org/web/20201103073941if_/https://www.google.com/search?q=www.zhihu.com%2Fquestion%2F334466750)与[如何评价油土鳖上的公子沈？](https://web.archive.org/web/20201103073802/https://www.zhihu.com/question/415322261)。
+知乎有两个问题，分别是[如何看@公子沈这位用户的系列文章？](https://web.archive.org/web/20201103073941if_/https://www.google.com/search?q=www.zhihu.com/question/334466750)与[如何评价油土鳖上的公子沈？](https://web.archive.org/web/20201103073802/https://www.zhihu.com/question/415322261)。
 
 问题 1 需登录才能查看，两个问题也都没有留下对他正面的内容。

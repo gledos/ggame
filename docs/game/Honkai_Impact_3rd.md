@@ -20,7 +20,7 @@ dateCreated: 2021-05-07T15:42:36.644Z
 + 2021-04-04 [手遊《崩壞3rd》溯及既往　Coser昔稱「武漢肺炎」遭拔工作機會](https://web.archive.org/web/20210430030952if_/https://www.ctwant.com/article/110669)
 + 2021/04/05 [發文喊「武漢肺炎」丟代言　女Coser難過發文：對不起 | 生活 | 三立新聞網 SETN.COM](https://web.archive.org/web/20210429045903/https://www.setn.com/News.aspx?NewsID=921046)
 + 2021-04-06 [【喜闻乐见】官方coser被挖出是福利姬？游戏厂商遭大批玩家抵制|二次元游戏_网易订阅](https://web.archive.org/web/20210430030930/https://www.163.com/dy/article/G6S5QRJG0526G7TJ.html)
-+ 2021-04-15 09:46 [Added by @laira918 Instagram post 很多人跟蕾菈說過， 覺得蕾菈脾氣很好， 好像不管遇到什麼事情都不會生氣。......](https://archive.is/Oh4RE "https://web.archive.org/web/20210430072700if_/https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Ffo-fo.facebook.com%2Flaira918%2Fposts%2F2029976310477603")
++ 2021-04-15 09:46 [Added by @laira918 Instagram post 很多人跟蕾菈說過， 覺得蕾菈脾氣很好， 好像不管遇到什麼事情都不會生氣。......](https://archive.is/Oh4RE "https://web.archive.org/web/20210430072700if_/https://webcache.googleusercontent.com/search?q=cache:https://fo-fo.facebook.com/laira918/posts/2029976310477603")
 + [有人能给我说说tw那个coser的事情么？ NGA玩家社区](https://archive.is/5ZJHg "https://bbs.nga.cn/read.php?tid=26184713")
 + [融号弃坑 姬洛水 - 哔哩哔哩](https://archive.is/XjKdw "https://www.bilibili.com/video/BV1Dh411S7bm")
 + [[閒聊] 崩壞3怎麼了？要收了嗎？ - C_Chat - PTT情感投資事業版](https://web.archive.org/web/20210430071539/https://ptt-chat.com/C_Chat/l/CHAT.M.1618033544.A.DBF)

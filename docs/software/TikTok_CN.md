@@ -18,7 +18,7 @@ dateCreated: 2020-12-16T07:50:29.362Z
 
 + jb太可怕[^20201216072302]
 
-[^20201216072302]: [【误解向】jb真的太可怕茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20201216072302/https://webcache.googleusercontent.com/search?q=cache%3AIlejAUpLAGEJ%3Ahttps%3A%2F%2Fwww.south-plus.net%2Fsimple%2Findex.php%3Ft987558.html)
+[^20201216072302]: [【误解向】jb真的太可怕茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20201216072302/https://webcache.googleusercontent.com/search?q=cache:IlejAUpLAGEJ:https://www.south-plus.net/simple/index.php?t987558.html)
 
 ## 潜规则
 

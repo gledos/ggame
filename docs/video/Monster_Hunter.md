@@ -30,7 +30,7 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 [^CZzkw]: [怪物猎人这片子啥意思？上来就乳华？ NGA玩家社区](https://archive.is/CZzkw "https://bbs.nga.cn/read.php?tid=24474875")
 
-[^20201204165857]: [“中国人脏膝盖？”电影《怪物猎人》上映首日被指台词涉嫌辱华](https://web.archive.org/web/20201204165857/https://webcache.googleusercontent.com/search?q=cache%3AHEIvO3EWTwYJ%3Ahttps%3A%2F%2Fn.eastday.com%2Fpnews%2F1607077613025311)
+[^20201204165857]: [“中国人脏膝盖？”电影《怪物猎人》上映首日被指台词涉嫌辱华](https://web.archive.org/web/20201204165857/https://webcache.googleusercontent.com/search?q=cache:HEIvO3EWTwYJ:https://n.eastday.com/pnews/1607077613025311)
 
 [^20201204125554]: [“中国人脏膝盖？”电影《怪物猎人》上映首日被指台词涉嫌辱华_Chinese](https://web.archive.org/web/20201204125554/https://www.sohu.com/a/436285296_120823584)
 
@@ -40,7 +40,7 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 额外补充，有人称日本人在另一个关于怪物猎人的地方被侮辱了，不过我并没有找到证据证明怪物猎人的巧克力活动侮辱了日本人。[^20201204174229]
 
-[^20201204174229]: [チョコレート - Twitter Search](https://web.archive.org/web/20201204174229/https://twitter.com/search?q=%E3%83%81%E3%83%A7%E3%82%B3%E3%83%AC%E3%83%BC%E3%83%88)
+[^20201204174229]: [チョコレート - Twitter Search](https://web.archive.org/web/20201204174229/https://twitter.com/search?q=チョコレート)
 
 还有一种可能是出现了断章取义，比如这台词之后还有几句话。[^20201205072235]
 
@@ -72,13 +72,13 @@ dateCreated: 2020-12-04T17:46:38.220Z
 
 没法直译，只能意译了 —— FROMearth02
 
-[膝盖下有中国人 这是个笑话吗？【怪物猎人吧】_百度贴吧](https://web.archive.org/web/20201204165634/https://webcache.googleusercontent.com/search?q=cache%3AXpyZCzfGdHoJ%3Ahttps%3A%2F%2Ftieba.baidu.com%2Fp%2F7129445793)
+[膝盖下有中国人 这是个笑话吗？【怪物猎人吧】_百度贴吧](https://web.archive.org/web/20201204165634/https://webcache.googleusercontent.com/search?q=cache:XpyZCzfGdHoJ:https://tieba.baidu.com/p/7129445793)
 
 [翻譯有內鬼！《魔物獵人》電影「辱華」中國緊急下架、台詞翻譯遭控硬凹 | 動漫影視 | NOW電玩](https://web.archive.org/web/20201204164338if_/https://game.nownews.com/news/20201204/3284838/)
 
 恶搞之家在S06E06以反讽的形式使用了一个对少数族裔歧视性的笑话 [Yarn | Chinese, Japanese, dirty knees, look at these. ~ Family Guy (1999) - S06E06 Comedy | Video clips by quotes, clip | 5508d244-2679-4b3a-a562-8ece0052a754 | 紗](https://web.archive.org/web/20201204160034/https://getyarn.io/yarn-clip/5508d244-2679-4b3a-a562-8ece0052a754)
 
-[怪物猎人 - Twitter Search](https://web.archive.org/web/20201204174257/https://twitter.com/search?q=%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA)
+[怪物猎人 - Twitter Search](https://web.archive.org/web/20201204174257/https://twitter.com/search?q=怪物猎人)
 
 [怪物猎人电影辱华 - 新·品葱](https://web.archive.org/web/20201204135556/https://pincong.rocks/article/27089)
 
@@ -104,7 +104,7 @@ dateCreated: 2020-12-04T17:46:38.220Z
 + [时光早报：《怪物猎人》制片方道歉 "哥斯拉大战金刚"曝海报　"神奇女侠"新预告 – Mtime时光网](https://archive.is/SxRBC)
 + [對白嘲笑Chinese 「怪物獵人」在中國上映1天下架 | 中國即時 | 中國 | 世界新聞網](https://web.archive.org/web/20201207144858/https://www.worldjournal.com/wj/story/121474/5070177)
 + [‘Monster Hunter’ Producer Issues Apology Over Offending Scene – Deadline](https://web.archive.org/web/20201207040923/https://deadline.com/2020/12/monster-hunter-producer-apologizes-china-controversy-constantin-film-1234651219/)
-+ [《怪物猎人》被指辱华 上映一天即下线 | 德国之声 来自德国 介绍德国 | DW | 05.12.2020](https://web.archive.org/web/20201206124543/https://www.dw.com/zh/%E6%80%AA%E7%89%A9%E7%8C%8E%E4%BA%BA%E8%A2%AB%E6%8C%87%E8%BE%B1%E5%8D%8E-%E4%B8%8A%E6%98%A0%E4%B8%80%E5%A4%A9%E5%8D%B3%E4%B8%8B%E7%BA%BF/a-55833339)
++ [《怪物猎人》被指辱华 上映一天即下线 | 德国之声 来自德国 介绍德国 | DW | 05.12.2020](https://web.archive.org/web/20201206124543/https://www.dw.com/zh/怪物猎人被指辱华-上映一天即下线/a-55833339)
 + [电影《怪物猎人》被指出现辱华台词在中国下架 | 早报](https://web.archive.org/web/20201207144851/https://www.zaobao.com.sg/realtime/china/story20201206-1106599)
 + [China Pulls ‘Monster Hunter’ From Cinemas Over Controversial Scene – Deadline](https://web.archive.org/web/20201207040903/https://deadline.com/2020/12/china-pulls-monster-hunter-release-cinemas-censorship-1234651005/)
 + [怪物猎人（电影） - 知乎](https://web.archive.org/web/20201207150438/https://www.zhihu.com/topic/20681654/hot)
