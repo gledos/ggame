@@ -10,8 +10,7 @@ editor: markdown
 dateCreated: 2020-11-07T15:21:08.184Z
 ---
 
-Boycott Beijing 2008
---------------------
+## Boycott Beijing 2008
 
 ### 开始
 
@@ -50,8 +49,7 @@ Boycott Beijing 2008
 + [【寻找】请推荐一个类似NOTEPAD++ 的软件 - 专门网](https://archive.is/bmTPt "https://forum.51nb.com/forum.php?mod=viewthread&tid=699723")
 + [你会弃用notepad++吗？ - V2EX](https://web.archive.org/web/20201105035752/https://www.v2ex.com/t/14059)
 
-Free Uyghur Edition
--------------------
+## Free Uyghur Edition
 
 ### 开始
 
@@ -70,3 +68,17 @@ Notepad++ 官网遭到了 DDOS 攻击。
 ### 结果
 
 作者将软件的官网托管在 Cloudflare 节点后成功恢复访问。
+
+## Remove Microsoft Bing
+
+由于微软的必应搜索引擎发生了政治审查的问题，所以 NPP 决定在 V8 版本移除软件中的必应搜索。
+
+> Remove Microsoft Bing from Notepad++ for Search on Internet command, due to its poor reliability.[^v8]
+
+[^v8]: [Notepad++ v8 release - Notepad++](https://web.archive.org/web/20210611062428/https://notepad-plus-plus.org/downloads/v8/)
+
+关于移除必应搜索的相关讨论: [Remove Microsoft Bing from search engines for Search on Internet command · notepad-plus-plus/notepad-plus-plus@06657c8 · GitHub](https://web.archive.org/web/20210608143826/https://github.com/notepad-plus-plus/notepad-plus-plus/commit/06657c82b3b9a1871c483982282f046b1ac7b3be)
+
+### 相关链接
+
++ [Notepad++ v8 发布 - 奇客Solidot](https://web.archive.org/web/20210608100245/https://www.solidot.org/story?sid=67977)

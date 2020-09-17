@@ -29,7 +29,7 @@ dateCreated: 2020-11-17T02:12:41.803Z
 
 ### 防强拆
 
-+ [拆迁拆出“史上最牛煤气罐”_资讯_凤凰网](https://web.archive.org/web/20081212031556/http://news.ifeng.com/society/5/200811/1107_2579_867689.shtml)
++ [拆迁拆出“史上最牛煤气罐” - 凤凰网](https://web.archive.org/web/20081212031556/http://news.ifeng.com/society/5/200811/1107_2579_867689.shtml)
 + [男子担心房子被强拆 情绪失控打开煤气罐(图)-搜狐新闻](https://web.archive.org/web/20201114101124/http://news.sohu.com/20100522/n272270264.shtml)
 + [后续 - 扛煤气罐对抗拆迁女子被判处有期徒刑十个月-在柳州-柳州广播电视网](https://web.archive.org/web/20201114100229/http://www.lzgd.com.cn/news/inliuzhou_view.ashx?id=56273)
 + [张家界拆迁户报复 煤气罐炸伤12人](https://web.archive.org/web/20201115031049/https://www.rfa.org/mandarin/yataibaodao/zhangjiajie-07022008113635.html)
