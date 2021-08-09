@@ -13,4 +13,4 @@ dateCreated: 2021-08-09T09:28:23.745Z
 
 目前条目数还很少，内容也不够完善，语言不够Wiki化
 
-使用了 [wiki.js](https://wiki.js.org) 作为后端，运行在免费的 Heroku 上。
+使用了 [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template) 作为渲染器，运行在免费的 Github Pages 上。
