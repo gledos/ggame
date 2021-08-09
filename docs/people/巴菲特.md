@@ -1,0 +1,19 @@
+---
+title: 巴菲特
+description: 
+published: true
+date: 2021-05-04T05:12:44.269Z
+tags: 
+editor: markdown
+dateCreated: 2021-05-04T05:12:44.269Z
+---
+
+## Berkshire Hathaway Annual Shareholders Meeting 2021 featuring
+
+视频第 1:28:00 的地方出现了不该出现的图片，不过巴菲特以及这个大会没有被封杀。
+
++ [Rajesh Sawhney on Twitter: Berkshire Hathaway annual reports on March 31, 2021](https://web.archive.org/web/20210504045249/https://twitter.com/rajeshsawhney/status/1388722100408520710)
++ [2021巴菲特股东大会精华版来了，只_FX112财经](https://web.archive.org/web/20210504045227/https://www.fx112.hk/expert/view/74387.html)
++ [巴菲特股东会最全实录：未来二三十年世界市值前20名单没有大变化|芒格|希尔|蒂姆·库克|史蒂夫·乔布斯_网易订阅](https://web.archive.org/web/20210504045101/https://www.163.com/dy/article/G906AUHC05199FB7.html)
++ [2021巴菲特股东会万字实录：未来二三十年 世界市值前20名单不会有大变化 _ 东方财富网](https://web.archive.org/web/20210504045017/https://finance.eastmoney.com/a/202105021909659665.html)
++ [巴菲特股東大會又辱華　　微博大陸網民扮睇唔到 - winandmac.com](https://web.archive.org/web/20210504050003/https://www.winandmac.com/2021/05/warren-buffett-talks-about-taiwan/)

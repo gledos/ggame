@@ -1,0 +1,19 @@
+---
+title: 深夜食堂
+description: 
+published: true
+date: 2021-02-27T12:30:07.727Z
+tags: bilibili
+editor: markdown
+dateCreated: 2021-02-27T12:30:07.727Z
+---
+
+## 哔哩哔哩删减
+
+BL情节大量删除，导致哔哩哔哩上的《深夜食堂》评分很低。
+
++ [关于对于B站深夜食堂鬼畜删减的一些心里话 - 哔哩哔哩](https://archive.is/4i1vi "https://www.bilibili.com/read/cv3875258/")
++ [删减的是内容，不变的是诚心——《深夜食堂》第五季 - 哔哩哔哩](https://archive.is/Sw1jj "https://www.bilibili.com/read/cv3875985/")
++ [没有任何理由能为删减辩护 - 哔哩哔哩](https://archive.is/GK07k "https://www.bilibili.com/read/cv3771188/")
++ [喷人专贴，实在受不了！！！！ - 哔哩哔哩](https://archive.is/nnEL8 "https://www.bilibili.com/read/cv3755863/")
++ [对不起，老板，我以后不会来这里吃饭了 - 哔哩哔哩](https://archive.is/YMZnt "https://www.bilibili.com/read/cv3905417/")

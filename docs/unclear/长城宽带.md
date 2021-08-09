@@ -1,0 +1,14 @@
+---
+title: 长城宽带断网问题
+description: 
+published: true
+date: 2020-10-16T11:21:04.255Z
+tags: 
+editor: markdown
+dateCreated: 2020-10-16T11:21:04.255Z
+---
+
++ [长城宽带大面积断网，是不是跑路了？ - 知乎](https://web.archive.org/web/20201016111900/https://www.zhihu.com/question/425637303)
++ [长城宽带疑似全国断网 - 长城宽带,断网 - IT之家](https://archive.is/fo8IM "https://www.ithome.com/0/513/633.htm")
++ [带宽缩水 频繁断网 被母公司打包100万卖身的长城宽带翻身困难 - 通信运营商 - cnBeta.COM](https://web.archive.org/web/20201016111733/https://www.cnbeta.com/articles/tech/1041025.htm)
++ [长城宽带全国多地断网数小时，上月宣布100万元打包转让 长城宽带 断网 天津_新浪科技_新浪网](https://web.archive.org/web/20201016111729/https://finance.sina.com.cn/tech/2020-10-15/doc-iiznezxr6091323.shtml)
