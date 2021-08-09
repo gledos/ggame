@@ -8,20 +8,17 @@ editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
 ---
 
-语言选项
---------
+## 语言选项
 
 + [[MC-133873] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
 
-国际版的消失
-------------
+## 国际版的消失
 
 IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 
 [如何看待网易对Minecraft Windows 10 版停止更新并下架？ - 知乎](https://web.archive.org/web/20201004155309/https://www.zhihu.com/question/64111647)
 
-国服客户端禁止事项
-------------------
+## 国服客户端禁止事项
 
 + [我的世界中国版遭遇严格限制 地图作者和普通玩家如何应对 - 哔哩哔哩](https://archive.vn/X4LnI "https://www.bilibili.com/video/av540524788/")
 + [为什么我的世界和迷你世界 在这一个月将迎来重大考验 - 哔哩哔哩](https://archive.is/lA0iA "https://www.bilibili.com/video/av925518412/")
@@ -32,8 +29,7 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 + [【 好奇七七 】極權政府管不到的禁書天堂？開箱 Minecraft 虛擬圖書館！《 好奇七七探索日記 》EP 008 - YouTube](https://archive.is/OE2On "https://www.youtube.com/watch?v=JwEJocioFY0")
 -->
 
-Minecraft Live 2020 地图问题
-----------------------------
+## Minecraft Live 2020 地图问题
 
 视频中1小时39分20秒时出现的地图问题，事件为中华人民共和国缺少藏南与台湾。
 

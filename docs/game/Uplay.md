@@ -8,8 +8,7 @@ editor: markdown
 dateCreated: 2020-09-30T09:42:29.895Z
 ---
 
-大陆U点问题
------------
+## 大陆U点问题
 
 ### 关于Units
 
@@ -41,8 +40,7 @@ Units 是可以在 Ubisoft Connect 使用的「忠实玩家回馈点数」。
 
 [^up_gcores]: [旧事回顾：育碧Uplay多是非？ 机核 GCORES](https://archive.is/KsGcP "https://www.gcores.com/articles/116458")
 
-EPIC 赠送看门狗
----------------
+## EPIC 赠送看门狗
 
 > 一点小惊喜，《足球经理2020》已经免费，还有已公布的《Stick It To The Man! - 是男人就要坚强！》。
 >

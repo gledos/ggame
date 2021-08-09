@@ -8,6 +8,6 @@ editor: markdown
 dateCreated: 2021-06-28T17:45:05.821Z
 ---
 
-## 辱华
+## 无题
 
 详情见 [people/Akira](people/Akira)
