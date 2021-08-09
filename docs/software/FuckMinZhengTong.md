@@ -10,8 +10,7 @@ dateCreated: 2021-01-16T15:21:15.686Z
 
 ## 寒蝉
 
-> 该条目发生在[健康码模拟](software/Health_Code_Demo)事件之后
-{.is-info}
+> 该条目发生在 [健康码模拟](software/Health_Code_Demo.md) 事件之后
 
 > 我并没有任何想要对抗国家防疫措施的意思。[^hcd_fmzt]
 
