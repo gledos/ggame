@@ -12,7 +12,7 @@ dateCreated: 2021-07-28T07:01:07.862Z
 
 ## 定位防火长城
 
-> ![mongol](/src/anti-censorship/mongol.webp)
+> ![mongol](src/anti-censorship/mongol.webp)
 >
 > github上有人释出了一个python脚本 [mongol.py](https://web.archive.org/web/20160528173428/https://github.com/mothran/mongol) ，可以定位中国防火长城的物理位置和数量。
 >

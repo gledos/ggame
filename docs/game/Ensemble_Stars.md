@@ -10,4 +10,4 @@ dateCreated: 2021-06-28T17:45:05.821Z
 
 ## 无题
 
-详情见 [people/Akira](people/Akira)
+详情见 [people/Akira](people/Akira.md)

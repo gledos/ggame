@@ -10,7 +10,7 @@ dateCreated: 2021-01-10T13:23:43.433Z
 
 ## 大陆区下架
 
-> 这个条目属于[App Store 大陆区](/serviceprovider/App_Store_ML)的子条目
+> 这个条目属于[App Store 大陆区](serviceprovider/App_Store_ML)的子条目
 {.is-info}
 
 2020年12月20日开始，因为「App Store 大陆区 2021 大规模下架事件」 APP Store 大陆区的音乐游戏《韵律源点Arcaea》受到严重打击，由于无法更新使用无法登录所以只能离线玩，持续时间目前未知，只能等到有大陆厂商代理，才能重新上架 APP Store 大陆区。

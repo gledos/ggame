@@ -20,9 +20,9 @@ dateCreated: 2021-07-10T15:03:27.264Z
 
 哔哩哔哩退掉了多个稿件，称「该视频内容涉及不适宜内容，不予审核通过」:
 
-![1410036286698790914](/src/people/Navina_Heyden/1410036286698790914.webp)[^1410]
+![1410036286698790914](src/people/Navina_Heyden/1410036286698790914.webp)[^1410]
 
-![1413653526614462465](/src/people/Navina_Heyden/1413653526614462465.webp)[^1413]
+![1413653526614462465](src/people/Navina_Heyden/1413653526614462465.webp)[^1413]
 
 [^1410]: [Navina Heyden on Twitter: "IMAGE" 1410036286698790914](https://web.archive.org/web/20210710071834/https://twitter.com/navinaheyden/status/1410036286698790914)
 

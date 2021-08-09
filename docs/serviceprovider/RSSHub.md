@@ -10,7 +10,7 @@ editor: markdown
 dateCreated: 2020-10-06T14:35:55.937Z
 ---
 
-该项目的作者是 [DIYgod](/website/DIYgod.md)
+该项目的作者是 [DIYgod](website/DIYgod.md)
 
 ## 项目域名受到DNS污染
 

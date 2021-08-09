@@ -14,7 +14,7 @@ dateCreated: 2021-01-14T10:53:04.414Z
 
 ## 主要活动的社交媒体 parler 遭受各大网络公司讨伐
 
-> 查看该条目请跳转至[Parler](/website/Parler)条目
+> 查看该条目请跳转至[Parler](website/Parler)条目
 {.is-info}
 
 ## 大量网络服务不同程度的封禁了特朗普或相关内容

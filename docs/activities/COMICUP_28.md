@@ -10,7 +10,7 @@ dateCreated: 2021-06-14T04:12:11.811Z
 
 ## 禁止 COS 游戏里的一部分内容
 
-![flag.webp](/src/cp28/flag.webp)
+![flag.webp](src/cp28/flag.webp)
 
 展会里出现了一面旗帜，上面写着:
 

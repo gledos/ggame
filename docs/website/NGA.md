@@ -72,7 +72,7 @@ NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CC
 
 2020年8月31日，NGA 手机 APP 被下架。
 
-大概与游戏本身无关，是因为 APP 里有侵犯用户隐私的第三方 SDK，不过我觉得对比其乐[其乐](/website/其乐)莫名其妙就被关闭两周，这种差异值得探讨。
+大概与游戏本身无关，是因为 APP 里有侵犯用户隐私的第三方 SDK，不过我觉得对比其乐[其乐](website/其乐)莫名其妙就被关闭两周，这种差异值得探讨。
 
 + [nga的app竟然被下架了 - 步行街主干道 - 虎扑社区](https://web.archive.org/web/20200919035614/https://bbs.hupu.com/37980408.html)
 + [[杂谈]NGa出什么事了？被下架？ NGA玩家社区](https://archive.is/Rs8HF "https://bbs.nga.cn/read.php?tid=23358454")

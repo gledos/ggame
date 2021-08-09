@@ -18,6 +18,6 @@ dateCreated: 2021-07-05T15:21:15.285Z
 
 > 为了证明我没收过钱，我宣布，此账号永久停更。网暴大军，你们赢了，恭喜呀～
 >
-> ![bili_Jim_bye](/src/people/bili_Jim_bye.webp)[^iQ1oc]
+> ![bili_Jim_bye](src/people/bili_Jim_bye.webp)[^iQ1oc]
 
 [^iQ1oc]: [07-05 钨冬Jim的动态-哔哩哔哩](https://archive.is/iQ1oc "https://t.bilibili.com/543673547499397886")
