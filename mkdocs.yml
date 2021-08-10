@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.expand 
     - tabs 
+use_directory_urls: false # gledos 喜欢的 URL 风格，更加友好
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
