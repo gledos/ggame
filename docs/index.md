@@ -1,5 +1,5 @@
 ---
-title: 主页
+title: index
 description: 记录一切和谐游戏
 published: true
 date: 2021-05-04T06:51:00.239Z
