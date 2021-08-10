@@ -3,6 +3,7 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: 游戏和谐Wiki
+repo_url: https://github.com/gledos/ggame
 theme:
   name: material
   #  favicon: attachment/portrait.png
@@ -15,7 +16,7 @@ markdown_extensions:
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
   - nl2br # newline-to-break 
   - toc:
-      permalink: /:title.html #'#' # heading anchor 
+      permalink: '#' # heading anchor 
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
   - admonition
   - codehilite:
