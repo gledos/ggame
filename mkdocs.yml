@@ -3,7 +3,6 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 
 site_name: 游戏和谐Wiki
-repo_url: https://github.com/gledos/ggame
 theme:
   name: material
   #  favicon: attachment/portrait.png
