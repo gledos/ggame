@@ -59,18 +59,36 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 + [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
 + [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
 
+<!--
+
 结论 —— 没有出征
 
-<!--如果出征不自由，则出征无意义
+如果出征不自由，则出征无意义
 
 一些其他的网址
 
 + [Minecraft Live 2020 直播录像（附中文传译） - 哔哩哔哩](https://archive.is/5mSl9)
-+ [維聲小助手🛠 on Twitter: "1小时39分20秒起"](https://archive.is/v5Jt8 "https://twitter.com/Vop19530615/status/1312637242473549824")
-+ [维尼大帝 on Twitter: "昨天的Minecraft Live 2020......](https://archive.is/3dZMn "https://twitter.com/realEmperorPooh/status/1312640474033786880")
-+ [推特小红旗 on Twitter: "10月4日消息 据网友反馈......"](https://archive.is/hkd3H "https://twitter.com/Xhnsoc__Redflag/status/1312658532055937026")
++ [.....🛠 on Twitter: "1小时39分20秒起"](https://archive.is/v5Jt8 "https://twitter.com/Vop19530615/status/1312637242473549824")
++ [.... on Twitter: "昨天的Minecraft Live 2020......](https://archive.is/3dZMn "https://twitter.com/realEmperorPooh/status/1312640474033786880")
++ [推特... on Twitter: "10月4日消息 据网友反馈......"](https://archive.is/hkd3H "https://twitter.com/Xhnsoc__Redflag/status/1312658532055937026")
 
 已恢复的我的世界Minecraft官方直播间
 
 [我的世界Minecraft官方直播间 哔哩哔哩直播，二次元弹幕直播平台](https://archive.vn/lTdgw "https://live.bilibili.com/1310115")
 -->
+
+## Notch
+
+### 19w13a
+
+2019年3月27日的 MC Java 版本快照 19w13a，悄悄的移除了关于 Notch 的闪烁标语，[^19w13a_MW]官网的更新笔记里没有提及这件事。[^19w13a_MP]
+
+[^19w13a_MW]: [Java Edition 19w13a – Official Minecraft Wiki](https://web.archive.org/web/20210812175036/https://minecraft.fandom.com/wiki/Java_Edition_19w13a)
+
+[^19w13a_MP]: [Minecraft Snapshot 19w13a - Minecraft](https://archive.is/DeS0f "https://www.minecraft.net/nb-no/article/minecraft-snapshot-19w13a")
+
++ Made by Notch![^19w13a_dwm]
++ The Work of Notch!
++ 110813!
+
+[^19w13a_dwm]: [Notch成历史《我的世界》最新版快照删除Notch信息 - 电玩迷](https://web.archive.org/web/20190502054349/http://www.dianwanmi.com/game/2746.html)
