@@ -14,7 +14,7 @@ GGAME Warrant Canary
 
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。
 
-我的 PGP 公钥在 Github: 
+我的 PGP 公钥在 Github Gits: 
 https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17
 
 信息签名在下面:
