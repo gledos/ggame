@@ -38,3 +38,4 @@ dateCreated: 2021-03-28T07:09:37.751Z
 + [我们目前暂停中国境内的新用户注册，以确保平台提供的所有内容和服务均符合当地的法律和法规。请您稍后再试。 - 暂时禁用注册](https://archive.is/3zj2Q)
 + [我们目前暂停中国境内的新用户注册，以确保平台提供的所有内容和服务均符合当地的法律和法规。请您稍后再试。 - 暂时禁用注册](https://web.archive.org/web/20210328064347/https://cn.linkedin.com/legal/l/registration-temporarily-disabled)
 
+## 大陆用户必须验证电话号码
