@@ -18,25 +18,40 @@ dateCreated: 2021-03-18T10:32:32.947Z
 板块分类
 --------
 
-| 板块     | 文件夹                                 | 板块     | 文件夹                              |
-| -------- | -------------------------------------- | -------- | ----------------------------------- |
-| 游戏板块 | [game](game/game.md)                   | 允许列表 | [allowlist](allowlist/allowlist.md) |
-| 公司板块 | [company](company/company.md)          | 限制列表 | [blocklist](blocklist/blocklist.md) |
-| 软件板块 | [software](software/software.md)       |          |                                     |
-| 硬件板块 | [hardware](hardware/hardware.md)       |          |                                     |
-| 网站板块 | [website](website/website.md)          |          |                                     |
-| 法规板块 | [rule](rule/rule.md)                   |          |                                     |
-| 人物板块 | [people](people/people.md)             |          |                                     |
-| 技术板块 | [technology](technology/technology.md) |          |                                     |
-| 事件板块 | [event](event/event.md)                |          |                                     |
-|          |                                        |          |                                     |
+| 板块     | 文件夹                                                |
+| -------- | ----------------------------------------------------- |
+| 活动     | [activities](activities/activities.md)                |
+| 允许列表 | [allowlist](allowlist/allowlist.md)                   |
+| 反审查   | [anti-censorship](anti-censorship/anti-censorship.md) |
+| 限制列表 | [blocklist](blocklist/blocklist.md)                   |
+| 书籍     | [book](book/book.md)                                  |
+| 捕风捉影 | [catch_the_wind](catch_the_wind/catch_the_wind.md)    |
+| 审查     | [censorship](censorship/censorship.md)                |
+| 公司     | [company](company/company.md)                         |
+| 事件     | [event](event/event.md)                               |
+| 游戏     | [game](game/game.md)                                  |
+| 硬件     | [hardware](hardware/hardware.md)                      |
+| 运动     | [movement](movement/movement.md)                      |
+| 音乐     | [music](music/music.md)                               |
+| 人物     | [people](people/people.md)                            |
+| 处罚     | [punish](punish/punish.md)                            |
+| 规则     | [rule](rule/rule.md)                                  |
+| 服务     | [serviceprovider](serviceprovider/serviceprovider.md) |
+| 软件     | [software](software/software.md)                      |
+| 技术     | [technology](technology/technology.md)                |
+| 尚不明确 | [unclear](unclear/unclear.md)                         |
+| 视频     | [video](video/video.md)                               |
+| 网站     | [website](website/website.md)                         |
 
 联系方式
 --------
 
-任何问题，或者想参与编写该Wiki，都可以联系我的邮箱 cngledos@gmail.com
+任何问题，或者想参与编写该Wiki，都可以联系我:
 
-源码
-----
+邮箱: cngledos@gmail.com
+Telegram: @gledos_green
+
+源文件
+------
 
 [这里](https://github.com/gledos/ggame) 可以查看到所有的条目的 Markdown Raw 文件。

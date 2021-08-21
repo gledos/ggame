@@ -9,6 +9,7 @@ dateCreated: 2021-08-14T23:43:59.537Z
 ---
 
 ```text
+
 GGAME Warrant Canary
 ====================
 
@@ -32,4 +33,5 @@ pPu8AQDI1TjIsVxMu2MLHQiVG/vJ6zPOMa1Kt5TkUFOrREYLuwEAutS94HzlYzgt
 EE2K7nABKiVT/3fkKiANEO8AHCdEHgU=
 =xY+G
 -----END PGP SIGNATURE-----
+
 ```
