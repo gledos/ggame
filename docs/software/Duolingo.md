@@ -11,7 +11,7 @@ dateCreated: 2021-06-27T13:11:43.738Z
 
 ## 题目配图被替换
 
-![题目截图](src/software/Duolingo.webp)
+![题目截图](/src/software/Duolingo.webp)
 
 在「Whitch of these is "China"」这个题目的选项中，中国地图被替换为单纯的矩形旗帜。[^dlg_t]
 
