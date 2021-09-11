@@ -8,8 +8,36 @@ editor: markdown
 dateCreated: 2021-08-14T23:43:59.537Z
 ---
 
-```text
+## 令状金丝雀
 
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ [OnlyFans不是“性工作者”的安全平台，而是皮条客 - 纽约时报中文网](https://web.archive.org/web/20210911065637/https://cn.nytimes.com/opinion/20210909/onlyfans-sex-work-safety/)
++ [Epic诉苹果垄断案裁决出炉，法官下令苹果放松对App Store的限制 - 华尔街日报](https://web.archive.org/web/20210911065602/https://cn.wsj.com/articles/epic诉苹果垄断案裁决出炉-法官下令苹果放松对app-store的限制-11631322011)
++ [Life is Strange: True Colors on Steam](https://web.archive.org/web/20210911065900/https://store.steampowered.com/agecheck/app/936790/)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYTxUMwAKCRCZXo6bU2oX
+pBgLAQCOQcpv7B+20nvRokOxW+VquVmtpm2UJl5CXgNg5+9yBgEAxiF8nDXbPFo/
+yeqPUN/7SOR8IPRFF5migQfUOuGgDwA=
+=fMTh
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2021年8月13日
+
+```text
 GGAME Warrant Canary
 ====================
 
@@ -33,5 +61,4 @@ pPu8AQDI1TjIsVxMu2MLHQiVG/vJ6zPOMa1Kt5TkUFOrREYLuwEAutS94HzlYzgt
 EE2K7nABKiVT/3fkKiANEO8AHCdEHgU=
 =xY+G
 -----END PGP SIGNATURE-----
-
 ```

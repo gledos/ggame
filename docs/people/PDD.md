@@ -15,9 +15,9 @@ dateCreated: 2021-04-06T15:24:01.386Z
 ## 相关链接
 
 + [【麻辣总局】当“辱华”成为日常 游戏主播PDD当场换三件衣服 - 中国数字时代](https://web.archive.org/web/20210404171348/https://chinadigitaltimes.net/chinese/664441.html)
-+ [被指身穿涉嫌辱华品牌上衣，游戏主播PDD直播当场三换衣服_风闻](https://archive.is/IoG6B "https://user.guancha.cn/main/content?id=489512")
-+ [PDD斗鱼直播穿了辱华品牌衣服，被水友提醒，换了三...](https://web.archive.org/web/20210406114947/https://www.douban.com/group/topic/219200787/)
++ [被指身穿涉嫌辱华品牌上衣，游戏主播PDD直播当场三换衣服 - 风闻](https://archive.is/IoG6B "https://user.guancha.cn/main/content?id=489512")
++ [PDD斗鱼直播穿了辱华品牌衣服，被水友提醒，换了三... - 豆瓣](https://web.archive.org/web/20210406114947/https://www.douban.com/group/topic/219200787/)
 + [PDD继衣服“辱华”后，身穿深V装遭超管警告，PDD怒了：我男的啊 - 游戏主播_网易订阅](https://archive.is/GfoHI "https://www.163.com/dy/article/G6TK0HLJ054676SG.html")
-+ [PDD正玩游戏，观众一句“你衣服辱华了”，吓得PDD连换3次衣服！|pdd|英雄联盟|电竞|电竞圈|直播_网易订阅](https://archive.is/Hh3Ip "https://www.163.com/dy/article/G6TFMBHM054676SG.html")
++ [PDD正玩游戏，观众一句“你衣服辱华了”，吓得PDD连换3次衣服！ - 网易订阅](https://archive.is/Hh3Ip "https://www.163.com/dy/article/G6TFMBHM054676SG.html")
 + [当PDD得知衣服牌子辱华，5分钟连换4件要裂开了！【主播安排下】0401 - 哔哩哔哩](https://archive.is/ccfRf "https://www.bilibili.com/video/BV1BB4y1P7Mf")
 + [当pdd得知自己穿的衣服辱华之后 立马换掉！ - 哔哩哔哩](https://archive.is/OEfth "https://www.bilibili.com/video/BV1Wi4y1P7SB")
