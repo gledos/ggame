@@ -22,6 +22,11 @@ nga 有一网友称在关闭纯净模式后依然无法安装《在阴暗的房�
 
 [^2gISZ]: [鸿蒙不能下内种粉色APP吗 NGA玩家社区](https://archive.is/2gISZ "https://bbs.nga.cn/read.php?tid=27040410")
 
+## OPPO公关离职
+
++ [吐槽鸿蒙惹争议，OPPO公关道歉，最后离职了](https://web.archive.org/web/20210603002445/https://www.sohu.com/a/469370616_773397)
++ [芝士芒胖的微博](https://archive.md/Ulbkn "https://weibo.com/souhuxiaotao")
+
 ## 2021年6月2日的发布会
 
 哔哩哔哩直播出现了限流现象，知乎也在限制相关内容登录热榜。[^cdfer]
