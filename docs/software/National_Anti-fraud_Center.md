@@ -30,3 +30,9 @@ dateCreated: 2021-04-12T03:47:58.476Z
 + [各位被要求安装全民反诈app了么？以为你好为名的强制要求，总感觉里面有猫腻。 : China_irl](https://archive.is/MPEQr "https://old.reddit.com/r/China_irl/comments/iq1sgr/各位被要求安装全民反诈app了么以为你好为名的强制要求总感觉里面有猫腻/")
 + [关于下载安装“全民反诈”APP的通知](https://archive.is/jETZ7 "https://www.njupt.edu.cn/2021/0329/c72a187685/pagem.psp")
 + 该内容已删除 你似乎来到了没有知识存在的荒原 [怎么看待近日普遍开始强制安装全民反诈app？ - 知乎](https://www.zhihu.com/question/420733279)
+
+## 部分地区劫持网页
+
+部分地区通过劫持网页，进行反诈骗。[^734841]
+
+[^734841]: [XX 市反诈骗中心提示您：您访问的网站存在风险！电信这个反诈骗过滤能关掉吗？ - V2EX](https://web.archive.org/web/20210607093241/https://www.v2ex.com/t/734841)
