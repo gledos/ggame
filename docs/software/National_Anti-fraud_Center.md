@@ -18,13 +18,13 @@ dateCreated: 2021-04-12T03:47:58.476Z
 + [20210410, 中国国家反诈中心app，强迫中国人安装使用 - 新·品葱](https://archive.is/ql4Wg "https://pincong.rocks/video/id-4204__sort_key-agree_count__sort-DESC")
 + [近期中共正在推广国家反诈骗中心app，葱友们务必小心不要上当 - 新·品葱](https://archive.is/DaJ8W "https://pincong.rocks/article/30943")
 + [中国反诈中心app强迫用户安装的报告 - 新·品葱](https://archive.is/Edo9D "https://pincong.rocks/article/31217")
-+ [‎全民反诈 - 评分及评论 - apple store](https://archive.is/n8g7f "https://apps.apple.com/cn/app/全民反诈/id1505723984#see-all/reviews")
++ [全民反诈 - 评分及评论 - apple store](https://archive.is/n8g7f "https://apps.apple.com/cn/app/全民反诈/id1505723984#see-all/reviews")
 + [“国家反诈中心”app正式上线 广州日报](https://archive.is/5uQIo "https://www.sohu.com/a/455835410_120152148")
 + [一夜飙升7000+热度，国家力荐的这款App，究竟有多强？ - 知乎](https://archive.is/r2i6C "https://zhuanlan.zhihu.com/p/361783669")
 + 未登录账号无法查看 [我想问下大家都安装国家反诈中心APP并实名制了吗？？？ - 知乎](https://www.zhihu.com/question/450623651)
 + 未登录账号无法查看 [国家反诈中心app大家觉得怎么样，好用不? - 知乎](https://www.zhihu.com/question/450614375)
 
-## 曾经推广全民诈骗强制安装
+## 曾经推广全民反诈强制安装
 
 + [App Store 上的“全民反诈”](https://archive.is/Gafno "https://apps.apple.com/cn/app/全民反诈/id1505723984")
 + [各位被要求安装全民反诈app了么？以为你好为名的强制要求，总感觉里面有猫腻。 : China_irl](https://archive.is/MPEQr "https://old.reddit.com/r/China_irl/comments/iq1sgr/各位被要求安装全民反诈app了么以为你好为名的强制要求总感觉里面有猫腻/")

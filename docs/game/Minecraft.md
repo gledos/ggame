@@ -3,7 +3,9 @@ title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
 date: 2020-12-07T14:11:09.823Z
-tags: 地图
+tags:
+- 地图
+- restraint
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
 ---
