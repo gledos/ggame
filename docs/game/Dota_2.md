@@ -18,7 +18,7 @@ dateCreated: 2021-01-29T11:00:39.068Z
 
 [^dota2_bc]: [空空🌟 狞猫世界第一可爱！ on Twitter: "为什么“博”字也能成敏感词？… "](https://web.archive.org/web/20200628140551/https://twitter.com/Solitude_Sola/status/1277238439986057216)
 
-2016年的[TI6](https://zh.wikipedia.org/zh-hans/2016年Dota_2国际邀请赛)带来了[2016年魔力无锁幸运瓶](https://web.archive.org/web/20210129062131/https://dota2-zh.gamepedia.com/2016年魔力无锁幸运瓶)，大陆运营的刀塔2中有一件物品在游戏内一段时间中显示为**之套。[^dota2_jpzt]直到2019年4月17日的DOTA2更新本地化文件，将禁评之套修改为禁言之套之后，[^dota2_190417update]在完美世界客户端里才能正确的显示出来。这也是「沉默术士习禁评」这个梗的由来。
+2016年的[TI6](https://zh.wikipedia.org/zh-hans/2016年Dota_2国际邀请赛)带来了[2016年魔力无锁幸运瓶](https://web.archive.org/web/20210129062131/https://dota2-zh.gamepedia.com/2016年魔力无锁幸运瓶)，大陆运营的刀塔2中有一件物品在游戏内一段时间中显示为**之套。[^dota2_jpzt]直到2019年4月17日的DOTA2更新本地化文件，将禁评之套修改为禁言之套之后，[^dota2_190417update]在完美世界客户端里才能正确的显示出来。<!--这也是「沉默术士习禁评」这个梗的由来。-->
 
 [^dota2_jpzt]: [比比 on Twitter: "其实最乳的是沉默不朽，一直叫禁评之套，结果有一天突然改名叫禁言之套了… "](https://archive.is/rpv5D "https://twitter.com/OctahedronBB/status/1277248207811035136")
 
