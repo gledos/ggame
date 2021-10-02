@@ -4,8 +4,8 @@ description: 赤燭遊戲开发的恐怖游戏
 published: true
 date: 2021-04-22T12:22:03.971Z
 tags:
-- Steam
-- GOG
+  - Steam
+  - GOG
 editor: markdown
 dateCreated: 2021-04-22T12:22:03.971Z
 ---

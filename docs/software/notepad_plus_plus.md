@@ -4,8 +4,8 @@ description: 一款 Free 的纯文本编辑器，由侯今吾基于开源的 Sci
 published: true
 date: 2020-11-24T15:34:08.593Z
 tags:
-- 奥运
-- Github
+  - 奥运
+  - Github
 editor: markdown
 dateCreated: 2020-11-07T15:21:08.184Z
 ---
