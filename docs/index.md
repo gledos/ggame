@@ -13,13 +13,13 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 这里收集许多的和谐游戏的百科，点击 [这里](/game/game.md) 跳转到游戏板块。
 
-言者无罪，闻者足戒
+> 言者无罪，闻者足戒。
 
 板块分类
 --------
 
-| 板块     | 文件夹                                                |
-| -------- | ----------------------------------------------------- |
+| 板块     | 文件夹                                                 |
+| -------- | ------------------------------------------------------ |
 | 活动     | [activities](/activities/activities.md)                |
 | 允许列表 | [allowlist](/allowlist/allowlist.md)                   |
 | 反审查   | [anti-censorship](anti-censorship//anti-censorship.md) |
@@ -46,10 +46,10 @@ dateCreated: 2021-03-18T10:32:32.947Z
 联系方式
 --------
 
-任何问题，或者想参与编写该Wiki，都可以联系我:
+任何问题，或者想参与编写该 Wiki，都可以联系我:
 
-邮箱: cngledos@gmail.com
-Telegram: [@gledos_green](t.me/gledos_green)
++ 邮箱: cngledos@gmail.com
++ Telegram: [@gledos_green](t.me/gledos_green)
 
 源文件
 ------
