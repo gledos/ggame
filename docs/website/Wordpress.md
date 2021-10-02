@@ -12,7 +12,7 @@ dateCreated: 2021-08-09T09:49:34.895Z
 
 > HKLC [2021年6月2日](https://www.facebook.com/HKLiberationCoalition/photos/a.120537356852613/123329963240019/)
 >
-> 我哋個網站俾人強行落咗架，原因不明。\
+> 我哋個網站俾人強行落咗架，原因不明。<br>
 > 我們將尋求其他方案，並暫時在社交媒體發佈我們的最新訊息。
 
 > HKLC [2021年6月2日](https://www.facebook.com/HKLiberationCoalition/photos/a.120697460169936/123512289888453/)
