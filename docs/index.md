@@ -41,7 +41,7 @@ dateCreated: 2021-03-18T10:32:32.947Z
 | 技术     | [technology](/technology/technology.html)                |
 | 尚不明确 | [unclear](/unclear/unclear.html)                         |
 | 视频     | [video](/video/video.html)                               |
-| 网站     | [website](/website/website.html)                         |
+| 网站     | [website](/website/website.md)                           |
 
 联系方式
 --------

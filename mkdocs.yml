@@ -14,7 +14,7 @@ use_directory_urls: false # gledos 喜欢的 URL 风格，更加友好
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
-  # - nl2br # newline-to-break markdown非严格换行
+  - nl2br # newline-to-break markdown非严格换行
   - toc:
       permalink: '#' # heading anchor 
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
