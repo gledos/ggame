@@ -18,11 +18,11 @@ dateCreated: 2021-03-18T10:32:32.947Z
 板块分类
 --------
 
-| 板块     | 文件夹                                                 |
-| -------- | ------------------------------------------------------ |
+| 板块     | 文件夹                                                  |
+| -------- | ------------------------------------------------------- |
 | 活动     | [activities](./activities/activities.md)                |
 | 允许列表 | [allowlist](./allowlist/allowlist.md)                   |
-| 反审查   | [anti-censorship](anti-censorship/anti-censorship.md) |
+| 反审查   | [anti-censorship](anti-censorship/anti-censorship.md)   |
 | 限制列表 | [blocklist](./blocklist/blocklist.md)                   |
 | 书籍     | [book](./book/book.md)                                  |
 | 捕风捉影 | [catch_the_wind](./catch_the_wind/catch_the_wind.md)    |
