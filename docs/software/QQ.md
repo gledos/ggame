@@ -23,3 +23,9 @@ dateCreated: 2021-06-02T03:46:58.497Z
 部分 Telegram 频道的图片内容会在 QQ 以及 微信被即时的封禁，目前仅为记录 MD5，即直接复制到 QQ 才会发送失败。[^141114]
 
 [^141114]: [🇺🇸刻風雫🇯🇵 on Twitter: "剛做了一個簡單測試 發現Telegram某幾個頻道的出現過的任何圖片 如果直接複製粘貼都會被 QQ、WeChat的群和私聊同時屏蔽......"](https://web.archive.org/web/20210703022535/https://twitter.com/kamikaz27437935/status/1411149066289881088)
+
+## iOS 最新版 QQ 将整个程序目录暴露至“文件”
+
+如题，大概只是事故。[^806505]
+
+[^806505]: [iOS 最新版 QQ 将整个程序目录暴露至“文件” - V2EX](https://web.archive.org/web/20211008141910/https://www.v2ex.com/t/806505)

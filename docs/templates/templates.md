@@ -1,5 +1,5 @@
 ---
-title: 
+title: {{title}}
 description: 
 published: true
 date: {{date:YYYY-MM-DD}}T{{time:HH:mm:ss.SSS}}Z
