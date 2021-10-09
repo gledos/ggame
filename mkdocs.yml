@@ -42,7 +42,6 @@ markdown_extensions:
   - pymdownx.tilde
 plugins:
   - search
-  - mermaid2
   - roamlinks
     #- autolinks 
   - exclude:
@@ -53,5 +52,3 @@ plugins:
       regex:
         - '.*\.(tmp|bin|tar)$'
 
-extra_javascript:
-  - https://unpkg.com/mermaid/dist/mermaid.min.js
