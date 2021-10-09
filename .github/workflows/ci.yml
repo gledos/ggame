@@ -15,5 +15,5 @@ jobs:
       - run: pip install mkdocs-material==5.5.12
       - run: pip install mkdocs-exclude
       - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install git+https://github.com/sebastienwarin/mkdocs-mermaid-plugin
+      - run: pip install mkdocs-mermaid2-plugin
       - run: mkdocs gh-deploy --force
