@@ -54,4 +54,4 @@ plugins:
         - '.*\.(tmp|bin|tar)$'
 
 extra_javascript:
-    - https://unpkg.com/mermaid@8.4.5/dist/mermaid.min.js
+    - https://unpkg.com/mermaid@8.7.0/dist/mermaid.min.js
