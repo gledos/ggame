@@ -43,6 +43,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  - markdownmermaid
     #- autolinks 
   - exclude:
       glob:
@@ -51,3 +52,6 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+
+extra_javascript:
+    - https://unpkg.com/mermaid@8.4.5/dist/mermaid.min.js
