@@ -8,7 +8,20 @@ editor: markdown
 dateCreated: 2021-01-01T17:20:07.110Z
 ---
 
-## App Store 大陆区
+## 移除 VPN
+
+2017年开始，App Store 大陆区 开始移除了许多常见的 VPN APP。[^rva_fml]
+
+[^rva_fml]: [Apple removes VPN apps in China App Store](https://web.archive.org/web/20210815110437/https://www.cnbc.com/2017/07/31/apple-removes-vpn-apps-in-china-app-store.html)
+
+### 被下架的 VPN 们
+
++ [Star VPN](/anti-censorship/VPN/Star_VPN.md)
++ [ExpressVPN](/anti-censorship/VPN/ExpressVPN.md)
+
+
+
+## 一些事件
 
 2020年6月6日，App Store 大陆区的 Gmail 被下架。[^iircuyvi7014036]
 
