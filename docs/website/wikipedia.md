@@ -46,4 +46,5 @@ WMC 是「中国大陆维基人用户组」(Wikimedians of Mainland China User G
 + [维基百科:互助客栈/消息 - 维基百科](https://web.archive.org/web/20210915060040/https://zh.wikipedia.org/zh-hans/Wikipedia:互助客栈/消息#近期的基金会行动)
 + [丢掉幻想，准备斗争——一评基金会全域锁定中文维基人及玛吉·丹尼斯的“声明” – 求闻 — 中国大陆维基人](https://web.archive.org/web/20210915042635/https://qiuwen.wmcug.org.cn/archives/390/on-wmf-office-action-zh-1/)
 + [维基媒体基金会在 2021 年 9 月 13 日世界协调时间约下午四时作出了一连串针对中国大陆维基人用户组（下称 WMCUG）核心成员的行动。 - V2EX](https://web.archive.org/web/20210915062226/https://www.v2ex.com/t/801692)
-+ [维基百科:中国大陆维基人用户组 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062030/https://zh.wikipedia.org/zh-hans/Wikipedia:%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E7%BB%B4%E5%9F%BA%E4%BA%BA%E7%94%A8%E6%88%B7%E7%BB%84)
++ [维基百科:中国大陆维基人用户组 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062030/https://zh.wikipedia.org/zh-hans/Wikipedia:中国大陆维基人用户组)
++ [忧渗透与起底风险 维基百科对中国编辑下禁令 - DW](https://web.archive.org/web/20210915074321/https://www.dw.com/zh/忧渗透与起底风险-维基百科对中国编辑下禁令/a-59185673)

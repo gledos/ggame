@@ -31,9 +31,9 @@ dateCreated: 2021-08-31T16:37:52.038Z
 >
 > ---
 >
-> 天下无不散之筵席，现在还是散了吧。
+> 天下无不散之宴席，现在还是散了吧。
 >
-> [https://zhuanlan.zhihu.com/p/372051427](https://web.archive.org/web/20210610090800/https://zhuanlan.zhihu.com/p/372051427)
+> [https://zhuanlan.zhihu.com/p/372051427](https://web.archive.org/web/20210610090800/https://zhuanlan.zhihu.com/p/372051427 "免费吃肯德基还传授“方法”？“薅羊毛”的界限在哪里？")
 >
 > [https://mp.weixin.qq.com/s/hoo_vexiXgrTFDEkPCq5-w](https://web.archive.org/web/20210713132020/https://mp.weixin.qq.com/s/hoo_vexiXgrTFDEkPCq5-w)
 >
