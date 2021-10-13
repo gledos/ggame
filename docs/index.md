@@ -22,7 +22,7 @@ dateCreated: 2021-03-18T10:32:32.947Z
 | -------- | ----------------------------------------------------- | -------- | ------------------------------------------------------- |
 | 活动     | [activities](./activities/activities.md)              | 音乐     | [music](./music/music.md)                               |
 | 允许列表 | [allowlist](./allowlist/allowlist.md)                 | 人物     | [people](./people/people.md)                            |
-| 反审查   | [anti-censorship](anti-censorship/anti-censorship.md) | 处罚     | [punish](./punish/punish.md)                            |
+| 反审查   | [anti-censorship](/anti-censorship/anti-censorship.md) | 处罚     | [punish](./punish/punish.md)                            |
 | 限制列表 | [blocklist](./blocklist/blocklist.md)                 | 研究     | [research](./research/research.md)                      |
 | 书籍     | [book](./book/book.md)                                | 规则     | [rule](./rule/rule.md)                                  |
 | 捕风捉影 | [catch_the_wind](./catch_the_wind/catch_the_wind.md)  | 服务     | [serviceprovider](./serviceprovider/serviceprovider.md) |
