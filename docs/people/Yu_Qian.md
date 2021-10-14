@@ -19,9 +19,9 @@ dateCreated: 2020-10-14T05:22:25.528Z
 哔哩哔哩上的几个视频
 --------------------
 
-+ [于谦聊天：慈禧太后和狗的故事，一条狗决定一个朝代的命运，郭德纲于谦相声聊天_哔哩哔哩](https://archive.is/TNBWS "https://www.bilibili.com/video/BV1hK411N7nu")
-+ [【于谦】历史故事：国家命运和狗，郭德纲于谦相声聊天_哔哩哔哩](https://archive.is/gNG8k "https://www.bilibili.com/video/BV1vK4y187KQ")
-+ [历史故事：国家命运和狗_哔哩哔哩](https://archive.is/lg4fs "https://www.bilibili.com/video/BV1n54y1k7Et")
++ [于谦聊天：慈禧太后和狗的故事，一条狗决定一个朝代的命运，郭德纲于谦相声聊天 - 哔哩哔哩](https://archive.is/TNBWS "https://www.bilibili.com/video/BV1hK411N7nu")
++ [【于谦】历史故事：国家命运和狗，郭德纲于谦相声聊天 - 哔哩哔哩](https://archive.is/gNG8k "https://www.bilibili.com/video/BV1vK4y187KQ")
++ [历史故事：国家命运和狗 - 哔哩哔哩](https://archive.is/lg4fs "https://www.bilibili.com/video/BV1n54y1k7Et")
 
 相关报道及讨论
 --------------

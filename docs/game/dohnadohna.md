@@ -12,6 +12,6 @@ dateCreated: 2021-04-19T15:20:55.505Z
 
 > 我问过客服了，不允许这类题材[^bl_ct]
 
-[^bl_ct]: [【多娜多娜OST】 ドーナドーナのうた (Full OP)_哔哩哔哩](https://archive.is/NvJWP "https://www.bilibili.com/video/BV1Z541137Va")
+[^bl_ct]: [【多娜多娜OST】 ドーナドーナのうた (Full OP) - 哔哩哔哩](https://archive.is/NvJWP "https://www.bilibili.com/video/BV1Z541137Va")
 
-+ [Muse Dash X 赛博朋克1127（补档）_哔哩哔哩](https://archive.is/FiDAH "https://www.bilibili.com/video/BV1Tt4y1Y7ei")
++ [Muse Dash X 赛博朋克1127（补档） - 哔哩哔哩](https://archive.is/FiDAH "https://www.bilibili.com/video/BV1Tt4y1Y7ei")

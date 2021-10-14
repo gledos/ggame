@@ -28,7 +28,7 @@ dateCreated: 2021-06-14T04:12:11.811Z
 
 根据一个 CP28 视频下的评论，发生了以下情形:[^rf]
 
-[^rf]: [大型励志传教现场 CP28 两面包夹芝士_哔哩哔哩_bilibili](https://archive.is/59pct "https://archive.is/59pct")
+[^rf]: [大型励志传教现场 CP28 两面包夹芝士 - 哔哩哔哩](https://archive.is/59pct "https://archive.is/59pct")
 
 + 被保安训斥了
 + 之后解散了游行队伍
