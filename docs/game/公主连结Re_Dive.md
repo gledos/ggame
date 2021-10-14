@@ -20,7 +20,7 @@ dateCreated: 2021-10-14T16:39:38.186Z
 | 游戏标题中间   | PRINCESS CONNECT!        |              |
 | 底部商标的上方 | Touch To Start           | 点击开始     |
 
-## 2021年10月解包文件
+## 2021年10月14日之前的解包文件
 
 2021年10月13日下午，哔哩哔哩运营的《公主连结 Re:Dive》在哔哩哔哩动态以及微博发布了更新信息:
 
@@ -89,4 +89,11 @@ dateCreated: 2021-10-14T16:39:38.186Z
 
 ## 2021年10月14日更新内容
 
-待续
+解包内容确认已实装。
+
+### 相关链接
+
++ [真变成品级了啊。。【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123529/https://tieba.baidu.com/p/7575426112)
++ [【图片】改动后的pcr【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123409/https://tieba.baidu.com/p/7575445029)
++ [【图片】改了，但没完全改【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123415/https://tieba.baidu.com/p/7575544907)
++ [给没看公告的同学们划下重点【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123425/https://tieba.baidu.com/p/7575531122)
