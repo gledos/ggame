@@ -17,7 +17,7 @@ dateCreated: 2021-10-14T16:39:38.186Z
 
 2021年9月的某次更新中，哔哩哔哩运营的《公主连结 Re:Dive》修改了登陆页面的文字。[^D1UjQ]
 
-[^D1UjQ]: [国服相关 求助.已解决 mumu模拟器公主连结国服卡加载界面touch to start NGA玩家社区](https://archive.is/D1UjQ https://bbs.nga.cn/read.php?tid=28455818")
+[^D1UjQ]: [国服相关 求助.已解决 mumu模拟器公主连结国服卡加载界面touch to start NGA玩家社区](https://archive.is/D1UjQ "https://bbs.nga.cn/read.php?tid=28455818")
 
 | 位置           | 修改前                   | 修改后       |
 | -------------- | ------------------------ | ------------ |
