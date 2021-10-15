@@ -8,6 +8,11 @@ editor: markdown
 dateCreated: 2021-10-14T16:39:38.186Z
 ---
 
+
+## 2021年儿童节大礼
+
+[【六一儿童节礼物】防沉迷系统系统升级，这份礼物容我收下 - 哔哩哔哩专栏](https://archive.is/1GMWP "https://www.bilibili.com/read/cv11530384/")
+
 ## 2021年9月更新
 
 2021年9月的某次更新中，哔哩哔哩运营的《公主连结 Re:Dive》修改了登陆页面的文字。[^D1UjQ]
@@ -97,3 +102,4 @@ dateCreated: 2021-10-14T16:39:38.186Z
 + [【图片】改动后的pcr【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123409/https://tieba.baidu.com/p/7575445029)
 + [【图片】改了，但没完全改【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123415/https://tieba.baidu.com/p/7575544907)
 + [给没看公告的同学们划下重点【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123425/https://tieba.baidu.com/p/7575531122)
++ [Rank 變品級？《公主連結 Re:Dive》中國版調整遊戲內文字、立繪 以中文替代部分英文《Princess Connect! Re:Dive》 - 巴哈姆特](https://web.archive.org/web/20211015015129/https://gnn.gamer.com.tw/detail.php?sn=222445)

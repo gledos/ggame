@@ -23,6 +23,12 @@ dateCreated: 2020-10-15T04:32:22.104Z
 
 [发现学习强国这个app没有评分了](https://web.archive.org/web/20201015042753/https://www.douban.com/group/topic/132814272/)
 
+## MIUI 权限使用统计白名单
+
+小米手机的「权限使用统计」功能无法检查学习强国的权限使用记录。[^748635]
+
+[^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？ - V2EX](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635)
+
 ## Cure53 的分析
 
 + [Analysis-Report “Study the Great Nation” 08.-09.2019](https://web.archive.org/web/20200918043709/https://cure53.de/analysis_report_sgn.pdf)
