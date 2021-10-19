@@ -32,6 +32,12 @@ dateCreated: 2021-03-28T07:09:37.751Z
 
 但在实际情况中，其他国家的用户在大陆内发布的英文帖子，在全球范围内也遭到了屏蔽。随后微软放宽了审查，仅在大陆被屏蔽。
 
+## 受到压力
+
+2021年9月30日，美国共和党籍联邦参议员斯科特(Rick Scott)致信领英的母公司微软和领英高管，就封禁多位美国记者的中国页面一事表示批评。[^yatai]
+
+[^yatai]: [外国记者页面被封 吁调查中共对领英的渗透 — 普通话主页](https://web.archive.org/web/20211017063109/https://www.rfa.org/mandarin/yataibaodao/meiti/xx-10052021140904.html)
+
 ## 2021年关闭大陆新用户注册
 
 + [领英暂停中国境内的新用户注册，还没有账号的外贸人应该怎么办？ - 网易订阅](https://archive.is/6hRF2 "https://www.163.com/dy/article/G4VGHP520524QMML.html")
