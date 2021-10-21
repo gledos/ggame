@@ -75,3 +75,4 @@ dateCreated: 2021-10-20T15:57:01.924Z
 + [中国大陆疯传47歌手KTV封杀名单 蔡依林许志安入榜 - 早报](https://web.archive.org/web/20211019173454/https://www.zaobao.com.sg/entertainment/story20211018-1204498)
 + [中國KTV封殺名單曝光！「驚見蔡依林」官方痛斥：製造謠言-娛樂-HiNet生活誌](https://times.hinet.net/news/23560623)
 + [中国大陆疯传47歌手KTV封杀名单 蔡依林许志安入榜 - 早报](https://web.archive.org/web/20211019173454/https://www.zaobao.com.sg/entertainment/story20211018-1204498)
++ [許志安無辜被列封殺新名單 用橙彈《滄海一聲笑》 懶理閒言 - 頭條日報](https://web.archive.org/web/20211020124019/https://hd.stheadline.com/life/ent/realtime/2263929/即時-娛樂-許志安無辜被列封殺新名單-用橙彈-滄海一聲笑-懶理閒言)
