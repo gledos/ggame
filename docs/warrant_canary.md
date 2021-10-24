@@ -17,6 +17,33 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2021年10月24日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ [美国大学生这样评价中国未成年人网游新规 - 华尔街日报](https://web.archive.org/web/20211010212441/https://cn.wsj.com/articles/美国大学生这样评价中国未成年人网游新规-11632702305)
++ [中国高校招生存在性别歧视，女性追求职业平等遇阻碍 - 纽约时报中文网](https://web.archive.org/web/20211022202415/https://cn.nytimes.com/china/20211021/china-schools-gender-bias/)
++ [Save 10% on Escape Simulator on Steam](https://web.archive.org/web/20211023123225/https://store.steampowered.com/app/1435790/Escape_Simulator/)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYXTq+QAKCRCZXo6bU2oX
+pImiAP9Qvo7jd0tbx9jGIvN2AilYwzZx4KHKV51S1j4KySvSygD9EiR1Qrr7tMhV
+8ZBqM6SwKVllhG1LppuREy4Wi1c3DgQ=
+=dNsT
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2021年9月11日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -32,8 +59,6 @@ yeqPUN/7SOR8IPRFF5migQfUOuGgDwA=
 =fMTh
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2021年8月13日
 
