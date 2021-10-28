@@ -19,8 +19,6 @@ dateCreated: 2021-01-01T17:20:07.110Z
 + [Star VPN](/anti-censorship/VPN/Star_VPN.md)
 + [ExpressVPN](/anti-censorship/VPN/ExpressVPN.md)
 
-
-
 ## 一些事件
 
 2020年6月6日，App Store 大陆区的 Gmail 被下架。[^iircuyvi7014036]
@@ -66,3 +64,15 @@ dateCreated: 2021-01-01T17:20:07.110Z
 ### 相关报道
 
 + [Apple’s China App Store Sheds Videogames as Beijing Tightens Internet Control - WSJ](https://web.archive.org/web/20201224044103/https://www.wsj.com/articles/apples-china-app-store-sheds-games-under-pressure-11608719400?mod=djemalertNEWS)
+
+## 下架部分阅读软件
+
+2021年10月中旬，《古兰经》以及《圣经》从 App Store 大陆区被下架，亚马逊的有声读物软件 Audible 也一同下架，理由是缺少许可证。[^813][^229]
+
+[^813]: [China crackdown on Apple store hits holy book apps and Audible - CBS News](https://web.archive.org/web/20211019171813/https://www.cbsnews.com/news/china-apple-store-crackdown-bible-quran-holy-book-apps-audible/)
+
+[^229]: [China crackdown on Apple store hits holy book apps and Audible - South China Morning Post](https://web.archive.org/web/20211023043229/https://www.scmp.com/news/world/united-states-canada/article/3152571/china-crackdown-apple-store-hits-holy-book-apps-and)
+
+被下架的《古兰经》软件名为「Quran Majeed」，是巴基斯坦的开发商所制作的软件，该开发商表示中国有 100 万用户使用这款软件。[^10-16]
+
+[^10-16]: [中国App Store下架亚马逊有声书和古兰经等应用 - DW](https://web.archive.org/web/20211021134614/https://www.dw.com/zh/中国app-store下架亚马逊有声书和古兰经等应用/a-59525667)

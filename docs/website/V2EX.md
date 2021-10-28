@@ -45,7 +45,9 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 痕迹很少，有未经确认的消息认为 V2EX 的站长将发帖人的 IP 等数据上交给警方，造成有人被喝茶警告。
 
-详情请查看 serviceprovider/Self-built_DNS
+<!--
+详情请查看 [serviceprovider/Self-built_DNS](/serviceprovider/Self-built_DNS.md)
+-->
 
 ## 「危险网址」
 
@@ -65,7 +67,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 [^V2EX_miui]: [您访问的网址存在危险！ MIUI browser](https://web.archive.org/web/20210115104757/https://nav.browser.miui.com/safe-browsing/ "您访问的网址存在危险！HTML")
 
-[安全联盟-企业查询|网站查询|曝光查询|企业工商查询|企业信用查询|企业失信记录|大数据企业信用平台。](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com)
+[安全联盟-企业查询 网站查询 曝光查询 企业工商查询 企业信用查询 企业失信记录 大数据企业信用平台。](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com)
 
 原因可能是最近 V2EX 论坛里讨论过「QQ 扫描并上传用户的浏览器历史」，[^V2EX_qqu][^V2EX_qqg]腾讯采取了报复措施。直到2021年的1月31日，V2EX 运营者也没有将这个帖子进行限制处理。[^V2EX_qqq]
 
