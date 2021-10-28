@@ -28,7 +28,7 @@ ClashDotNetFramework/ClashDotNetFramework 这个 Github 仓库是该软件的主
 
 [^nugetC]: [NuGet Gallery - CoelWu](https://web.archive.org/web/20211026130754/https://www.nuget.org/profiles/CoelWu)
 
-2021年10月25日 20:42 [GMT+8] 之前一段时间，该仓库被移除。
+2021年10月25日 20:42 [GMT+8] 前，该仓库被以某种方式清空。
 
 2021年10月25日 20:42 [GMT+8]，该仓库重新建立，恢复了含有「Removed according to regulations.」这句话的 README.md 文件，原因可能是要清空之前的历史。[^1027]
 
