@@ -10,7 +10,9 @@ dateCreated: 2021-10-29T17:56:32.481Z
 
 ## NEXON PACK DLC 无法在大陆购买
 
-2021年10月28日，DJMAX 与 NEXON 的联动曲包「NEXON PACK」发售，但在 Steam 大陆地区，该 DLC 无法购买，Steam 会提示:「您所在的地区目前不提供此物品」。
+2021年10月28日，DJMAX 与 NEXON 的联动曲包「NEXON PACK」发售，但在 Steam 大陆地区，[^178]该 DLC 无法在大陆 IP 以及账号查看，Steam 会提示:「您所在的地区目前不提供此物品」。
+
+[^178]: [DJMAX RESPECT V - NEXON PACK · AppID: 1782170 · SteamDB](https://web.archive.org/web/20211029120935/https://steamdb.info/app/1782170/)
 
 该 DLC 的 Steam 商店页面有人工翻译的简体中文简介，[^npsc]但没有繁体中文的简介，并且直到发布当天左右才发布公告表示大陆无法购买该 DLC。[^998]这可能与 NEXON 在大陆的发行商腾讯等公司有关。
 

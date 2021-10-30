@@ -18,4 +18,8 @@ dateCreated: 2021-10-28T15:03:15.079Z
 
 [^170]: [劉樂妍砸百萬拍自創曲《CHINA》MV！　遭外流崩潰喊：我要扔掉了，這是垃圾 - ETtoday星光雲 - ETtoday新聞雲](https://web.archive.org/web/20200528075951/https://star.ettoday.net/news/1708372)
 
-该 MV 的制作人员名单显示，MV 制作公司是上海启动音乐文创有限公司。具体该 MV 为什么已经完成，却没有上线，原因不明，目前哔哩哔哩的刘乐妍工作室账号只发布了一个使用购买的素材制作的 CHINA MV 。
+该 MV 的制作人员名单显示，MV 制作公司是上海启动音乐文创有限公司。该 MV 已经完成，却没有上线，原因不明，目前哔哩哔哩的刘乐妍工作室账号只发布了一个使用购买的素材制作的 CHINA MV 。
+
+### 相关链接
+
++ [劉樂妍-CHINA【KTV】 我愛卡拉OK官方頻道 - YouTube](https://web.archive.org/web/20200507102524/https://www.youtube.com/watch?v=71yJNDh6f10)
