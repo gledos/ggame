@@ -10,7 +10,7 @@ theme:
   features:
     - navigation.expand
     # - tabs
-use_directory_urls: true # gledos 不喜欢的 URL 风格
+use_directory_urls: false # gledos 不喜欢的 URL 风格，所以要关闭
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
   - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
@@ -25,7 +25,7 @@ markdown_extensions:
   - footnotes # 支持脚注[^1]
   - meta
   - def_list # 支持有序、无序、任务列表
-  # - pymdownx.arithmatex # 数学公式latex支持
+  - pymdownx.arithmatex # 数学公式latex支持
   - pymdownx.betterem:
       smart_enable: all
   - pymdownx.caret
