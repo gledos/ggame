@@ -4,51 +4,51 @@
 
 site_name: 游戏和谐Wiki
 theme:
-    name: material
-    #  favicon: attachment/portrait.png
-    language: zh # 中文，解决中文搜索问题
-    features:
-        # - navigation.expand
-        # - tabs
-use_directory_urls: false # false , gledos 喜欢的 URL 风格，更加友好
+  name: material
+  #  favicon: attachment/portrait.png
+  language: zh # 中文，解决中文搜索问题
+  features:
+    - navigation.expand
+    # - tabs
+use_directory_urls: false # gledos 喜欢的 URL 风格，更加友好
 markdown_extensions: 
-    - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，  caption
-    - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
-    - nl2br # newline-to-break markdown非严格换行
-    - toc:
-        permalink: '#' # heading anchor 
-        slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-    - admonition  # 突出显示一些东西，比如 !!!info|bug|tips之类
-    - codehilite:
-        guess_lang: false
-        linenums: false
-    - footnotes # 支持脚注[^1]
-    - meta
-    - def_list # 支持有序、无序、任务列表
-    # - pymdownx.arithmatex # 数学公式latex支持
-    - pymdownx.betterem:
-        smart_enable: all
-    - pymdownx.caret
-    # - pymdownx.critic  # 支持markdown高亮==，删除等高级样式
-    - pymdownx.details
-    # - pymdownx.emoji:  # 支持图标icons和表情渲染，比如:smile:
-        #emoji_generator: !!python/name:pymdownx.emoji.to_png
-    - pymdownx.inlinehilite
-    - pymdownx.magiclink
-    - pymdownx.mark
-    - pymdownx.smartsymbols
-    - pymdownx.superfences
-    - pymdownx.tasklist
-    - pymdownx.tilde
+  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
+  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
+  - nl2br # newline-to-break markdown非严格换行
+  - toc:
+      permalink: '#' # heading anchor 
+      slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
+  - admonition  # 突出显示一些东西，比如 !!!info|bug|tips之类
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes # 支持脚注[^1]
+  - meta
+  - def_list # 支持有序、无序、任务列表
+  # - pymdownx.arithmatex # 数学公式latex支持
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic  # 支持markdown高亮==，删除等高级样式
+  - pymdownx.details
+  # - pymdownx.emoji:  # 支持图标icons和表情渲染，比如:smile:
+      # emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
 plugins:
-    - search
-    - roamlinks
-        #- autolinks 
-    - exclude:
-        glob:
-            - "*.tmp"
-            - "*.pdf"
-            - "*.gz"
-        regex:
-            - '.*\.(tmp|bin|tar)$'
+  - search
+  - roamlinks
+    #- autolinks 
+  - exclude:
+      glob:
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+      regex:
+        - '.*\.(tmp|bin|tar)$'
 
