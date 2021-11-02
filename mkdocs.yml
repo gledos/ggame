@@ -26,6 +26,7 @@ theme:
       - navigation.top
     # - navigation.expand
     # - tabs
+repo_url: https://github.com/gledos/ggame
 use_directory_urls: false # gledos 不喜欢的 URL 风格，所以要关闭
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption

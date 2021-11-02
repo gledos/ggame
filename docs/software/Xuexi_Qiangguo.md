@@ -46,4 +46,4 @@ dateCreated: 2020-10-15T04:32:22.104Z
 
 ## 刷分工具 Fuck-XueXiQiangGuo
 
-内链: [Fuck-XueXiQiangGuo](/anti-censorship/Fuck-XueXiQiangGuo.md)
+内链: [Fuck-XueXiQiangGuo](../anti-censorship/Fuck-XueXiQiangGuo.md)
