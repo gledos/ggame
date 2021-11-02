@@ -11,7 +11,7 @@ dateCreated: 2021-03-18T10:32:32.947Z
 和谐游戏
 --------
 
-这里收集许多的和谐游戏的百科，点击 [这里](/game/game.md) 跳转到游戏板块。
+这里收集许多的和谐游戏的百科，点击 [这里](./game/game.md) 跳转到游戏板块。
 
 > 言者无罪，闻者足戒。
 
@@ -20,18 +20,18 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 | 板块     | 文件夹                                                 | 板块     | 文件夹                                                 |
 | -------- | ------------------------------------------------------ | -------- | ------------------------------------------------------ |
-| 活动     | [activities](/activities/activities.md)                | 音乐     | [music](/music/music.md)                               |
-| 允许列表 | [allowlist](/allowlist/allowlist.md)                   | 人物     | [people](/people/people.md)                            |
-| 反审查   | [anti-censorship](/anti-censorship/anti-censorship.md) | 处罚     | [punish](/punish/punish.md)                            |
-| 限制列表 | [blocklist](/blocklist/blocklist.md)                   | 研究     | [research](/research/research.md)                      |
-| 书籍     | [book](/book/book.md)                                  | 规则     | [rule](/rule/rule.md)                                  |
-| 捕风捉影 | [catch_the_wind](/catch_the_wind/catch_the_wind.md)    | 服务     | [serviceprovider](/serviceprovider/serviceprovider.md) |
-| 审查     | [censorship](/censorship/censorship.md)                | 软件     | [software](/software/software.md)                      |
-| 公司     | [company](/company/company.md)                         | 技术     | [technology](/technology/technology.md)                |
-| 事件     | [event](/event/event.md)                               | 尚不明确 | [unclear](/unclear/unclear.md)                         |
-| 游戏     | [game](/game/game.md)                                  | 视频     | [video](/video/video.md)                               |
-| 硬件     | [hardware](/hardware/hardware.md)                      | 网站     | [website](/website/website.md)                         |
-| 运动     | [movement](/movement/movement.md)                      |          |                                                        |
+| 活动     | [activities](./activities/activities.md)                | 音乐     | [music](./music/music.md)                               |
+| 允许列表 | [allowlist](./allowlist/allowlist.md)                   | 人物     | [people](./people/people.md)                            |
+| 反审查   | [anti-censorship](./anti-censorship/anti-censorship.md) | 处罚     | [punish](./punish/punish.md)                            |
+| 限制列表 | [blocklist](./blocklist/blocklist.md)                   | 研究     | [research](./research/research.md)                      |
+| 书籍     | [book](./book/book.md)                                  | 规则     | [rule](./rule/rule.md)                                  |
+| 捕风捉影 | [catch_the_wind](./catch_the_wind/catch_the_wind.md)    | 服务     | [serviceprovider](./serviceprovider/serviceprovider.md) |
+| 审查     | [censorship](./censorship/censorship.md)                | 软件     | [software](./software/software.md)                      |
+| 公司     | [company](./company/company.md)                         | 技术     | [technology](./technology/technology.md)                |
+| 事件     | [event](./event/event.md)                               | 尚不明确 | [unclear](./unclear/unclear.md)                         |
+| 游戏     | [game](./game/game.md)                                  | 视频     | [video](./video/video.md)                               |
+| 硬件     | [hardware](./hardware/hardware.md)                      | 网站     | [website](./website/website.md)                         |
+| 运动     | [movement](./movement/movement.md)                      |          |                                                        |
 
 联系方式
 --------
