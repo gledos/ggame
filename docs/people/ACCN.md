@@ -588,3 +588,13 @@ dateCreated: 2021-11-02T10:00:55.597Z
 
 + [[爆卦] 中國手遊倒閉控訴：台灣省的駭客勒索我 - Gossiping板 - Disp BBS](https://disp.cc/b/163-dW1O)
 + [【問題】台灣ACCN黑客組織ddos攻擊中國手遊 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20211101161055/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6520540)
++ [2021，超过16款游戏被ACCN黑客攻击... - 知乎](https://web.archive.org/web/20211102152027/https://zhuanlan.zhihu.com/p/398153815)
++ [如何看待手游《弈剑行》上线一天，被黑客组织 ACCN 攻击敲诈到闭服？国内小型游戏制作商该如何应对？ - 知乎](https://web.archive.org/web/20211101160803/https://www.zhihu.com/question/477964555/answer/2048960487)
++ [只勒索5000块的黑客，成为手游行业身上的“牛皮癣” - 36氪](https://web.archive.org/web/20211102152052/https://www.36kr.com/p/1062249479956104)
+
+<!--
+最后，题外话。大家不要以为这些自称ACCN的，以敲诈勒索中小开发者为生的罪犯，是什么高深的台湾黑客组织。实际可能就是个躲在电脑后，上着淘宝买DDOS，靠着灰产买他人银行卡收钱的小屁孩。
+
+黄一孟 心动网络 CEO 的回答。
+[如何看待手游《弈剑行》上线一天，被黑客组织 ACCN 攻击敲诈到闭服？国内小型游戏制作商该如何应对？ - 知乎](https://web.archive.org/web/20211101160803/https://www.zhihu.com/question/477964555/answer/2048960487)
+-->
