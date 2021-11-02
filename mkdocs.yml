@@ -1,6 +1,7 @@
 # official tutorial 
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
+# bug 已修复 ../
 
 site_name: 游戏和谐Wiki
 theme:
