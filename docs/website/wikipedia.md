@@ -22,7 +22,7 @@ dateCreated: 2021-09-15T14:05:57.537Z
 
 2015年12月4日，维基百科开始被长时间封锁。
 
-+ [当维基百科遭遇中国，变成了什麽样？ - 明镜书刊](https://web.archive.org/web/20200222174545/http://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20151213-%E5%BD%93%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%91%E9%81%AD%E9%81%87%E4%B8%AD%E5%9B%BD%EF%BC%8C%E5%8F%98%E6%88%90%E4%BA%86%E4%BB%80%E9%BA%BD%E6%A0%B7%EF%BC%9F)
++ [当维基百科遭遇中国，变成了什麽样？ - 明镜书刊](https://web.archive.org/web/20200222174545/http://www.rfi.fr/cn/中国/20151213-当维基百科遭遇中国，变成了什麽样？)
 + [Wikimedia Foundation urges Chinese authorities to lift block of Wikipedia in China – Wikimedia Foundation](https://web.archive.org/web/20210727020234/https://wikimediafoundation.org/news/2019/05/17/wikimedia-foundation-urges-chinese-authorities-to-lift-block-of-wikipedia-in-china/)
 
 ## 团体支持的编辑战
@@ -33,7 +33,7 @@ dateCreated: 2021-09-15T14:05:57.537Z
 
 2021年9月14日，维基百科运营机构封禁了 7 名大陆用户，十二位管理员被解职，包括非大陆的用户以及 WMC 之外的成员。[^2021_WMFC]
 
-[^2021_WMFC]: [维基百科:2021年基金会针对中文维基百科的行动 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062447/https://zh.wikipedia.org/zh-hans/Wikipedia:2021%E5%B9%B4%E5%9F%BA%E9%87%91%E6%9C%83%E9%87%9D%E5%B0%8D%E4%B8%AD%E6%96%87%E7%B6%AD%E5%9F%BA%E7%99%BE%E7%A7%91%E7%9A%84%E8%A1%8C%E5%8B%95)
+[^2021_WMFC]: [维基百科:2021年基金会针对中文维基百科的行动 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062447/https://zh.wikipedia.org/zh-hans/Wikipedia:2021年基金會針對中文維基百科的行動)
 
 WMC 是「中国大陆维基人用户组」(Wikimedians of Mainland China User Group)，在 2017年8月 建立。
 
@@ -48,3 +48,6 @@ WMC 是「中国大陆维基人用户组」(Wikimedians of Mainland China User G
 + [维基媒体基金会在 2021 年 9 月 13 日世界协调时间约下午四时作出了一连串针对中国大陆维基人用户组（下称 WMCUG）核心成员的行动。 - V2EX](https://web.archive.org/web/20210915062226/https://www.v2ex.com/t/801692)
 + [维基百科:中国大陆维基人用户组 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062030/https://zh.wikipedia.org/zh-hans/Wikipedia:中国大陆维基人用户组)
 + [忧渗透与起底风险 维基百科对中国编辑下禁令 - DW](https://web.archive.org/web/20210915074321/https://www.dw.com/zh/忧渗透与起底风险-维基百科对中国编辑下禁令/a-59185673)
++ [封禁一个维基人 中文维基百科“编辑战”背后_新闻频道_映象网](https://web.archive.org/web/20210827165139/http://news.hnr.cn/sd/201403/t20140314_878535.html)
++ 《封禁一个维基人 中文维基百科“编辑战”背后》缺少第二页
++ [封禁一个维基人 中文维基百科“编辑战”背后_新闻频道_映象网](https://web.archive.org/web/20210915150823/https://news.hnr.cn/sd/201403/t20140314_878535_2.html)
