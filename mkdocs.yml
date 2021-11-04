@@ -4,19 +4,26 @@
 # bug 已修复 ../
 
 site_name: 游戏和谐Wiki
+site_url: https://ggame.gledos.science/
+repo_url: https://github.com/gledos/ggame
+
 theme:
+  icon: assets/logo.png
+  favicon: src/favicon.png
   font: false
   palette:
     - media: "(prefers-color-scheme: light)" 
+      primary: blue
       scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
+        name: 切换到暗模式
     - media: "(prefers-color-scheme: dark)" 
+      primary: blue
       scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode
+        name: 切换到亮模式
   name: material
   language: zh # 中文，解决中文搜索问题
   features:
@@ -27,8 +34,7 @@ theme:
       - navigation.top
     # - navigation.expand
     # - tabs
-repo_url: https://github.com/gledos/ggame
-site_url: https://ggame.gledos.science/
+
 use_directory_urls: false # gledos 不喜欢的 URL 风格，所以要关闭
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
