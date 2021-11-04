@@ -16,8 +16,8 @@ dateCreated: 2021-01-01T17:20:07.110Z
 
 ### 被下架的 VPN 们
 
-+ [Star VPN](../anti-censorship/VPN/Star_VPN.md)
-+ [ExpressVPN](../anti-censorship/VPN/ExpressVPN.md)
++ [Star VPN](/anti-censorship/VPN/Star_VPN.md)
++ [ExpressVPN](/anti-censorship/VPN/ExpressVPN.md)
 
 ## 一些事件
 
