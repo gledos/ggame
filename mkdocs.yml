@@ -31,6 +31,7 @@ theme:
       - navigation.tracking
       - navigation.indexes
       - toc.integrate
+      - header.autohide
       - navigation.top
     # - navigation.expand
     # - tabs
@@ -76,4 +77,14 @@ plugins:
         - "*.gz"
       regex:
         - '.*\.(tmp|bin|tar)$'
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/gledos_microblogging
+    - icon: material/email-outline
+      link: mailto:cngledos@gmail.com
+
+copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
+
 
