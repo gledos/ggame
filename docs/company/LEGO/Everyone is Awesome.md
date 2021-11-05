@@ -3,7 +3,8 @@ title: Everyone is Awesome
 description: 
 published: true
 date: 2021-09-16T23:49:56.878Z
-tags: 
+tags:
+  - LGBT
 editor: markdown
 dateCreated: 2021-09-16T23:49:56.878Z
 ---

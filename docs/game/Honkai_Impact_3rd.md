@@ -3,7 +3,8 @@ title: 崩坏3
 description: 
 published: true
 date: 2021-05-07T15:50:50.192Z
-tags: 
+tags:
+  - LGBT
 editor: markdown
 dateCreated: 2021-05-07T15:42:36.644Z
 ---

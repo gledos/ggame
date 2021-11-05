@@ -17,7 +17,7 @@ dateCreated: 2021-11-03T17:19:28.714Z
 
 ## 全文
 
-![How Great is the Great Firewall? Measuring China’s DNS Censorship](/src/anti-censorship/GFWatch/sec21-hoang.pdf)
++ [How Great is the Great Firewall? Measuring China’s DNS Censorship](/src/anti-censorship/GFWatch/sec21-hoang.pdf)
 
 ## 相关链接
 

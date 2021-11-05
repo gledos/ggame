@@ -8,7 +8,6 @@ site_url: https://ggame.gledos.science/
 repo_url: https://github.com/gledos/ggame
 
 theme:
-  icon: assets/logo.png
   favicon: src/favicon.png
   font: false
   palette:
@@ -39,7 +38,6 @@ theme:
 use_directory_urls: false # gledos 不喜欢的 URL 风格，所以要关闭
 markdown_extensions: 
   - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
-  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
   - nl2br # newline-to-break markdown非严格换行
   - toc:
       permalink: '#' # heading anchor 
@@ -51,6 +49,7 @@ markdown_extensions:
   - footnotes # 支持脚注[^1]
   - meta
   - def_list # 支持有序、无序、任务列表
+  - pymdownx.tasklist
   # - pymdownx.arithmatex # 数学公式latex支持
   - pymdownx.betterem:
       smart_enable: all
@@ -59,12 +58,14 @@ markdown_extensions:
   - pymdownx.details
   # - pymdownx.emoji:  # 支持图标icons和表情渲染，比如:smile:
       # emoji_generator: !!python/name:pymdownx.emoji.to_png
-  - pymdownx.inlinehilite
+  - pymdownx.highlight    # 代码块相关
+  - pymdownx.inlinehilite # 代码块相关
+  - pymdownx.superfences:  # 代码块相关
+  - pymdownx.tabbed  # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
+  - pymdownx.snippets
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist
   - pymdownx.tilde
 plugins:
   - search
@@ -86,5 +87,4 @@ extra:
       link: mailto:cngledos@gmail.com
 
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
-
 

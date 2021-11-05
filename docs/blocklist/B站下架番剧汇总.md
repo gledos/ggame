@@ -3,7 +3,9 @@ title: B站下架番剧汇总
 description: 
 published: true
 date: 2021-07-23T10:47:09.284Z
-tags: 动画
+tags:
+  - 动画
+  - LGBT
 editor: markdown
 dateCreated: 2021-07-23T10:47:09.284Z
 ---
