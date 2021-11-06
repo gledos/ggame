@@ -24,7 +24,33 @@ GitHub仓库名: WorkerLivesMatter/WorkingTime
 
 ## 遭到审查
 
-待续
++ 10.13
+  + 总表被举报致封禁，数小时后解封
+  + 出现盗版小程序，出现盗版QQ群
+  + 官网 [https://www.tutou.site](https://web.archive.org/web/20211105033737/https://www.tutou.site/) 上线
++ 10.14
+  + QA表被封，数小时后解封
+  + 考虑法律问题，发表声明
++ 10.15 腾讯封禁 GitHub 地址
++ 10.16 内部项目管理文档被封
++ 10.17 数据收集问卷被封
++ 10.18 创建新问卷依旧被封
++ 10.19
+  + 小程序 WorkInfo 上线
+  + 开放了备份下载
+  + 知乎问题被删除
+  + 总表被删除
+  + 公众号 WorkInfo 创建
++ 10.20
+  + 表格迁移至金山文档
+  + 宣传本项目的公众号文章开始被删除
++ 10.21 发布特别声明，拒绝一切境外媒体的采访，拒
++ 10.22 金山删除文档
++ 10.24 QQ/百度/夸克/UC/微信 屏蔽了官网和 GitHub 的链接
++ 10.25 收集表被封
++ 10.28 小程序和公众号被永久封禁
 
 + [GitHub - WorkerLivesMatter/WorkingTime](https://web.archive.org/web/20211029182152/https://github.com/WorkerLivesMatter/WorkingTime)
 + [如何看待公司作息Working Time文档被删除？ - 知乎](https://web.archive.org/web/20211101143200/https://www.zhihu.com/question/493416916)
+
+<!--[ZhangNanBei Profile - githubmemory](https://web.archive.org/web/20211106025716/https://githubmemory.com/@ZhangNanBei)-->
