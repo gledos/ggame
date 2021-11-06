@@ -25,7 +25,7 @@ dateCreated: 2021-06-27T10:25:05.989Z
 
 ## 103话21页
 
-![103_21P](../src/book/Gate_Where_the_JSDF_Fought_103_21P.webp)
+![103_21P](/src/book/Gate_Where_the_JSDF_Fought_103_21P.webp)
 
 如图所示。[^103_21P]
 

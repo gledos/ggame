@@ -14,4 +14,4 @@ dateCreated: 2021-09-18T11:38:54.279Z
 
 [^surlc]: 当访问网站时提交当前网址到服务器检测其安全性
 
-![已停止访问该网页](../src/website/remove.bg/URL_b.webp)
+![已停止访问该网页](/src/website/remove.bg/URL_b.webp)

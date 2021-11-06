@@ -10,9 +10,9 @@ dateCreated: 2021-06-26T23:09:15.467Z
 
 ## 优酷无法搜索
 
-![优酷搜索](../src/game/TWI/TWI_Y.webp)
+![优酷搜索](/src/game/TWI/TWI_Y.webp)
 
-![优酷宣传](../src/game/TWI/TWI_Y_PV.webp)
+![优酷宣传](/src/game/TWI/TWI_Y_PV.webp)
 
 使用优酷搜索《西港独立社》这款游戏，不会返回任何视频。[^yksw]有一个宣传片也被优酷屏蔽了。[^pv_wb]
 
@@ -22,9 +22,9 @@ dateCreated: 2021-06-26T23:09:15.467Z
 
 ## 百度搜索结果过少
 
-![百度搜索](../src/game/TWI/TWI_B.webp)
+![百度搜索](/src/game/TWI/TWI_B.webp)
 
-![谷歌搜索](../src/game/TWI/TWI_G.webp)
+![谷歌搜索](/src/game/TWI/TWI_G.webp)
 
 使用百度搜索，仅有 5 万条结果，[^twi_b]而谷歌能够搜索到 77 万条结果。
 

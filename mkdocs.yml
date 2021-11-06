@@ -29,9 +29,9 @@ theme:
       - navigation.instant
       - navigation.tracking
       - navigation.indexes
-      - toc.integrate
       - header.autohide
       - navigation.top
+    # - toc.integrate
     # - navigation.expand
     # - tabs
 

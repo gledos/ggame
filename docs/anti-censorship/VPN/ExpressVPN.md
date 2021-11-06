@@ -34,6 +34,6 @@ dateCreated: 2021-10-10T14:36:24.258Z
 >
 > Our commitment to an open and free internet remains stronger than ever, and we will continue the fight in helping our users to stay connected, no matter where they are located.
 >
-> ![Screenshot of the notification ExpressVPN received from Apple about the removal of ExpressVPN's iOS app from the China App Store.](../src/anti-censorship/VPN/ExpressVPN/china-app-store-app-removal-notification.png)
+> ![Screenshot of the notification ExpressVPN received from Apple about the removal of ExpressVPN's iOS app from the China App Store.](/src/anti-censorship/VPN/ExpressVPN/china-app-store-app-removal-notification.png)
 >
 > Screenshot of the notification ExpressVPN received from Apple about the removal of ExpressVPN’s iOS app from the China App Store.

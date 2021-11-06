@@ -28,12 +28,12 @@ dateCreated: 2021-01-25T14:48:05.011Z
 
 ### 几张相关图片
 
-![BBC](../src/photo/Pindoo_RSS/bbc_b.png)
+![BBC](/src/photo/Pindoo_RSS/bbc_b.png)
 
-![煎蛋网](../src/photo/Pindoo_RSS/jd_b.png)
+![煎蛋网](/src/photo/Pindoo_RSS/jd_b.png)
 
-![纽约时报](../src/photo/Pindoo_RSS/nyt_b.png)
+![纽约时报](/src/photo/Pindoo_RSS/nyt_b.png)
 
-![特别说明](../src/photo/Pindoo_RSS/Q&A.png)
+![特别说明](/src/photo/Pindoo_RSS/Q&A.png)
 
-![作者的回信](../src/photo/Pindoo_RSS/message.jpg)
+![作者的回信](/src/photo/Pindoo_RSS/message.jpg)
