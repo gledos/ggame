@@ -12,6 +12,7 @@ dateCreated: 2021-11-01T22:40:31.814Z
 
 ```YAML
 GitHub仓库名: WorkerLivesMatter/WorkingTime 
+组织地址: [WorkerLivesMatter · GitHub](https://web.archive.org/web/20211105033734/https://github.com/WorkerLivesMatter)
 ```
 
 > 这个文档目前已汇集到约1300条不同公司的作息情况，并且细分到了岗位和部门。具体内容包括了上下班时间、午餐晚餐时间、一周工作天数、 周三周五是否特殊以及新人是否要写周报等。
@@ -53,4 +54,12 @@ GitHub仓库名: WorkerLivesMatter/WorkingTime
 + [GitHub - WorkerLivesMatter/WorkingTime](https://web.archive.org/web/20211029182152/https://github.com/WorkerLivesMatter/WorkingTime)
 + [如何看待公司作息Working Time文档被删除？ - 知乎](https://web.archive.org/web/20211101143200/https://www.zhihu.com/question/493416916)
 
-<!--[ZhangNanBei Profile - githubmemory](https://web.archive.org/web/20211106025716/https://githubmemory.com/@ZhangNanBei)-->
+<!--
+[ZhangNanBei Profile - githubmemory](https://web.archive.org/web/20211106025716/https://githubmemory.com/@ZhangNanBei)
+[ZhangNanBei (秃头才能变强) · GitHub](https://web.archive.org/web/20211104111017/https://github.com/ZhangNanBei)
+-->
+
+## 相关链接
+
++ [Team behind censored spreadsheet exposing brutal 996 Big Tech work hours deletes project after widespread crackdown - South China Morning Post](https://web.archive.org/web/20211106004924/https://www.scmp.com/tech/tech-trends/article/3155039/team-behind-censored-spreadsheet-exposing-brutal-996-big-tech-work)
++ ['Worker Lives Matter' Spurs Discussion on Chinese Social Media](https://web.archive.org/web/20211105133507/https://radiichina.com/worker-lives-matter/)
