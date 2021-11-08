@@ -14,7 +14,7 @@ dateCreated: 2021-10-08T22:25:51.586Z
 
 ## EDGE 浏览器
 
-详情转子 [EDGE](../Microsoft/EDGE.md) 条目查看。
+详情转子 [EDGE](/company/Microsoft/EDGE.md) 条目查看。
 
 ## Active Probe 被劫持
 

@@ -14,7 +14,7 @@ dateCreated: 2021-01-14T10:53:04.414Z
 
 ## 主要活动的社交媒体 parler 遭受各大网络公司讨伐
 
-内链: [Parler](../website/Parler.md)
+内链: [Parler](/website/Parler.md)
 
 ## 大量网络服务不同程度的封禁了特朗普或相关内容
 

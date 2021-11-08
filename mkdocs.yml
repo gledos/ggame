@@ -56,6 +56,11 @@ markdown_extensions:
   - pymdownx.critic  # 支持markdown高亮==，删除等高级样式
   - pymdownx.b64     # 将图片编码为 base64
   - pymdownx.details
+  # - pymdownx.pathconverter:
+  #     base_path: '' # default: ''
+  #     relative_path: '' # default ''
+  #     absolute: false # default: false
+  #     tags: 'a script img link object embed'
   # - pymdownx.emoji:  # 支持图标icons和表情渲染，比如:smile:
       # emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.highlight    # 代码块相关

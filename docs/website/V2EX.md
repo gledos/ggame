@@ -70,7 +70,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 痕迹很少，有未经确认的消息认为 V2EX 的站长将发帖人的 IP 等数据上交给警方，造成有人被喝茶警告。
 
 <!--
-详情请查看 [serviceprovider/Self-built_DNS](../serviceprovider/Self-built_DNS.md)
+详情请查看 [serviceprovider/Self-built_DNS](/serviceprovider/Self-built_DNS.md)
 -->
 
 ## 「危险网址」

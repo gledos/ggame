@@ -15,4 +15,4 @@ dateCreated: 2021-10-13T14:45:07.958Z
 ### 相关链接
 
 + [Bjork makes 'free Tibet' gesture - BBC NEWS](https://web.archive.org/web/20210814182028/http://news.bbc.co.uk/2/hi/asia-pacific/7276891.stm)
-+ 条目 [門唱片](../company/門唱片.md)
++ 条目 [門唱片](/company/門唱片.md)
