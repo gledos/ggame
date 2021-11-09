@@ -25,7 +25,7 @@ dateCreated: 2020-11-17T03:01:59.102Z
 + [还我 Flickr! 拯救 Flickr 大行动 - 17Tech.COM Dig/挖客](https://web.archive.org/web/20071207071059/http://dig.17tech.com/vote/62396.html)
 + [Flickr not even flickering in China / Internet photo site says service is being blocked and hopes it's only temporary](https://web.archive.org/web/20111208192648/https://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/09/FLICKR.TMP)
 + [Flickr not even flickering in China / Internet photo site says service is being blocked and hopes it's only temporary](https://web.archive.org/web/20201109014312/https://www.sfgate.com/business/article/Flickr-not-even-flickering-in-China-Internet-2556762.php)
-[为了保护儿童免受淫秽图片侵害?](https://web.archive.org/web/20201117030133/https://www.douban.com/group/topic/1675619/)
++ [为了保护儿童免受淫秽图片侵害?](https://web.archive.org/web/20201117030133/https://www.douban.com/group/topic/1675619/)
 
 未完待续
 
