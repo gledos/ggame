@@ -1,5 +1,5 @@
 ---
-title: しゅきぴ - ＝LOVE
+title: しゅきぴ(Shukipi) - ＝LOVE
 description: 
 published: true
 date: 2021-05-19T14:28:23.581Z
