@@ -22,9 +22,11 @@ dateCreated: 2021-11-10T21:47:33.254Z
 
 ## 2021年11月10日公告争议
 
-2021年11月10日，Subverse 在 Steam 以及 GOG 发布了一篇名为《We Need Chinese - Follow Up》的通知，引发了争议。[^1110_S]
+2021年11月10日，Subverse 的开发商 [Studio FOW](/company/Studio_FOW.md) 在 Steam[^1110_S] 以及 GOG[^1110_G] 发布了一篇名为《We Need Chinese - Follow Up》的通知，引发了争议。
 
 [^1110_S]: [Steam :: Subverse :: We Need Chinese - Follow Up](https://web.archive.org/web/20211110114608/https://steamcommunity.com/games/1034140/announcements/detail/3074263883168539684)
+
+[^1110_G]: [We Need Chinese - Follow Up, page 1 - Forum - GOG.com](https://web.archive.org/web/20211110154243/https://www.gog.com/forum/subverse/we_need_chinese_follow_up)
 
 ### 相关链接
 

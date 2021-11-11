@@ -17,6 +17,34 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2021年11月11日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ https://www.pcgamer.com/we-just-wanted-to-make-dick-lasers-and-big-bouncy-anime-titties-says-creators-of
++ [沈阳对入境者施行“28+28”隔离政策 - 纽约时报中文网](https://cn.nytimes.com/china/20211110/covid-china-shenyang-quarantine/)
++ [Steam - 《The Elder Scrolls V: Skyrim》Anniversary Edition升級](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_SkyrimAnniversary_Edition/)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYY07ZwAKCRCZXo6bU2oX
+pCN7AP0TT0spjBGnj265TwlQWj/d1C0ZqxHSe6LxQ5V+2z5zMwD+OYpE5NYWMAru
+gIUv5E04gBXPvJcBgl+y357a7Ao23wU=
+=65re
+-----END PGP SIGNATURE-----
+
+```
+
+## 过去的令状金丝雀
+
+### 2021年10月24日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2021年10月24日
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -33,7 +61,6 @@ pImiAP9Qvo7jd0tbx9jGIvN2AilYwzZx4KHKV51S1j4KySvSygD9EiR1Qrr7tMhV
 -----END PGP SIGNATURE-----
 ```
 
-## 过去的令状金丝雀
 
 ### 2021年9月11日
 
