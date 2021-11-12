@@ -26,11 +26,14 @@ dateCreated: 2021-11-11T20:40:21.560Z
 
 ## 邀请 arch 做游戏的首次实况直播
 
-2020年11月28日，玩家发现了 Studio FOW 将要跟 arch 合作，推出首次实况直播的活动，随后许多人抵制了该活动。随后社区管理员发布了终止与 Arch 合作的言论。
+2020年11月28日，玩家发现了 Studio FOW 将要跟 Arch 合作，推出首次实况直播的活动，随后许多人抵制了该活动。随后社区管理员发布了终止与 Arch 合作的言论。
 
-但很快 Studio FOW 删除了之前的言论，并称这次的合作是无关政治性的，
+但很快 Studio FOW 删除了之前的言论，并称这次的合作是无关政治性的。[^sguf]
+
+[^sguf]: [Sex Game Uses Far-Right YouTuber For Promo, Claims To Be "Unaware" Of His "Polarizing Background"](https://web.archive.org/web/20210127180522/https://kotaku.com/sex-game-uses-far-right-youtuber-for-promo-claims-to-b-1845780629)
 
 + 相关链接
   + [Why are FOW Interactive associating themselves with a known racist like Arch? : subverse](https://old.reddit.com/r/subverse/comments/k2uji2/why_are_fow_interactive_associating_themselves/)
   + [Subverse developer under fire for partnering with YouTuber Arch - GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-12-01-subverse-developer-under-fire-for-partnering-with-youtuber-arch)
   + [【新闻】马头社studiofow最近居然卷入了政治正确风波_游戏综合 - 游民星空](https://web.archive.org/web/20211111144649/https://club.gamersky.com/activity/443436)
+  + [The makers of sci-fi sex game Subverse apologized after teaming up with a racist YouTuber, then backtracked - PC Gamer](https://web.archive.org/web/20211102172125/https://www.pcgamer.com/the-makers-of-sci-fi-sex-game-subverse-apologized-after-teaming-up-with-a-racist-youtuber-then-backtracked/)
