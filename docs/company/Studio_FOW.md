@@ -24,7 +24,7 @@ dateCreated: 2021-11-11T20:40:21.560Z
 
 [^350]: [Behind the scenes on Subverse, the £1.6 million Kickstarter porn game hit - PC Gamer](https://web.archive.org/web/20210121043505/https://www.pcgamer.com/we-just-wanted-to-make-dick-lasers-and-big-bouncy-anime-titties-says-creators-of-latest-kickstarter-hit/)
 
-## 邀请 arch 做游戏的首次实况直播
+## 邀请 Arch 做游戏的首次实况直播
 
 2020年11月28日，玩家发现了 Studio FOW 将要跟 Arch 合作，推出首次实况直播的活动，随后许多人抵制了该活动。随后社区管理员发布了终止与 Arch 合作的言论。
 
