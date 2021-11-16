@@ -17,9 +17,10 @@ dateCreated: 2020-10-10T09:08:45.873Z
 >
 > 对艾泽拉斯国家地理论坛采取暂行关闭1个月的处罚措施。
 
-+ [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 新华网](https://web.archive.org/web/20150815154249/http://news.xinhuanet.com/legal/2015-08/15/c_128132309.htm)
-+ [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 人民网](https://web.archive.org/web/20151017190002/http://politics.people.com.cn/n/2015/0815/c1001-27467538.html)
-+ [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 中共中央网络安全和信息化领导小组办公室](https://web.archive.org/web/20150817030203/http://www.cac.gov.cn/2015-08/15/c_1116265229.htm)
++ 消息来源
+  + [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 新华网](https://web.archive.org/web/20150815154249/http://news.xinhuanet.com/legal/2015-08/15/c_128132309.htm)
+  + [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 人民网](https://web.archive.org/web/20151017190002/http://politics.people.com.cn/n/2015/0815/c1001-27467538.html)
+  + [国家网信办依法查处50家传播涉天津港火灾爆炸事故谣言网站 - 中共中央网络安全和信息化领导小组办公室](https://web.archive.org/web/20150817030203/http://www.cac.gov.cn/2015-08/15/c_1116265229.htm)
 
 NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CCTV 13 新闻频道。[^NGA_ne]由于 NGA 论坛的运营非常严格，底线过多。部分人称 NGA 论坛「又红又专」，所以对这件事是很高兴的。[^NGA_rad]
 
@@ -61,13 +62,12 @@ NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CC
 
 [^NGA_nwca]: [[公告] 有价值/有意义帖子冲水 集中打捞申请帖(包括审核未通过的有意义帖子也可以申请打捞) NGA玩家社区](https://archive.is/XB1St "https://bbs.nga.cn/read.php?tid=19025853")
 
-相关讨论:
-
-+ [nga的冲水机制是所有论坛里独一无二的吗？早上的帖子现在就没了 NGA玩家社区](https://archive.is/NYSD4 "https://bbs.nga.cn/read.php?tid=23563590")
-+ [[其他问题] 为啥硬件区也要冲水 NGA玩家社区](https://archive.is/g2U9R "https://ngabbs.com/read.php?tid=18441240")
-+ [[杂谈]请问被隐藏的帖子是帖主自己隐藏的吗 NGA玩家社区](https://archive.is/ZCo2q "https://bbs.nga.cn/read.php?tid=23420262")
-+ [为什么泥潭这么多板块设置了超过一定发帖时间隐藏 NGA玩家社区](https://archive.is/TwGeZ "https://ngabbs.com/read.php?tid=18202969")
-+ [[公告]关于帖子冲水(发布90天后无法访问)的问题 NGA玩家社区](https://archive.is/0rhQc "https://ngabbs.com/read.php?tid=18592525")
++ 相关讨论
+  + [nga的冲水机制是所有论坛里独一无二的吗？早上的帖子现在就没了 NGA玩家社区](https://archive.is/NYSD4 "https://bbs.nga.cn/read.php?tid=23563590")
+  + [[其他问题] 为啥硬件区也要冲水 NGA玩家社区](https://archive.is/g2U9R "https://ngabbs.com/read.php?tid=18441240")
+  + [[杂谈]请问被隐藏的帖子是帖主自己隐藏的吗 NGA玩家社区](https://archive.is/ZCo2q "https://bbs.nga.cn/read.php?tid=23420262")
+  + [为什么泥潭这么多板块设置了超过一定发帖时间隐藏 NGA玩家社区](https://archive.is/TwGeZ "https://ngabbs.com/read.php?tid=18202969")
+  + [[公告]关于帖子冲水(发布90天后无法访问)的问题 NGA玩家社区](https://archive.is/0rhQc "https://ngabbs.com/read.php?tid=18592525")
 
 ## NGA 手机 APP 被下架
 
@@ -75,12 +75,13 @@ NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CC
 
 大概与游戏本身无关，是因为 APP 里有侵犯用户隐私的第三方 SDK，不过我觉得对比 [其乐](/website/其乐.md) 莫名其妙就被关闭两周，这种差异值得探讨。
 
-+ [nga的app竟然被下架了 - 步行街主干道 - 虎扑社区](https://web.archive.org/web/20200919035614/https://bbs.hupu.com/37980408.html)
-+ [[杂谈]NGa出什么事了？被下架？ NGA玩家社区](https://archive.is/Rs8HF "https://bbs.nga.cn/read.php?tid=23358454")
-+ [关于下架侵害用户权益APP的通报 NGA玩家社区](https://archive.is/u2JaR "https://g.nga.cn/read.php?tid=23340542")
-+ [未按要求完成整改，工信部下架 23 款侵害用户权益 App：含蛋壳公寓等应用 - APP - IT之家](https://archive.is/GqIUa)
-+ [23款APP被工信部下架-新华网](https://web.archive.org/web/20200919045455/http://www.xinhuanet.com/finance/2020-09/15/c_1126493389.htm)
-+ [工信部下架23款侵害用户权益APP 曾已警告](https://web.archive.org/web/20200919045641/http://js.people.com.cn/n2/2020/0915/c359574-34293680.html)
++ 相关链接
+  + [nga的app竟然被下架了 - 步行街主干道 - 虎扑社区](https://web.archive.org/web/20200919035614/https://bbs.hupu.com/37980408.html)
+  + [[杂谈]NGa出什么事了？被下架？ NGA玩家社区](https://archive.is/Rs8HF "https://bbs.nga.cn/read.php?tid=23358454")
+  + [关于下架侵害用户权益APP的通报 NGA玩家社区](https://archive.is/u2JaR "https://g.nga.cn/read.php?tid=23340542")
+  + [未按要求完成整改，工信部下架 23 款侵害用户权益 App：含蛋壳公寓等应用 - APP - IT之家](https://archive.is/GqIUa)
+  + [23款APP被工信部下架-新华网](https://web.archive.org/web/20200919045455/http://www.xinhuanet.com/finance/2020-09/15/c_1126493389.htm)
+  + [工信部下架23款侵害用户权益APP 曾已警告](https://web.archive.org/web/20200919045641/http://js.people.com.cn/n2/2020/0915/c359574-34293680.html)
 
 ## NGA 禁词
 
@@ -101,7 +102,7 @@ NGA 论坛制作官方 Android 客户端时，引用了大量使用了 GNU GPL v
 ## 禁止讨论梯子与加速器
 
 > ### [公告][标题越短事越大]即日起，任何关于梯子(包括SS等)的主题删帖处理
-> 
+>
 > 论坛内任何关于游戏加速、梯子问题，直接删帖处理，屡发处罚，最高可至NUKE。
 >
 > 游戏加速等等问题，请另寻渠道讨论交流，版面不允许进行相关讨论。
@@ -109,3 +110,24 @@ NGA 论坛制作官方 Android 客户端时，引用了大量使用了 GNU GPL v
 > 2017年7月18日[^FX5Aw]
 
 [^FX5Aw]: [[公告][标题越短事越大]即日起，任何关于梯子(包括SS等)的主题删帖处理 NGA玩家社区](https://archive.is/FX5Aw "https://bbs.nga.cn/read.php?tid=12054925")
+
+## 网事杂谈区维护
+
+```YAML
+审查类型: 关停整改
+范围: 网事杂谈区
+开始时间: 2021年10月23日 12:00
+结束时间: 2021年11月7日 12:00
+```
+
+2021年10月下旬，NGA 官方发布一则维护公告《[维护公告]NGA网事杂谈区数据维护至11月 7 日中午12时》:
+
+> 因技术原因，NGA网事杂谈区从10月23日中午12时起将开启为期15天的数据维护，届时网事杂谈区将无法发帖回帖。  
+>
+> 数据维护期间，其他生活类板块可以正常访问发帖，希望用户根据主题内容将内容发至对应版区。  
+>
+> 如：情感类内容可以发帖至[晴风村](https://bbs.nga.cn/thread.php?fid=-7955747)，职场类内容可以发帖至[职场人生](https://bbs.nga.cn/thread.php?fid=-1459709)，生活类内容可以发帖至[生活万象](https://bbs.nga.cn/thread.php?fid=704)。  
+>
+> 数据维护结束后，我们也将开设新的杂谈区话题子版块，详情可以关注我们的后续公告。[^qdw22u]
+
+[^qdw22u]: [NGA网事杂谈区从今天中午12点开始关闭15天 : China_irl](https://web.archive.org/web/20211025102731/https://old.reddit.com/r/China_irl/comments/qdw22u/nga网事杂谈区从今天中午12点开始关闭15天/)
