@@ -27,4 +27,4 @@ dateCreated: 2021-11-12T09:30:32.137Z
 
 ## 邀请 Arch 做游戏的首次实况直播
 
-详细内容需跳转至 [Studio FOW](company/Studio_FOW.md) 条目查看。
+详细内容需跳转至 [Studio FOW](/company/Studio_FOW.md) 条目查看。
