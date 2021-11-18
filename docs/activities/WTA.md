@@ -23,3 +23,7 @@ dateCreated: 2021-11-15T15:19:40.730Z
 过去的资讯被隐藏，目前「百度资讯」只能搜索到不到 200 条相关资讯，能看到的资讯都是这周左右的资讯。[^WTA_zx]
 
 [^WTA_zx]: [百度资讯搜索 - WTA](https://web.archive.org/web/20211115071821/https://www.baidu.com/s?rtt=1&word=WTA)
+
+<!--
+[CGTN on Twitter: "Chinese tennis star Peng Shuai has sent an email to Steve Simon, the WTA Chairman & CEO, CGTN has learned. The email reads:… https://t.co/N1jGHx0MSc"](https://web.archive.org/web/20211117190708/https://twitter.com/CGTNOfficial/status/1461025491842916358)
+-->
