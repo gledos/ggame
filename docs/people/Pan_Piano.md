@@ -3,7 +3,8 @@ title: Pan Piano
 description: 以Cosplay成ACGN角色并用钢琴弹奏该作品的动画音乐为特色的 Youtuber
 published: true
 date: 2020-10-02T14:36:33.012Z
-tags: YouTuber
+tags:
+  - YouTuber
 editor: markdown
 dateCreated: 2020-10-02T13:29:52.213Z
 ---
