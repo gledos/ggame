@@ -3,7 +3,8 @@ title: encryption_007
 description: 正经人
 published: true
 date: 2021-10-10T15:03:34.753Z
-tags: encryption
+tags:
+  - encryption
 editor: markdown
 dateCreated: 2021-10-10T15:03:34.753Z
 ---
