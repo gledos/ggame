@@ -10,7 +10,7 @@ dateCreated: 2020-12-10T11:21:46.530Z
 
 ## YouTube
 
-YouTube 在2020年12月9日会开始删除关于本届总统大选选举舞弊的内容，使用的理由非常无力。[^20201210000954]在此之前 YouTube 就已经对支持特朗普的内容进行了黄标，试图阻止人们聚众支持。
+YouTube 在2020年12月9日会开始删除关于本届总统大选选举舞弊的内容，使用的理由非常无力。[^20201210000954]在此之前 YouTube 就已经对支持特朗普的内容进行了黄标，试图阻止人民聚众支持。
 
 [^20201210000954]: [Supporting the 2020 U.S. election](https://web.archive.org/web/20201210000954/https://blog.youtube/news-and-events/supporting-the-2020-us-election)
 
