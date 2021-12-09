@@ -17,6 +17,32 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2021年12月9日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ [Save 10% on Rune Factory 4 Special on Steam](https://web.archive.org/web/20211207175731/https://store.steampowered.com/app/1580240/Rune_Factory_4_Special/)
++ [缅甸民主运动已不再需要昂山素季？ - 纽约时报中文网](https://web.archive.org/web/20211208003732/https://cn.nytimes.com/world/20211207/myanmar-aung-san-suu-kyi/)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYbHhlgAKCRCZXo6bU2oX
+pCcJAQDO1Rm14AyUkNUoR5TDeylPPK6bwz7heUoYMucLh1EWeAEAzo2Qv2axVORB
+y/f29DfLxs0JhiJXUvrcjGUOJBBI+Ak=
+=6VZz
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2021年11月11日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2021年11月11日
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -33,8 +59,6 @@ gIUv5E04gBXPvJcBgl+y357a7Ao23wU=
 -----END PGP SIGNATURE-----
 
 ```
-
-## 过去的令状金丝雀
 
 ### 2021年10月24日
 
