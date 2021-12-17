@@ -10,14 +10,14 @@ dateCreated: 2021-11-11T10:20:16.601Z
 
 ## 游戏名清单
 
-+ 不同的游戏名
-  + 英语: Riders Republic
-  + 德国[^de]、法国[^fr]、韩国[^kr]等地: 未翻译标题
-  + 日语: 「Riders Republic」 或者 ライダーズ リパブリック
-  + 繁体中文: 極限共和國[^tc]
-  + 简体中文: 极限国度[^sc]
++ 不同语言的游戏名
+    + 英语: Riders Republic[^en]
+    + 德国[^de]、法国[^fr]、韩国[^kr]等地未翻译标题
+    + 日语: 「Riders Republic」 或者 ライダーズ リパブリック
+    + 繁体中文: 極限共和國[^tc]
+    + 简体中文: 极限国度[^sc]
 
-[^en]: 
+[^en]: [Riders Republic for PS5, Xbox Series X|S & More | Ubisoft (GB)](https://web.archive.org/web/20211210205119/https://www.ubisoft.com/en-gb/game/riders-republic)
 
 [^de]: [Riders Republic für PS5, Xbox Series X|S & Mehr | Ubisoft (DE)](https://web.archive.org/web/20211016021610/https://www.ubisoft.com/de-de/game/riders-republic)
 

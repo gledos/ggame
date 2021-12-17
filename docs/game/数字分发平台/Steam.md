@@ -47,8 +47,8 @@ dateCreated: 2021-03-18T10:34:26.821Z
 [^s13r]: [Valve 禁止区块链游戏和 NFT - 奇客Solidot](https://web.archive.org/web/20211016093336/https://www.solidot.org/story?sid=69261)
 
 + 相关链接
-  + [Steam bans games that allow cryptocurrency and NFT trading - Engadget](https://web.archive.org/web/20211016010537/https://www.engadget.com/steam-ban-cryptocurrency-nft-trading-blockchain-valve-165038811.html)
-  + [Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge](https://web.archive.org/web/20211016010534/https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
+    + [Steam bans games that allow cryptocurrency and NFT trading - Engadget](https://web.archive.org/web/20211016010537/https://www.engadget.com/steam-ban-cryptocurrency-nft-trading-blockchain-valve-165038811.html)
+    + [Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge](https://web.archive.org/web/20211016010534/https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)
 
 ## 色情游戏锁区问题
 

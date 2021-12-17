@@ -21,7 +21,7 @@ dateCreated: 2021-11-10T21:47:33.254Z
 [^631261]: [马头社Subverse正式登陆GOG！Subverse GOG版依然锁区 - 游侠网](https://web.archive.org/web/20211110150816/https://www.ali213.net/news/html/2021-10/631261.html)
 
 + 相关链接
-  + [Exclusive First Look at SUBVERSE! Tactical Grid Combat, Waifus and SHMUP Gameplay! : Games](https://old.reddit.com/r/Games/comments/k2ql6d/exclusive_first_look_at_subverse_tactical_grid/)
+    + [Exclusive First Look at SUBVERSE! Tactical Grid Combat, Waifus and SHMUP Gameplay! : Games](https://old.reddit.com/r/Games/comments/k2ql6d/exclusive_first_look_at_subverse_tactical_grid/)
 
 ## 2021年11月10日公告争议
 
@@ -32,8 +32,8 @@ dateCreated: 2021-11-10T21:47:33.254Z
 [^1110_G]: [We Need Chinese - Follow Up, page 1 - Forum - GOG.com](https://web.archive.org/web/20211110154243/https://www.gog.com/forum/subverse/we_need_chinese_follow_up)
 
 + 相关链接
-  + [《Subverse》官方：大陆不支持成人内容 所以会推出繁中 - 3DM单机](https://web.archive.org/web/20211110133101/https://www.3dmgame.com/news/202111/3827934.html)
-  + [成人作品《Subverse》辱華？開發商：「中國人很多，但後台流量是０」](https://web.archive.org/web/20211110132601/https://tw.news.yahoo.com/subverse-mainland-china-043400070.html)
-  + [关于今早发的制作者更新，也就是语言问题【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133738/https://tieba.baidu.com/p/7606967900)
-  + [不出简中 和 承认大陆玩家为0 竟然是节奏点？？【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133704/https://tieba.baidu.com/p/7607205945)
-  + [马头社这个版主自己就在阴阳【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133558/https://tieba.baidu.com/p/7607307624)
+    + [《Subverse》官方：大陆不支持成人内容 所以会推出繁中 - 3DM单机](https://web.archive.org/web/20211110133101/https://www.3dmgame.com/news/202111/3827934.html)
+    + [成人作品《Subverse》辱華？開發商：「中國人很多，但後台流量是０」](https://web.archive.org/web/20211110132601/https://tw.news.yahoo.com/subverse-mainland-china-043400070.html)
+    + [关于今早发的制作者更新，也就是语言问题【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133738/https://tieba.baidu.com/p/7606967900)
+    + [不出简中 和 承认大陆玩家为0 竟然是节奏点？？【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133704/https://tieba.baidu.com/p/7607205945)
+    + [马头社这个版主自己就在阴阳【subverse吧】- 百度贴吧](https://web.archive.org/web/20211110133558/https://tieba.baidu.com/p/7607307624)
