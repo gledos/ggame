@@ -3,8 +3,8 @@ title: NGA
 description: 国内专业的游戏玩家社区
 published: true
 date: 2021-01-30T09:27:35.413Z
-tags: 
-  - 论坛
+tags:
+    - 论坛
 editor: markdown
 dateCreated: 2020-10-10T09:08:45.873Z
 ---

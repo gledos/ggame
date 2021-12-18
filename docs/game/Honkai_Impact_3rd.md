@@ -4,7 +4,7 @@ description:
 published: true
 date: 2021-05-07T15:50:50.192Z
 tags:
-  - LGBT
+    - LGBT
 editor: markdown
 dateCreated: 2021-05-07T15:42:36.644Z
 ---
@@ -13,13 +13,13 @@ dateCreated: 2021-05-07T15:42:36.644Z
 
 + [崩壞3rd - 親愛的艦長： 今日，經艦長向我們反映，發現《崩壞3rd》的合作Coser... - Facebook](https://archive.is/dyJa7 "https://www.facebook.com/bh3tw/posts/2860035377544793/")
 + 2021-04-02 [[黑泥氵]现在他们不惜造谣也要冲了么 NGA玩家社区](https://archive.is/Q3YZ6 "https://bbs.nga.cn/read.php?tid=26169904")
-+ 2021/04/03 [《崩壞3rd》終止與人氣Coser合作　竟是因「武漢肺炎」4字！ - 蘋果新聞網 - 蘋果日報](https://web.archive.org/web/20210429045956/https://tw.appledaily.com/gadget/20210403/CLLP4TAQVRBBLIUYNSTU36AESQ/)
-+ 2021.04.03 [強國玻璃心 - 台美女Cosplayer一句「武漢肺炎」 遭大陸遊戲公司取消合作 - 蘋果日報](https://web.archive.org/web/20210430031056/https://hk.appledaily.com/china/20210403/R4D47PAJWFDI7F6K77VJO3DZRU/)
-+ 2021/04/03 [Re: [情報] 【Coser 蕾菈因舊帖文「誤稱」武漢肺炎《 - 看板C_Chat - PTT動漫區](https://web.archive.org/web/20210430031123if_/https://pttcomics.com/C_Chat/1WP-RlYe)
++ 2021-04-03 [《崩壞3rd》終止與人氣Coser合作　竟是因「武漢肺炎」4字！ - 蘋果新聞網 - 蘋果日報](https://web.archive.org/web/20210429045956/https://tw.appledaily.com/gadget/20210403/CLLP4TAQVRBBLIUYNSTU36AESQ/)
++ 2021-04-03 [強國玻璃心 - 台美女Cosplayer一句「武漢肺炎」 遭大陸遊戲公司取消合作 - 蘋果日報](https://web.archive.org/web/20210430031056/https://hk.appledaily.com/china/20210403/R4D47PAJWFDI7F6K77VJO3DZRU/)
++ 2021-04-03 [Re: [情報] 【Coser 蕾菈因舊帖文「誤稱」武漢肺炎《 - 看板C_Chat - PTT動漫區](https://web.archive.org/web/20210430031123if_/https://pttcomics.com/C_Chat/1WP-RlYe)
 + 2021-04-03 [有人能给我说说tw那个coser的事情么？ NGA玩家社区](https://archive.is/5ZJHg "https://bbs.nga.cn/read.php?tid=26184713")
-+ 2021/04/03 [玻璃心又碎！台灣Coser稱「武漢肺炎」 中國遊戲公司取消合作 - 生活 - 自由時報電子報](https://web.archive.org/web/20210429050016/https://news.ltn.com.tw/news/life/breakingnews/3488757)
++ 2021-04-03 [玻璃心又碎！台灣Coser稱「武漢肺炎」 中國遊戲公司取消合作 - 生活 - 自由時報電子報](https://web.archive.org/web/20210429050016/https://news.ltn.com.tw/news/life/breakingnews/3488757)
 + 2021-04-04 [手遊《崩壞3rd》溯及既往　Coser昔稱「武漢肺炎」遭拔工作機會](https://web.archive.org/web/20210430030952if_/https://www.ctwant.com/article/110669)
-+ 2021/04/05 [發文喊「武漢肺炎」丟代言　女Coser難過發文：對不起 | 生活 | 三立新聞網 SETN.COM](https://web.archive.org/web/20210429045903/https://www.setn.com/News.aspx?NewsID=921046)
++ 2021-04-05 [發文喊「武漢肺炎」丟代言　女Coser難過發文：對不起 | 生活 | 三立新聞網 SETN.COM](https://web.archive.org/web/20210429045903/https://www.setn.com/News.aspx?NewsID=921046)
 + 2021-04-06 [【喜闻乐见】官方coser被挖出是福利姬？游戏厂商遭大批玩家抵制|二次元游戏_网易订阅](https://web.archive.org/web/20210430030930/https://www.163.com/dy/article/G6S5QRJG0526G7TJ.html)
 + 2021-04-15 09:46 [Added by @laira918 Instagram post 很多人跟蕾菈說過， 覺得蕾菈脾氣很好， 好像不管遇到什麼事情都不會生氣。......](https://archive.is/Oh4RE "https://web.archive.org/web/20210430072700if_/https://webcache.googleusercontent.com/search?q=cache:https://fo-fo.facebook.com/laira918/posts/2029976310477603")
 + [有人能给我说说tw那个coser的事情么？ NGA玩家社区](https://archive.is/5ZJHg "https://bbs.nga.cn/read.php?tid=26184713")
@@ -42,7 +42,6 @@ dateCreated: 2021-05-07T15:42:36.644Z
 + [蕾菈Laira в Twitter: "可愛即是正義！！......"](https://web.archive.org/web/20210427123505/https://twitter.com/LairaShih/status/1344584083502899202 "https://archive.is/I7w7b")
 + [雨可韓韓🇹🇼Yucohanhan@統測📖 auf Twitter: "先幫妳補血 然後我想請問一下各位 2020年2月6日發的「武漢肺炎」 2020年2月11日正名「新冠肺炎」 這個時間軸會不會看？ 看不懂的話建議先看醫生了… "](https://web.archive.org/web/20210402190221/https://twitter.com/Yucohanhan_VRC/status/1378060214289584131)
 + [오늘자 짱섭이 코스플레이어랑 협업 중단한 이유 - 종합 속보](https://archive.is/q5UoT "https://arca.live/b/breaking/23838553")
-
 
 ## 国际服周年活动
 
@@ -331,7 +330,6 @@ dateCreated: 2021-05-07T15:42:36.644Z
 + [Our biggest problem here is that Mihoyo is a Chinese company that forces to have government relation and communication : houkai3rd](https://web.archive.org/web/20210428044303/https://old.reddit.com/r/houkai3rd/comments/myscv3/our_biggest_problem_here_is_that_mihoyo_is_a/)
 + [Honkai Impact player clearing up misinformation regarding the Censorship and Bunny costumes drama. Should you be worried? : Genshin_Impact](https://web.archive.org/web/20210427033018/https://old.reddit.com/r/Genshin_Impact/comments/mwuijn/honkai_impact_player_clearing_up_misinformation/)
 
-
 ### 漫画百合情节
 
 + EN 修改前的第10话封面(百合直球) [Azure Waters — Honkai Impact 3rd Manga Station](https://web.archive.org/web/20201104213847/https://manga.honkaiimpact3.com/book/1004)
@@ -364,8 +362,6 @@ dateCreated: 2021-05-07T15:42:36.644Z
 <!--
 + [绀海篇—《崩坏3》IP站](https://archive.is/G57jF "https://comic.bh3.com/book/1004")
 + -->
-
-
 
 ### meme
 

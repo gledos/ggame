@@ -3,11 +3,15 @@ title: KoolShare
 description: 主要讨论软路由的论坛
 published: true
 date: 2021-10-10T23:08:14.211Z
-tags: 
-  - 论坛
+tags:
+    - 论坛
 editor: markdown
 dateCreated: 2021-10-10T23:08:14.211Z
 ---
+
+## KoolShare 简介
+
+主要讨论软路由的论坛。
 
 ## 关闭
 

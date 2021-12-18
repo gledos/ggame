@@ -4,7 +4,7 @@ description: 小米公司的手机系统
 published: true
 date: 2021-06-27T18:56:29.638Z
 tags:
-  - Operating-System
+    - Operating-System
 editor: markdown
 dateCreated: 2021-06-27T18:56:29.638Z
 ---
@@ -21,25 +21,25 @@ dateCreated: 2021-06-27T18:56:29.638Z
 
 [^bllt]: [Xm9iatpt - Pastebin.com](https://web.archive.org/web/20210627105639/https://pastebin.com/Xm9iatpt)
 
-| App 名称      | 包名                              |
-| ------------- | --------------------------------- |
-| 蓝光          | com.golden.freegate               |
-| Lantern       | org.getlantern.lantern            |
-| Lantern       | lantern-installer                 |
-| NordVPN       | com.nordvpn.android               |
-| XSoft inc     | com.xfx.surfvpn                   |
-| Ultrareach    | us.ultrasurf.mobile.ultrasurf     |
-| Signal Lab    | com.fast.free.unblock.secure.vpn  |
-| Signal Lab    | com.fast.free.unblock.thunder.vpn |
-| ExpressVPN    | com.expressvpn.vpn                |
-| SuperSoftTech | com.jrzheng.supervpnfree          |
-| Greatfire.org | org.greatfire.freebrowser         |
+| App 名称      | 包名                              |
+| ------------- | --------------------------------- |
+| 蓝光          | com.golden.freegate               |
+| Lantern       | org.getlantern.lantern            |
+| Lantern       | lantern-installer                 |
+| NordVPN       | com.nordvpn.android               |
+| XSoft inc     | com.xfx.surfvpn                   |
+| Ultrareach    | us.ultrasurf.mobile.ultrasurf     |
+| Signal Lab    | com.fast.free.unblock.secure.vpn  |
+| Signal Lab    | com.fast.free.unblock.thunder.vpn |
+| ExpressVPN    | com.expressvpn.vpn                |
+| SuperSoftTech | com.jrzheng.supervpnfree          |
+| Greatfire.org | org.greatfire.freebrowser         |
 
 2021年6月，有用户称，更新系统后无法安装上述列表中的 VPN，已安装的也被卸载。[^blttt]
 
 [^blttt]: [小米手机禁止VPN软件安装 : China_irl](https://web.archive.org/web/20210614080104/https://old.reddit.com/r/China_irl/comments/nytj0k/小米手机禁止vpn软件安装/)
 
-+ [小米手机大陆MIUI系统开始封锁VPN软件！ : China_irl](https://web.archive.org/web/20210616124155/https://old.reddit.com/r/China_irl/comments/nyrwf5/小米手机大陆miui系统开始封锁vpn软件/)
+    [小米手机大陆MIUI系统开始封锁VPN软件！ : China_irl](https://web.archive.org/web/20210616124155/https://old.reddit.com/r/China_irl/comments/nyrwf5/小米手机大陆miui系统开始封锁vpn软件/)
 
 ## 内置敏感词审查系统
 
@@ -53,7 +53,6 @@ dateCreated: 2021-06-27T18:56:29.638Z
 
 [^52439]: [Lithuania says throw away Chinese phones due to censorship concerns - Reuters](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)
 
-### 相关链接
-
-+ [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
-+ [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
++ 相关链接
+    + [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
+    + [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)

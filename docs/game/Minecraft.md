@@ -4,8 +4,8 @@ description: 基于方块的实时动态沙盒游戏
 published: true
 date: 2020-12-07T14:11:09.823Z
 tags:
-  - 地图
-  - restraint
+    - 地图
+    - restraint
 editor: markdown
 dateCreated: 2020-10-10T09:00:29.336Z
 ---
@@ -45,21 +45,20 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 
 官方处理为删除YouTube录播中争议的一段，然后没有了。
 
-### 相关网页
-
-+ [Minecraft Live 2020: Full Show - YouTube](https://archive.is/5jjNL "https://www.youtube.com/watch?v=DWZIfsaIgtE")
-+ [我的世界1.17新版本深度解读 - 哔哩哔哩](https://archive.is/BXpKg "https://www.bilibili.com/video/av414772657")
-+ [洞穴更新成了！Minecraft 1.17 更新特性汇总！洞穴与峭壁更新！ - 哔哩哔哩](https://archive.is/oJkSw "https://www.bilibili.com/video/BV1Fv411k7Zg")
-+ [2020年《我的世界》全球嘉年华Minecraft Live即将来临！ - 哔哩哔哩](https://archive.is/JyLTt "https://www.bilibili.com/video/av712221197")
-+ [【生肉】Minecraft Live 2020- Full Show - 哔哩哔哩](https://archive.is/S4vHD "https://www.bilibili.com/video/av842365730")
-+ [有关地图事件我之所见_minecraft吧_百度贴吧](https://archive.is/TOrDY "https://tieba.baidu.com/p/6997026671")
-+ 已删除 [Minecraft Live 中出现错误中国地图 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://archive.is/UVmqo "https://www.mcbbs.net/thread-1124398-1-1.html")
-+ 已删除 [昨天minecraft live发生了什么 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://web.archive.org/web/20201005124410/https://www.mcbbs.net/thread-1124427-1-1.html)
-+ [《我的世界》全球嘉年华Minecraft Live火热开启 _ 我的世界Minecraft中国版官方网站——你想玩的，这里都有](https://web.archive.org/web/20201005124905/https://mc.163.com/news/20200929/29175_907631.html)
-+ [收看《我的世界》全球嘉年华直播 - 我的世界Minecraft中国版官方网站](https://web.archive.org/web/20201005124823/https://mc.163.com/2020/minecon/)
-+ [[WEB-3170] Minecrat Live - Jira](https://web.archive.org/web/20201005130207/https://bugs.mojang.com/browse/WEB-3170)
-+ [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
-+ [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
++ 相关网页
+    + [Minecraft Live 2020: Full Show - YouTube](https://archive.is/5jjNL "https://www.youtube.com/watch?v=DWZIfsaIgtE")
+    + [我的世界1.17新版本深度解读 - 哔哩哔哩](https://archive.is/BXpKg "https://www.bilibili.com/video/av414772657")
+    + [洞穴更新成了！Minecraft 1.17 更新特性汇总！洞穴与峭壁更新！ - 哔哩哔哩](https://archive.is/oJkSw "https://www.bilibili.com/video/BV1Fv411k7Zg")
+    + [2020年《我的世界》全球嘉年华Minecraft Live即将来临！ - 哔哩哔哩](https://archive.is/JyLTt "https://www.bilibili.com/video/av712221197")
+    + [【生肉】Minecraft Live 2020- Full Show - 哔哩哔哩](https://archive.is/S4vHD "https://www.bilibili.com/video/av842365730")
+    + [有关地图事件我之所见_minecraft吧_百度贴吧](https://archive.is/TOrDY "https://tieba.baidu.com/p/6997026671")
+    + 已删除 [Minecraft Live 中出现错误中国地图 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://archive.is/UVmqo "https://www.mcbbs.net/thread-1124398-1-1.html")
+    + 已删除 [昨天minecraft live发生了什么 - 矿工茶馆 - Minecraft(我的世界)中文论坛 -](https://web.archive.org/web/20201005124410/https://www.mcbbs.net/thread-1124427-1-1.html)
+    + [《我的世界》全球嘉年华Minecraft Live火热开启 _ 我的世界Minecraft中国版官方网站——你想玩的，这里都有](https://web.archive.org/web/20201005124905/https://mc.163.com/news/20200929/29175_907631.html)
+    + [收看《我的世界》全球嘉年华直播 - 我的世界Minecraft中国版官方网站](https://web.archive.org/web/20201005124823/https://mc.163.com/2020/minecon/)
+    + [[WEB-3170] Minecrat Live - Jira](https://web.archive.org/web/20201005130207/https://bugs.mojang.com/browse/WEB-3170)
+    + [[WEB-3171] Minecraft Live showed Taiwan as a separate country to the People's Republic of China - Jira](https://web.archive.org/web/20201005125308/https://bugs.mojang.com/browse/WEB-3171)
+    + [同样是台湾问题，为什么hololive被粉红干烂，但Minecraft却什么事都没有？ - 新·品葱](https://web.archive.org/web/20201005125529/https://pincong.rocks/question/31781)
 
 <!--
 
