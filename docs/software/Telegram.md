@@ -10,7 +10,7 @@ dateCreated: 2021-09-10T16:23:13.632Z
 
 ## 即时封锁部分频道的图片
 
-详情请跳转至 [QQ#Telegram频道](company/腾讯/QQ.md#Telegram频道) 条目。
+详情请跳转至 [QQ#Telegram频道](/company/腾讯/QQ.md#Telegram频道) 条目。
 
 ## 移除部分贴纸
 
