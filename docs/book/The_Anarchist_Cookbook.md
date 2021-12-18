@@ -3,7 +3,7 @@ title: The Anarchist Cookbook
 description: 
 published: false
 date: 2021-07-11T00:06:53.699Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-07-11T00:06:53.699Z
 ---

@@ -3,7 +3,7 @@ title: blued
 description: 
 published: true
 date: 2021-09-05T19:23:10.084Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-09-05T19:23:10.084Z
 ---

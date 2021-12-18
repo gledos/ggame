@@ -3,7 +3,7 @@ title: 2021年5月喀布尔爆炸案
 description: 2021年5月9日，阿富汗喀布尔西部一所学校附近发生炸弹爆炸
 published: true
 date: 2021-05-09T15:49:04.914Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-05-09T15:49:04.914Z
 ---

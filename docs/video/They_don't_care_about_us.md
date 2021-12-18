@@ -3,7 +3,7 @@ title: "They don't care about us"
 description: 
 published: true
 date: 2021-09-18T22:46:31.162Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-09-18T22:46:31.162Z
 ---

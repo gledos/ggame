@@ -3,7 +3,7 @@ title: Kindergarten
 description: 
 published: true
 date: 2021-08-10T17:34:06.909Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-08-10T17:34:06.909Z
 ---

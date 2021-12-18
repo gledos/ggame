@@ -3,7 +3,7 @@ title: mkdocs
 description: 
 published: true
 date: 2021-11-03T17:03:07.860Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-11-03T17:03:07.860Z
 ---

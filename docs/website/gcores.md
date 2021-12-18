@@ -3,7 +3,8 @@ title: 机核网
 description: 
 published: true
 date: 2021-05-26T15:41:01.268Z
-tags: 
+tags:
+    - 播客
 editor: markdown
 dateCreated: 2021-05-26T15:41:01.268Z
 ---

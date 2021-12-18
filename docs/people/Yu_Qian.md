@@ -3,7 +3,7 @@ title: 于谦
 description: 相声演员、影视剧演员，出生于北京市，祖籍陕西蓝田，民革党员，德云社成员。北京马术文化节儿童马术推广大使。
 published: true
 date: 2020-10-14T05:22:25.528Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2020-10-14T05:22:25.528Z
 ---

@@ -3,7 +3,7 @@ title: "World's End Club"
 description: 
 published: true
 date: 2021-09-17T13:40:49.860Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-09-17T13:40:49.860Z
 ---

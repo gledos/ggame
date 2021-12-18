@@ -3,7 +3,7 @@ title: Vybe Together
 description: 一款组织聚会的软件
 published: true
 date: 2021-01-05T14:00:43.515Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-01-05T14:00:43.515Z
 ---

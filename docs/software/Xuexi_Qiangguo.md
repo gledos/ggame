@@ -3,7 +3,7 @@ title: 学习强国
 description: 
 published: true
 date: 2020-10-15T04:33:58.601Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2020-10-15T04:32:22.104Z
 ---
@@ -25,7 +25,7 @@ dateCreated: 2020-10-15T04:32:22.104Z
 
 ## MIUI 权限使用统计白名单
 
-小米手机的「权限使用统计」功能无法检查学习强国的权限使用记录。[^748635]
+2021年1月，小米手机的 [MIUI](/hardware/小米/MIUI.md) 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
 
 [^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？ - V2EX](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635)
 
@@ -39,11 +39,9 @@ dateCreated: 2020-10-15T04:32:22.104Z
 + [Xi's ideology app has 'backdoor' that could let Beijing snoop: Report](https://web.archive.org/web/20200401220822/https://www.cnbc.com/2019/10/14/china-xi-jinping-ideology-app-has-backdoor-that-could-let-beijing-snoop-on-users-report.html)
 + [学习"强国"的后门 - 扫描你的手机、运行任意命令 - iYouPort](https://web.archive.org/web/20200804060551/https://www.iyouport.org/学习强国的后门-扫描你的手机、运行任意命令/)
 + [중국 안드로이드 인기어플 학습대국 대규모 사용자 해킹이 가능한 어플로 파악 : 클리앙](https://web.archive.org/web/20201015043235/https://www.clien.net/service/board/news/14159989)
-
-### ROOT权限的问题
-
-[Cure53 的对某个 App 的审计报告，大家怎么看？ - V2EX](https://web.archive.org/web/20201012124248/https://www.v2ex.com/t/608880)
++ ROOT权限的问题
+    + [Cure53 的对某个 App 的审计报告，大家怎么看？ - V2EX](https://web.archive.org/web/20201012124248/https://www.v2ex.com/t/608880)
 
 ## 刷分工具 Fuck-XueXiQiangGuo
 
-内链: [Fuck-XueXiQiangGuo](/anti-censorship/Fuck-XueXiQiangGuo.md)
+具体内容需跳转至: [Fuck-XueXiQiangGuo](/anti-censorship/Fuck-XueXiQiangGuo.md) 条目。

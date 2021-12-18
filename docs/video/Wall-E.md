@@ -3,7 +3,7 @@ title: Wall-E
 description: 
 published: true
 date: 2021-11-16T11:23:26.467Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-11-16T11:23:26.467Z
 ---

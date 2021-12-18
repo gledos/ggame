@@ -3,7 +3,7 @@ title: 我们人民
 description: 是美国白宫的联署网站，虽然没有直接的法律作用，但能对懒政的政府官员施压
 published: true
 date: 2021-01-24T10:00:03.873Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-01-24T10:00:03.873Z
 ---

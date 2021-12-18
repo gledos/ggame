@@ -3,7 +3,7 @@ title: 澳大利亚煤炭 电力 超超临界电厂
 description: 制裁澳大利亚煤炭带来的一系列事件
 published: true
 date: 2021-01-05T14:09:19.063Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-01-05T14:09:19.063Z
 ---

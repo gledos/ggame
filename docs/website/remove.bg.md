@@ -3,7 +3,7 @@ title: remove.bg
 description: 
 published: true
 date: 2021-09-18T11:38:54.279Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-09-18T11:38:54.279Z
 ---
