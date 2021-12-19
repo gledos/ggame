@@ -122,13 +122,15 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 ## 2021年第二次故障
 
-2021年12月16日 18:30 左右，必应第二次次在大陆大规模访故障，只剩下联通还能访问必应，其他的电信以及移动都不容易连上。[^17CE_12_23]
+2021年12月16日 18:30 左右，必应第二次次在大陆大规模访故障，只剩下联通还能访问必应，其他的电信以及移动都不容易连上。[^17CE_12_16]
 
 [^17CE_12_16]: [cn.bing.com GET测试结果 网站速度测试 17CE](https://web.archive.org/web/20211216154611/http://www.17ce.com/site/http/20211216_751f80c05e5611eca8ff613adab63e9c:1.html)
 
 未知时间，必应大陆版在网页的右下角添加了一个名为「搜索建议暂时关闭」的链接，点击会跳转至 <cn.bing.com/cnlegal> 但仅限大陆 IP 访问，其他地区的 IP 访问会出现熊猫错误。进入后的页面是一段英文提示，全文如下：
 
-> Bing China has been required by the relevant government agency to suspend the search auto suggestion feature in mainland China for 30 days under PRC laws. Bing is a global search platform and remains committed to respect the rule of law and users’ right to access information and to help users find information to the greatest extent feasible under applicable laws.
+> Bing China has been required by the relevant government agency to suspend the search auto suggestion feature in mainland China for 30 days under PRC laws. Bing is a global search platform and remains committed to respect the rule of law and users’ right to access information and to help users find information to the greatest extent feasible under applicable laws.[^bcng]
+
+[^bcng]: [Bing 无法访问临时解决方案 - NucomBlog](https://web.archive.org/web/20211218124110/https://www.nucomblog.com/bing-无法访问临时解决方案/)
 
 2021年12月18日 上午，备用链接 www2.bing.com 与 www4.bing.com 也出现了访问故障。
 
