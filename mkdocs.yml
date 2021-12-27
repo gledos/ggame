@@ -95,4 +95,7 @@ extra:
         - icon: material/email-outline
           link: mailto:cngledos@gmail.com
 
+extra_css:
+    - "css/external_link_icon.css"
+
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>

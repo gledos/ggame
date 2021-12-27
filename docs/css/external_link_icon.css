@@ -1,0 +1,17 @@
+article [href^="http"]:not([href*="ggame.gledos.science"])::after {
+    content: '(external link)';
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    text-indent: 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    background-image: url("../src/external-links/out_link.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 75% auto;
+}
+
+/*
+[CSS only, automated, and accessible external link icon](https://codepen.io/heydon/pen/pgBBdR)
+*/
