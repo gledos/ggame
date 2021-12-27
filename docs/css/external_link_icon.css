@@ -9,7 +9,7 @@ article [href^="http"]:not([href*="ggame.gledos.science"])::after {
     background-image: url("../src/external-links/out_link.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 75% auto;
+    /* background-size: 75% auto; */
 }
 
 /*
