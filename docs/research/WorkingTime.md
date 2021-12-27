@@ -1,6 +1,6 @@
 ---
 title: WorkingTime
-description: 
+description:
 published: true
 date: 2021-11-01T22:40:31.814Z
 tags:
@@ -60,9 +60,7 @@ GitHub仓库名: WorkerLivesMatter/WorkingTime
     + [Team behind censored spreadsheet exposing brutal 996 Big Tech work hours deletes project after widespread crackdown - South China Morning Post](https://web.archive.org/web/20211106004924/https://www.scmp.com/tech/tech-trends/article/3155039/team-behind-censored-spreadsheet-exposing-brutal-996-big-tech-work)
     + ['Worker Lives Matter' Spurs Discussion on Chinese Social Media](https://web.archive.org/web/20211105133507/https://radiichina.com/worker-lives-matter/)
 
-
 <!--
 [ZhangNanBei Profile - githubmemory](https://web.archive.org/web/20211106025716/https://githubmemory.com/@ZhangNanBei)
 [ZhangNanBei (秃头才能变强) · GitHub](https://web.archive.org/web/20211104111017/https://github.com/ZhangNanBei)
 -->
-

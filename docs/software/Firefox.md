@@ -3,7 +3,7 @@ title: Firefox
 description: 
 published: true
 date: 2021-12-07T22:46:02.210Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-12-07T22:46:02.210Z
 ---
@@ -29,7 +29,7 @@ dateCreated: 2021-12-07T22:46:02.210Z
 并且国际版如果使用了简体中文作为软件语言，那么有时主页会被更换为智谋主页，并且手机上的国际版也可能出现这种情况。
 
 + 相关链接
-  + [火狐搜索起始页开始加入广告 - V2EX](https://web.archive.org/web/20211115072527/https://www.v2ex.com/t/500423)
-  + [Firefox 正在失去它最后的拥趸 - V2EX](https://web.archive.org/web/20211115072526/https://www.v2ex.com/t/802450)
-  + [火狐也开始摆烂了 - V2EX]([火狐也开始摆烂了 - V2EX](https://web.archive.org/web/20211207160732/https://v2ex.com/t/813358)  
-  + [FireFox 浏览器国际版被曝篡改主页，给国内用户塞广告](https://web.archive.org/web/20211115043129/https://posts.careerengine.us/p/6187195848a01b473858640b)
+    + [火狐搜索起始页开始加入广告 - V2EX](https://web.archive.org/web/20211115072527/https://www.v2ex.com/t/500423)
+    + [Firefox 正在失去它最后的拥趸 - V2EX](https://web.archive.org/web/20211115072526/https://www.v2ex.com/t/802450)
+    + [火狐也开始摆烂了 - V2EX]([火狐也开始摆烂了 - V2EX](https://web.archive.org/web/20211207160732/https://v2ex.com/t/813358)  
+    + [FireFox 浏览器国际版被曝篡改主页，给国内用户塞广告](https://web.archive.org/web/20211115043129/https://posts.careerengine.us/p/6187195848a01b473858640b)

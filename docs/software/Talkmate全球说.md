@@ -3,7 +3,7 @@ title: Talkmate全球说
 description: 
 published: true
 date: 2021-11-15T14:52:01.553Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2021-11-15T14:52:01.553Z
 ---
@@ -35,5 +35,5 @@ dateCreated: 2021-11-15T14:52:01.553Z
 [^16706]: [语言学习网站全球说 (TalkMate) 宣布下架维、藏语课程 - 2047论坛，自由人的精神角落](https://web.archive.org/web/20211115071544/https://2047.name/t/16706)
 
 + 相关链接
-  + [🇨🇳真的没有针对少数民族文化.jpg : China_irl](https://web.archive.org/web/20211030151643/https://old.reddit.com/r/China_irl/comments/qiz0a0/真的没有针对少数民族文化jpg/)
-  + [应中国政府政策要求 “全球说”软件下架藏维语课程 – 看传媒新闻网](https://web.archive.org/web/20211115063107/https://vct.news/news/8fced8b7-d037-4925-8d28-b3f5a95913ae)
+    + [🇨🇳真的没有针对少数民族文化.jpg : China_irl](https://web.archive.org/web/20211030151643/https://old.reddit.com/r/China_irl/comments/qiz0a0/真的没有针对少数民族文化jpg/)
+    + [应中国政府政策要求 “全球说”软件下架藏维语课程 – 看传媒新闻网](https://web.archive.org/web/20211115063107/https://vct.news/news/8fced8b7-d037-4925-8d28-b3f5a95913ae)
