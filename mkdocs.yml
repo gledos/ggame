@@ -87,6 +87,10 @@ plugins:
               - "*.gz"
           regex:
               - '.*\.(tmp|bin|tar)$'
+    - redirects:                # 重定向插件 https://github.com/datarobot/mkdocs-redirects
+        redirect_maps:
+            "website/立场新闻.md": "company/立场新闻.md"
+
 extra:
     generator: false
     social:
