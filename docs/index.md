@@ -45,7 +45,9 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 [这里](https://github.com/gledos/ggame) 可以查看到所有的条目的 Markdown Raw 文件。
 
-![:网页游客计数器](https://count.getloli.com/get/@:ggame)
+## 游客计数
+
+[![:网页游客计数器](https://count.getloli.com/get/@:ggame)](https://count.getloli.com/)
 
 <!--
 

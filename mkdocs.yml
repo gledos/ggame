@@ -9,6 +9,8 @@ repo_url: https://github.com/gledos/ggame
 
 theme:
     favicon: src/favicon.png
+    icon:
+        logo: material/microsoft-xbox-controller-off
     font: false
     palette:
         - media: "(prefers-color-scheme: light)"
@@ -35,13 +37,13 @@ theme:
         # - tabs
 
 use_directory_urls: false       # gledos 不喜欢的 URL 风格，所以要关闭
+
 markdown_extensions:
     - attr_list                 # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
     - nl2br: false              # newline-to-break markdown 非严格换行
     - toc:
           permalink: "#"        # heading anchor
           slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-
     - admonition                # 突出显示一些东西，比如 !!!info|bug|tips之类
     - codehilite:
           guess_lang: false
@@ -53,7 +55,7 @@ markdown_extensions:
     # - pymdownx.arithmatex     # 数学公式latex支持
     - pymdownx.betterem:
           smart_enable: all
-    - pymdownx.b64              # 将图片编码为 base64
+    # pymdownx.b64              # 将图片编码为 base64
     - pymdownx.details
     # - pymdownx.pathconverter:
     #     base_path: ''         # default: ''
