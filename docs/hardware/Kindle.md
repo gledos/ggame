@@ -21,7 +21,7 @@ dateCreated: 2021-07-08T17:39:49.565Z
 
 ## 逐渐「下架」
 
-2012年12月13日，亚马逊在中文在线的牌照支持下开通中文 Kindle 商店，2013年6月7日，Kindle 电子阅读器正式进入中国。[^icl]
+2012年12月13日，亚马逊开通中文 Kindle 商店，2013年6月7日 Kindle 电子阅读器正式进入中国。[^icl]
 
 [^icl]: [《环球企业家》专稿：斗法Kindle - Reuters](https://web.archive.org/web/20220105055412/https://www.reuters.com/article/third-party-global-entrepreneur-oct-2-4-idCNCNE9AI01R20131119)
 
@@ -31,15 +31,15 @@ dateCreated: 2021-07-08T17:39:49.565Z
     + [入华15年后 亚马逊中国电商业务大撤退 - 新华网](https://web.archive.org/web/20190422061518/http://www.xinhuanet.com/fortune/2019-04/19/c_1210113086.htm)
     + [确认！亚马逊中国7月18日停止为第三方卖家服务 - 新华网](https://web.archive.org/web/20200806202333/http://www.xinhuanet.com/fortune/2019-04/18/c_1124385704.htm)
 
-早于 2019年8月2日 的未知时间，Amazon.cn 的「Kindle商店」页面不再贩卖 Kindle 电子阅读器，而是会推荐用户前往天猫与京东的官方旗舰店购买。[^ack]
+早于 2019年8月2日 的未知时间，Amazon.cn 的「[Kindle商店](https://www.amazon.cn/Kindle%E5%95%86%E5%BA%97/b/ref=topnav_storetab_kinc?ie=UTF8&node=116087071)」页面不再贩卖 Kindle 电子阅读器，而是会推荐用户前往天猫与京东的官方旗舰店购买。[^ack]
 
 [^ack]: [继停止纸质书业务之后，亚马逊官网不再上架Kindle - 知乎](https://web.archive.org/web/20220105070712/https://zhuanlan.zhihu.com/p/76322781)
 
-2021年10月22日，天猫的「Kindle官方旗舰店」终止了经营，[^tm]随后。
+2021年10月22日，天猫的「Kindle官方旗舰店」终止了经营，[^tm]随后Amazon.cn 的「Kindle商店」页面删除了跳转到天猫旗舰店的链接。
 
 [^tm]: [Kindle 的天猫旗舰店为什么没了？到底发生了什么？ - 知乎](https://web.archive.org/web/20220105060611/https://www.zhihu.com/question/488673995)
     
 
-2022年1月4日，「kindle京东自营旗舰店」在无预示的情况下，大量型号的 kindle 显示缺货。[^jd]
+2022年1月4日，「[kindle京东自营旗舰店](https://shop.m.jd.com/?shopId=1000002062)」在无预示的情况下，大量型号的 kindle 显示缺货。[^jd]
 
 [^jd]: [Kindle将退出中国？回应：热销致缺货，第三方和线下零售仍可购买 - AI财经社 - 搜狐](https://web.archive.org/web/20220105065358/https://www.sohu.com/a/514260024_120780844)
