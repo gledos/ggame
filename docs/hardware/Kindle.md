@@ -19,7 +19,7 @@ dateCreated: 2021-07-08T17:39:49.565Z
     + [你 Kindle 上的电子书会被远程删除吗？ - 做書](https://web.archive.org/web/20210225165712if_/https://zuoshu.com/d/24-kindle)
     + [亚马逊远程删除《1984》和《动物庄园》的Kinder电子书 - 警告! - cnBeta.COM](https://web.archive.org/web/20210705054707/https://www.cnbeta.com/articles/tech/88938.htm)
 
-## 全产品缺货
+## 逐渐「下架」
 
 2012年12月13日，亚马逊在中文在线的牌照支持下开通中文 Kindle 商店，2013年6月7日，Kindle 电子阅读器正式进入中国。[^icl]
 
