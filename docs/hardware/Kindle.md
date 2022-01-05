@@ -31,7 +31,7 @@ dateCreated: 2021-07-08T17:39:49.565Z
     + [入华15年后 亚马逊中国电商业务大撤退 - 新华网](https://web.archive.org/web/20190422061518/http://www.xinhuanet.com/fortune/2019-04/19/c_1210113086.htm)
     + [确认！亚马逊中国7月18日停止为第三方卖家服务 - 新华网](https://web.archive.org/web/20200806202333/http://www.xinhuanet.com/fortune/2019-04/18/c_1124385704.htm)
 
-早于 2019年8月2日 的未知时间，Amazon.cn 的「[Kindle商店](https://www.amazon.cn/Kindle%E5%95%86%E5%BA%97/b/ref=topnav_storetab_kinc?ie=UTF8&node=116087071)」页面不再贩卖 Kindle 电子阅读器，而是会推荐用户前往天猫与京东的官方旗舰店购买。[^ack]
+2019年8月2日 之前的未知时间，Amazon.cn 的「[Kindle商店](https://www.amazon.cn/Kindle%E5%95%86%E5%BA%97/b/ref=topnav_storetab_kinc?ie=UTF8&node=116087071)」页面不再贩卖 Kindle 电子阅读器，而是会推荐用户前往天猫与京东的官方旗舰店购买。[^ack]
 
 [^ack]: [继停止纸质书业务之后，亚马逊官网不再上架Kindle - 知乎](https://web.archive.org/web/20220105070712/https://zhuanlan.zhihu.com/p/76322781)
 
