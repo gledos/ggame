@@ -39,7 +39,6 @@ dateCreated: 2021-07-08T17:39:49.565Z
 
 [^tm]: [Kindle 的天猫旗舰店为什么没了？到底发生了什么？ - 知乎](https://web.archive.org/web/20220105060611/https://www.zhihu.com/question/488673995)
     
-
 2022年1月4日，「[kindle京东自营旗舰店](https://shop.m.jd.com/?shopId=1000002062)」在无预示的情况下，大量型号的 kindle 显示缺货。[^jd]
 
 [^jd]: [Kindle将退出中国？回应：热销致缺货，第三方和线下零售仍可购买 - AI财经社 - 搜狐](https://web.archive.org/web/20220105065358/https://www.sohu.com/a/514260024_120780844)
