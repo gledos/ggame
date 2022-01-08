@@ -10,6 +10,43 @@ dateCreated: 2021-08-14T23:43:59.537Z
 
 ## 令状金丝雀
 
+令状金丝雀 ([Warrant Canary](https://en.wikipedia.org/wiki/Warrant_canary))
+
+该技术，或者说技巧是用来规避《[爱国者法案 (美国)](https://en.wikipedia.org/wiki/Patriot_Act)》禁止服务提供商声明自己收到了必须披露用户数据的行为。
+
+具体原理是公开一个声明，当收到法院的必须披露用户数据的行为时，就撤掉这个声明或者停止更新这个声明。
+
+而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
+
+之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年1月8日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ [You Will (Not) Remain on Steam](https://web.archive.org/web/20220107150015/https://store.steampowered.com/app/1776160/You_Will_Not_Remain/)
++ [为何历史修正主义浪潮在全球高涨 - 纽约时报中文网](https://web.archive.org/web/20220107091129/https://cn.nytimes.com/world/20220107/history-revisionism-nationalism/)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYdlLFAAKCRCZXo6bU2oX
+pCukAP97fJeGHWjDYLhfxFiaKczI+tAOqM49+8tBdJkG4cvsrgEA0B0GUONpX1A3
+KAbviB/Fa6IS4zIXD6SzIhB/5H+Q+wA=
+=T0A1
+-----END PGP SIGNATURE-----
+
+```
+
+## 过去的令状金丝雀
+
+### 2021年12月9日
+
 ```markdown
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
@@ -31,8 +68,6 @@ y/f29DfLxs0JhiJXUvrcjGUOJBBI+Ak=
 =6VZz
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2021年11月11日
 
@@ -113,7 +148,7 @@ yeqPUN/7SOR8IPRFF5migQfUOuGgDwA=
 
 ### 2021年8月13日
 
-```text
+```markdown
 GGAME Warrant Canary
 ====================
 
