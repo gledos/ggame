@@ -29,7 +29,7 @@ theme:
     language: zh                # 中文，解决中文搜索问题
     features:
         # - search.highlight
-        - navigation.instant    # XHR 支持
+        # - navigation.instant  # XHR 支持
         - navigation.indexes
         - header.autohide
         - navigation.top        # 回到顶部的按钮
@@ -41,7 +41,7 @@ edit_uri: ""                    # 隐藏编辑按钮
 
 markdown_extensions:
     - attr_list                 # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
-    - nl2br: false              # newline-to-break markdown 非严格换行
+    # - nl2br                   # newline-to-break markdown 非严格换行，我不喜欢的插件
     - toc:
           permalink: "#"        # heading anchor
           slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
