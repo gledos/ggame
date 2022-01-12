@@ -11,7 +11,7 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 ## 和谐游戏
 
-这里收集许多的和谐游戏的百科，点击 [这里](/game/index.md) 跳转到游戏板块，然后从左边的树状列表进行查看条目。
+这里是收集许多的和谐游戏的百科，点击 [这里](/game/index.md) 跳转到游戏板块，然后从左边的树状列表进行查看条目。
 
 搜索功能比较鸡肋，需要等待一段时间后输入词语，比如「心跳文学部」需要搜索「心跳」或「文学部」这样的词语，因为该搜索基于分词系统，并且搜索结果没有显示该条目的标题，只显示了子标题，所以可以进入 Github 仓库进行搜索。
 
@@ -43,11 +43,11 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 ## 源文件
 
-[这里](https://github.com/gledos/ggame) 可以查看到所有的条目的 Markdown Raw 文件。
+[这里](https://github.com/gledos/ggame)（Github 仓库）可以查看到所有的条目的 Markdown Raw 文件。
 
 ## 游客计数
 
-[![:网页游客计数器](https://count.getloli.com/get/@:ggame)](https://count.getloli.com/)
+[![网页游客计数器](https://count.getloli.com/get/@:ggame)](https://count.getloli.com/)
 
 <!--
 

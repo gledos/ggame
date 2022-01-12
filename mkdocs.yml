@@ -5,6 +5,9 @@
 
 site_name: 游戏和谐Wiki
 site_url: https://ggame.gledos.science/
+site_description: 这里是收集许多的和谐游戏的百科
+
+repo_name: gledos/ggame
 repo_url: https://github.com/gledos/ggame
 
 theme:
