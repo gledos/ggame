@@ -108,5 +108,6 @@ extra:
 
 extra_css:
     - "css/external_link_icon.css"
+    - "css/footnotes.css"
 
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
