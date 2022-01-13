@@ -76,10 +76,11 @@ markdown_extensions:
     - pymdownx.snippets
     - pymdownx.magiclink
     - pymdownx.mark
-    - pymdownx.critic           # 支持markdown高亮==、删除、注解等高级样式
-    # - pymdownx.caret          #上标、下划线
+    - pymdownx.critic           # 支持 markdown 高亮==、删除、注解等高级样式
+    - pymdownx.keys             # 支持 快捷键渲染
+    # - pymdownx.caret          # 上标、下划线
     # - pymdownx.smartsymbols   # 1st 2en 以及特殊符号
-    # - pymdownx.tilde          #下标
+    # - pymdownx.tilde          # 下标
 plugins:
     - search
     - abs-to-rel                # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
