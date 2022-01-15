@@ -5,6 +5,7 @@ published: true
 date: 2022-01-14T13:47:44.485Z
 tags:
     - DIY
+    - Steam
 editor: markdown
 dateCreated: 2022-01-14T13:47:44.485Z
 ---
@@ -21,9 +22,11 @@ DLsite_ID: RJ317211
 
 ## 被平台、拒绝下架
 
-2020年12月22日，此游戏准备上架至 Steam，[^1507030]不过没有通过审核，目前作者没有上架 Steam 的计划了。[^1815567]
+2020年12月22日，此游戏准备上架至 Steam，[^1507030]不过没有通过审核，原因可能是儿童色情，[^49993]目前作者没有上架 Steam 的计划了。[^1815567]
 
 [^1507030]: [SteamDB Unknown App 1507030 · AppID: 1507030 · SteamDB](https://steamdb.info/app/1507030/info/)
+
+[^49993]: [[RPGM] - LonaRPG [v0.6.4.0 Beta] [EccmA417] - F95zone](https://web.archive.org/web/20220114155804/https://f95zone.to/threads/lonarpg-v0-6-4-0-beta-eccma417.49993/page-407)
 
 [^1815567]: [Steam release - LonaRPG community - itch.io](https://itch.io/t/1815567/steam-release)
 
