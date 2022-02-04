@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 2020-10-26T07:22:29.879Z
 ---
 
-相关信息
---------
+## 相关信息
+
 
 + 禁止评论，无任何UCG元素的豆瓣页面 [大国战“疫” (豆瓣)](https://web.archive.org/web/20200302160908/https://book.douban.com/subject/34973372/)
 + [《大国战“疫”》近期出版--文化--人民网](https://web.archive.org/web/20200226113647/http://culture.people.com.cn/n1/2020/0226/c1013-31605933.html)

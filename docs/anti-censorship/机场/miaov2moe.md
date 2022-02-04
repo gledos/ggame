@@ -16,11 +16,10 @@ dateCreated: 2021-01-22T05:55:34.347Z
 
 [^miao_lw]: [情况发生变化 50128 – Telegram](https://web.archive.org/web/20210122043110/https://t.me/s/status_is_changing/50128)
 
-### 曾经的链接
+### 曾使用过的链接
 
-均已失效
-
-+ Telegram群组 ~~@miaov2~~
-+ Telegram频道 ~~@miaov2moe~~
-+ 网站主页 ~~https://miaov2.site~~
-+ 防走丢发布页：~~https://miaov2.com~~
++ 均已失效
+    + Telegram群组： @miaov2
+    + Telegram频道： @miaov2moe
+    + 网站主页： miaov2.site
+    + 防走丢发布页： miaov2.com
