@@ -27,6 +27,32 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年2月10日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++ [英国女王登基70年白金禧：伊丽莎白公主是否从小就按照女王的标准培养 BBC](https://web.archive.org/web/20220209160002/https://www.bbc.com/zhongwen/simp/uk-60259640)
++ [秘书长：根据两国方案解决巴勒斯坦问题“时间不多了” UN](https://web.archive.org/web/20220209160003/https://news.un.org/zh/story/2022/02/1099012)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYgPlfgAKCRCZXo6bU2oX
+pGEKAQDOZrk4LBKsmosHgUAMa27nRhX8zkYR0bvjlJvyHXorzgD/T7TdNjw6JXYo
+BjqGEZyHLeJcjqbL+5qnpKuzXPLTPAM=
+=bIUM
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2022年1月8日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年1月8日
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -40,10 +66,7 @@ pCukAP97fJeGHWjDYLhfxFiaKczI+tAOqM49+8tBdJkG4cvsrgEA0B0GUONpX1A3
 KAbviB/Fa6IS4zIXD6SzIhB/5H+Q+wA=
 =T0A1
 -----END PGP SIGNATURE-----
-
 ```
-
-## 过去的令状金丝雀
 
 ### 2021年12月9日
 
