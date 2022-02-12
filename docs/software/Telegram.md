@@ -24,16 +24,16 @@ dateCreated: 2021-09-10T16:23:13.632Z
 
 2021年6月9日 左右，Attila Hildmann 的 Telegram 已被 iOS 与 Android 客户端封锁，只能使用其他渠道的客户端来查看。[^101]
 
-[^101]: tagesschau.de, 《Hetze via Telegram: Hildmanns Reichweite stark begrenzt》, tagesschau.de. <https://www.tagesschau.de/faktenfinder/hetzinhalte-reichweite-101.html> (参照 2022-02-12).
+[^101]: tagesschau.de, 《Hetze via Telegram: Hildmanns Reichweite stark begrenzt》, tagesschau.de. <https://web.archive.org/web/20220204091854/https://www.tagesschau.de/faktenfinder/hetzinhalte-reichweite-101.html> (参照 2022-02-12).
 
 
 2021年12月14日，因为反疫苗、反犹主义的内容，德国高级官员要求德国政府立即下架 iOS 与 Android 平台商店的 Telegram，如果没有解决上述的问题。[^psgsb]
 
-[^psgsb]: Thomas Escritt, 《Politician says Germany should ban Telegram unless it tackles extremist content》, Reuters, 2021-12-14. 参照: 2022-02-12. [Online]. Available at: <https://www.reuters.com/world/europe/politician-says-germany-should-ban-telegram-unless-it-tackles-extremist-content-2021-12-14/>
+[^psgsb]: Thomas Escritt, 《Politician says Germany should ban Telegram unless it tackles extremist content》, Reuters, 2021-12-14. 参照: 2022-02-12. [Online]. Available at: <https://web.archive.org/web/20220211090604/https://www.reuters.com/world/europe/politician-says-germany-should-ban-telegram-unless-it-tackles-extremist-content-2021-12-14/>
 
 德国的审查依据是《网络实施法》(Network Enforcement Act)，要求大型社交媒体平台迅速删除非法材料或面临高额罚款。[^60474738]
 
-[^60474738]: Deutsche Welle, 《Germany takes on Telegram to fight extremism》, DW.COM, 2022-01-19. <https://www.dw.com/en/germany-takes-on-telegram-to-fight-extremism/a-60474738> (参照 2022-02-12).
+[^60474738]: Deutsche Welle, 《Germany takes on Telegram to fight extremism》, DW.COM, 2022-01-19. <https://web.archive.org/web/20220204220035/https://www.dw.com/en/germany-takes-on-telegram-to-fight-extremism/a-60474738> (参照 2022-02-12).
 
 2022年2月9日，Attila Hildmann 的 Telegram 频道以及其他频道被彻底封锁，<https://t.me/NWOHunter_An_die_Nachwelt> 现已无法访问。[^64-ka]
 
