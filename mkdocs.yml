@@ -44,6 +44,7 @@ use_directory_urls: false   # gledos 不喜欢的 URL 风格，所以要关闭
 edit_uri: ""                # 隐藏编辑按钮
 
 markdown_extensions:
+  # - abbr                    # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
   - attr_list               # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
   # - nl2br                 # newline-to-break markdown 非严格换行，我不喜欢的插件
   - toc:
@@ -55,7 +56,7 @@ markdown_extensions:
       guess_lang: false
       linenums: false
   - footnotes               # 支持脚注[^1]
-  - meta
+  - meta                    # YAML 元数据
   - def_list                # 支持有序、无序、任务列表
   - pymdownx.tasklist
   # - pymdownx.arithmatex   # 数学公式latex支持
@@ -110,6 +111,6 @@ extra:
 
 extra_css:
   - "css/external_link_icon.css"
-  - "css/footnotes.css"
+  - "css/footnotes.css"     # 脚注 CSS
 
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
