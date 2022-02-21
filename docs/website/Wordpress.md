@@ -15,9 +15,13 @@ dateCreated: 2021-08-09T09:49:34.895Z
 > 我哋個網站俾人強行落咗架，原因不明。<br>
 > 我們將尋求其他方案，並暫時在社交媒體發佈我們的最新訊息。
 
+---
+
 > HKLC [2021年6月2日](https://www.facebook.com/HKLiberationCoalition/photos/a.120697460169936/123512289888453/)
 >
 > 我們啟用不足兩星期的網站 hk liberation.com被 Wordpress 強行下架，現在正和Wordpress 交涉中。
+
+---
 
 > HKLC [2021年6月5日](https://www.facebook.com/HKLiberationCoalition/posts/124289936477355)
 >
