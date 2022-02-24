@@ -1,5 +1,5 @@
 ---
-title: music
+title: sound
 description: 
 published: true
 date: 2021-08-21T19:09:03.776Z
@@ -12,4 +12,4 @@ dateCreated: 2021-08-21T19:09:03.776Z
 
 ## 简介
 
-待续
+sound 板块主要收集音乐，也包含 Podcast「播客」。

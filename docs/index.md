@@ -21,7 +21,7 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 | 板块     | 文件夹                                      | 板块     | 文件夹                                        |
 | -------- | ------------------------------------------- | -------- | --------------------------------------------- |
-| 活动     | [/activities](/activities/index.md)         | 音乐     | [/music](/music/index.md)                     |
+| 活动     | [/activities](/activities/index.md)         | 新闻存档 | [/news_archive](/news_archive/index.md)       |
 | 允许列表 | [/allowlist](/allowlist/index.md)           | 人物     | [/people](/people/index.md)                   |
 | 反审查   | [/anti](/anti-censorship/index.md)          | 处罚     | [/punish](/punish/index.md)                   |
 | 限制列表 | [/blocklist](/blocklist/index.md)           | 研究     | [/research](/research/index.md)               |
@@ -29,10 +29,10 @@ dateCreated: 2021-03-18T10:32:32.947Z
 | 捕风捉影 | [/catch_the_wind](/catch_the_wind/index.md) | 服务     | [/serviceprovider](/serviceprovider/index.md) |
 | 审查     | [/censorship](/censorship/index.md)         | 软件     | [/software](/software/index.md)               |
 | 公司     | [/company](/company/index.md)               | 技术     | [/technology](/technology/index.md)           |
-| 事件     | [/event](/event/index.md)                   | 尚不明确 | [/unclear](/unclear/index.md)                 |
-| 游戏     | [/game](/game/index.md)                     | 视频     | [/video](/video/index.md)                     |
-| 硬件     | [/hardware](/hardware/index.md)             | 网站     | [/website](/website/index.md)                 |
-| 运动     | [/movement](/movement/index.md)             |          |                                               |
+| 事件     | [/event](/event/index.md)                   | 声音     | [/sound](/sound/index.md)                     |
+| 游戏     | [/game](/game/index.md)                     | 尚不明确 | [/unclear](/unclear/index.md)                 |
+| 硬件     | [/hardware](/hardware/index.md)             | 视频     | [/video](/video/index.md)                     |
+| 运动     | [/movement](/movement/index.md)             | 网站     | [/website](/website/index.md)                 |
 
 ## 联系方式
 
