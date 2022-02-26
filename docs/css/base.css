@@ -1,0 +1,19 @@
+/* 行首缩进 - 开始 */
+
+p {
+    text-indent: 2em;
+}
+
+/* blockquote>p {
+    text-indent: 0em;
+} */
+
+li>p {
+    text-indent: 0em;
+}
+
+.admonition-title {
+    text-indent: 0em;
+}
+
+/* 行首缩进 - 结束 */
