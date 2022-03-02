@@ -56,7 +56,8 @@ dateCreated: 2021-10-20T15:57:01.924Z
 
 [^KDujXyhrH]: [#赵薇##网信办要求... - @Scarlett在落地之處開花的微博 - 微博](https://archive.md/uePkC "https://weibo.com/1910913772/KDujXyhrH")
 
-> 文化和旅游部办公厅<br>
+> 文化和旅游部办公厅
+>
 > 关于政府信息公开申请的答复
 >
 > ▮▮▮:
