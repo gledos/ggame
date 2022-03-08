@@ -62,3 +62,19 @@ dateCreated: 2021-06-27T18:56:29.638Z
 + 相关链接
     + [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
     + [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
+
+## 自动添加 DNS
+
+2022年3月6日，MIUI 被发现以下代码，会根据系统地区自动添加 114 以及「互联网国家工程中心」或谷歌的 DNS。[^0166]:
+
+[^0166]: llccd @gNodeB, 《[小米手机设置不存在的 DNS 仍然可以解析域名](https://twitter.com/gNodeB/status/1500500166549327877)》, Twitter. (参照 2022-03-08).
+
+```JAVA
+String dns = System.isInCnRegion() ? "114.114.114.114" : "8.8.8.8";
+String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
+```
+
+由于该功能没有被公布，所以可能会造成 DNS 泄露，包括在使用 VPN 的时候。以及与其他手机出现网络上的差异。
+
++ 相关条目
+    + [三星港版手机](/hardware/Samsung_Phone_HK.md)
