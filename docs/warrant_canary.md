@@ -27,6 +27,33 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年3月10日
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   [简报：乌克兰平民伤亡急剧增加；尹锡悦当选韩国总统 - The New York Times](https://web.archive.org/web/20220310021138/https://www.nytimes.com/zh-hans/2022/03/09/world/asia/ukraine-russia-bombards.html)
++   [俄罗斯空袭击中乌克兰一家妇产医院 - 华尔街日报](https://web.archive.org/web/20220310022016/https://cn.wsj.com/articles/俄罗斯空袭击中乌克兰马里乌波尔市的妇产医院-11646870160)
++   [Valkyrie Elysium Announced From Square Enix - IGN](https://web.archive.org/web/20220310022158/https://www.ign.com/articles/valkyrie-elysium-announced-from-square-enix)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYilh0AAKCRCZXo6bU2oX
+pH/qAQDdetG2GNw4/lpoL6nLf77heR+PQcs5E2qs6WP6LyZ8tgEA78Q9BhGfm6e8
+qcu8268bhUQUGpWGWvJEP1EYybiPAAk=
+=2+HS
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2022年2月10日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年2月10日
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -41,8 +68,6 @@ BjqGEZyHLeJcjqbL+5qnpKuzXPLTPAM=
 =bIUM
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年1月8日
 

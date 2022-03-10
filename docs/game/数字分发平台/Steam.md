@@ -12,11 +12,13 @@ dateCreated: 2021-03-18T10:34:26.821Z
 
 ## Steam 地图问题
 
-在Steam全球统计页面中，曾经有世界地图。[^23879]被指出问题后移除了地图，修改为热力图。[^66291]
+在Steam全球统计页面中，曾经有世界地图。[^23879]被指出问题后，限制了大陆 IP 使用此功能，修改为热力图。[^66291]其他地区依然可以使用世界地图。[^0405]
 
 [^23879]: [【突發】出征一波接一波,現在輪到做steam傷害了中國人感情了,各位怎麼看? - 新·品葱](https://web.archive.org/web/20200922112943/https://pincong.rocks/question/23879)
 
 [^66291]: [【4.19】针对Steam全球数据统计页面国家领土缺失问题的通告【steam吧】 - 百度贴吧](https://web.archive.org/web/20210408050506/https://tieba.baidu.com/p/6629141990)
+
+[^0405]: 《[交互图 - Steam 全球流量图](https://web.archive.org/web/20211215104058/https://store.steampowered.com/stats/content?l=schinese)》, Steam 下载统计, 2021-12-15. (参照 2022-03-09).
 
 ## Steam 大陆区个人主页会因违规好友连坐
 
