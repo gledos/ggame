@@ -14,7 +14,7 @@ dateCreated: 2022-03-08T16:11:38.313Z
 
 [^0301]: 玛丽亚·庞巴迪, 《[依领导要求，龙芯BBS和问答社区即将关闭。](https://web.archive.org/web/20220302114903/https://micronews.godson.ac.cn/2022/1646161415.html)》, 狗剩微闻, 2022-03-01. (参照 2022-03-08).
 
-!!! quote "狗剩微闻"
+???+ quote "狗剩微闻"
 
     依领导要求，龙芯BBS和问答社区即将关闭。Loongnix BBS will offline by leaders' request.
 

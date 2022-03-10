@@ -22,11 +22,11 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [《四叶草剧场》受到黑客组织DDOS攻击说明 - Clover Theatre's General - TapTap Clover Theatre Group](https://archive.md/bkrN5 "https://www.taptap.com/topic/16471826")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是ACCN正对游戏伺阪器遂行DDOS攻击瘫痪于你们确供的网络服务解除 攻击请与我联系确认瘫痪伺IP
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     7点没入款完美从新灌入流量并扩大攻击范围包括战舰少女的服务器
     
@@ -44,7 +44,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [2020-03-16姬魔服务器又双叒叕被攻击 ，09：35我们战胜了黑客，大伙快回来和老婆们团聚吧！ - Witch in Love's General - TapTap Witch in Love Group](https://archive.md/CKnat "https://www.taptap.com/topic/10343538")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     正在攻击你们伺服器 看到请与我联系
     
@@ -89,7 +89,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [ACCN小组，黑客大人，别再攻击我们了，我们没钱。 - Zero Memory's General - TapTap Zero Memory Group](https://archive.md/rg52Q "https://www.taptap.com/topic/12914363")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是Accn小组 正对你们游戏伺服器进行攻击 解除攻击请联系我们(涂黑部分)瘫痪伺服器(涂黑部分)請确认
 
@@ -103,7 +103,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [9月3日服务器二次维护通知 - 萌将风云's General - TapTap 萌将风云 Group](https://archive.md/qUP2i "https://www.taptap.com/topic/14816480")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是ACCN正对游戏伺服器进行DDOSS请与我联系解除攻
 
@@ -117,7 +117,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [12月24日服务器登录异常公告 - Hero Chess's General - TapTap Hero Chess Group](https://archive.md/L4Nkw "https://www.taptap.com/topic/16213361")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     _📞 未接听，点击回拨_
     
@@ -159,7 +159,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [服务器被攻击，目前暂时无法进入游戏，我们正在紧急处理 - 追妖记's Announcements - TapTap 追妖记 Group](https://archive.md/WRFr0 "https://www.taptap.com/topic/16101907")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好
     
@@ -183,7 +183,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [我们被黑客攻击了，但我们绝不妥协！ - 哔哩哔哩专栏](https://archive.md/UgEcl "https://www.bilibili.com/read/cv9174229/")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     正对游戏迸行DDOS清与我联系解除攻击
 
@@ -201,7 +201,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [关于5.22开服服务器被攻击说明 - 独奏骑士's 官方公告 - TapTap 独奏骑士 Group](https://archive.md/Zj1M7 "https://www.taptap.com/topic/18159830")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     正对游戏进行DDOS流量攻击请与我联系确认服务器ip
     
@@ -242,7 +242,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [关于5月28日下午5点左右游戏无法登录的说明 - 重建家园's General - TapTap 重建家园 Group](https://archive.md/6tNMF "https://www.taptap.com/topic/18218376")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是Accn正对游戏从建家园伺服器进行攻击。瘫痪你们所提供的网络服务。 瘫痪(涂黑部分)服务器瑚(涂黑部分)请确认。确认完请负责人添加我们解除流量攻击
     
@@ -269,7 +269,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [炸服日记——7月6日 - 交叉次元：像素电玩世界's General - TapTap 交叉次元：像素电玩世界 Group](https://archive.md/hTVfM "https://www.taptap.com/topic/18605925")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     对游戏进行DDOS与我联系解除攻击
     
@@ -299,7 +299,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [【公告】关于7月22日服务器异常补偿说明（含补偿内容） - 小小五千年's General - TapTap 小小五千年 Group](https://archive.md/Bgw1C "https://www.taptap.com/topic/18773640")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     对游戏进行DDOS与我联系解除攻击
     
@@ -329,11 +329,11 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [《天黑装备铺》服务器遭受ACCN黑客组织第三波攻击公告 - 天黑装备铺's General - TapTap 天黑装备铺 Group](https://archive.md/HR30C "https://www.taptap.com/topic/18806521")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是accn正对游戏进行DDOS攻击瘫痪阿里云服务器(涂黑部分)请确认确认完联系我们QQ解除接下来的流量攻击
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     _📞 语音通话未接听_
     
@@ -361,7 +361,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
 链接: [弈剑行服务暂时终止，退款声明 - Duel of Sword's 官方公告 - TapTap Duel of Sword Group](https://archive.md/zRXye "https://www.taptap.com/topic/18940396")
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是ACCN 正对游戏伺服器进行攻击
     
@@ -388,7 +388,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [《猫灵相册》受黑客组织DDOS攻击始末及声明我… - 半次元 - ACG爱好者社区](https://archive.md/eP8vM "https://bcy.net/item/detail/6996608770973375501")
 ```
 
-!!! quote "引用官方图片声明"
+???+ quote "引用官方图片声明"
 
     #### 受黑客组织DDOS攻击始末及声明
     
@@ -464,7 +464,7 @@ dateCreated: 2021-11-02T10:00:55.597Z
   - [被黑客攻击了？【江湖悠悠吧】 - 百度贴吧](https://web.archive.org/web/20211102110036/https://tieba.baidu.com/p/7397220839)
 ```
 
-!!! quote "引用攻击者发言"
+???+ quote "引用攻击者发言"
 
     你好我们是(涂黑部分)正对江湖悠悠进行DDOS攻击瘫痪你们所提供的网络服务 瘫痪阿里云服务器(涂黑部分)请确认 确认完与我联系解除攻击
     
