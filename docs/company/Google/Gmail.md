@@ -3,8 +3,7 @@ title: Gmail
 description: 谷歌的邮件服务
 published: true
 date: 2021-08-16T23:22:23.381Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-08-16T23:22:23.381Z
 ---

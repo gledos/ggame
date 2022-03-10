@@ -3,7 +3,8 @@ title: Wordpress
 description: 
 published: true
 date: 2021-08-09T09:49:34.895Z
-tags: 博客
+tags:
+    - 博客
 editor: markdown
 dateCreated: 2021-08-09T09:49:34.895Z
 ---

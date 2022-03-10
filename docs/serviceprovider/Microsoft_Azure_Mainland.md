@@ -3,8 +3,7 @@ title: Microsoft Azure 大陆版
 description: 由中国世纪互联运营的云端服务平台
 published: true
 date: 2020-10-07T02:46:10.673Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2020-10-07T02:38:21.531Z
 ---

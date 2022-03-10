@@ -3,7 +3,8 @@ title: Apple Watch
 description: 
 published: true
 date: 2021-06-26T19:52:48.433Z
-tags: Apple
+tags:
+    - Apple
 editor: markdown
 dateCreated: 2021-06-26T19:52:48.433Z
 ---

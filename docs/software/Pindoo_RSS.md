@@ -3,7 +3,8 @@ title: 品读RSS
 description: 一款 iOS 端专注于中文阅读的 RSS 阅读器
 published: true
 date: 2021-02-01T12:23:03.270Z
-tags: RSS
+tags:
+    - RSS
 editor: markdown
 dateCreated: 2021-01-25T14:48:05.011Z
 ---

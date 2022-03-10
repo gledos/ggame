@@ -3,7 +3,8 @@ title: flickr
 description: 提供图片分享的网路相簿，功能上像是摄影爱好者的小型博客
 published: true
 date: 2020-11-17T03:02:58.990Z
-tags: GFW
+tags:
+    - GFW
 editor: markdown
 dateCreated: 2020-11-17T03:01:59.102Z
 ---

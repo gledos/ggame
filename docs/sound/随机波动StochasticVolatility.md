@@ -3,8 +3,7 @@ title: 随机波动StochasticVolatility
 description:
 published: true
 date: 2022-02-24T18:22:15.260Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-02-24T18:22:15.260Z
 ---

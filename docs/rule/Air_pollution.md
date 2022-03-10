@@ -3,7 +3,8 @@ title: 对空气质量言论的规则
 description: 
 published: true
 date: 2020-10-15T04:35:18.603Z
-tags: 奥运
+tags:
+    - 奥运
 editor: markdown
 dateCreated: 2020-10-14T15:31:41.624Z
 ---

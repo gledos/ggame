@@ -3,7 +3,8 @@ title: Fuck-XueXiQiangGuo
 description: 
 published: true
 date: 2021-06-02T03:59:30.429Z
-tags: Github
+tags:
+    - Github
 editor: markdown
 dateCreated: 2021-03-18T10:39:30.861Z
 ---

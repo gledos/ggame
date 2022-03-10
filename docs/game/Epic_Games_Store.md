@@ -3,7 +3,8 @@ title: Epic Games Store
 description: 
 published: true
 date: 2021-06-11T10:23:50.478Z
-tags: 游戏平台
+tags:
+    - 游戏平台
 editor: markdown
 dateCreated: 2021-06-11T10:23:50.478Z
 ---

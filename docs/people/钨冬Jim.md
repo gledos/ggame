@@ -3,7 +3,8 @@ title: 钨冬Jim
 description: 前 Minecraft UP主
 published: true
 date: 2021-07-05T15:21:15.285Z
-tags: DIY
+tags:
+    - DIY
 editor: markdown
 dateCreated: 2021-07-05T15:21:15.285Z
 ---

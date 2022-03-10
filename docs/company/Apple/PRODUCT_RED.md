@@ -3,7 +3,8 @@ title: (PRODUCT)RED
 description: 
 published: true
 date: 2021-07-15T11:56:28.897Z
-tags: Apple
+tags:
+    - Apple
 editor: markdown
 dateCreated: 2021-07-15T11:56:28.897Z
 ---

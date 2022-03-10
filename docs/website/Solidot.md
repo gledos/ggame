@@ -3,7 +3,8 @@ title: Solidot
 description: 科技资讯网站和奇客交流社区
 published: true
 date: 2021-07-13T16:41:12.700Z
-tags: 回审
+tags:
+    - 回审
 editor: markdown
 dateCreated: 2021-07-13T16:41:12.700Z
 ---

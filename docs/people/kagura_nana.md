@@ -3,7 +3,8 @@ title: 神楽七奈
 description: 
 published: true
 date: 2021-07-08T09:16:02.364Z
-tags: Vtuber
+tags:
+    - Vtuber
 editor: markdown
 dateCreated: 2021-07-08T09:16:02.365Z
 ---

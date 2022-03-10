@@ -34,7 +34,7 @@ theme:
   features:
     # - search.highlight
     # - navigation.instant  # XHR 支持
-    - navigation.tracking   # 自动锚点更新
+    # - navigation.tracking # 自动锚点更新
     - navigation.indexes    # 文件夹下的 index.md 自动「连接」
     - header.autohide
     - navigation.top        # 回到顶部的按钮
@@ -45,19 +45,17 @@ use_directory_urls: false   # gledos 不喜欢的 URL 风格，所以要关闭
 edit_uri: ""                # 隐藏编辑按钮
 
 markdown_extensions:
-  - pymdownx.superfences:   # 美人鱼.js
-      custom_fences:
+  - pymdownx.superfences:   # 代码块相关
+      custom_fences:        # 代码块相关
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-  # - abbr                    # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
+  # - abbr                  # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
   - attr_list               # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
   # - nl2br                 # newline-to-break markdown 非严格换行，我不喜欢的插件
   - toc:
       permalink: "#"        # heading anchor
       slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-
-
   - admonition              # 突出显示一些东西，比如 !!!info|bug|tips之类
   - codehilite:
       guess_lang: false
@@ -80,7 +78,6 @@ markdown_extensions:
   # emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.highlight      # 代码块相关
   - pymdownx.inlinehilite   # 代码块相关
-  - pymdownx.superfences    # 代码块相关
   - pymdownx.tabbed         # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
   - pymdownx.snippets
   - pymdownx.magiclink

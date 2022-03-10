@@ -3,7 +3,8 @@ title: XcodeGhost
 description: 
 published: true
 date: 2021-07-29T23:09:35.726Z
-tags: Apple
+tags:
+    - Apple
 editor: markdown
 dateCreated: 2021-07-29T23:09:35.726Z
 ---

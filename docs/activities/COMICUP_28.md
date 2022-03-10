@@ -3,8 +3,7 @@ title: COMICUP 28
 description: 第 28 届 COMICUP 同人祭
 published: true
 date: 2021-06-14T04:12:11.811Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-06-14T04:12:11.811Z
 ---

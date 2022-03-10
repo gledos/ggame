@@ -3,8 +3,7 @@ title: 唐纳德·特朗普
 description: 第四十五任美国总统，也是知名企业家
 published: true
 date: 2021-01-14T10:53:04.414Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-01-14T10:53:04.414Z
 ---

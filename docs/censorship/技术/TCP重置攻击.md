@@ -3,8 +3,7 @@ title: TCP重置攻击
 description:
 published: true
 date: 2022-01-30T16:20:02.309Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-01-30T16:20:02.309Z
 ---
@@ -28,3 +27,20 @@ sequenceDiagram
 + 相关链接
     + [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
     + [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)
+
+
+tesat
+
+``` mermaid
+stateDiagram-v2
+  state fork_state <<fork>>
+    [*] --> fork_state
+    fork_state --> State2
+    fork_state --> State3
+
+    state join_state <<join>>
+    State2 --> join_state
+    State3 --> join_state
+    join_state --> State4
+    State4 --> [*]
+```

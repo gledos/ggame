@@ -3,8 +3,7 @@ title: wikipedia
 description: 自由的百科全书
 published: true
 date: 2021-09-15T14:05:57.537Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-09-15T14:05:57.537Z
 ---

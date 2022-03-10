@@ -3,7 +3,8 @@ title: Uplay
 description: 育碧的游戏平台客户端
 published: true
 date: 2020-09-30T09:42:29.895Z
-tags: 游戏平台
+tags:
+    - 游戏平台
 editor: markdown
 dateCreated: 2020-09-30T09:42:29.895Z
 ---

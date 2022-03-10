@@ -3,8 +3,7 @@ title: 抖音
 description: 世界第一的短视频社交应用程式
 published: true
 date: 2020-12-16T08:02:30.795Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2020-12-16T07:50:29.362Z
 ---

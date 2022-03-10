@@ -3,7 +3,8 @@ title: co.jp
 description: 日本流行的「用法是顶级域名的实际二级域名」
 published: true
 date: 2020-12-02T09:58:30.792Z
-tags: GFW
+tags:
+    - GFW
 editor: markdown
 dateCreated: 2020-10-10T09:08:58.801Z
 ---

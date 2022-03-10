@@ -3,7 +3,9 @@ title: 超级飞侠
 description: 由三个国家的三家公司联合制作的热门动画
 published: true
 date: 2021-03-18T11:33:41.529Z
-tags: 动画 地图
+tags:
+    - 动画
+    - 地图
 editor: markdown
 dateCreated: 2021-03-18T11:33:07.884Z
 ---

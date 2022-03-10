@@ -3,7 +3,8 @@ title: 推倒柏林墙
 description: 87年生，微系统工程，反动分子，非正常人类研究学者，海贼迷，星际迷，装逼犯，纯洁帝。最大的优点：谦虚。
 published: true
 date: 2020-10-26T15:15:09.039Z
-tags: 博客
+tags:
+    - 博客
 editor: markdown
 dateCreated: 2020-10-26T14:32:48.356Z
 ---

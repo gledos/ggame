@@ -3,7 +3,8 @@ title: The Wall 墙
 description: 一款禅意游戏
 published: true
 date: 2021-01-05T08:00:21.784Z
-tags: Steam
+tags:
+    - Steam
 editor: markdown
 dateCreated: 2021-01-05T08:00:21.784Z
 ---

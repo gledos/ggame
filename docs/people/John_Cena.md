@@ -3,7 +3,8 @@ title: John Cena
 description: 
 published: true
 date: 2021-06-02T03:40:14.854Z
-tags: 新浪微博
+tags:
+    - 新浪微博
 editor: markdown
 dateCreated: 2021-06-02T03:40:14.854Z
 ---

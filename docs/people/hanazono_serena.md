@@ -3,7 +3,8 @@ title: 花园Serena
 description: 
 published: true
 date: 2021-07-07T13:41:51.719Z
-tags: Vtuber
+tags:
+    - Vtuber
 editor: markdown
 dateCreated: 2021-07-07T13:41:51.719Z
 ---

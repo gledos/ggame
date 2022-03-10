@@ -3,7 +3,8 @@ title: Ice
 description: 前雷亚游戏音乐总监
 published: true
 date: 2021-05-04T06:45:58.336Z
-tags: 腾讯
+tags:
+    - 腾讯
 editor: markdown
 dateCreated: 2021-05-04T06:42:07.785Z
 ---

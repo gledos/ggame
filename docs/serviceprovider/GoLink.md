@@ -3,8 +3,7 @@ title: GoLink
 description: 
 published: true
 date: 2021-10-30T23:01:51.045Z
-tags:
-    - 无标签
+特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-10-30T23:01:51.045Z
 ---
