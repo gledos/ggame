@@ -22,6 +22,10 @@ SocksCap64 是基于 DLL 注入技术的代理工具，通常作为游戏加速�
 
     很抱歉的告诉大家，由于硬盘坏掉所有的数据都丢失了。 SSTAP和SOCKSCAP64将永久停止开发。 
 
+2017年7月22日 20:15，SocksCap64 与 SSTap 的开源仓库被作者提交了最后的更新，该更新的注释是「作者不再维护此项目」，并且该更新移除了源码。[^0bef06d]
+
+[^0bef06d]: 《[作者不再维护此项目 · tarolabs/sscap@0bef06d](https://web.archive.org/web/20220319131127/https://github.com/tarolabs/sscap/commit/0bef06d42e0dc6a471d10cd1b30b4f5e71d221b5)》, github, 2017-07-22. (参照 2022-03-19).
+
 未知时间，SocksCap64 的开发者禁止了 Wayback Machine 的快照，并将软件官网修改为了游戏网站。
 
 未知时间，网站的关于页面被添加上了免责声明：[^about-me]
@@ -40,6 +44,4 @@ SocksCap64 是基于 DLL 注入技术的代理工具，通常作为游戏加速�
 
 [^enjoy]: 《[SSTap-Enjoy gaming! Enjoy SSTap](https://www.sockscap64.com/sstap-enjoy-gaming-enjoy-sstap/)》, SocksCap64. (参照 2022-03-19).
 
-2017年7月22日 20:15，SocksCap64 与 SSTap 的开源仓库被作者提交了最后的更新，该更新的注释是「作者不再维护此项目」，并且该更新移除了源码。[^0bef06d]
-
-[^0bef06d]: 《[作者不再维护此项目 · tarolabs/sscap@0bef06d](https://web.archive.org/web/20220319131127/https://github.com/tarolabs/sscap/commit/0bef06d42e0dc6a471d10cd1b30b4f5e71d221b5)》, github, 2017-07-22. (参照 2022-03-19).
+未知时间，作者的推特被修改为私密账号（即锁推）。
