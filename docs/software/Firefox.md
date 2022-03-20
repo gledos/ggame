@@ -31,5 +31,16 @@ dateCreated: 2021-12-07T22:46:02.210Z
 + 相关链接
     + [火狐搜索起始页开始加入广告 - V2EX](https://web.archive.org/web/20211115072527/https://www.v2ex.com/t/500423)
     + [Firefox 正在失去它最后的拥趸 - V2EX](https://web.archive.org/web/20211115072526/https://www.v2ex.com/t/802450)
-    + [火狐也开始摆烂了 - V2EX]([火狐也开始摆烂了 - V2EX](https://web.archive.org/web/20211207160732/https://v2ex.com/t/813358)  
+    + [火狐也开始摆烂了 - V2EX](https://web.archive.org/web/20211207160732/https://v2ex.com/t/813358)  
     + [FireFox 浏览器国际版被曝篡改主页，给国内用户塞广告](https://web.archive.org/web/20211115043129/https://posts.careerengine.us/p/6187195848a01b473858640b)
+
+## 限制去广告的扩展
+
+2022年3月，Firefox 开始偷偷限制大陆用户安装去广告的扩展，当 Firefox 检测到用户来自大陆后，就会在 uBlock Origin、AdGuard AdBlocker、AdBlock For Firefox、AdNauseam 这几款扩展的页面显示：「此页面在您的地区不可用」。[^6773]
+
+[^6773]: 土间被活埋, 《[Mozilla限制中国大陆用户访问安装部分广告过滤插件](https://web.archive.org/web/20220320070854/https://bgme.me/@bgme/107986773834355287)》, 2022-03-20. (参照 2022-03-20).
+
++   相关链接
+    +   Osk, 《[警告(希望是误报): Mozilla 在搞事儿, 部分地区 Android 上无法安装广告屏蔽扩展!](https://web.archive.org/web/20220320065407/https://www.v2ex.com/t/841567)》, V2EX, 2022-03-20. (参照 2022-03-20).
+    +   ground_cat, 《[Firefox now blocks Ad-filtering add-ons (uBlock Origin, AdBlock) in China](https://web.archive.org/web/20220320052216/https://news.ycombinator.com/item?id=30740366)》, Hacker News, 2022-03-20. (参照 2022-03-20).
+

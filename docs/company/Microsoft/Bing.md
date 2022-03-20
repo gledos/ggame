@@ -144,3 +144,11 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
     + [最近必应中文搜索是否出现问题？ - 知乎](https://web.archive.org/web/20211216154036/https://www.zhihu.com/question/288799107)
     + [bing的在中国的搜索自动建议功能被暂停服务30天 目前.cn域名无法打开 : China_irl](https://web.archive.org/web/20211216153557/https://old.reddit.com/r/China_irl/comments/rhpn14/bing的在中国的搜索自动建议功能被暂停服务30天_目前cn域名无法打开/)
     + [2021 年 12月 16日 18:30许，必应搜索在中国无法访问 : China_irl](https://web.archive.org/web/20211216153602/https://old.reddit.com/r/China_irl/comments/rhrb5x/2021_年_12月_16日_1830许必应搜索在中国无法访问/)
+
+## 大陆暂时关闭 7 天「搜索建议」
+
+2022年3月19日，大陆必应再次关闭「搜索建议」功能 7 天，[^nZ1]并且快照功能也在相近的时间被关闭。[^841505]
+
+[^nZ1]: 《[微软必应在内地“搜索建议”暂时关闭7天](https://web.archive.org/web/20220319234845/https://i.ifeng.com/c/8EVnZ1E62aX)》, 凤凰网科技, 2022-03-19. 参照: 2022-03-20. [Online].
+
+[^841505]: linshiyouxiang, 《[各位 Bing 最近搜索质量感觉有下降吗? (不排除是个人网络配置问题)](https://www.v2ex.com/t/841505)》, V2EX/问与答, 2022-03-19. (参照 2022-03-20).
