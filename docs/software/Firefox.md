@@ -36,7 +36,7 @@ dateCreated: 2021-12-07T22:46:02.210Z
 
 ## 限制去广告的扩展
 
-2022年3月，Firefox 开始偷偷限制大陆用户安装去广告的扩展，当 Firefox 检测到用户来自大陆后，就会在 uBlock Origin、AdGuard AdBlocker、AdBlock For Firefox、AdNauseam 这几款扩展的页面显示：「此页面在您的地区不可用」。[^6773]
+2022年3月，Firefox 开始偷偷限制大陆用户安装去广告的扩展，当 Firefox（任何版本的客户端，包括智谋与国际官网）检测到用户来自大陆后，就会在 uBlock Origin、AdGuard AdBlocker、AdBlock For Firefox、AdNauseam 这几款扩展的页面显示：「此页面在您的地区不可用」。[^6773]
 
 [^6773]: 土间被活埋, 《[Mozilla限制中国大陆用户访问安装部分广告过滤插件](https://web.archive.org/web/20220320070854/https://bgme.me/@bgme/107986773834355287)》, 2022-03-20. (参照 2022-03-20).
 
