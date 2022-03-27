@@ -30,6 +30,7 @@ theme:
         icon: material/toggle-switch
         name: 切换到亮模式
   name: material
+  custom_dir: overrides
   language: zh              # 中文，解决中文搜索问题
   features:
     # - search.highlight
@@ -121,5 +122,8 @@ extra_css:
   - "css/external_link_icon.css"
   - "css/footnotes.css"     # 脚注 CSS
   - "css/base.css"
+
+# extra_javascript:
+  # - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>

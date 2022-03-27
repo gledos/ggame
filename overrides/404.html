@@ -1,0 +1,73 @@
+{#-
+This file was automatically generated - do not edit
+-#}
+{% extends "base.html" %}
+
+{% block htmltitle %}
+<title>404 - Not found</title>
+{% endblock %}
+
+{% block content %}
+
+<style type="text/css" media="screen">
+  /* .container {margin: 10px auto;max-width: 600px;text-align: center;} */
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
+  }
+
+  /*  打字机的动画效果来源自
+          https://codepen.io/css-support/pen/AjGdmM
+        创意来源自这个404网页以及美剧 LOST
+          https://web.archive.org/web/20200812102217/https://devinhalladay.com/404/
+        */
+
+  @-webkit-keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+
+  @-webkit-keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+  }
+
+  @keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+  }
+
+  p.typing {
+    text-indent: 0em;
+    font: Monaco, monospace;
+    border-right: .5em solid #9397b2;
+    width: 31em;
+    width: 25ch;
+    margin: 2em 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-animation: typing 4s steps(21, end),
+      blink-caret 1s step-end infinite alternate;
+  }
+</style>
+
+<div class="container">
+  <h1>404 - Not found</h1>
+
+  <p><strong>Page not found :(</strong></p>
+  <p>The requested page could not be found.</p>
+  <hr>
+  <p class="typing">>: 4 8 15 16 23 42 You're lost.</p>
+</div>
+{% endblock %}
