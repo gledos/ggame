@@ -49,4 +49,4 @@ dateCreated: 2021-01-16T02:50:02.611Z
 
 + [[新版]Ex绅士里站访问教程——注册自己的账号畅游里站 - NiceBowl的博客](https://web.archive.org/web/20210104091011/https://nicebowl.moe/11#C7)
 + [[另一种策略]使用域前置技术简易直连E-Hentai与ExHentai(已解决reCaptcha问题)茶馆 北+ North Plus - powered by Pu!mdHd](https://web.archive.org/web/20210118155417/https://www.white-plus.net/simple/index.php?t1033725.html)
-+ [完了怎么办里站被sni阻断了，求技术帝指路【exhentai绅士吧】_百度贴吧](https://web.archive.org/web/20210118155420/https://tiebac.baidu.com/p/7145630843)
++ [完了怎么办里站被sni阻断了，求技术帝指路【exhentai绅士吧】 - 百度贴吧](https://web.archive.org/web/20210118155420/https://tiebac.baidu.com/p/7145630843)
