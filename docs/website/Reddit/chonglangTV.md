@@ -43,3 +43,11 @@ HKKNNT 描述的前身关系：[^sf5qow]
 而人肉搜索的信息，被放到了 Reddit 冲浪TV 上，随后 冲浪TV 就被封禁了。[^31605]
 
 [^31605]: 立党 lidang 🇺🇦, 「[没想到我开盒姚天佑，直接连累了reddit上的一个中文版块被关闭了 😅](https://web.archive.org/web/20220301230807/https://twitter.com/lidangzzz/status/1498797082316050437)」, Twitter. (参照 2022-03-14).
+
+除了纵容人肉行为之外，冲浪TV 可能还有纵容恋童 (pedophilia) 言论的情况。2022年2月28日，有人将 冲浪TV 的一篇「捡到」17 岁女性的帖子翻译为了英文，其中包含恋童评论。[^t36xcb]所以有人认为跟这件事也有关系。[^6010][^t39cim]
+
+[^t36xcb]: Aromatic-Shoulder871, 《[JU from r/chonglangTV. These are disgusting comments under a post in which a Chinese redditor helps a 17-year-old girl and their reaction after finding out that they were posted to other subs](https://web.archive.org/web/20220228043432/https://www.reddit.com/gallery/t36xcb)》, r/JustUnsubbed, 2022-02-28. (参照 2022-03-28).
+
+[^6010]: Nyanners单推人, 《[就是chonglangtv前几天有人收留了一个离家出走的17岁小姑娘](https://web.archive.org/web/20220302033707/https://twitter.com/joeywuyiqiu/status/1498864814155776010)》, Twitter, 2022-03-02. (参照 2022-03-28).
+
+[^t39cim]: NingChoww, 《[呼叫吧母，说说近日AromaticShoulder去告洋状是怎个回事](www.reddit.com/r/SewerFarm/comments/t39cim/呼叫吧母说说近日aromaticshoulder去告洋状是怎个回事/)》, r/SewerFarm, 2022-02-28. (参照 2022-03-28).
