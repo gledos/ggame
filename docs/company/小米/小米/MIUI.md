@@ -77,4 +77,4 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 由于该功能没有被公布，所以可能会造成 DNS 泄露，包括在使用 VPN 的时候。以及与其他手机出现网络上的差异。
 
 + 相关条目
-    + [三星港版手机](/hardware/Samsung_Phone_HK.md)
+    + [三星港版手机](/company/Samsung/HK_Phone.md)

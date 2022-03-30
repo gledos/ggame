@@ -18,7 +18,7 @@ dateCreated: 2021-01-15T14:21:58.934Z
 第二个问题是一种检测 Wi-Fi 可用性是否连通的方法，本来国际惯例会使用 Google 的验证服务器。
 
 + 相关条目
-    + [MIUI \#自动添加 DNS](/hardware/小米/MIUI.md#自动添加-dns)
+    + [MIUI \#自动添加 DNS](/company/小米/MIUI.md#自动添加-dns)
 + 相关链接
     + [SAMSUNG 港行 會連大陸DNS? 114.114.114.114 第1页 - LIHKG](https://web.archive.org/web/20201009134340if_/https://lihkg.com/thread/2228654/page/1)
     + [SAMSUNG 港行 會連大陸DNS? 114.114.114.114 第31页- LIHKG](https://web.archive.org/web/20210115134244if_/https://lihkg.com/thread/2228654/page/31)
