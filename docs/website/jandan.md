@@ -20,6 +20,12 @@ dateCreated: 2021-07-13T16:36:24.555Z
 
 [^ngb]: [下周起可能打不开煎蛋了，但这不是再见。](https://web.archive.org/web/20180717202038/http://jandan.net/2018/07/13/not-goodbye.html)
 
-### 相关链接
++ 相关链接
+    + [煎蛋面临整站关停 - Solidot](https://web.archive.org/web/20181219192952/https://www.solidot.org/story?sid=57197)
 
-+ [煎蛋面临整站关停 - Solidot](https://web.archive.org/web/20181219192952/https://www.solidot.org/story?sid=57197)
+## 站长受到的处罚
+
+2022年3月30日，煎蛋网站长 sein 在《无聊图 No.5198026》的评论中表示 2022年1月 到 3月底，「被网信办通知删除多次，写检讨两次；被网安限期整改一次，去派出所做笔录行政警告一次。」[^5198026]
+
+[^5198026]: 蚂小腿蚁的、sein, 《[无聊图 No.5198026](https://web.archive.org/web/20220331045527/https://jandan.net/t/5198026)》, 煎蛋网, 2022-03-30. (参照 2022-03-31).
+

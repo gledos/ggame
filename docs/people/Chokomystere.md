@@ -1,6 +1,6 @@
 ---
 title: Chokomystere
-description: 
+description:
 published: true
 date: 2021-06-10T11:44:36.847Z
 tags:
