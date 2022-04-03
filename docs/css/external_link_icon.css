@@ -1,3 +1,7 @@
+/*
+Code from: [CSS only, automated, and accessible external link icon](https://codepen.io/heydon/pen/pgBBdR)
+*/
+
 article [href^="http"]:not([href*="ggame.gledos.science"])::after {
     content: '(external link)';
     display: inline-block;
@@ -9,9 +13,26 @@ article [href^="http"]:not([href*="ggame.gledos.science"])::after {
     background-image: url("../src/external-links/out_link.png");
     background-repeat: no-repeat;
     background-position: center;
-    /* background-size: 75% auto; */
 }
 
 /*
-[CSS only, automated, and accessible external link icon](https://codepen.io/heydon/pen/pgBBdR)
+Code from: [CSS: Add Icon to Links](http://xahlee.info/js/css_add_icon_to_link.html)
 */
+
+a[href^="https://web.archive.org"], [href^="http://web.archive.org"]{
+    background: url(../src/external-links/Internet_Archive.png) no-repeat left center;
+    padding-left: 1.25em;
+    /* background-size: 75% auto; */
+}
+
+a[href^="https://archive.is/"], [href^="https://archive.ph/"], [href^="https://archive.fo/"], [href^="https://archive.vn/"], [href^="https://archive.today/"], [href^="https://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
+    background: url(../src/external-links/archivecaslytosk_onion.ico) no-repeat left center;
+    padding-left: 1.25em;
+    background-size: 16px;
+}
+
+a[href^="http://archive.is/"], [href^="http://archive.ph/"], [href^="http://archive.of/"], [href^="http://archive.vn/"], [href^="http://archive.today/"], [href^="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
+    background: url(../src/external-links/archivecaslytosk_onion.ico) no-repeat left center;
+    padding-left: 1.25em;
+    background-size: 1em;
+}
