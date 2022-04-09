@@ -25,13 +25,13 @@ a[href^="https://web.archive.org"], [href^="http://web.archive.org"]{
     /* background-size: 75% auto; */
 }
 
-a[href^="https://archive.is/"], [href^="https://archive.ph/"], [href^="https://archive.fo/"], [href^="https://archive.vn/"], [href^="https://archive.today/"], [href^="https://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
+a[href^="https://archive.is/"], [href^="https://archive.ph/"], [href^="https://archive.fo/"], [href^="https://archive.vn/"], [href^="https://archive.today/"], [href^="https://archive.md/"], [href^="https://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
     background: url(../src/external-links/archivecaslytosk_onion.ico) no-repeat left 0.125em center;
     padding-left: 1.5em;
     background-size: 16px;
 }
 
-a[href^="http://archive.is/"], [href^="http://archive.ph/"], [href^="http://archive.of/"], [href^="http://archive.vn/"], [href^="http://archive.today/"], [href^="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
+a[href^="http://archive.is/"], [href^="http://archive.ph/"], [href^="http://archive.of/"], [href^="http://archive.vn/"], [href^="http://archive.today/"], [href^="http://archive.md/"], [href^="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/"] {
     background: url(../src/external-links/archivecaslytosk_onion.ico) no-repeat left 0.125em center;
     padding-left: 1.5em;
     background-size: 16px;
