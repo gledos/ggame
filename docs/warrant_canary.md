@@ -27,6 +27,32 @@ Hash: SHA256
 GGAME Warrant Canary
 ====================
 
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年4月9日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   邵宇、陈达飞, 《[三大变量加大全球二次衰退风险]([https://www.ftchinese.com/story/001095762?archive](https://www.ftchinese.com/story/001095762?archive))》, FT中文网, 2022-04-08. 参照: 2022-04-09. [Online].
++   Chan Emily, Bai Koney, 《[简报：上海危机给“清零”政策带来政治考验；西方进一步加大对俄罗斯制裁](https://www.nytimes.com/zh-hans/2022/04/07/world/asia/shanghai-covid-lockdown.html)》, The New York Times, 2022-04-08. 参照: 2022-04-09. [Online].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYlD16gAKCRCZXo6bU2oX
+pOyWAP9Tz2adQq3woGrCc3+SQXCtfvNKRrndoPUQ+rbY7SZ2AwD8Cf/ztExNCRo8
+qvZ0rMxa1nobzHypbF4dRb5mdGiiHAs=
+=C5KE
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2022年3月10日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+====================
+
 该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年3月10日
 
 我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
@@ -42,8 +68,6 @@ qcu8268bhUQUGpWGWvJEP1EYybiPAAk=
 =2+HS
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年2月10日
 
