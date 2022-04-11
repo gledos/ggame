@@ -18,3 +18,17 @@ dateCreated: 2021-11-01T23:35:45.996Z
 > 总之就是不给小团队活路是吧。[^UnRrP]
 
 [^UnRrP]: [[疑似内容]实名认证费用高昂(鸽游) NGA玩家社区](https://archive.md/UnRrP "https://bbs.nga.cn/read.php?tid=29133722")
+
+## 申请版号得到的反馈
+
+2022年4月7日，任职于鸽游游戏工作室的哔哩哔哩用户 Jizici 分享了某款游戏申版号初期过程得到的反馈：[^8ZQK7]
+
+[^8ZQK7]: Jizici, 《[分享图片](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/8ZQK7 "https://t.bilibili.com/646462113660796932")》, 哔哩哔哩动态, 2022-04-07. (参照 2022-04-11).
+
++   「曲师名必须中文」
++   「游戏中出现的程序语言文字必须中文」
++   「note速度调低画面过于密集，速度调快画面过于瞬间」[^0200]
++   「掉note或游戏失败的画面不能有红色要素，因为血腥」
+
+[^0200]: 随后 Jizici 在评论里回复了：「在我们进行沟通之后对方对下落速度的误解就解除了」。
+
