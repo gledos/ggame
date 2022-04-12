@@ -23,7 +23,7 @@ dateCreated: 2021-11-01T23:35:45.996Z
 
 2022年4月7日，任职于鸽游游戏工作室的哔哩哔哩用户 Jizici 分享了某款游戏申版号初期过程得到的反馈：[^8ZQK7]
 
-[^8ZQK7]: Jizici, 《[分享图片](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/8ZQK7 "https://t.bilibili.com/646462113660796932")》, 哔哩哔哩动态, 2022-04-07. (参照 2022-04-11).
+[^8ZQK7]: Jizici, 「[分享截图](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/8ZQK7 "https://t.bilibili.com/646462113660796932")」, 哔哩哔哩动态, 2022-04-07. (参照 2022-04-11).
 
 +   「曲师名必须中文」
 +   「游戏中出现的程序语言文字必须中文」
@@ -32,3 +32,6 @@ dateCreated: 2021-11-01T23:35:45.996Z
 
 [^0200]: 随后 Jizici 在评论里回复了：「在我们进行沟通之后对方对下落速度的误解就解除了」。
 
+2022年4月12日，Jizici 表示《调律诗篇 Lanota》会使用中文给歌曲、作者命名。[^103VF]
+
+[^103VF]: Jizici, 「[受害者其一▼](http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion/103VF "https://t.bilibili.com/648074233926123528")」, 哔哩哔哩动态, 2022-04-12. (参照 2022-04-12).
