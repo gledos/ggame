@@ -25,7 +25,7 @@ dateCreated: 2020-10-15T04:32:22.104Z
 
 ## MIUI 权限使用统计白名单
 
-2021年1月，小米手机的 [MIUI](/hardware/小米/MIUI.md) 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
+2021年1月，小米手机的 [MIUI](/company/小米/MIUI.md) 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
 
 [^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？ - V2EX](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635)
 
