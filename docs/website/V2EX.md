@@ -2,13 +2,13 @@
 title: V2EX
 description:
 published: true
-date: 2021-04-23T10:45:12.442Z
+date: 2021-04-23T10:45:12.442+08:00
 tags:
 - 论坛
 - 腾讯
 - GFW
 editor: markdown
-dateCreated: 2021-03-18T10:43:01.642Z
+dateCreated: 2021-03-18T10:43:01.642+08:00
 ---
 
 V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，必定需要做出许多的限制。

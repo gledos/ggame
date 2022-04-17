@@ -2,11 +2,11 @@
 title: 墨茶Official
 description: 哔哩哔哩视频博主
 published: true
-date: 2021-01-23T15:21:11.553Z
+date: 2021-01-23T15:21:11.553+08:00
 tags:
     - Vtuber
 editor: markdown
-dateCreated: 2021-01-23T15:21:11.553Z
+dateCreated: 2021-01-23T15:21:11.553+08:00
 ---
 
 墨茶在哔哩哔哩之前还有一个账号，叫TEA黑茶，在2019年12月左右被封禁，可能原因是宣扬左派以及毛主义思想。[^bt_teabm]

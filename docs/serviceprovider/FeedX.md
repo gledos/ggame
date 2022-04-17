@@ -2,11 +2,11 @@
 title: FeedX
 description: 一个PHP+正则实现的RSS全文订阅服务
 published: true
-date: 2020-10-06T14:44:58.069Z
+date: 2020-10-06T14:44:58.069+08:00
 tags:
     - RSS
 editor: markdown
-dateCreated: 2020-10-06T14:44:58.069Z
+dateCreated: 2020-10-06T14:44:58.069+08:00
 ---
 
 ## 2019年4月左右被DNS污染

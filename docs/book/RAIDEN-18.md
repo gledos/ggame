@@ -2,11 +2,11 @@
 title: RAIDEN-18
 description: 荒川弘的短篇漫画
 published: true
-date: 2021-06-15T11:25:51.334Z
+date: 2021-06-15T11:25:51.334+08:00
 tags:
     - 漫画
 editor: markdown
-dateCreated: 2021-06-15T09:42:51.531Z
+dateCreated: 2021-06-15T09:42:51.531+08:00
 ---
 
 ## 汉化组删减

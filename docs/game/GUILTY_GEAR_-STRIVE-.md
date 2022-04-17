@@ -2,10 +2,10 @@
 title: GUILTY GEAR -STRIVE-
 description:
 published: true
-date: 2021-06-25T14:50:47.845Z
+date: 2021-06-25T14:50:47.845+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-06-25T14:50:47.845Z
+dateCreated: 2021-06-25T14:50:47.845+08:00
 ---
 
 ## 背景介绍出现问题

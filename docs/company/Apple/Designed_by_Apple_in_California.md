@@ -2,11 +2,11 @@
 title: Designed by Apple in California
 description:
 published: true
-date: 2021-07-15T12:51:31.802Z
+date: 2021-07-15T12:51:31.802+08:00
 tags:
     - Apple
 editor: markdown
-dateCreated: 2021-07-15T12:51:31.802Z
+dateCreated: 2021-07-15T12:51:31.802+08:00
 ---
 
 ## 删除这句话可能与审查有关

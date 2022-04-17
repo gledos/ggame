@@ -2,10 +2,10 @@
 title: software
 description:
 published: true
-date: 2021-08-12T21:09:06.263Z
+date: 2021-08-12T21:09:06.263+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-08-12T21:09:06.263Z
+dateCreated: 2021-08-12T21:09:06.263+08:00
 ---
 
 请到左边的树状列表，进行查看条目。

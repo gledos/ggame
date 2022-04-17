@@ -2,10 +2,10 @@
 title: 煤气罐实名制
 description:
 published: true
-date: 2020-11-17T02:12:41.803Z
+date: 2020-11-17T02:12:41.803+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-11-17T02:12:41.803Z
+dateCreated: 2020-11-17T02:12:41.803+08:00
 ---
 
 福建

@@ -2,10 +2,10 @@
 title: 法国反恐怖主义法
 description: 法国第 2006-64 号法
 published: true
-date: 2020-10-13T03:28:17.032Z
+date: 2020-10-13T03:28:17.032+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-10-13T03:28:17.032Z
+dateCreated: 2020-10-13T03:28:17.032+08:00
 ---
 
 ## 规则简介

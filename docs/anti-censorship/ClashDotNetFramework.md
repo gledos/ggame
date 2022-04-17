@@ -2,10 +2,10 @@
 title: ClashDotNetFramework
 description: A .NET 5 based Clash GUI Proxy For Windows
 published: true
-date: 2021-10-27T12:51:05.147Z
+date: 2021-10-27T12:51:05.147+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-10-27T12:51:05.147Z
+dateCreated: 2021-10-27T12:51:05.147+08:00
 ---
 
 ## 简介

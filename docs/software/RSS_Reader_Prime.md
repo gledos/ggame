@@ -2,11 +2,11 @@
 title: RSS Reader Prime
 description: 一款新的轻量级的RSS阅读器
 published: true
-date: 2020-10-06T14:20:08.708Z
+date: 2020-10-06T14:20:08.708+08:00
 tags:
     - RSS
 editor: markdown
-dateCreated: 2020-10-06T14:20:08.708Z
+dateCreated: 2020-10-06T14:20:08.708+08:00
 ---
 
 ## 2018年12月从IOS下架

@@ -2,10 +2,10 @@
 title: 真・女神转生IV Final
 description: Atlus 制作的日式 RPG
 published: true
-date: 2021-05-31T13:15:24.300Z
+date: 2021-05-31T13:15:24.300+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-05-31T09:32:23.724Z
+dateCreated: 2021-05-31T09:32:23.724+08:00
 ---
 
 ## 汉化组翻译不准确

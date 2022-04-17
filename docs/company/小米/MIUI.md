@@ -2,11 +2,11 @@
 title: MIUI
 description: 小米公司的手机系统
 published: true
-date: 2021-06-27T18:56:29.638Z
+date: 2021-06-27T18:56:29.638+08:00
 tags:
     - Operating-System
 editor: markdown
-dateCreated: 2021-06-27T18:56:29.638Z
+dateCreated: 2021-06-27T18:56:29.638+08:00
 ---
 
 ## 内置软件黑名单

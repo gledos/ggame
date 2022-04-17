@@ -2,11 +2,11 @@
 title: 华硕
 description: 一家OEM制造商
 published: true
-date: 2020-12-30T10:02:29.255Z
+date: 2020-12-30T10:02:29.255+08:00
 tags:
     - Hololive
 editor: markdown
-dateCreated: 2020-12-30T10:02:29.255Z
+dateCreated: 2020-12-30T10:02:29.255+08:00
 ---
 
 ## ROG玩家国度 × Hololive

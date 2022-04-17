@@ -2,10 +2,10 @@
 title: 关于输入法等33款App违法违规收集使用个人信息情况的通报
 description:
 published: true
-date: 2021-11-07T11:01:46.835Z
+date: 2021-11-07T11:01:46.835+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-11-07T11:01:46.835Z
+dateCreated: 2021-11-07T11:01:46.835+08:00
 ---
 
 ## 全文

@@ -2,10 +2,10 @@
 title: COMICUP 28
 description: 第 28 届 COMICUP 同人祭
 published: true
-date: 2021-06-14T04:12:11.811Z
+date: 2021-06-14T04:12:11.811+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-06-14T04:12:11.811Z
+dateCreated: 2021-06-14T04:12:11.811+08:00
 ---
 
 ## 禁止 COS 游戏里的一部分内容

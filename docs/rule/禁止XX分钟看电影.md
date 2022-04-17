@@ -2,10 +2,10 @@
 title: 禁止XX分钟看电影
 description:
 published: true
-date: 2021-04-29T16:51:26.322Z
+date: 2021-04-29T16:51:26.322+08:00
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-04-29T16:51:26.322Z
+dateCreated: 2021-04-29T16:51:26.322+08:00
 ---
 
 + [国家电影局明确:加强电影版权保护 依法打击短视频侵权盗版行为 维护电影高质量发展良好网络环境-要闻信息-国家电影局](https://web.archive.org/web/20210429163951/http://www.chinafilm.gov.cn/chinafilm/contents/141/3408.shtml)

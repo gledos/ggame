@@ -2,12 +2,12 @@
 title: GATE 奇幻自卫队
 description:
 published: true
-date: 2021-06-27T10:25:05.989Z
+date: 2021-06-27T10:25:05.989+08:00
 tags:
     - 动画
     - 漫画
 editor: markdown
-dateCreated: 2021-06-27T10:25:05.989Z
+dateCreated: 2021-06-27T10:25:05.989+08:00
 ---
 
 ## 百度贴吧被封禁

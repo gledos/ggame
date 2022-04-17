@@ -2,11 +2,11 @@
 title: XcodeGhost
 description:
 published: true
-date: 2021-07-29T23:09:35.726Z
+date: 2021-07-29T23:09:35.726+08:00
 tags:
     - Apple
 editor: markdown
-dateCreated: 2021-07-29T23:09:35.726Z
+dateCreated: 2021-07-29T23:09:35.726+08:00
 ---
 
 ## 苹果公司对 XcodeGhost风波采取不主动的态度

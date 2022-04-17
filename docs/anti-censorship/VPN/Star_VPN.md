@@ -2,11 +2,11 @@
 title: Star VPN
 description:
 published: true
-date: 2021-10-10T14:36:21.195Z
+date: 2021-10-10T14:36:21.195+08:00
 tags:
     - Proxy
 editor: markdown
-dateCreated: 2021-10-10T14:36:21.195Z
+dateCreated: 2021-10-10T14:36:21.195+08:00
 ---
 
 ## 从 App Store 大陆区下架
