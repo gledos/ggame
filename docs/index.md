@@ -40,8 +40,8 @@ dateCreated: 2021-03-18T10:32:32.947Z
 
 任何问题，或者想参与编写该 Wiki，都可以联系我:
 
-+ 邮箱: cngledos@gmail.com
-+ Telegram: [@gledos_green](https://t.me/gledos_green)
++   邮箱: cngledos@gmail.com
++   Telegram: [@gledos_green](https://t.me/gledos_green)
 
 ## 源文件
 
