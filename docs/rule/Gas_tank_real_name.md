@@ -1,6 +1,6 @@
 ---
 title: 煤气罐实名制
-description: 
+description:
 published: true
 date: 2020-11-17T02:12:41.803Z
 特殊标签标记: #无标签

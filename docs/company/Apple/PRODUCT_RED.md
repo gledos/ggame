@@ -1,6 +1,6 @@
 ---
 title: (PRODUCT)RED
-description: 
+description:
 published: true
 date: 2021-07-15T11:56:28.897Z
 tags:

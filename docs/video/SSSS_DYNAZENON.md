@@ -1,6 +1,6 @@
 ---
 title: SSSS.电光机王
-description: 
+description:
 published: true
 date: 2021-06-02T12:29:21.444Z
 tags:

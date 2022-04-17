@@ -1,6 +1,6 @@
 ---
 title: Designed by Apple in California
-description: 
+description:
 published: true
 date: 2021-07-15T12:51:31.802Z
 tags:

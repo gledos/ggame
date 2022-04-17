@@ -1,6 +1,6 @@
 ---
 title: 关于输入法等33款App违法违规收集使用个人信息情况的通报
-description: 
+description:
 published: true
 date: 2021-11-07T11:01:46.835Z
 特殊标签标记: #无标签

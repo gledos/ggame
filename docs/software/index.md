@@ -1,6 +1,6 @@
 ---
 title: software
-description: 
+description:
 published: true
 date: 2021-08-12T21:09:06.263Z
 特殊标签标记: #无标签

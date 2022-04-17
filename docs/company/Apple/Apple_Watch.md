@@ -1,6 +1,6 @@
 ---
 title: Apple Watch
-description: 
+description:
 published: true
 date: 2021-06-26T19:52:48.433Z
 tags:

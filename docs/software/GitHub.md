@@ -1,6 +1,6 @@
 ---
 title: GitHub
-description: 
+description:
 published: true
 date: 2021-05-22T12:44:35.072Z
 tags:

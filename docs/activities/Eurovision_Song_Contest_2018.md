@@ -1,6 +1,6 @@
 ---
 title: Eurovision Song Contest 2018
-description: 
+description:
 published: true
 date: 2021-11-05T11:58:20.743Z
 tags:

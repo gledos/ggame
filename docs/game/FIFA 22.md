@@ -1,6 +1,6 @@
 ---
 title: FIFA 22
-description: 
+description:
 published: true
 date: 2021-07-15T11:13:46.773Z
 tags:

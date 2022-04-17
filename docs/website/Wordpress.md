@@ -1,6 +1,6 @@
 ---
 title: Wordpress
-description: 
+description:
 published: true
 date: 2021-08-09T09:49:34.895Z
 tags:

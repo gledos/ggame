@@ -1,6 +1,6 @@
 ---
 title: GUILTY GEAR -STRIVE-
-description: 
+description:
 published: true
 date: 2021-06-25T14:50:47.845Z
 特殊标签标记: #无标签

@@ -1,6 +1,6 @@
 ---
 title: Fuck-XueXiQiangGuo
-description: 
+description:
 published: true
 date: 2021-06-02T03:59:30.429Z
 tags:

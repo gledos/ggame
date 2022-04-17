@@ -1,6 +1,6 @@
 ---
 title: technology
-description: 
+description:
 published: true
 date: 2021-08-12T21:19:39.920Z
 特殊标签标记: #无标签

@@ -1,6 +1,6 @@
 ---
 title: John Cena
-description: 
+description:
 published: true
 date: 2021-06-02T03:40:14.854Z
 tags:
