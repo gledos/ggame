@@ -20,6 +20,34 @@ dateCreated: 2021-08-14T23:43:59.537+08:00
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年5月9日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年5月9日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   王月眉, 《[城市停擺後，失去工作的數百萬中國人](https://cn.nytimes.com/business/20220506/china-shanghai-covid-lockdown-economy/zh-hant/)》, 紐約時報中文網, 2022-05-06. (参照 2022-05-09).
++   《[魔法少女天穹法妮雅](https://store.steampowered.com/app/1786790/_/)》, 2022-05-07. (参照 2022-05-09).
++   《[元ロシア副首相「我々は核戦争でNATO諸国を30分以内に滅ぼすことが可能」](http://yurukuyaru.com/archives/88161881.html)》, ユルクヤル、外国人から見た世界. (参照 2022-05-09).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYnkrfgAKCRCZXo6bU2oX
+pMU0AQCPSZjuXWDvCEG8SdBMs88rn8EZCsKJMaBLCLlkrSQw6AEA0z6/9RUDnvwR
+FhKOiKRarE+y1CQOBNJKGjXGoJhrMQM=
+=WuZ0
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2022年4月9日
+
 ```markdown
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
@@ -41,8 +69,6 @@ qvZ0rMxa1nobzHypbF4dRb5mdGiiHAs=
 =C5KE
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年3月10日
 
