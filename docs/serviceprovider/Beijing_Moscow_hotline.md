@@ -14,9 +14,8 @@ dateCreated: 2020-11-18T10:08:29.526+08:00
 
 显然因为这次会面使双方紧张的关系缓和不少。[^1294368]
 
-[^1294368]: [大三角格局开启——周恩来与柯西金北京机场会谈 _回忆录_国际网](https://web.archive.org/web/20190611132941/http://memo.cfisnet.com/2013/0128/1294368.html)
+[^1294368]: [大三角格局开启——周恩来与柯西金北京机场会谈 回忆录 国际网](https://web.archive.org/web/20190611132941/http://memo.cfisnet.com/2013/0128/1294368.html)
 
-相关链接
-
-+ [周恩来与柯西金机场会谈实录](https://web.archive.org/web/20201009035356/http://www.dswxyjy.org.cn/n1/2019/0228/c423726-30942247.html)
-+ [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA "https://new.qq.com/omn/20180529/20180529A0F8XY.html")
++ 相关链接
+    + [周恩来与柯西金机场会谈实录](https://web.archive.org/web/20201009035356/http://www.dswxyjy.org.cn/n1/2019/0228/c423726-30942247.html)
+    + [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA "https://new.qq.com/omn/20180529/20180529A0F8XY.html")
