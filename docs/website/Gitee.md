@@ -26,7 +26,7 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 [^I4R31X]: cvicse004861, 《[私有仓库转公开仓库时没有仓库公开须知 · Issue #I4R31X](https://web.archive.org/web/20220519163229/https://gitee.com/oschina/git-osc/issues/I4R31X)》, Gitee, 2022-01-17. (参照 2022-05-20).
 
-[^1]: 山外的鸭子哥, 《[码云(Gitee)宣布托管开源项目先审后发 承诺合法无违规经人工审核后才可访问](https://www.landiannews.com/archives/93931.html)》, 蓝点网, 2022-05-19. (参照 2022-05-20).
+[^1]: 山外的鸭子哥, 《[码云(Gitee)宣布托管开源项目先审后发 承诺合法无违规经人工审核后才可访问](https://web.archive.org/web/20220519165657/https://www.landiannews.com/archives/93931.html)》, 蓝点网, 2022-05-19. (参照 2022-05-20).
 
 ???+ quote "仓库公开须知"
 
@@ -49,4 +49,3 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 [^z4]: 《[如何看待开源中国Gitee在不通知用户的情况下突然禁止图床外链访问，导致用户权益受损的行为？](https://web.archive.org/web/20220329035405/https://www.zhihu.com/question/524345403)》, 知乎, 2022-03-27. (参照 2022-05-20).
 
 [^2409]: Jeff Tian, 《[如何看待开源中国Gitee在不通知用户的情况下突然禁止图床外链访问，导致用户权益受损的行为？](https://web.archive.org/web/20220519161838/https://www.zhihu.com/question/524345403/answer/2409484751)》, 知乎, 2022-03-27. (参照 2022-05-20).
-
