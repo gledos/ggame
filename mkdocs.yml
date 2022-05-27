@@ -3,6 +3,8 @@
 # mkdocs: https://www.mkdocs.org/user-guide/configuration/
 # bug 已修复 ../
 
+# 测试内容 ……
+
 site_name: 游戏和谐Wiki
 site_url: https://ggame.gledos.science/
 site_description: >-
