@@ -82,7 +82,7 @@ markdown_extensions:
   # emoji_generator: !!python/name:pymdownx.emoji.to_png
   - pymdownx.highlight      # 代码块相关
   - pymdownx.inlinehilite   # 代码块相关
-  - pymdownx.tabbed:         # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
+  - pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
       alternate_style: true 
   - pymdownx.snippets
   - pymdownx.magiclink
@@ -112,6 +112,7 @@ plugins:
   - redirects:              # 重定向插件 https://github.com/datarobot/mkdocs-redirects
       redirect_maps:
         "website/立场新闻.md": "company/立场新闻.md"
+        "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
 
 extra:
   generator: false
