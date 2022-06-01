@@ -9,6 +9,16 @@ editor: markdown
 dateCreated: 2021-06-27T18:56:29.638+08:00
 ---
 
+## 相机敏感词
+
+MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机。
+
+都有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
+
+[^PMTUe]: ISU-152酱, 《[这一定是小米bug！！！（今日首蚌）](https://archive.ph/PMTUe "https://www.bilibili.com/video/BV1dR4y1n7EM/")》, 哔哩哔哩, 2021-10-09. (参照 2022-06-01).
+
+[^854685]: MiketsuSmasher, 《[小米工程师向 AOSP 提交了一份禁止用户获取 APK 文件的补丁，后被驳回](https://web.archive.org/web/20220530053613/https://www.v2ex.com/t/854685)》, V2EX, 2022-05-23. (参照 2022-06-01).
+
 ## 内置软件黑名单
 
 2020年8月，小米就曾内置了软件黑名单。
