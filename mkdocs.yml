@@ -94,7 +94,12 @@ markdown_extensions:
   # - pymdownx.tilde        # 下标
 
 plugins:
-  # - search
+  - search:
+      separator: '[\s\u200b\-]'
+  - exclude-search:
+      exclude:
+        - rule/*
+        - news_archive/*
   - tags:
       tags_file: tags.md
   - abs-to-rel              # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
