@@ -1,4 +1,9 @@
-mkdocs-material>=8.2.7
-mkdocs>=1.2.3
-mkdocs-roamlinks-plugin
+mkdocs-material
+mkdocs-material-extensions
 mkdocs-exclude
+mkdocs-abs-rel-plugin
+mkdocs-roamlinks-plugin
+mkdocs-redirects
+pymdown-extensions
+jieba
+mkdocs-exclude-search
