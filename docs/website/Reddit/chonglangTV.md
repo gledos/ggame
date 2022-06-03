@@ -51,3 +51,13 @@ HKKNNT 描述的前身关系：[^sf5qow]
 [^6010]: Nyanners单推人, 《[就是chonglangtv前几天有人收留了一个离家出走的17岁小姑娘](https://web.archive.org/web/20220302033707/https://twitter.com/joeywuyiqiu/status/1498864814155776010)》, Twitter, 2022-03-02. (参照 2022-03-28).
 
 [^t39cim]: NingChoww, 《[呼叫吧母，说说近日AromaticShoulder去告洋状是怎个回事](www.reddit.com/r/SewerFarm/comments/t39cim/呼叫吧母说说近日aromaticshoulder去告洋状是怎个回事/)》, r/SewerFarm, 2022-02-28. (参照 2022-03-28).
+
+## CLTV 被关闭
+
+2022年6月1日，chonglangTV 用户主要的转移 sub，CLTV 也被关闭，理由是「This subreddit was banned due to a violation of Reddit's content policy against creating or repurposing a sub to reconstitute or serve the same objective as a previously banned or quarantined subreddit.」。[^CLTV_ban]
+
+[^CLTV_ban]: 《[Reddit - Dive into anything](https://web.archive.org/web/20220601021258/https://www.reddit.com/r/CLTV/)》, r/CLTV, 2022-06-01. (参照 2022-06-02).
+
++   相关链接
+    +   Nokia_5230, 《[Reddit 第二大中文sub已经被封](https://web.archive.org/web/20220601020051/https://www.reddit.com/r/China_irl/comments/v20cm9/reddit_第二大中文sub已经被封/)》, r/China_irl, 2022-06-01. (参照 2022-06-02).
+    +   Administrative-Ant89, 《[关于查理tv被炸，我说两句](https://web.archive.org/web/20220601024836/https://www.reddit.com/r/Liutiaogou/comments/v23yn5/关于查理tv被炸我说两句/)》, r/Liutiaogou, 2022-06-01. (参照 2022-06-02).

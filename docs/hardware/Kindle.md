@@ -42,3 +42,16 @@ dateCreated: 2021-07-08T17:39:49.565+08:00
 2022年1月4日，「[kindle京东自营旗舰店](https://shop.m.jd.com/?shopId=1000002062)」在无预示的情况下，大量型号的 kindle 显示缺货。[^jd]
 
 [^jd]: [Kindle将退出中国？回应：热销致缺货，第三方和线下零售仍可购买 - AI财经社 - 搜狐](https://web.archive.org/web/20220105065358/https://www.sohu.com/a/514260024_120780844)
+
+ 2022年6月2日，Kindle 大陆正式宣布将要停止大陆的 Kindle 服务：[^R1zfT]
+ 
+ [^R1zfT]: 亚马逊Kindle服务号, 《[重要通知 | Kindle中国电子书店运营调整](https://archive.ph/R1zfT "https://mp.weixin.qq.com/s/jJG36Hbrw2-ZeUT3aDXKBA")》, 微信公众号, 2022-06-02. (参照 2022-06-03).
+ 
+ +   2022年6月2日，停止给经销商供货
+ +   2022年10月31日 停止 Kindle 退货
+ +   2023年6月30日 停止电子书商店购买
+ +   2024年6月30日 停止电子书商店下载
+
+随后有人声称 Kindle 在新浪微博和豆瓣都被设为敏感词，\#Kindle# 超话也被 [秘密屏蔽](/censorship/秘密屏蔽.md)，持续了一段时间后被解封。[^v356hp]
+
+[^v356hp]: u/Nokia_5230, 《[kindle已经成为微博敏感词](https://web.archive.org/web/20220602113816/https://www.reddit.com/r/China_irl/comments/v356hp/kindle已经成为微博敏感词/)》, r/China_irl. (参照 2022-06-03).
