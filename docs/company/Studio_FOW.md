@@ -16,7 +16,9 @@ dateCreated: 2021-11-11T20:40:21.560+08:00
 
 ## 被 Patreon 封禁
 
-由于 Studio FOW 制作了关于「兽交」的作品，上传到了 Patreon，违反了网站社区准则，所以被封禁。
+2018年10月，由于 Studio FOW 制作了关于「兽交」的作品，上传到了 [Patreon](/website/Patreon.md)，违反了网站社区准则，所以被封禁。[^9o6pme]
+
+[^9o6pme]: FrostMan22, 《[Now the shut down StudioFOW](https://web.archive.org/web/20210814115129/https://www.reddit.com/r/patreon/comments/9o6pme/now_the_shut_down_studiofow/)》, r/patreon, 2018-10-15. (参照 2022-06-05).
 
 ## 与 GOG 沟通的问题
 
