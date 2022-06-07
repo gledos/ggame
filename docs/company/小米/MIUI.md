@@ -2,7 +2,7 @@
 title: MIUI
 description: 小米公司的手机系统
 published: true
-date: 2021-06-27T18:56:29.638+08:00
+date: 2022-06-06T12:45:10.4510+08:00
 tags:
     - Operating-System
 editor: markdown
@@ -21,9 +21,9 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 ## 内置软件黑名单
 
-2020年8月，小米就曾内置了软件黑名单。
+2020年8月4日，有人发现了小米曾内置了软件黑名单。
 
-> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示“解析软件包时出现问题”，人为的制造 apk 损坏现象。[^apkbl]
+> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示「解析软件包时出现问题」，人为的制造 apk 损坏现象。[^apkbl]
 
 [^apkbl]: [小米 10 在 MIUI20.8.3 加入了应用黑名单 - V2EX](https://web.archive.org/web/20210627105718/https://www.v2ex.com/t/695575)
 
@@ -56,6 +56,71 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 2021年1月，小米手机的 MIUI 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
 
 [^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？ - V2EX](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635)
+
+2022年4月 左右，有人使用 hook 的方式解密了「权限使用统计」的白名单，发现了以下包名：
+
+???+ quote "behavior_record_white.txt"
+
++   com.android.thememanager@0
++   com.miui.barcodescanner@0
++   com.miui.dmregservice@0
++   com.wdstechnology.android.kryten@0
++   com.miui.notes@0
++   com.miui.weather2@0
++   com.xiaomi.gamecenter@0
++   com.miui.fmradio@0
++   com.android.email@0
++   com.miui.video@0
++   com.miui.player@0
++   com.xiaomi.market@0
++   com.xiaomi.jr@0
++   com.xiaomi.vip@0
++   com.mi.vtalk@0
++   com.xiaomi.gamecenter.sdk.service@0
++   com.mipay.wallet@0
++   com.miui.tsmclient@0
++   org.simalliance.openmobileapi.service@0
++   com.xiaomi.channel@0
++   com.miui.yellowpage@0
++   com.xiaomi.o2o@0
++   com.miui.miuibbs@0
++   com.xiaomi.pass@0
++   com.xiaomi.mircs@0
++   com.android.vending@0
++   com.android.calculator2@0
++   com.xiaomi.scanner@0
++   com.milink.service@0
++   com.miui.sysbase@0
++   com.miui.calculator@0
++   com.miui.milivetalk@0
++   com.miui.smsextra@0
++   com.xiaomi.oga@0
++   com.miui.contentextension@0
++   com.miui.personalassistant@0
++   com.android.storagemonitor@0
++   com.xiaomi.gamecenter.pad@0
++   com.miui.voicetrigger@0
++   com.xiaomi.vipaccount@0
++   com.google.android.gms@0
++   com.miui.greenguard@0
++   com.mobiletools.systemhelper@0
++   com.miui.fm@0
++   com.miui.smarttravel@0
++   com.miui.cleanmaster@0
++   com.miui.compass@0
++   com.mfashiongallery.emag@0
++   cn.xuexi.android@0
++   android.permission.cts.appthataccesseslocation@0
++   com.mi.health@131072
++   com.iflytek.inputmethod.miui@4611686018427387904
++   com.baidu.input_mi@4611686018427387904
++   com.sohu.inputmethod.sogou.xiaomi@4611686018427387904
++   com.miui.compass@-1
++   com.miui.smarttravel@-1
++   com.miui.weather2@-1
++   com.xiaomi.shop@-1
+
+不过没有给出解密此白名单的方法。
 
 ## 内置敏感词审查系统
 
