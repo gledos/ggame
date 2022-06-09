@@ -20,6 +20,31 @@ dateCreated: 2021-08-14T23:43:59.537+08:00
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年6月日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年5月9日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   [iOS 16和Android 13將如何改變你的手機 - 紐約時報中文網](https://web.archive.org/web/20220609154832/https://cn.nytimes.com/technology/20220608/ios-android-software-update/zh-hant/)
++   [アメリカ人観光客さん、世界遺産「スペイン階段」にキックボードを投げ捨て大きな損傷を与えてしまう... : ユルクヤル、外国人から見た世界](https://web.archive.org/web/20220609160033/http://yurukuyaru.com/archives/88357343.html)
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYqIaEwAKCRCZXo6bU2oX
+pLGIAQDAE9/aU3Blcqirs48tEicsZVj3Ax7rRggftX3S5mpjDAEAylKaFmkeyltN
+avyUufEieCew6vPDapDZocwgYh3zwwM=
+=7pvG
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年5月9日
 
 ```markdown
@@ -43,8 +68,6 @@ FhKOiKRarE+y1CQOBNJKGjXGoJhrMQM=
 =WuZ0
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年4月9日
 
