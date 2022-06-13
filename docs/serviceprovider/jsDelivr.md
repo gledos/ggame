@@ -18,7 +18,7 @@ jsDelivr 是免费的公共 CDN，它可以直接从 npm 和 GitHub 存储库提
 
 ## 添加额外的大陆审查规则
 
-2016年12月 开始，jsDelivr 拥有大陆的 ICP（互联网信息经营许可证）资格，随后在 2020年8月15日 开始，保留在大陆屏蔽违反大陆政策的内容。[^18247]
+2016年12月 开始，jsDelivr 拥有大陆的 ICP（互联网信息经营许可证）资格，随后在 2020年8月15日 开始，在大陆保留屏蔽违反大陆政策的内容的权利。[^18247]
 
 [^18247]: MartinKolarik, 《[Create Acceptable Use Policy - jsdelivr.net.md (#18247) · jsdelivr/jsdelivr@47a9984](https://web.archive.org/web/20210909094725/https://github.com/jsdelivr/jsdelivr/commit/47a9984457d37ca0c46904fe2bd5d827ee6fee96)》, GitHub, 2020-08-15. (参照 2022-05-28).
 

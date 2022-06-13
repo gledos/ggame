@@ -2,7 +2,7 @@
 title: Cloudflare
 description:
 published: true
-date: 2022-05-09T16:16:56.901+08:00
+date: 2022-06-12T21:40:27.4027+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-05-09T16:16:56.901+08:00
@@ -27,6 +27,10 @@ Cloudflare 虽然在过去大部分情况，没有停止暴力纳粹的网站的
 [^794189]: lns103, 《[四川电信运营商 DNS 将 cloudflare 官网解析为本地环回地址](https://web.archive.org/web/20220412064827/https://www.v2ex.com/t/794189)》, V2EX, 2021-08-06. (参照 2022-05-09).
 
 [^999020]: Mio, 《[四川运营商把CF解析到了本地](https://web.archive.org/web/20220509033549/https://hostloc.com/thread-999020-1-1.html)》, 全球主机交流论坛, 2022-04-10. (参照 2022-05-09).
+
+除了主页，API 的域名 `api.cloudflare.com` 也遭受了劫持。[^381238]
+
+[^381238]: xnephila, 《[中国移动网络访问api和dash](https://web.archive.org/web/20220612131115/https://community.cloudflare.com/t/api-dash/381238)》, Cloudflare Community, 2022-05-05. (参照 2022-06-12).
 
 ## Pages 与 Workers 被封锁
 
