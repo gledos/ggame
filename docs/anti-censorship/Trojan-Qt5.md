@@ -2,7 +2,7 @@
 title: Trojan-Qt5
 description: 一款 Trojan 的 GUI 软件
 published: true
-date: 2021-09-16T09:40:16.431+08:00
+date: 2022-06-13T14:06:18.618+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-09-16T09:40:16.431+08:00
@@ -18,7 +18,6 @@ dateCreated: 2021-09-16T09:40:16.431+08:00
 
 [^651076]: [Trojan-Qt5 停止维护 - V2EX](https://web.archive.org/web/20210916013658/https://www.v2ex.com/t/651076)
 
-### 相关链接
-
-+ [stgcd on Twitter: "听说Trojan-Qt5被喝茶删库了… "](https://web.archive.org/web/20200730044827/https://twitter.com/StgcdLiu/status/1288697869906505728)
-+ [著名的全平台多协议翻墙客户端Trojan-Qt5开发者被喝茶，已删库茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20210916013733/https://www.south-plus.net/simple/index.php?t902449.html)
+> [!example]+ 相关链接
+> + [stgcd on Twitter: "听说Trojan-Qt5被喝茶删库了… "](https://web.archive.org/web/20200730044827/https://twitter.com/StgcdLiu/status/1288697869906505728)
+> + [著名的全平台多协议翻墙客户端Trojan-Qt5开发者被喝茶，已删库茶馆 南+ South Plus - powered by Pu!mdHd](https://web.archive.org/web/20210916013733/https://www.south-plus.net/simple/index.php?t902449.html)

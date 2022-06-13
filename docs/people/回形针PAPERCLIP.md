@@ -2,7 +2,7 @@
 title: 回形针PAPERCLIP
 description:
 published: true
-date: 2021-07-16T16:15:29.903+08:00
+date: 2022-06-13T15:11:02.112+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-07-16T16:15:29.903+08:00
@@ -19,6 +19,5 @@ dateCreated: 2021-07-16T16:15:29.903+08:00
 
 随后的某个时间，回形针PAPERCLIP 在哔哩哔哩的视频彻底无法观看了。
 
-### 相关链接
-
-+ [【立此存照】回形针、大象公会的微博、微信等多个平台账号被封禁 - 中国数字时代](https://web.archive.org/web/20210714175749/https://chinadigitaltimes.net/chinese/668234.html)
+> [!example]+ 相关链接
+> + [【立此存照】回形针、大象公会的微博、微信等多个平台账号被封禁 - 中国数字时代](https://web.archive.org/web/20210714175749/https://chinadigitaltimes.net/chinese/668234.html)

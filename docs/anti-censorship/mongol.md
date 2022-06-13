@@ -2,7 +2,7 @@
 title: mongol
 description: Mongol.py is a tool that was inspired by a research paper[0] that described the physical location and number of routers acting for the Great Firewall (GFW) of China
 published: true
-date: 2021-07-28T07:01:07.862+08:00
+date: 2022-06-13T13:48:42.4842+08:00
 tags:
     - GFW
     - Github
@@ -22,6 +22,5 @@ dateCreated: 2021-07-28T07:01:07.862+08:00
 
 [^32720]: [定位防火长城 - Solidot](https://web.archive.org/web/20160528173428/http://www.solidot.org/story?sid=32720)
 
-### 相关链接
-
-+ 已被删除 [mongol 神器！定位GFW物理位置 - V2EX](https://web.archive.org/web/20121230182351/http://www.v2ex.com/t/55177)
+> [!example]+ 相关链接
+> + 已被删除 [mongol 神器！定位GFW物理位置 - V2EX](https://web.archive.org/web/20121230182351/http://www.v2ex.com/t/55177)

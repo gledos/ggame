@@ -2,7 +2,7 @@
 title: Galgame汉化
 description:
 published: true
-date: 2021-09-16T19:34:34.740+08:00
+date: 2022-06-13T15:01:56.156+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-09-16T19:34:34.740+08:00
@@ -14,6 +14,5 @@ dateCreated: 2021-09-16T19:34:34.740+08:00
 
 [^56541772]: [录制汉化组的Galgame不行么？ - 知乎](https://web.archive.org/web/20210509121446/https://www.zhihu.com/question/56541772)
 
-### 相关链接
-
-+ [如何评价录制汉化galgame视频上传哔哩哔哩的行为？ - 知乎](https://web.archive.org/web/20210509121415mp_/https://www.zhihu.com/question/62779037)
+> [!example]+ 相关链接
+> + [如何评价录制汉化galgame视频上传哔哩哔哩的行为？ - 知乎](https://web.archive.org/web/20210509121415mp_/https://www.zhihu.com/question/62779037)

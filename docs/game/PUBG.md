@@ -2,7 +2,7 @@
 title: PUBG
 description:
 published: true
-date: 2021-10-16T09:42:30.432+08:00
+date: 2022-06-13T15:02:51.251+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-10-16T09:42:30.432+08:00
@@ -62,6 +62,5 @@ dateCreated: 2021-10-16T09:42:30.432+08:00
 
 [^zqpg]: [【绝地求生直播 - 绝地求生视频】-战旗高清游戏直播平台 (zhanqi.tv)](https://www.zhanqi.tv/games/pubg)
 
-### 相关链接
-
-+ [绝地求生视频连遭打压，PCL联赛将被禁播？官方解说Joy的回应来了](https://web.archive.org/web/20211016020447/https://baijiahao.baidu.com/s?id=1713390146909716611)
+> [!example]+ 相关链接
+> + [绝地求生视频连遭打压，PCL联赛将被禁播？官方解说Joy的回应来了](https://web.archive.org/web/20211016020447/https://baijiahao.baidu.com/s?id=1713390146909716611)

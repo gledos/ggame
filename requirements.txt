@@ -7,3 +7,4 @@ mkdocs-redirects
 pymdown-extensions
 jieba
 mkdocs-exclude-search
+mkdocs-callouts

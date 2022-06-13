@@ -2,7 +2,7 @@
 title: TCP重置攻击
 description:
 published: true
-date: 2022-01-30T16:20:02.309+08:00
+date: 2022-06-13T14:05:53.553+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-01-30T16:20:02.309+08:00
@@ -24,6 +24,6 @@ sequenceDiagram
     A ->> B: ACK y+1
 ```
 
-+ 相关链接
-    + [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
-    + [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)
+> [!example]+ 相关链接
+> + [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
+> + [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)

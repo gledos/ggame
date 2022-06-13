@@ -2,7 +2,7 @@
 title: Windows
 description: 微软公司的 X86 桌面操作系统
 published: true
-date: 2021-10-08T22:25:51.586+08:00
+date: 2022-06-13T14:06:36.636+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-10-08T22:25:51.586+08:00
@@ -14,7 +14,7 @@ dateCreated: 2021-10-08T22:25:51.586+08:00
 
 ## EDGE 浏览器
 
-详情转子 [EDGE](/company/Microsoft/EDGE.md) 条目查看。
+请跳转至 [EDGE](/company/Microsoft/EDGE.md) 条目查看。
 
 ## Active Probe 被劫持
 
@@ -22,6 +22,5 @@ dateCreated: 2021-10-08T22:25:51.586+08:00
 
 [^806309]: [Windows 用来检测网络连通性的 IP 似乎被劫持了 - V2EX](https://web.archive.org/web/20211008141151/https://v2ex.com/t/806309)
 
-### 相关链接
-
-+ [【建议收藏】最近频繁出现的Win10/11 网络断连，无网络原因及解决方法 - 哔哩哔哩](https://archive.is/pqqfy "https://www.bilibili.com/video/BV1v44y1x7zM")
+> [!example]+ 相关链接
+> + [【建议收藏】最近频繁出现的Win10/11 网络断连，无网络原因及解决方法 - 哔哩哔哩](https://archive.is/pqqfy "https://www.bilibili.com/video/BV1v44y1x7zM")

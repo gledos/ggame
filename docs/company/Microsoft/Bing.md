@@ -2,7 +2,7 @@
 title: Microsoft Bing
 description:
 published: true
-date: 2021-12-17T23:44:06.163+08:00
+date: 2022-06-13T14:06:29.629+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-12-17T23:44:06.163+08:00
@@ -110,9 +110,9 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 2021年6月4日，所有地区的必应搜索都审查了一张图片，这个问题数小时之后才修好，微软称这是意外的认为差错。这件事导致了必应被全球性的一些抵制，文本编辑器软件 [Notepad++](/software/notepad_plus_plus.md) 因此删除了必应这个内置的搜索引擎。
 
-+ 相关链接
-    + [Microsoft says 'tank man' image blocking due to human error - ABC News](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)
-    + [Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’ | Reuters](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)
+> [!example]+ 相关链接
+> + [Microsoft says 'tank man' image blocking due to human error - ABC News](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)
+> + [Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’ | Reuters](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)
 
 <!--
     + [“坦克人”照片搜不到 微软Bing被质疑屏蔽六四敏感内容 - DW](https://web.archive.org/web/20210620000617/https://www.dw.com/zh/坦克人照片搜不到-微软bing被质疑屏蔽六四敏感内容/a-57786620)
@@ -138,12 +138,12 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 [^213]: [微软 Bing（必应）已可正常访问 - IT之家](https://web.archive.org/web/20211218062903/https://www.ithome.com/0/593/213.htm)
 
-+ 相关链接
-    + [必应崩啦？ - V2EX](https://web.archive.org/web/20211217114535/https://www.v2ex.com/t/822647)
-    + [疑似电信移动到联通互联节点故障导致 Bing 无法访问 - V2EX](https://web.archive.org/web/20211216153646/https://v2ex.com/t/822688)
-    + [最近必应中文搜索是否出现问题？ - 知乎](https://web.archive.org/web/20211216154036/https://www.zhihu.com/question/288799107)
-    + [bing的在中国的搜索自动建议功能被暂停服务30天 目前.cn域名无法打开 : China_irl](https://web.archive.org/web/20211216153557/https://old.reddit.com/r/China_irl/comments/rhpn14/bing的在中国的搜索自动建议功能被暂停服务30天_目前cn域名无法打开/)
-    + [2021 年 12月 16日 18:30许，必应搜索在中国无法访问 : China_irl](https://web.archive.org/web/20211216153602/https://old.reddit.com/r/China_irl/comments/rhrb5x/2021_年_12月_16日_1830许必应搜索在中国无法访问/)
+> [!example]+ 相关链接
+> + [必应崩啦？ - V2EX](https://web.archive.org/web/20211217114535/https://www.v2ex.com/t/822647)
+> + [疑似电信移动到联通互联节点故障导致 Bing 无法访问 - V2EX](https://web.archive.org/web/20211216153646/https://v2ex.com/t/822688)
+> + [最近必应中文搜索是否出现问题？ - 知乎](https://web.archive.org/web/20211216154036/https://www.zhihu.com/question/288799107)
+> + [bing的在中国的搜索自动建议功能被暂停服务30天 目前.cn域名无法打开 : China_irl](https://web.archive.org/web/20211216153557/https://old.reddit.com/r/China_irl/comments/rhpn14/bing的在中国的搜索自动建议功能被暂停服务30天_目前cn域名无法打开/)
+> + [2021 年 12月 16日 18:30许，必应搜索在中国无法访问 : China_irl](https://web.archive.org/web/20211216153602/https://old.reddit.com/r/China_irl/comments/rhrb5x/2021_年_12月_16日_1830许必应搜索在中国无法访问/)
 
 ## 大陆暂时关闭 7 天「搜索建议」
 

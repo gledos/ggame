@@ -102,6 +102,7 @@ plugins:
         - news_archive/*
   - tags:
       tags_file: tags.md
+  - callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts
   - abs-to-rel              # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
   # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
   # - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件

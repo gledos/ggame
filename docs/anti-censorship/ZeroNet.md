@@ -2,7 +2,7 @@
 title: ZeroNet
 description:
 published: true
-date: 2021-12-23T21:21:01.311+08:00
+date: 2022-06-13T14:06:17.617+08:00
 tags:
     - GFW
 editor: markdown
@@ -23,7 +23,7 @@ ZeroNet 基于现有的网络设施，运行在 Python3 上，使用比特币的
 
 2018年4月 中旬，ZeroNet 开始被 GFW 封锁，即使推出了新版本 带来了新的 Trackers，该 Trackers 也会在第一时间封禁。因此，中文用户数量开始大幅减少。
 
-+ 相关链接
-    + [Connect to trackers using Tor meek bridges · Issue #1396 · HelloZeroNet/ZeroNet · GitHub](https://web.archive.org/web/20201030101908/https://github.com/HelloZeroNet/ZeroNet/issues/1396)
-    + [[Proposal] 建议把此事件，存到ZeroNet，和到ZeroNet讨论 · Issue #600 · sikaozhe1997/Xin-Yue · GitHub](https://web.archive.org/web/20210124152839/https://github.com/sikaozhe1997/Xin-Yue/issues/600)
-    + [ZeroNet is blocked in China Now （ZeroNet在中国被屏蔽) · Issue #1401 · HelloZeroNet/ZeroNet · GitHub](https://web.archive.org/web/20201030101902/https://github.com/HelloZeroNet/ZeroNet/issues/1401)
+> [!example]+ 相关链接
+> + [Connect to trackers using Tor meek bridges · Issue #1396 · HelloZeroNet/ZeroNet · GitHub](https://web.archive.org/web/20201030101908/https://github.com/HelloZeroNet/ZeroNet/issues/1396)
+> + [[Proposal] 建议把此事件，存到ZeroNet，和到ZeroNet讨论 · Issue #600 · sikaozhe1997/Xin-Yue · GitHub](https://web.archive.org/web/20210124152839/https://github.com/sikaozhe1997/Xin-Yue/issues/600)
+> + [ZeroNet is blocked in China Now （ZeroNet在中国被屏蔽) · Issue #1401 · HelloZeroNet/ZeroNet · GitHub](https://web.archive.org/web/20201030101902/https://github.com/HelloZeroNet/ZeroNet/issues/1401)

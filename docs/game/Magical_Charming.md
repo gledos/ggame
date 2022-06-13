@@ -39,10 +39,10 @@ dateCreated: 2021-07-04T16:12:19.956+08:00
 
 [^tz2220]: [Tayutama 2-you're the only one- - 关于《魔卡魅恋！零之编年史》商店已无法访问及《魔卡魅恋！》后续发售前景的说明 - Steam News](https://web.archive.org/web/20210703095421/https://store.steampowered.com/news/app/552280/view/2220781021068150838)
 
-+ 相关链接
-    + [【2020.4.28】《魔卡魅恋！零之编年史》突然下架 原因不明 - 其乐 Keylol](https://archive.is/IkP2l "https://keylol.com/t589054-1-1")
-    + [运用魔法卡牌来恋爱吧！《魔卡魅恋！》周边特典预约活动 - 摩点](https://web.archive.org/web/20210123113606/https://zhongchou.modian.com/item/70343.html)
-    + 帖子审核未通过 [夏娃年代记2未过steam审核 NGA玩家社区](https://archive.is/BKTpw "ttps://ngabbs.com/read.php?tid=25568675")
+> [!example]+ 相关链接
+> + [【2020.4.28】《魔卡魅恋！零之编年史》突然下架 原因不明 - 其乐 Keylol](https://archive.is/IkP2l "https://keylol.com/t589054-1-1")
+> + [运用魔法卡牌来恋爱吧！《魔卡魅恋！》周边特典预约活动 - 摩点](https://web.archive.org/web/20210123113606/https://zhongchou.modian.com/item/70343.html)
+> + 帖子审核未通过 [夏娃年代记2未过steam审核 NGA玩家社区](https://archive.is/BKTpw "ttps://ngabbs.com/read.php?tid=25568675")
 
 ## 魔卡魅恋无法上架
 

@@ -2,7 +2,7 @@
 title: HarmonyOS
 description:
 published: true
-date: 2021-06-11T13:35:46.293+08:00
+date: 2022-06-13T14:09:41.941+08:00
 tags:
     - Operating-System
 editor: markdown
@@ -34,21 +34,21 @@ nga 有一网友称在关闭纯净模式后依然无法安装《在阴暗的房�
 
 [^cdfer]: [如何评价 6 月 2 日凌晨开源的 OpenHarmony 2.0 Canary? - 知乎](https://web.archive.org/web/20210603163144/https://www.zhihu.com/question/462685335/answer/1920115559)
 
-+ 相关链接
-    + [如何评价p站封了鸿蒙发布会【反二次元吧】 - 百度贴吧](https://web.archive.org/web/20210611051022/https://tieba.baidu.com/p/7386621934)
-    + [昨晚，B站为什么要封禁华为鸿蒙发布会直播？ - 知乎](https://web.archive.org/web/20210607112204/https://zhuanlan.zhihu.com/p/377544223 "https://archive.is/asoDT")
-    + [如何看待 B 站华为鸿蒙系统发布会直播的前一两分钟被封？ - 知乎](https://archive.is/Tjpz9 "https://www.zhihu.com/question/462807368")
+> [!example]+ 相关链接
+> + [如何评价p站封了鸿蒙发布会【反二次元吧】 - 百度贴吧](https://web.archive.org/web/20210611051022/https://tieba.baidu.com/p/7386621934)
+> + [昨晚，B站为什么要封禁华为鸿蒙发布会直播？ - 知乎](https://web.archive.org/web/20210607112204/https://zhuanlan.zhihu.com/p/377544223 "https://archive.is/asoDT")
+> + [如何看待 B 站华为鸿蒙系统发布会直播的前一两分钟被封？ - 知乎](https://archive.is/Tjpz9 "https://www.zhihu.com/question/462807368")
 
 ## Linux 内核贡献争议
 
 2021年6月20日，该争议似乎没有被限制讨论。
 
-+ 相关链接
-    + [再次确认华为对Linux代码贡献最高，安卓系统套壳EMUI系统？ - 腾讯新闻](https://web.archive.org/web/20210622020902/https://new.qq.com/omn/20210417/20210417A0BD9D00.html)
-    + [如何看待2017年linux内核 华为是仅次于英特尔和谷歌的贡献的大机构? - 知乎](https://web.archive.org/web/20210622032426/https://www.zhihu.com/question/344289069)
-    + [如何看待华为安卓开源社区代码贡献度0.4%? - 知乎](https://web.archive.org/web/20210622031259/https://www.zhihu.com/question/451640869)
-    + [LKML: Qu Wenruo: Please don't waste maintainers' time on your KPI grabbing patches (AKA, don't be a KPI jerk)](https://web.archive.org/web/20210621094038/https://lkml.org/lkml/2021/6/18/153)
-    + [华为开发者被批评在内核刷 KPI - 奇客Solidot](https://web.archive.org/web/20210622032457/https://www.solidot.org/story?sid=68077)
-    + [华为 Linux 内核贡献者被质疑刷 KPI，邮件已排到热榜第一 - IT之家](https://web.archive.org/web/20210621195555/https://www.ithome.com/0/558/456.htm)
-    + [原来 Linux 内核贡献第二是这么来的 - V2EX](https://web.archive.org/web/20210621101548/https://www.v2ex.com/t/784789)
-    + [华为 Linux 内核贡献者被质疑刷 KPI，真实情况是怎样的？有哪些信息值得关注？ - 知乎](https://web.archive.org/web/20210622021358/https://www.zhihu.com/question/466111598)
+> [!example]+ 相关链接
+> + [再次确认华为对Linux代码贡献最高，安卓系统套壳EMUI系统？ - 腾讯新闻](https://web.archive.org/web/20210622020902/https://new.qq.com/omn/20210417/20210417A0BD9D00.html)
+> + [如何看待2017年linux内核 华为是仅次于英特尔和谷歌的贡献的大机构? - 知乎](https://web.archive.org/web/20210622032426/https://www.zhihu.com/question/344289069)
+> + [如何看待华为安卓开源社区代码贡献度0.4%? - 知乎](https://web.archive.org/web/20210622031259/https://www.zhihu.com/question/451640869)
+> + [LKML: Qu Wenruo: Please don't waste maintainers' time on your KPI grabbing patches (AKA, don't be a KPI jerk)](https://web.archive.org/web/20210621094038/https://lkml.org/lkml/2021/6/18/153)
+> + [华为开发者被批评在内核刷 KPI - 奇客Solidot](https://web.archive.org/web/20210622032457/https://www.solidot.org/story?sid=68077)
+> + [华为 Linux 内核贡献者被质疑刷 KPI，邮件已排到热榜第一 - IT之家](https://web.archive.org/web/20210621195555/https://www.ithome.com/0/558/456.htm)
+> + [原来 Linux 内核贡献第二是这么来的 - V2EX](https://web.archive.org/web/20210621101548/https://www.v2ex.com/t/784789)
+> + [华为 Linux 内核贡献者被质疑刷 KPI，真实情况是怎样的？有哪些信息值得关注？ - 知乎](https://web.archive.org/web/20210622021358/https://www.zhihu.com/question/466111598)

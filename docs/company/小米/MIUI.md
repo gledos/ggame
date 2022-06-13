@@ -2,7 +2,7 @@
 title: MIUI
 description: 小米公司的手机系统
 published: true
-date: 2022-06-06T12:45:10.4510+08:00
+date: 2022-06-13T14:10:10.1010+08:00
 tags:
     - Operating-System
 editor: markdown
@@ -134,9 +134,9 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 [^52439]: [Lithuania says throw away Chinese phones due to censorship concerns - Reuters](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)
 
-+ 相关链接
-    + [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
-    + [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
+> [!example]+ 相关链接
+> + [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
+> + [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
 
 ## 自动添加 DNS
 

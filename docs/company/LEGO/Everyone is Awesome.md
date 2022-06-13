@@ -2,7 +2,7 @@
 title: Everyone is Awesome
 description:
 published: true
-date: 2021-09-16T23:49:56.878+08:00
+date: 2022-06-13T14:05:37.537+08:00
 tags:
     - LGBT
 editor: markdown
@@ -26,6 +26,5 @@ dateCreated: 2021-09-16T23:49:56.878+08:00
 
 [^247094324]: [（）下架乐高🌈人仔套装](https://web.archive.org/web/20210916154405/https://www.douban.com/group/topic/247094324/)
 
-### 相关链接
-
-+ 你没有权限访问这个页面。 [乐高因为涉嫌敏感话题下架（有炒作嫌疑）](https://wap.douban.com/group/topic/247075658)
+> [!example]+ 相关链接
+> + 你没有权限访问这个页面。 [乐高因为涉嫌敏感话题下架（有炒作嫌疑）](https://wap.douban.com/group/topic/247075658)

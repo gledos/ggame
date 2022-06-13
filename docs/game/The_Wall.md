@@ -2,7 +2,7 @@
 title: The Wall 墙
 description: 一款禅意游戏
 published: true
-date: 2021-01-05T08:00:21.784+08:00
+date: 2022-06-13T15:07:36.736+08:00
 tags:
     - Steam
 editor: markdown
@@ -35,12 +35,12 @@ dateCreated: 2021-01-05T08:00:21.784+08:00
 
 关于删除的原因，我估计可能有以下几点:
 
-1. 描述了俗称喝茶的程序
-2. 文章里前后矛盾容易让人思考，比如:
-   1. 「异议分子」与「ShadowSocks 作者」
-   2. 「威胁」与「保证不再做这样的事」
-   3. 「攻击国家法规政策」与「对于科学上网，由于官方暂时没有详细说明」
-   4. 「外界在传玫瑰狗被刑拘」与「继续正常做游戏，咸鱼，女主播什么的」
+1.  描述了俗称喝茶的程序
+2.  文章里前后矛盾容易让人思考，比如:
+    1.  「异议分子」与「ShadowSocks 作者」
+    2.  「威胁」与「保证不再做这样的事」
+    3.  「攻击国家法规政策」与「对于科学上网，由于官方暂时没有详细说明」
+    4.  「外界在传玫瑰狗被刑拘」与「继续正常做游戏，咸鱼，女主播什么的」
 
 [^twg_rm]: [Steam必须入华 - 对对对你们都是业内 - 微信公众号](https://archive.is/81Cvm#19% "https://mp.weixin.qq.com/s?__biz=MzU3NzQ2MTU3NQ%3D%3D&mid=2247484106&idx=1&sn=77abd69531c8105d76625a8da355bc74")
 
@@ -57,9 +57,8 @@ dateCreated: 2021-01-05T08:00:21.784+08:00
 [严肃性](https://web.archive.org/web/20180524103048/https://cowlevel.net/article/1846170)<!-- (可能是被质疑吃人血馒头，跟风) -->，
 之后公布了游戏的[设定](https://web.archive.org/web/20180524103454/https://cowlevel.net/article/1848198)。
 
-### 相关链接
-
-+ [THE WALL 墙 · AppID: 635070 · Steam Database](https://archive.is/ie2Fo "https://steamdb.info/app/635070/")
-+ [【网络民议】国产独立游戏：墙 - 中国数字时代](https://web.archive.org/web/20200928111807/https://chinadigitaltimes.net/chinese/2017/06/【网络民议】国产独立游戏：墙/)
-+ [国产网络审查讽刺游戏《THE WALL 墙》大胆的作者会不会突然失踪…… - 舞动漫画 - 公众号](https://archive.is/Run3o "https://freewechat.com/a/MzAwNzUyOTEzOQ==/2649772535/2?raw")
-+ [玫瑰狗：“喝茶”的经历与功效 – 写在《THE WALL》发布一年后-墙外楼](https://archive.fo/uTFfH "已失效://www.letscorp.net/archives/131048")
+> [!example]+ 相关链接
+> + [THE WALL 墙 · AppID: 635070 · Steam Database](https://archive.is/ie2Fo "https://steamdb.info/app/635070/")
+> + [【网络民议】国产独立游戏：墙 - 中国数字时代](https://web.archive.org/web/20200928111807/https://chinadigitaltimes.net/chinese/2017/06/【网络民议】国产独立游戏：墙/)
+> + [国产网络审查讽刺游戏《THE WALL 墙》大胆的作者会不会突然失踪…… - 舞动漫画 - 公众号](https://archive.is/Run3o "https://freewechat.com/a/MzAwNzUyOTEzOQ==/2649772535/2?raw")
+> + [玫瑰狗：“喝茶”的经历与功效 – 写在《THE WALL》发布一年后-墙外楼](https://archive.fo/uTFfH "已失效://www.letscorp.net/archives/131048")
