@@ -8,12 +8,14 @@ p {
     text-indent: 0em;
 } */
 
-li>p .admonition-title {
+li>p,
+.admonition-title {
     text-indent: 0em;
 }
 
 /* 防止将图片也给缩进 */
-p>img {
+p>img,
+html>div>img {
     display: block
 }
 
@@ -21,7 +23,8 @@ p>img {
 /* -------------------- 分割线 -------------------- */
 /* 勾选框位置调整 - 开始 */
 
-.md-typeset .task-list-item [type="checkbox"] {
+.md-typeset,
+.task-list-item [type="checkbox"] {
     top: .1em;
 }
 
