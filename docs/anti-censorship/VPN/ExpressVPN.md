@@ -2,7 +2,7 @@
 title: ExpressVPN
 description:
 published: true
-date: 2021-10-10T14:36:24.258+08:00
+date: 2022-06-14T15:23:06.236+08:00
 tags: 
     - Proxy
 editor: markdown
@@ -11,16 +11,20 @@ dateCreated: 2021-10-10T14:36:24.258+08:00
 
 ## 从 App Store 大陆区下架
 
-2017年7月29日，ExpressVPN 更新了一篇博客:
+2017年7月29日，ExpressVPN 更新了一篇博客：
 
-```YAML
-标题: Apple removes VPN Apps from China App Store
-发布时间: July 29, 2017
-最后更新时间: September 13, 2021
-链接: https://www.expressvpn.com/blog/china-ios-app-store-removes-vpns/
-快照: https://archive.is/2PRiB
-```
+> [!summary]+ 元数据
+>
+> ```YAML
+> 标题: Apple removes VPN Apps from China App Store
+> 发布时间: July 29, 2017
+> 最后更新时间: September 13, 2021
+> 链接: https://www.expressvpn.com/blog/china-ios-app-store-removes-vpns/
+> 快照: https://archive.is/2PRiB
+> ```
 
+> [!quote]+ Apple removes VPN Apps from China App Store
+>
 > BREAKING NEWS
 >
 > We received notification from Apple today, July 29, 2017, at roughly 04:00 GMT, that the ExpressVPN iOS app was removed from the China App Store. Our preliminary research indicates that all major VPN apps for iOS have been removed.
