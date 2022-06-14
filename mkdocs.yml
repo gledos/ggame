@@ -19,18 +19,18 @@ theme:
     logo: material/microsoft-xbox-controller-off
   font: false
   palette:
-    - media: "(prefers-color-scheme: light)"
-      primary: blue
-      scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: 切换到暗模式
-    - media: "(prefers-color-scheme: dark)"
-      primary: blue
-      scheme: slate
-      toggle:
-        icon: material/toggle-switch
-        name: 切换到亮模式
+  - media: "(prefers-color-scheme: light)"
+    primary: blue
+    scheme: default
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: 切换到暗模式
+  - media: "(prefers-color-scheme: dark)"
+    primary: blue
+    scheme: slate
+    toggle:
+      icon: material/toggle-switch
+      name: 切换到亮模式
   name: material
   custom_dir: overrides
   language: zh              # 中文，解决中文搜索问题
@@ -48,90 +48,95 @@ use_directory_urls: false   # gledos 不喜欢的 URL 风格，所以要关闭
 edit_uri: ""                # 隐藏编辑按钮
 
 markdown_extensions:
-  - md_in_html              # HTML 内书写 Markdown
-  - pymdownx.superfences:   # 代码块相关
-      custom_fences:        # 代码块相关
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  # - abbr                  # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
-  - attr_list               # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
-  # - nl2br                 # newline-to-break markdown 非严格换行，我不喜欢的插件
-  - toc:
-      permalink: "#"        # heading anchor
-      slugify: !!python/name:pymdownx.slugs.uslugify # 解决中文标题解析问题
-  - admonition              # 突出显示一些东西，比如 !!!info|bug|tips之类
-  - codehilite:
-      guess_lang: false
-      linenums: false
-  - footnotes               # 支持脚注[^1]
-  - meta                    # YAML 元数据
-  - def_list                # 支持有序、无序、任务列表
-  - pymdownx.tasklist
-  # - pymdownx.arithmatex   # 数学公式latex支持
-  - pymdownx.betterem:
-      smart_enable: all
-  # pymdownx.b64            # 将图片编码为 base64
-  - pymdownx.details
-  # - pymdownx.pathconverter:
-  #     base_path: ''       # default: ''
-  #     relative_path: ''   # default ''
-  #     absolute: false     # default: false
-  #     tags: 'a script img link object embed'
-  # - pymdownx.emoji:       # 支持图标icons和表情渲染，比如:smile:
-  # emoji_generator: !!python/name:pymdownx.emoji.to_png
-  - pymdownx.highlight      # 代码块相关
-  - pymdownx.inlinehilite   # 代码块相关
-  - pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
-      alternate_style: true 
-  - pymdownx.snippets
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
-  - pymdownx.keys           # 支持 快捷键渲染
-  # - pymdownx.caret        # 上标、下划线
-  # - pymdownx.smartsymbols # 1st 2en 以及特殊符号
-  # - pymdownx.tilde        # 下标
+- md_in_html              # HTML 内书写 Markdown
+- attr_list               # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
+- admonition              # 突出显示一些东西，比如 !!!info|bug|tips之类
+- footnotes               # 支持脚注[^1]
+- meta                    # YAML 元数据
+- def_list                # 支持有序、无序、任务列表
+- pymdownx.superfences:   # 代码块相关
+    custom_fences:          # 代码块相关
+    - name: mermaid
+      class: mermaid
+      format: !!python/name:pymdownx.superfences.fence_code_format
+- toc:
+    permalink: "#"          # heading anchor
+    slugify: !!python/name:pymdownx.slugs.uslugify     # 解决中文标题解析问题
+- codehilite:
+    guess_lang: false
+    linenums: false
+- pymdownx.betterem:
+    smart_enable: all
+- pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
+    alternate_style: true
+- pymdownx.tasklist
+- pymdownx.details
+- pymdownx.highlight      # 代码块相关
+- pymdownx.inlinehilite   # 代码块相关
+- pymdownx.snippets
+- pymdownx.magiclink
+- pymdownx.mark
+- pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
+- pymdownx.keys           # 支持 快捷键渲染
+# pymdownx.b64            # 将图片编码为 base64
+# - abbr                  # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
+# - nl2br                 # newline-to-break markdown 非严格换行，我不喜欢的插件
+# - pymdownx.arithmatex   # 数学公式latex支持
+# - pymdownx.pathconverter:
+#     base_path: ''       # default: ''
+#     relative_path: ''   # default ''
+#     absolute: false     # default: false
+#     tags: 'a script img link object embed'
+# - pymdownx.emoji:       # 支持图标icons和表情渲染，比如:smile:
+# emoji_generator: !!python/name:pymdownx.emoji.to_png
+# - pymdownx.caret        # 上标、下划线
+# - pymdownx.smartsymbols # 1st 2en 以及特殊符号
+# - pymdownx.tilde        # 下标
 
 plugins:
-  - search:
-      separator: '[\s\u200b\-]'
-  - exclude-search:
-      exclude:
-        - rule/*
-        - news_archive/*
-  - tags:
-      tags_file: tags.md
-  - callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts
-  - abs-to-rel              # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
-  # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
-  # - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
-  # - autolinks
-  - exclude:
-      glob:
-        - src/_HD_/*
-        - "mkdocs/本地/*"
-        - "*.tmp"
-        - "*.gz"
-      regex:
-        - '.*\.(tmp|bin|tar)$'
-  - redirects:              # 重定向插件 https://github.com/datarobot/mkdocs-redirects
-      redirect_maps:
-        "website/立场新闻.md": "company/立场新闻.md"
-        "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
+- mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
+    is_video: True
+    css_style:
+      width: "100%"
+      height: "100%"
+- search:
+    separator: '[\s\u200b\-]'
+- exclude-search:
+    exclude:
+    - rule/*
+    - news_archive/*
+- tags:
+    tags_file: tags.md
+- callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts
+- abs-to-rel              # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
+# - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
+# - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
+# - autolinks
+- exclude:
+    glob:
+    - "src/_HD_/*"
+    - "mkdocs/本地/*"
+    - "*.tmp"
+    - "*.gz"
+    regex:
+    - '.*\.(tmp|bin|tar)$'
+- redirects:              # 重定向插件 https://github.com/datarobot/mkdocs-redirects
+    redirect_maps:
+      "website/立场新闻.md": "company/立场新闻.md"
+      "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
 
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/telegram
-      link: https://t.me/gledos_microblogging
-    - icon: material/email-outline
-      link: mailto:cngledos@gmail.com
+  - icon: fontawesome/brands/telegram
+    link: https://t.me/gledos_microblogging
+  - icon: material/email-outline
+    link: mailto:cngledos@gmail.com
 
 extra_css:
-  - "css/external_link_icon.css"
-  - "css/footnotes.css"     # 脚注 CSS
-  - "css/base.css"
+- "css/external_link_icon.css"
+- "css/footnotes.css"     # 脚注 CSS
+- "css/base.css"
 
 # extra_javascript:
   # - https://unpkg.com/mermaid/dist/mermaid.min.js

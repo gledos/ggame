@@ -8,12 +8,13 @@ p {
     text-indent: 0em;
 } */
 
-li>p {
+li>p .admonition-title {
     text-indent: 0em;
 }
 
-.admonition-title {
-    text-indent: 0em;
+/* 防止将图片也给缩进 */
+p>img {
+    display: block
 }
 
 /* 行首缩进 - 结束 */
