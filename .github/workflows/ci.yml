@@ -22,4 +22,5 @@ jobs:
       - run: pip install jieba
       - run: pip install mkdocs-exclude-search
       - run: pip install mkdocs-callouts
+      - run: pip install mkdocs-video
       - run: mkdocs gh-deploy --force

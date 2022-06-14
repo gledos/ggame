@@ -8,3 +8,4 @@ pymdown-extensions
 jieba
 mkdocs-exclude-search
 mkdocs-callouts
+mkdocs-video

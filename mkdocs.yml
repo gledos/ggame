@@ -17,6 +17,8 @@ theme:
   favicon: favicon.png
   icon:
     logo: material/microsoft-xbox-controller-off
+    admonition:
+      law: material/scale-balance
   font: false
   palette:
   - media: "(prefers-color-scheme: light)"
@@ -137,6 +139,7 @@ extra_css:
 - "css/external_link_icon.css"
 - "css/footnotes.css"     # 脚注 CSS
 - "css/base.css"
+- "css/custom_admonitions.css" # 自定义 Admonitions
 
 # extra_javascript:
   # - https://unpkg.com/mermaid/dist/mermaid.min.js
