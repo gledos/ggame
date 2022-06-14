@@ -8,13 +8,15 @@ editor: markdown
 dateCreated: 2022-01-30T16:20:02.309+08:00
 ---
 
+# TCP重置攻击
+
 ## 简介
 
 [TCP 重置攻击](https://zh.wikipedia.org/wiki/TCP重置攻击) (TCP reset attack) 是通过伪造的 TCP 重置包，干扰网络连接的技术，是一种 [旁观者攻击](https://zh.wikipedia.org/wiki/旁观者攻击) 。
 
 因为 TCP/IP 没有内置确认通讯者身份的方法，只有一个扩展协议 IPSec 含有身份认证系统，所以 TCP 重置攻击相当的易用。
 
-```Mermaid
+``` mermaid
 sequenceDiagram
     participant A
     participant B
