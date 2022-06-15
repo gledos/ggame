@@ -48,13 +48,12 @@ use_directory_urls: false   # gledos 不喜欢的 URL 风格，所以要关闭
 edit_uri: ""                # 隐藏编辑按钮
 
 markdown_extensions:
-- md_in_html              # HTML 内书写 Markdown
-- attr_list               # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
-- admonition              # 突出显示一些东西，比如 !!!info|bug|tips之类
-- footnotes               # 支持脚注[^1]
-- meta                    # YAML 元数据
-- def_list                # 支持有序、无序、任务列表
-- pymdownx.superfences:   # 代码块相关
+- md_in_html                # HTML 内书写 Markdown
+- attr_list                 # https://squidfunk.github.io/mkdocs-material/reference/images/ # 增加css-html样式，例如按钮，比如图片定义大小，caption
+- admonition                # 突出显示一些东西，比如 !!!info|bug|tips之类
+- footnotes                 # 支持脚注[^1]
+- def_list                  # 支持有序、无序、任务列表
+- pymdownx.superfences:     # 代码块相关
     custom_fences:          # 代码块相关
     - name: mermaid
       class: mermaid
@@ -69,6 +68,7 @@ markdown_extensions:
     smart_enable: all
 - pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
     alternate_style: true
+- meta                    # YAML 元数据
 - pymdownx.tasklist
 - pymdownx.details
 - pymdownx.highlight      # 代码块相关
@@ -94,13 +94,27 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+# - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
     is_video: True
     css_style:
       width: "100%"
       height: "100%"
-- search:
-    separator: '[\s\u200b\-]'
+# - minify:                 # 将文件 minify 的插件   https://github.com/byrnereese/mkdocs-minify-plugin
+#     # minify_html: true   # html 过多，导致生成时间变成了三倍……
+#     minify_js: true       # 只压缩 js 和 css 效果又不明显，所以不打算使用……
+#     minify_css: true
+#     htmlmin_opts:
+#       remove_comments: true
+#   #   js_files:
+#   #   - my/javascript/dir/file1.js
+#       css_files:
+#       - css/external_link_icon.css
+#       - css/footnotes.css
+#       - css/base.css
+#       - css/custom_admonitions.css
+# - search:
+#     separator: '[\s\u200b\-]'
 - exclude-search:
     exclude:
     - rule/*
@@ -109,7 +123,7 @@ plugins:
 - tags:
     tags_file: tags.md
 - callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts
-- abs-to-rel              # 绝对路径转相对路径 https://pypi.org/project/mkdocs-abs-rel-plugin/
+- abs-to-rel              # 绝对路径转相对路径       https://pypi.org/project/mkdocs-abs-rel-plugin/
 # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
 # - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
 # - autolinks
@@ -141,6 +155,6 @@ extra_css:
 - "css/custom_admonitions.css" # 自定义 Admonitions
 
 # extra_javascript:
-  # - https://unpkg.com/mermaid/dist/mermaid.min.js
+# - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
