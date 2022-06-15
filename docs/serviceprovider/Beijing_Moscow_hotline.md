@@ -2,7 +2,7 @@
 title: 运动中的中苏热线
 description:
 published: true
-date: 2020-11-18T10:14:04.422+08:00
+date: 2022-06-15T09:39:51.3951+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2020-11-18T10:08:29.526+08:00
@@ -16,6 +16,7 @@ dateCreated: 2020-11-18T10:08:29.526+08:00
 
 [^1294368]: [大三角格局开启——周恩来与柯西金北京机场会谈 回忆录 国际网](https://web.archive.org/web/20190611132941/http://memo.cfisnet.com/2013/0128/1294368.html)
 
-+ 相关链接
-    + [周恩来与柯西金机场会谈实录](https://web.archive.org/web/20201009035356/http://www.dswxyjy.org.cn/n1/2019/0228/c423726-30942247.html)
-    + [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA "https://new.qq.com/omn/20180529/20180529A0F8XY.html")
+> [!example]+ 相关链接
+>
+> +   [周恩来与柯西金机场会谈实录](https://web.archive.org/web/20201009035356/http://www.dswxyjy.org.cn/n1/2019/0228/c423726-30942247.html)
+> +   [他是一国总理，打电话给毛主席时被话务员挂断，话务员说：你是坏人-腾讯网](https://archive.is/ymluA "https://new.qq.com/omn/20180529/20180529A0F8XY.html")

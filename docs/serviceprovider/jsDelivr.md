@@ -84,6 +84,8 @@ jsDelivr 是免费的公共 CDN，它可以直接从 npm 和 GitHub 存储库提
 
 ## 解除封锁
 
-2022年6月10日 左右，域名 `cdn.jsdelivr.net` 被发现已解封，大多数地区的 DNS 测试也显示恢复了正常。[^3c91]
+2022年6月10日 左右，域名 `cdn.jsdelivr.net` 被发现已解封，大多数地区的 DNS 测试也显示恢复了正常。[^3c91][^1032441]
 
 [^3c91]: 《[cdn.jsdelivr.net DNS 检测](https://web.archive.org/web/20220611055420/https://zijian.aliyun.com/detect/dns/DNS_PING-8b566904aff9db99decd9d9d3c914f6b-1654926779971)》, 阿里云网站运维检测平台, 2022-06-11. (参照 2022-06-11).
+
+[^1032441]: h3cie, 《[jsdelivr已经恢复正常了！](https://web.archive.org/web/20220614034857/https://hostloc.com/thread-1032441-1-1.html)》, hostloc, 2022-06-14. (参照 2022-06-14).

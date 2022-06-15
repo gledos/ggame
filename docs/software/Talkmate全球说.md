@@ -2,7 +2,7 @@
 title: Talkmate全球说
 description:
 published: true
-date: 2021-11-15T14:52:01.553+08:00
+date: 2022-06-15T10:15:56.1556+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-11-15T14:52:01.553+08:00
@@ -14,7 +14,7 @@ dateCreated: 2021-11-15T14:52:01.553+08:00
 
 [^cV9h4]: [完全支持转发@Talkmate全球说：公告... 来自狗鼻子過敏 - 微博](https://archive.md/cV9h4 "https://weibo.com/5969074833/KF9On35e8")
 
-> 【公告】关于藏语和维语课程
+> [!quote]+ 【公告】关于藏语和维语课程
 >
 > 最近总有同学在后台问为什么找不到藏语和维语课程了，球球菌在这里正式回答一下：
 >
@@ -34,6 +34,7 @@ dateCreated: 2021-11-15T14:52:01.553+08:00
 
 [^16706]: [语言学习网站全球说 (TalkMate) 宣布下架维、藏语课程 - 2047论坛，自由人的精神角落](https://web.archive.org/web/20211115071544/https://2047.name/t/16706)
 
-+ 相关链接
-    + [🇨🇳真的没有针对少数民族文化.jpg : China_irl](https://web.archive.org/web/20211030151643/https://old.reddit.com/r/China_irl/comments/qiz0a0/真的没有针对少数民族文化jpg/)
-    + [应中国政府政策要求 “全球说”软件下架藏维语课程 – 看传媒新闻网](https://web.archive.org/web/20211115063107/https://vct.news/news/8fced8b7-d037-4925-8d28-b3f5a95913ae)
+> [!example]+ 相关链接
+>
+> +   [🇨🇳真的没有针对少数民族文化.jpg : China_irl](https://web.archive.org/web/20211030151643/https://old.reddit.com/r/China_irl/comments/qiz0a0/真的没有针对少数民族文化jpg/)
+> +   [应中国政府政策要求 “全球说”软件下架藏维语课程 – 看传媒新闻网](https://web.archive.org/web/20211115063107/https://vct.news/news/8fced8b7-d037-4925-8d28-b3f5a95913ae)

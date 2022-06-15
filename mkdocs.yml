@@ -105,6 +105,7 @@ plugins:
     exclude:
     - rule/*
     - news_archive/*
+    - encryption/*
 - tags:
     tags_file: tags.md
 - callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts

@@ -2,7 +2,7 @@
 title: giffgaff
 description:
 published: true
-date: 2021-12-01T15:43:26.048+08:00
+date: 2022-06-15T09:40:15.4015+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-12-01T15:43:26.048+08:00
@@ -23,6 +23,7 @@ giffgaff 是一家总部位于英国的移动电话公司。Giffgaff与传统的
 
 [^0243]: [长沙海关首次在进境邮件中查获虚拟电话卡（图）](http://www.customs.gov.cn/customs/xwfb34/302425/4024361/index.html)
 
-+ 相关链接
-    + [长沙海关首次在入境邮件中查获虚拟电话卡 - 新华网](https://web.archive.org/web/20211130032902/http://www.news.cn/2021-11/29/c_1128113086.htm)
-    + [打算买境外电话卡的注意了-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://web.archive.org/web/20211201073501/https://hostloc.com/thread-928954-1-1.html)
+> [!example]+ 相关链接
+>
+> +   [长沙海关首次在入境邮件中查获虚拟电话卡 - 新华网](https://web.archive.org/web/20211130032902/http://www.news.cn/2021-11/29/c_1128113086.htm)
+> +   [打算买境外电话卡的注意了-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://web.archive.org/web/20211201073501/https://hostloc.com/thread-928954-1-1.html)
