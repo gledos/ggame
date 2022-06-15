@@ -17,8 +17,6 @@ theme:
   favicon: favicon.png
   icon:
     logo: material/microsoft-xbox-controller-off
-    admonition:
-      law: material/scale-balance
   font: false
   palette:
   - media: "(prefers-color-scheme: light)"
