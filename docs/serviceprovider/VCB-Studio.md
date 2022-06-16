@@ -2,7 +2,7 @@
 title: VCB-Studio
 description: 专业的压制动画小组
 published: true
-date: 2021-07-09T23:07:32.895+08:00
+date: 2022-06-16T08:41:33.4133+08:00
 tags:
 - 汉化组
 - 动画
@@ -21,10 +21,11 @@ dateCreated: 2021-07-09T23:07:32.895+08:00
 
 原本不需要登陆的论坛镜像站 <404.website> 也在相同的时间必须要登陆才能查看。
 
-+ 相关链接
-    + [【已解决？】某个压制组突然蒸发](https://web.archive.org/web/20210618051002/https://bangumi.tv/group/topic/363149)
-    + [vcb studio压制组怎么了? - 知乎](https://web.archive.org/web/20210709142916/https://www.zhihu.com/question/464011062)
-    + [求帮忙下载VCB论坛学园默示录的字幕](https://web.archive.org/web/20210604032255/https://bangumi.tv/group/topic/363144)
+> [!example]+ 相关链接
+>
+> +   [【已解决？】某个压制组突然蒸发](https://web.archive.org/web/20210618051002/https://bangumi.tv/group/topic/363149)
+> +   [vcb studio压制组怎么了? - 知乎](https://web.archive.org/web/20210709142916/https://www.zhihu.com/question/464011062)
+> +   [求帮忙下载VCB论坛学园默示录的字幕](https://web.archive.org/web/20210604032255/https://bangumi.tv/group/topic/363144)
 
 ## 压制恢复
 
