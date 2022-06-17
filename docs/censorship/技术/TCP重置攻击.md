@@ -16,7 +16,7 @@ dateCreated: 2022-01-30T16:20:02.309+08:00
 
 因为 TCP/IP 没有内置确认通讯者身份的方法，只有一个扩展协议 IPSec 含有身份认证系统，所以 TCP 重置攻击相当的易用。
 
-``` mermaid
+```mermaid
 sequenceDiagram
     participant A
     participant B
@@ -27,5 +27,6 @@ sequenceDiagram
 ```
 
 > [!example]+ 相关链接
-> + [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
-> + [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)
+>
+> +   [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
+> +   [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)
