@@ -51,6 +51,7 @@ markdown_extensions:
 # - legacy_em               # 恢复 Markdown 的严格加重符号语义
 - md_in_html                # HTML 内书写 Markdown
 - attr_list                 # 增加css-html样式，例如按钮，比如图片定义大小，caption    https://python-markdown.github.io/extensions/attr_list/
+# - legacy_attrs            # 增加css-html样式，已废弃，不推荐使用    https://python-markdown.github.io/extensions/legacy_attrs/
 - admonition                # 突出显示一些东西，比如 !!!info|bug|tips之类
 - footnotes                 # 支持脚注[^1]
 - def_list                  # 支持有序、无序、任务列表
