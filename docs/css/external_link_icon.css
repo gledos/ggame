@@ -36,3 +36,9 @@ a[href^="http://archive.is/"], [href^="http://archive.ph/"], [href^="http://arch
     padding-left: 1.5em;
     background-size: 16px;
 }
+
+a[href^="https://zh.wikisource.org"], [href^="http://en.wikisource.org"], [href^="http://jp.wikisource.org"], [href^="http://de.wikisource.org"]{
+    background: url(../src/external-links/wikisource.ico) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    background-size: 16px;
+}
