@@ -11,7 +11,7 @@ dateCreated: 2021-03-18T10:32:32.947+08:00
 
 ## 和谐游戏
 
-这里是收集许多的和谐游戏的百科，点击 [这里][] 跳转到游戏板块，然后从左边的树状列表进行查看条目
+这里是收集许多的和谐游戏的百科，点击 [这里][/game] 跳转到游戏板块，然后从左边的树状列表进行查看条目
 
 <!--
 如果需要搜索，可以进入 Github 仓库进行搜索，因为 Mkdocs 内建的搜索功能不适合过大的文档，所以 Mkdocs 搜索功能已关闭。
@@ -68,15 +68,15 @@ dateCreated: 2021-03-18T10:32:32.947+08:00
 任何问题，或者想参与编写该 Wiki，都可以联系我:
 
 +   邮箱: cngledos@gmail.com
-+   Telegram: [@gledos_green]: https://t.me/gledos_green
++   Telegram: [@gledos_green](https://t.me/gledos_green)
 
 ## 源文件
 
-[这里]: https://github.com/gledos/ggame)（Github 仓库）可以查看到所有的条目的 Markdown Raw 文件
+[这里](https://github.com/gledos/ggame)（Github 仓库）可以查看到所有的条目的 Markdown Raw 文件。
 
 ## 游客计数
 
-[![网页游客计数器]: https://count.getloli.com/get/@:ggame)]: https://count.getloli.com/
+[![网页游客计数器](https://count.getloli.com/get/@:ggame)](https://count.getloli.com/)
 
 <!--
 
