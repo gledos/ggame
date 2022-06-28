@@ -124,8 +124,8 @@ plugins:
     - encryption/*
 - tags:
     tags_file: tags.md
-- callouts                # 微软风格的 admonition    https://github.com/sondregronas/mkdocs-callouts
-- abs-to-rel              # 绝对路径转相对路径       https://pypi.org/project/mkdocs-abs-rel-plugin/
+- callouts                # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
+- abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
 # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
 # - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
 # - autolinks
@@ -137,11 +137,12 @@ plugins:
     - "*.gz"
     regex:
     - '.*\.(tmp|bin|tar)$'
-- redirects:              # 重定向插件    https://github.com/datarobot/mkdocs-redirects
+- redirects:              # 重定向插件                https://github.com/datarobot/mkdocs-redirects
     redirect_maps:
       "website/立场新闻.md": "company/立场新闻.md"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
       "punish/APP侵害用户权益专项整治行动/APP侵害用户权益专项整治行动.md": "punish/APP侵害用户权益专项整治行动/index.md" # 2022-06-16T15:59:50.5950+08:00
+      "rule/上海市密室剧本杀内容备案管理规定.md": "rule/地区规范性文件/上海市密室剧本杀规定.md"                          # 2022-06-28T15:05
 
 extra:
   generator: false
