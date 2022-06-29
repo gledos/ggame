@@ -76,7 +76,7 @@ dateCreated: 2021-03-18T10:32:32.947+08:00
 
 ## 游客计数
 
-[![网页游客计数器](https://count.getloli.com/get/@:ggame)](https://count.getloli.com/)
+![网页游客计数器](https://count.getloli.com/get/@:ggame)
 
 <!--
 
