@@ -4,7 +4,7 @@ description: 记录一切和谐游戏
 published: true
 date: 2022-06-27T10:12:12:1212+08:00
 tags:
-    - index
+- index
 editor: markdown
 dateCreated: 2021-03-18T10:32:32.947+08:00
 ---
