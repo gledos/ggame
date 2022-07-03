@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: 2022-06-30T17:23:52.2352+08:00
+date: 2022-07-03T12:00:14.014+08:00
 tags:
 - 论坛
 - 腾讯
@@ -10,6 +10,10 @@ tags:
 editor: markdown
 dateCreated: 2021-03-18T10:43:01.642+08:00
 ---
+
+# V2EX
+
+## 简介
 
 V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，必定需要做出许多的限制。
 
@@ -89,7 +93,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 2021年1月30日左右，上述的浏览器把 V2EX 全站添加到了黑名单，[^V2EX_pcb] 楼主的截图与 MIUI 自带的浏览器警告一样，[^V2EX_miui] 大概 MIUI 也使用了 Tencent 提供的安全监测服务。现在「安全联盟」已经将 V2EX 标记为危险与博彩网站了。[^V2EX_anquan]
 
-[^V2EX_anquan]: [搜索 V2EX 安全联盟 - 大数据企业信用平台。](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com)
+[^V2EX_anquan]: [搜索 V2EX](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com), 安全联盟.
 
 [^V2EX_pcb]: [您访问的网址存在危险 V2EX](https://web.archive.org/web/20210130175732/https://i.loli.net/2021/01/30/SvCalXqObsEkNhF.jpg "您访问的网址存在危险！截图")
 
@@ -101,9 +105,9 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 原因可能是最近 V2EX 论坛里讨论过「QQ 扫描并上传用户的浏览器历史」，[^V2EX_qqu][^V2EX_qqg] 腾讯采取了报复措施。直到2021年的1月31日，V2EX 运营者也没有将这个帖子进行限制处理。[^V2EX_qqq]
 
-[^V2EX_qqu]: [网友报告QQ扫描并上传用户的浏览器历史 - Tencent 腾讯 QQ / TIM - cnBeta.COM](https://web.archive.org/web/20210118033635/https://www.cnbeta.com/articles/tech/1079311.htm)
+[^V2EX_qqu]: [网友报告QQ扫描并上传用户的浏览器历史](https://web.archive.org/web/20210118033635/https://www.cnbeta.com/articles/tech/1079311.htm), cnBeta.
 
-[^V2EX_qqg]: [【转载】关于QQ读取Chrome历史记录的澄清 - 谈天说地 - 其乐 Keylol - 驱动正版游戏的引擎！](https://archive.is/qHCUT "https://keylol.com/t677164-1-1")
+[^V2EX_qqg]: [【转载】关于QQ读取Chrome历史记录的澄清](https://archive.is/qHCUT "https://keylol.com/t677164-1-1"), 其乐 Keylol.
 
 目前这个帖子已经被运营者转为内部讨论了，需要注册满90天以及手机号码认证才能才能阅读。[^V2EX_mk]
 
@@ -114,27 +118,22 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 + 
 -->
 
-相关链接:
-
-+   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
-+   [吐槽V2ex 站长 管理员装逼的下场 什么情况-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://www.hostloc.com/thread-660571-1-1.html)
-+   [V2EX 怎样影响了你？ - 知乎](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971)
-+   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？ - 新·品葱](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062)
-+   [v2ex的站长也是个心眼小的人 - 吐槽 - 2049BBS](https://archive.is/2614A "https://2049bbs.xyz/t/1313")
-+   [V2EX 站长被指非法公开用户隐私信息 - 分享发现 - 2049BBS](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389)
-+   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏 - V2EX](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1)
-+   [来自百度取证的证据分享](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
-+   [这是专门针对 V2 的机器人出现了？ - V2EX](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077)
-+   **评论已移除** [Solidot V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013)
-+   [问一下有那些和 V2EX 相似用户群的论坛？ - V2EX](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 "[来自百度取证的证据分享](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)")
-+   [V2EX 未经允许公布用户邮箱和手机号？ - V2EX](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559)
-+   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？ - 知乎](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541)
-+   [[IT新闻] V2EX 站长被指非法公开用户隐私信息 NGA玩家社区](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948")
-+   **需登录** [以后上网，不想再谈什么隐私！ - V2EX](https://archive.is/aSeFs "https://www.v2ex.com/t/712403")
-
-<!--
-+ [来自百度取证的证据分享](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
--->
+> [!example]+ 相关链接
+>
+> +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
+> +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
+> +   [V2EX 怎样影响了你？](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971), 知乎.
+> +   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062), 新·品葱.
+> +   [v2ex的站长也是个心眼小的人](https://archive.is/2614A "https://2049bbs.xyz/t/1313"), 2049BBS.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389), 2049BBS.
+> +   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1), V2EX. [百度取证](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
+> +   [这是专门针对 V2 的机器人出现了？](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077), V2EX.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013), Solidot. 备注：评论已移除
+> +   [问一下有那些和 V2EX 相似用户群的论坛？](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 ), V2EX. [百度取证](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
+> +   [V2EX 未经允许公布用户邮箱和手机号？](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559), V2EX.
+> +   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541), 知乎.
+> +   [[IT新闻\] V2EX 站长被指非法公开用户隐私信息](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948"), NGA玩家社区.
+> +   [以后上网，不想再谈什么隐私！](https://archive.is/aSeFs "https://www.v2ex.com/t/712403"), V2EX. 备注：需登录
 
 ## 2021年4月 V2EX 被封锁
 
@@ -144,12 +143,13 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 >
 > @Livid
 
-[^21v2_lot]: https://web.archive.org/web/20210423063440/https://twitter.com/Livid/status/1381499078593236998
+[^21v2_lot]:
+    <https://web.archive.org/web/20210423063440/https://twitter.com/Livid/status/1381499078593236998>
 
 ### 2021年2月初小面积无法连接
 
-+   [v2ex.com是不是彻底被墙了-美国VPS综合讨论 - 全球主机交流论坛](https://web.archive.org/web/20210423052535/https://hostloc.com/thread-809845-1-1.html)
-+   [v2ex.com 被墙了？-美国VPS综合讨论 - 全球主机交流论坛](https://web.archive.org/web/20210423052536/https://hostloc.com/thread-803655-1-1.html)
++   [v2ex.com是不是彻底被墙了](https://web.archive.org/web/20210423052535/https://hostloc.com/thread-809845-1-1.html), 全球主机交流论坛.
++   [v2ex.com 被墙了？](https://web.archive.org/web/20210423052536/https://hostloc.com/thread-803655-1-1.html), 全球主机交流论坛.
 
 ### 似乎普通讨论的手机限制已解除
 
@@ -157,33 +157,44 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 不过「水深火热」节点我依然无法进入。
 
-+   [异步中 await 和 then 的区别，哪个更好 - V2EX](https://web.archive.org/web/20210423092112/https://www.v2ex.com/t/772610#reply38)
-+   [异步中 await 和 then 的区别，哪个更好 - V2EX](https://archive.is/yC5BZ)
-+   [V2EX › gledos](https://web.archive.org/web/20210423092142/https://www.v2ex.com/member/gledos)
-+   [V2EX › gledos](https://archive.is/zFKCG)
+> [!example]- 「水深火热」节点测试
+>
+> +   [异步中 await 和 then 的区别，哪个更好](https://web.archive.org/web/20210423092112/https://www.v2ex.com/t/772610#reply38), V2EX.
+> +   [异步中 await 和 then 的区别，哪个更好](https://archive.is/yC5BZ), V2EX.
+> +   [V2EX › gledos](https://web.archive.org/web/20210423092142/https://www.v2ex.com/member/gledos)
+> +   [V2EX › gledos](https://archive.is/zFKCG)
 
-### 相关讨论
-
-大多数在 V2EX 的被封锁讨论都已经转入了隐藏节点「水深火热」或者直接标记为需要登录查看。
-
-并且 V2EX 也在被封锁的前后，似乎临时增加了一些门槛。部分帖子查看要求增加到1000天注册用户。[^21v2_769]
+> [!example]+ 相关讨论
+>
+> 大多数在 V2EX 的被封锁讨论都已经转入了隐藏节点「水深火热」或者直接标记为需要登录查看。
+>
+> 并且 V2EX 也在被封锁的前后，似乎临时增加了一些门槛。部分帖子查看要求增加到1000天注册用户。[^21v2_769]
+>
+> +   [杭州无法正常访问吗，感觉有一个月了](https://web.archive.org/web/20210423062103/https://www.v2ex.com/t/771007), V2EX.
+> +   [V 站已经彻底被墙了是么?](https://archive.is/bJlto "https://www.v2ex.com/t/770920"), V2EX. 备注：已隐藏
+> +   [V2 是不是被墙了？](https://archive.is/i1Yyf "https://www.v2ex.com/t/771224"), V2EX. 备注：已隐藏
+> +   [v2ex 挂了](https://web.archive.org/web/20210423054102/https://ld246.com/article/1618193159520), 链滴.
+> +   [V2EX 应该是被墙了](https://web.archive.org/web/20210423054106/https://ld246.com/article/1618499960860), 链滴.
+> +   [V站被墙了吗？](https://web.archive.org/web/20210423054201/https://cnodejs.org/topic/6073fa5d4d20cb0fee68b77c), CNode技术社区.
+> +   《[V2EX 再次被屏蔽](https://web.archive.org/web/20210423053010/https://www.solidot.org/story?sid=67471)》, 奇客Solidot.
+> +   GeXiao, 「[扫了眼这次 V2EX 彻底被墙的讨论，没亲身下场干过的人哪怕是互联网从业者......](https://archive.is/6jkAo "https://twitter.com/gxgexiao/status/1381870967811567619")」, Twitter.
 
 [^21v2_769]: 需登录 [为啥这个帖子会重定向到 v 站首页？ - V2EX](https://v2ex.com/t/769231)
 
-+   [杭州无法正常访问吗，感觉有一个月了 - V2EX](https://web.archive.org/web/20210423062103/https://www.v2ex.com/t/771007)
-+   已隐藏 [V 站已经彻底被墙了是么? - V2EX](https://archive.is/bJlto "https://www.v2ex.com/t/770920")
-+   已隐藏 [V2 是不是被墙了？ - V2EX](https://archive.is/i1Yyf "https://www.v2ex.com/t/771224")
-+   [v2ex 挂了 - 链滴](https://web.archive.org/web/20210423054102/https://ld246.com/article/1618193159520)
-+   [V2EX 应该是被墙了 - 链滴](https://web.archive.org/web/20210423054106/https://ld246.com/article/1618499960860)
-+   [V站被墙了吗？ - CNode技术社区](https://web.archive.org/web/20210423054201/https://cnodejs.org/topic/6073fa5d4d20cb0fee68b77c)
-+   [V2EX 再次被屏蔽 - 奇客Solidot](https://web.archive.org/web/20210423053010/https://www.solidot.org/story?sid=67471)
-+   [GeXiao on Twitter: "扫了眼这次 V2EX 彻底被墙的讨论，没亲身下场干过的人哪怕是互联网从业者......"](https://archive.is/6jkAo "https://twitter.com/gxgexiao/status/1381870967811567619")
+> [!example]+ 直接证据
+>
+> +   [www.v2ex.com GET测试结果 网站速度测试](https://archive.is/TYkOv "http://www.17ce.com/site/http/20210423_db4ddc00a3f511eb947f5743479ea7f2:1.html"), 17CE, 2021-04-23.
+> +   月光博客, 「[国内知名开发社区v2ex域名解析疑似被DNS污染，目前已经无法从国内访问，国内解析其域名会被解析到错误的IP地址。…](https://web.archive.org/web/20210423080429/https://twitter.com/williamlong/status/1381868729051451397)」, Twitter.
+> +   《[知名开发社区：v2ex域名DNS被污染](https://web.archive.org/web/20210423055843/https://songjiujiu.com/post/2911)》, 宋九九博客.
+> +   《[知名社交网站v2ex被DNS污染了](https://web.archive.org/web/20210423091927/https://www.zhujib.com/v2ex.html)》, 主机吧.
+> +   [v2ex.com](https://archive.is/yWRjU "https://www.baidu.com/#ie=UTF-8&wd=v2ex.com"), 百度搜索. 备注：百度搜索 v2ex.com 无任何结果
 
-### 直接证据
+## 绕过规则的方法
 
-+   [2021-04-23 www.v2ex.com GET测试结果 网站速度测试 17CE](https://archive.is/TYkOv "http://www.17ce.com/site/http/20210423_db4ddc00a3f511eb947f5743479ea7f2:1.html")
-+   [月光博客 on Twitter: "国内知名开发社区v2ex域名解析疑似被DNS污染，目前已经无法从国内访问，国内解析其域名会被解析到错误的IP地址。… "](https://web.archive.org/web/20210423080429/https://twitter.com/williamlong/status/1381868729051451397)
-+   [知名开发社区：v2ex域名DNS被污染-资讯-宋九九博客](https://web.archive.org/web/20210423055843/https://songjiujiu.com/post/2911)
-+   [知名社交网站v2ex被DNS污染了 - 主机吧](https://web.archive.org/web/20210423091927/https://www.zhujib.com/v2ex.html)
-+   百度搜索 v2ex.com 无任何结果 [v2ex.com_百度搜索](https://archive.is/yWRjU "https://www.baidu.com/#ie=UTF-8&wd=v2ex.com")
+V2EX 没有直接修改已发送内容的功能，所以有人使用图片发送，因为 V2EX 支持外链图片功能，这样就能快速修改以及删除内容了，并且可以规避敏感词审查。[^842769]
 
+[^842769]: vcfghtyjc, 《[最近很多长文是用图片发出的。不知道是不是规避了 V 站货币策略。](https://web.archive.org/web/20220426072042/https://www.v2ex.com/t/842769)》, V2EX, 2022-03-25. (参照 2022-07-03).
+
+V2EX 被指出存在「倒车」「幼儿园」「丝袜」等敏感词，发送时不会有提示，处罚是被封锁 IP 或者验证手机号码等等。[^d2lgaw]
+
+[^d2lgaw]:  not4sense, 《[V站的敏感词知多少](https://web.archive.org/web/20220703035758/https://www.reddit.com/r/v2ex/comments/d2lgaw/v站的敏感词知多少/)》, r/v2ex, 2019-09-11. (参照 2022-07-03).
