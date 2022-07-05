@@ -8,7 +8,7 @@ site/
 docs/.vault-stats
 docs/unclear/女性相关词语的污名化情况.md
 docs/.vscode/settings.json
-docs/mkdocs/本地/看板.md
+docs/mkdocs/本地/*
 run.bat
 docs/website/豆瓣网.md
 docs/software/MY2022.md
