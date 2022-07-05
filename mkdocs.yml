@@ -141,8 +141,10 @@ plugins:
     redirect_maps:
       "website/立场新闻.md": "company/立场新闻.md"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
-      "punish/APP侵害用户权益专项整治行动/APP侵害用户权益专项整治行动.md": "punish/APP侵害用户权益专项整治行动/index.md" # 2022-06-16T15:59:50.5950+08:00
-      "rule/上海市密室剧本杀内容备案管理规定.md": "rule/地区规范性文件/上海市密室剧本杀规定.md"                          # 2022-06-28T15:05
+      "punish/APP侵害用户权益专项整治行动/APP侵害用户权益专项整治行动.md": "punish/APP侵害用户权益专项整治行动/index.md"+08:00
+      "rule/上海市密室剧本杀内容备案管理规定.md": "rule/地区规范性文件/上海市密室剧本杀规定.md"
+      "中国音像与数字出版协会游戏出版工作委员会/网络游戏行业防沉迷自律公约.md": "行业协会/网络游 戏行业防沉迷自律公约.md"
+      "中国演出行业协会/演出行业演艺人员从业自律管理办法.md": "行业协会/演出行业演艺人员从业自律管理办法.md"
 
 extra:
   generator: false
