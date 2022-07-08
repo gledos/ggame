@@ -2,7 +2,7 @@
 title: CSGO
 description:
 published: true
-date: 2022-07-02T20:41:46.4146+08:00
+date: 2022-07-08T16:41:58.4158+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-09-28T23:09:13.497+08:00
@@ -34,8 +34,8 @@ dateCreated: 2021-09-28T23:09:13.497+08:00
 
 === "未审查 R8 Revolver | Crazy 8"
 
-    ![未审查](https://ggame.s3.tebi.io/game/csgo/未审查_R8_Revolver_Crazy_8.webp)
+    ![未审查](https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp)
 
 === "已审查 R8 Revolver | Crazy 8"
 
-    ![已审查](https://ggame.s3.tebi.io/game/csgo/已审查_R8_Revolver_Crazy_8.webp)
+    ![已审查](https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp)
