@@ -64,9 +64,18 @@ article [href$=".pdf"]::after {
     text-indent: 1em;
 }
 
-/* ggame 链接图标 */
+/* 分割线 - - - 分割线 - - - 分割线 */
 
 a[href^="https://web.archive.org"], [href^="http://web.archive.org"], [href^="https://archive.org"], [href^="http://archive.org"] {
+    background: url(../src/external-links/Internet_Archive.png) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    /* background-size: 75% auto; */
+    /* 修复缩放模糊问题 */
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
     width: 0em;
     text-indent: 0em;
 }
