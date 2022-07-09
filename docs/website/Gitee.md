@@ -2,7 +2,7 @@
 title: Gitee
 description:
 published: true
-date: 2022-07-07T10:17:37.1737+08:00
+date: 2022-07-09T23:15:14.1514+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-05-19T18:11:45.541+08:00
@@ -90,15 +90,15 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 不过从 2022年6月 开始，有人发现了 Gitee Pages 会审查词语：[^I5EYEC]
 
-[^I5EYEC]:  大风和豆腐干, 《[为啥我写个文章都违规了](https://web.archive.org/web/20220704145036/https://gitee.com/oschina/git-osc/issues/I5EYEC)》, Gitee, 开源中国/Gitee Feedback, Issue \#I5EYEC, 2022-06-30. (参照 2022-07-05).
+[^I5EYEC]: 大风和豆腐干, 《[为啥我写个文章都违规了](https://web.archive.org/web/20220704145036/https://gitee.com/oschina/git-osc/issues/I5EYEC)》, Gitee, 开源中国/Gitee Feedback, Issue \#I5EYEC, 2022-06-30. (参照 2022-07-05).
 
 ![大风和豆腐干的gitee截图](https://s3.tebi.io/ggame/website/gitee/大风和豆腐干的gitee截图.webp)
 
 原因是关键词审查（敏感词），至少会审查这些内容「s**av**e」「以**下注**意」「在手机**上访**问」，这些文字的加粗部分就是关键词。[^I5F3YL][^864017]
 
-[^I5F3YL]:  Think, 《[index.html包含敏感词](https://web.archive.org/web/20220704194506/https://gitee.com/oschina/git-osc/issues/I5F3YL)》, Gitee, 开源中国/Gitee Feedback, Issue \#I5F3YL, 2022-07-01. (参照 2022-07-05).
+[^I5F3YL]: Think, 《[index.html包含敏感词](https://web.archive.org/web/20220704194506/https://gitee.com/oschina/git-osc/issues/I5F3YL)》, Gitee, 开源中国/Gitee Feedback, Issue \#I5F3YL, 2022-07-01. (参照 2022-07-05).
 
-[^864017]:  realpg, 《[在 gitee，你的代码里不能包含 SAVE。。。](https://web.archive.org/web/20220705000050/https://www.v2ex.com/t/864017)》, V2EX/水深火热, 2022-07-04. (参照 2022-07-05).
+[^864017]: realpg, 《[在 gitee，你的代码里不能包含 SAVE。。。](https://web.archive.org/web/20220705000050/https://www.v2ex.com/t/864017)》, V2EX/水深火热, 2022-07-04. (参照 2022-07-05).
 
 这些针对 Gitee Pages 的审查，能追溯到 2022年5月：
 

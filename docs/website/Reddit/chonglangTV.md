@@ -2,7 +2,7 @@
 title: chonglangTV
 description:
 published: true
-date: 2022-06-30T22:03:53.353+08:00
+date: 2022-07-09T23:15:14.1514+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-03-14T16:07:02.575+08:00
@@ -16,7 +16,7 @@ dateCreated: 2022-03-14T16:07:02.575+08:00
 
 2022年3月 月初，chonglangTV 发起了「大翻译运动」(The Great Translation Movement, TGTM)。[^TGTM]
 
-[^TGTM]:  Deutsche Welle（刘文）, 《[大翻译运动：告诉世界中国人怎么看战争](https://web.archive.org/web/20220604160116/https://www.dw.com/zh/大翻译运动告诉世界中国人怎么看战争/a-61105169)》, 德国之声, 2022-03-12. (参照 2022-06-30).
+[^TGTM]: Deutsche Welle（刘文）, 《[大翻译运动：告诉世界中国人怎么看战争](https://web.archive.org/web/20220604160116/https://www.dw.com/zh/大翻译运动告诉世界中国人怎么看战争/a-61105169)》, 德国之声, 2022-03-12. (参照 2022-06-30).
 
 HKKNNT 描述的前身关系：[^sf5qow]
 

@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: 2022-07-03T12:00:14.014+08:00
+date: 2022-07-09T23:15:14.1514+08:00
 tags:
 - 论坛
 - 腾讯
@@ -23,7 +23,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 2015年2月27日，使用 http 连接 V2EX 会被 GFW 阻断，只能通过 https 进行连接。[^2169]
 
-[^2169]:  williamlong, 《[技术社区V2EX被封](https://web.archive.org/web/20210726210728/https://www.williamlong.info/weibo/archives/2169.html)》, 月光微博客, 2015-02-28. (参照 2022-06-30).
+[^2169]: williamlong, 《[技术社区V2EX被封](https://web.archive.org/web/20210726210728/https://www.williamlong.info/weibo/archives/2169.html)》, 月光微博客, 2015-02-28. (参照 2022-06-30).
 
 站长 Livid 在之后发布了《关于 20150227 这事的想法》这篇帖子对这件事进行了一些描述：[^0301]
 
@@ -197,4 +197,4 @@ V2EX 没有直接修改已发送内容的功能，所以有人使用图片发送
 
 V2EX 被指出存在「倒车」「幼儿园」「丝袜」等敏感词，发送时不会有提示，处罚是被封锁 IP 或者验证手机号码等等。[^d2lgaw]
 
-[^d2lgaw]:  not4sense, 《[V站的敏感词知多少](https://web.archive.org/web/20220703035758/https://www.reddit.com/r/v2ex/comments/d2lgaw/v站的敏感词知多少/)》, r/v2ex, 2019-09-11. (参照 2022-07-03).
+[^d2lgaw]: not4sense, 《[V站的敏感词知多少](https://web.archive.org/web/20220703035758/https://www.reddit.com/r/v2ex/comments/d2lgaw/v站的敏感词知多少/)》, r/v2ex, 2019-09-11. (参照 2022-07-03).
