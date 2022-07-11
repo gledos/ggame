@@ -2,8 +2,9 @@
 title: CSGO
 description:
 published: true
-date: 2022-07-09T23:15:14.1514+08:00
-特殊标签标记: #无标签
+date: 2022-07-10T21:39:57.3957+08:00
+tags:
+- Steam
 editor: markdown
 dateCreated: 2021-09-28T23:09:13.497+08:00
 ---
