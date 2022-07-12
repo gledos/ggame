@@ -2,7 +2,7 @@
 title: WPS Office
 description:
 published: true
-date: 2022-07-11T22:27:14.2714+08:00
+date: 2022-07-12T08:57:35.5735+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2022-07-10T19:23:38.537+08:00
@@ -36,8 +36,6 @@ WPS Office 是金山软件公司出品的办公软件，WPS Office 套件诞生�
 
 [^qCxO0]: WPS官方微博, 《[关于网传#WPS被曝会删除用户本地文件# 的声明](https://archive.ph/qCxO0 "https://weibo.com/1595145397/LBN7b7P9j")》, 新浪微博, 2022-07-11. (参照 2022-07-11).
 
-同一天，之前表示为文件被锁的用户发布了反驳 WPS官方 的帖子，主要内容是反对
-
-
+同一天，之前表示为文件被锁的用户发布了反驳 WPS官方 的帖子，主要内容是声明没有分享文件。[^a5kY8]
 
 [^a5kY8]: 米兔只想赚钱, 《[wps前期拒绝道歉，现在又诬陷我分享文件试](https://archive.ph/a5kY8 "https://www.lkong.com/thread/3046981")》, 龙的天空, 2022-07-11. (参照 2022-07-11).
