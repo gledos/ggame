@@ -2,18 +2,16 @@
 title: MIUI
 description: 小米公司的手机系统
 published: true
-date: 2022-06-13T14:10:10.1010+08:00
+date: 2022-07-12T11:56:37.5637+08:00
 tags:
-    - Operating-System
+- Operating-System
 editor: markdown
 dateCreated: 2021-06-27T18:56:29.638+08:00
 ---
 
 ## 相机敏感词
 
-MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机。
-
-都有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
+MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机，在其 Apk 文件的 `/assets/sensi/` 里有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
 
 [^PMTUe]: ISU-152酱, 《[这一定是小米bug！！！（今日首蚌）](https://archive.ph/PMTUe "https://www.bilibili.com/video/BV1dR4y1n7EM/")》, 哔哩哔哩, 2021-10-09. (参照 2022-06-01).
 
