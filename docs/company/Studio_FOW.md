@@ -2,7 +2,7 @@
 title: Studio FOW
 description:
 published: true
-date: 2022-06-13T14:05:41.541+08:00
+date: 2022-07-13T19:01:40.140+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-11-11T20:40:21.560+08:00
@@ -10,7 +10,9 @@ dateCreated: 2021-11-11T20:40:21.560+08:00
 
 ## 不制作暴雪的同人作品
 
-由于暴雪曾经给 Studio FOW 发送了关于《魔兽世界》的停止令，所以不会制作《守望先锋》的同人作品。[^45]
+由于暴雪曾经给 Studio FOW 发送了关于《魔兽世界》的停止令，所以不会制作《[守望先锋][]》的同人作品。[^45]
+
+[守望先锋]: /game/守望先锋.md
 
 [^45]: [Inside The Surprisingly Big Overwatch Porn Scene](https://web.archive.org/web/20210720070845/https://kotaku.com/inside-the-surprisingly-big-overwatch-porn-scene-1778229605)
 
