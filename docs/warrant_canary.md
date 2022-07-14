@@ -2,7 +2,7 @@
 title: 令状金丝雀
 description:
 published: true
-date: 2021-08-14T23:43:59.537+08:00
+date: 2022-07-14T22:24:44.2444+08:00
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: 2021-08-14T23:43:59.537+08:00
@@ -20,7 +20,34 @@ dateCreated: 2021-08-14T23:43:59.537+08:00
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
-### 2022年6月日
+### 2022年7月14日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年7月14日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   BeauHD, 《[A Copyright Lawsuit Threatens To Kill Free Access To Internet Archive’s Library of Books](https://news.slashdot.org/story/22/07/14/0034248/a-copyright-lawsuit-threatens-to-kill-free-access-to-internet-archives-library-of-books?utm_source=rss1.0mainlinkanon&utm_medium=feed)》, Slashdot, 2022-07-14. (参照 2022-07-14).
++   《[中国房地产“断供潮”：多地“烂尾楼”业主拒付房贷折射出的经济问题](https://www.bbc.com/zhongwen/simp/chinese-news-62149379)》, BBC News 中文, 2022-07-14. 参照: 2022-07-14. [Online].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYtAnIwAKCRCZXo6bU2oX
+pGC7AQDs3lPSraEUfB7dnfWybfCZbBqO1XTCb5mUaqaa87ksDQEAhzBaY08/qpOS
+1ilbdHq2e+hOlhzat4gTC/VjnHC1WQE=
+=W2hr
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
+### 2022年6月?日
+
+备注：由于失误，导致此更新时间未注明……
 
 ```markdown
 -----BEGIN PGP SIGNED MESSAGE-----
@@ -42,8 +69,6 @@ avyUufEieCew6vPDapDZocwgYh3zwwM=
 =7pvG
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年5月9日
 
