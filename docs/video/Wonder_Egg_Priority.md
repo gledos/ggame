@@ -2,10 +2,10 @@
 title: 奇蛋物语
 description: 原创电视动画
 published: true
-date: 2021-02-27T12:13:34.624+08:00
+date: 2022-07-15T12:35:28.3528+08:00
 tags:
-    - 动画
-    - LGBT
+- 动画
+- LGBT
 editor: markdown
 dateCreated: 2021-02-18T05:28:25.739+08:00
 ---
