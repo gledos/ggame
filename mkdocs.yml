@@ -100,6 +100,7 @@ plugins:
     features:
       tags:
         index_page: tags.md
+        insert: bottom
     time_format: '%Y-%m-%d %H:%M:%S'
     meta_time_format: '%Y-%m-%dT%H:%M:%S'
     dirs: # The directories to be included
