@@ -97,7 +97,10 @@ markdown_extensions:
 
 plugins:
 - blogging:
-    time_format: '%Y-%m-%dT%H:%M:%S'
+    features:
+      tags:
+        index_page: tags.md
+    time_format: '%Y-%m-%d %H:%M:%S'
     meta_time_format: '%Y-%m-%dT%H:%M:%S'
     dirs: # The directories to be included
     - blog
@@ -105,75 +108,99 @@ plugins:
     - name: activities
       dirs:
       - activities
+      template: overrides/custom-blog.html
     - name: allowlist
       dirs:
       - allowlist
-    - name: anti
+      template: overrides/custom-blog.html
+    - name: anti-censorship
       dirs:
-      - anti
+      - anti-censorship
+      template: overrides/custom-blog.html
     - name: blocklist
       dirs:
       - blocklist
+      template: overrides/custom-blog.html
     - name: book
       dirs:
       - book
+      template: overrides/custom-blog.html
     - name: catch_the_wind
       dirs:
       - catch_the_wind
+      template: overrides/custom-blog.html
     - name: censorship
       dirs:
       - censorship
+      template: overrides/custom-blog.html
     - name: company
       dirs:
       - company
+      template: overrides/custom-blog.html
     - name: event
       dirs:
       - event
+      template: overrides/custom-blog.html
     - name: game
       dirs:
       - game
+      template: overrides/custom-blog.html
     - name: hardware
       dirs:
       - hardware
+      template: overrides/custom-blog.html
     - name: movement
       dirs:
       - movement
+      template: overrides/custom-blog.html
     - name: news_archive
       dirs:
       - news_archive
+      template: overrides/custom-blog.html
     - name: people
       dirs:
       - people
+      template: overrides/custom-blog.html
     - name: punish
       dirs:
       - punish
+      template: overrides/custom-blog.html
     - name: research
       dirs:
       - research
+      template: overrides/custom-blog.html
     - name: rule
       dirs:
       - rule
+      template: overrides/custom-blog.html
     - name: serviceprovider
       dirs:
       - serviceprovider
+      template: overrides/custom-blog.html
     - name: software
       dirs:
       - software
+      template: overrides/custom-blog.html
     - name: technology
       dirs:
       - technology
+      template: overrides/custom-blog.html
     - name: sound
       dirs:
       - sound
+      template: overrides/custom-blog.html
     - name: unclear
       dirs:
       - unclear
+      template: overrides/custom-blog.html
     - name: video
       dirs:
       - video
+      template: overrides/custom-blog.html
     - name: website
       dirs:
       - website
+      template: overrides/custom-blog.html
 # - progress              # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
     is_video: True

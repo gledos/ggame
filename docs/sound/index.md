@@ -8,8 +8,14 @@ editor: markdown
 dateCreated: "2021-08-21T19:09:03"
 ---
 
-请到左边的树状列表，进行查看条目。
+# sound
+
+请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 简介
 
-sound 板块主要收集音乐，也包含 Podcast「播客」。
+sound 即声音，一些音乐会被收录到此版块（文件夹），其中也包括 <ruby>播客<rp>(</rp><rt>Podcast</rt><rp>)</rp></ruby>
+
+> [!example]+ 最近更新
+>
+> {{ blog_content sound }}

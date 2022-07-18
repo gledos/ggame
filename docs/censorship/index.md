@@ -8,8 +8,14 @@ editor: markdown
 dateCreated: "2021-08-21T19:09:39"
 ---
 
-请到左边的树状列表，进行查看条目。
+# censorship
+
+请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 简介
 
-主要收录实现审查的手段。
+censorship 即审查，一些审查的手段会被收录到此版块（文件夹）。
+
+> [!example]+ 最近更新
+>
+> {{ blog_content censorship }}

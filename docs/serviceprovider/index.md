@@ -8,8 +8,14 @@ editor: markdown
 dateCreated: "2021-08-21T19:08:21"
 ---
 
-请到左边的树状列表，进行查看条目。
+# serviceprovider
+
+请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 简介
 
-这里的 serviceprovider (服务) 通常指软件或者实体的服务业，比如邮箱服务与实体店铺。
+serviceprovider 即服务，通常指软件或者实体的服务业，比如邮箱服务与实体店铺。一些服务会被收录到此版块（文件夹）。
+
+> [!example]+ 最近更新
+>
+> {{ blog_content serviceprovider }}

@@ -8,8 +8,14 @@ editor: markdown
 dateCreated: "2021-08-21T19:10:59"
 ---
 
-请到左边的树状列表，进行查看条目。
+# allowlist
+
+请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 简介
 
-待续
+allowlist 即允许列表、白名单。
+
+> [!example]+ 最近更新
+>
+> {{ blog_content allowlist }}
