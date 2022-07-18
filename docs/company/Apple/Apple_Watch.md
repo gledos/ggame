@@ -4,7 +4,7 @@ description:
 published: true
 date: "2021-06-26T19:52:48"
 tags:
-    - Apple
+- apple
 editor: markdown
 dateCreated: "2021-06-26T19:52:48"
 ---

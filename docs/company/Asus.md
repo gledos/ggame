@@ -4,7 +4,7 @@ description: 一家OEM制造商
 published: true
 date: "2020-12-30T10:02:29"
 tags:
-    - Hololive
+- hololive
 editor: markdown
 dateCreated: 2020-12-30T10:02:29"
 ---

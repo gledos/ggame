@@ -4,7 +4,7 @@ description:
 published: true
 date: "2021-01-09T14:39:44"
 tags:
-    - GFW
+- gfw
 editor: markdown
 dateCreated: "2021-01-09T14:39:44"
 ---

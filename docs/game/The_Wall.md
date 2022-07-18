@@ -4,7 +4,7 @@ description: 一款禅意游戏
 published: true
 date: "2022-06-13T15:07:36"
 tags:
-    - Steam
+- steam
 editor: markdown
 dateCreated: "2021-01-05T08:00:21"
 ---

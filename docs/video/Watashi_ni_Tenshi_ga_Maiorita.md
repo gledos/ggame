@@ -6,7 +6,7 @@ date: "2022-07-15T12:35:22"
 tags:
 - 动画
 - 地图
-- LGBT
+- lgbt
 editor: markdown
 dateCreated: "2021-03-22T06:41:20"
 ---

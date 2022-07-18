@@ -4,8 +4,8 @@ description: Mongol.py is a tool that was inspired by a research paper[0] that d
 published: true
 date: "2022-06-13T13:48:42"
 tags:
-    - GFW
-    - Github
+- gfw
+- github
 editor: markdown
 dateCreated: "2021-07-28T07:01:07"
 ---

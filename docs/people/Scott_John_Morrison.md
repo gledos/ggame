@@ -4,7 +4,7 @@ description: 澳大利亚第30任总理
 published: true
 date: "2020-12-02T15:39:36"
 tags:
-    - 微信公众号
+- 微信公众号
 editor: markdown
 dateCreated: 2020-12-02T15:15:38"
 ---

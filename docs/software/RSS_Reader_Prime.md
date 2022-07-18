@@ -4,7 +4,7 @@ description: 一款新的轻量级的RSS阅读器
 published: true
 date: "2020-10-06T14:20:08"
 tags:
-    - RSS
+- rss
 editor: markdown
 dateCreated: 2020-10-06T14:20:08"
 ---

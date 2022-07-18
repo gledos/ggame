@@ -4,7 +4,7 @@ description: 高人气的第三方微博客户端
 published: true
 date: "2021-07-10T11:31:52"
 tags:
-    - 新浪微博
+- 新浪微博
 editor: markdown
 dateCreated: "2021-07-10T11:31:52"
 ---

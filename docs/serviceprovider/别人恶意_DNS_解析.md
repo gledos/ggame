@@ -4,7 +4,7 @@ description:
 published: true
 date: "2022-05-12T11:47:26"
 tags:
-    - DNS
+- dns
 editor: markdown
 dateCreated: "2022-05-12T11:47:26"
 ---

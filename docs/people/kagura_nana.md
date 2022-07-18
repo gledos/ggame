@@ -4,7 +4,7 @@ description:
 published: true
 date: "2021-07-08T09:16:02"
 tags:
-    - Vtuber
+- vtuber
 editor: markdown
 dateCreated: "2021-07-08T09:16:02"
 ---

@@ -5,7 +5,7 @@ website: orknow.com
 published: true
 date: "2021-07-27T20:25:24"
 tags:
-    - GFW
+- gfw
 editor: markdown
 dateCreated: "2021-07-27T20:25:24"
 ---

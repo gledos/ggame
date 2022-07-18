@@ -4,8 +4,8 @@ description: 一款流行的端对端加密即时通讯软件
 published: true
 date: "2021-03-18T12:05:47"
 tags:
-    - 即时通讯
-    - GFW
+- 即时通讯
+- gfw
 editor: markdown
 dateCreated: "2021-03-18T10:40:04"
 ---

@@ -4,7 +4,7 @@ description: A .NET 5 based Clash GUI Proxy For Windows
 published: true
 date: "2022-07-03T19:02:49"
 tags:
-- Proxy
+- proxy
 editor: markdown
 dateCreated: "2021-10-27T12:51:05"
 ---

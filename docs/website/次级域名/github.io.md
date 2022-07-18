@@ -4,7 +4,7 @@ description:
 published: true
 date: "2022-05-18T02:38:25"
 tags:
-    - Github
+- github
 editor: markdown
 dateCreated: "2022-05-18T02:38:25"
 ---

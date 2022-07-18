@@ -4,8 +4,8 @@ description: 曾经超酷的先进论坛
 published: true
 date: "2021-01-05T14:17:15"
 tags:
-    - 论坛
-    - GFW
+- 论坛
+- gfw
 editor: markdown
 dateCreated: "2021-01-05T14:17:15"
 ---

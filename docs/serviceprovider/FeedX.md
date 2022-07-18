@@ -4,7 +4,7 @@ description: 一个PHP+正则实现的RSS全文订阅服务
 published: true
 date: "2020-10-06T14:44:58"
 tags:
-    - RSS
+- rss
 editor: markdown
 dateCreated: 2020-10-06T14:44:58"
 ---

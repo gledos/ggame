@@ -4,7 +4,7 @@ description:
 published: true
 date: "2022-06-13T13:46:24"
 tags:
-    - LGBT
+- lgbt
 editor: markdown
 dateCreated: "2021-11-05T11:58:20"
 ---

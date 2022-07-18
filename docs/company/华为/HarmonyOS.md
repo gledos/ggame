@@ -4,7 +4,7 @@ description:
 published: true
 date: "2022-06-13T14:09:41"
 tags:
-    - Operating-System
+- operating-system
 editor: markdown
 dateCreated: "2021-06-04T05:20:27"
 ---

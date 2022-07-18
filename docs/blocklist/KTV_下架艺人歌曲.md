@@ -4,7 +4,7 @@ description:
 published: true
 date: "2022-06-13T14:06:11"
 tags:
-    - 靖国神社
+- 靖国神社
 editor: markdown
 dateCreated: "2021-10-20T15:57:01"
 ---

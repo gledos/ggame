@@ -4,7 +4,7 @@ description: 哔哩哔哩视频博主
 published: true
 date: "2021-01-23T15:21:11"
 tags:
-    - Vtuber
+- vtuber
 editor: markdown
 dateCreated: "2021-01-23T15:21:11"
 ---

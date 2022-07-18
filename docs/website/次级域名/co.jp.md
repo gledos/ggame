@@ -4,7 +4,7 @@ description: 日本流行的「用法是顶级域名的实际二级域名」
 published: true
 date: "2020-12-02T09:58:30"
 tags:
-    - GFW
+- gfw
 editor: markdown
 dateCreated: 2020-10-10T09:08:58"
 ---

@@ -4,7 +4,7 @@ description: 前雷亚游戏音乐总监
 published: true
 date: "2022-06-14T12:14:28"
 tags:
-    - 腾讯
+- 腾讯
 editor: markdown
 dateCreated: "2021-05-04T06:42:07"
 ---

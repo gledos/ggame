@@ -4,7 +4,7 @@ description: 一款 Trojan 的 GUI 软件
 published: true
 date: "2022-07-03T19:03:15"
 tags:
-- Proxy
+- proxy
 editor: markdown
 dateCreated: "2021-09-16T09:40:16"
 ---

@@ -5,7 +5,7 @@ published: true
 date: "2022-07-15T12:35:28"
 tags:
 - 动画
-- LGBT
+- lgbt
 editor: markdown
 dateCreated: "2021-02-18T05:28:25"
 ---

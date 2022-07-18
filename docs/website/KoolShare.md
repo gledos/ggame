@@ -4,7 +4,7 @@ description: 主要讨论软路由的论坛
 published: true
 date: "2021-10-10T23:08:14"
 tags:
-    - 论坛
+- 论坛
 editor: markdown
 dateCreated: "2021-10-10T23:08:14"
 ---
