@@ -22,4 +22,5 @@ jobs:
       - run: pip install mkdocs-exclude-search
       - run: pip install mkdocs-callouts
       - run: pip install mkdocs-video
+      - run: pip install mkdocs-blogging-plugin
       - run: mkdocs gh-deploy --force
