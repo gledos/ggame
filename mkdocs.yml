@@ -96,6 +96,84 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+- blogging:
+    time_format: '%Y-%m-%dT%H:%M:%S'
+    meta_time_format: '%Y-%m-%dT%H:%M:%S'
+    dirs: # The directories to be included
+    - blog
+    categories:
+    - name: activities
+      dirs:
+      - activities
+    - name: allowlist
+      dirs:
+      - allowlist
+    - name: anti
+      dirs:
+      - anti
+    - name: blocklist
+      dirs:
+      - blocklist
+    - name: book
+      dirs:
+      - book
+    - name: catch_the_wind
+      dirs:
+      - catch_the_wind
+    - name: censorship
+      dirs:
+      - censorship
+    - name: company
+      dirs:
+      - company
+    - name: event
+      dirs:
+      - event
+    - name: game
+      dirs:
+      - game
+    - name: hardware
+      dirs:
+      - hardware
+    - name: movement
+      dirs:
+      - movement
+    - name: news_archive
+      dirs:
+      - news_archive
+    - name: people
+      dirs:
+      - people
+    - name: punish
+      dirs:
+      - punish
+    - name: research
+      dirs:
+      - research
+    - name: rule
+      dirs:
+      - rule
+    - name: serviceprovider
+      dirs:
+      - serviceprovider
+    - name: software
+      dirs:
+      - software
+    - name: technology
+      dirs:
+      - technology
+    - name: sound
+      dirs:
+      - sound
+    - name: unclear
+      dirs:
+      - unclear
+    - name: video
+      dirs:
+      - video
+    - name: website
+      dirs:
+      - website
 # - progress              # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
     is_video: True
