@@ -149,6 +149,10 @@ plugins:
       dirs:
       - hardware
       template: overrides/custom-blog.html
+    - name: mkdocs
+      dirs:
+      - mkdocs
+      template: overrides/custom-blog.html
     - name: movement
       dirs:
       - movement

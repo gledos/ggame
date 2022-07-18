@@ -3,9 +3,10 @@ title: activities
 description:
 published: true
 date: "2021-08-21T19:11:17"
-特殊标签标记: #无标签
+特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-21T19:11:17"
+exclude_from_blog: true
 ---
 
 # activities
