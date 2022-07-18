@@ -2,11 +2,11 @@
 title: 樱井遥Official
 description:
 published: true
-date: 2021-09-28T11:17:31.704+08:00
+date: "2021-09-28T11:17:31"
 tags:
     - Vtuber
 editor: markdown
-dateCreated: 2021-09-28T11:17:31.704+08:00
+dateCreated: "2021-09-28T11:17:31"
 ---
 
 ## 账号封禁

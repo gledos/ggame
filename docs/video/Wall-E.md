@@ -2,11 +2,11 @@
 title: Wall-E
 description:
 published: true
-date: 2022-06-27T09:19:04:194+08:00
+date: "2022-06-27T09:19:04"
 tags:
 - 动画
 editor: markdown
-dateCreated: 2021-11-16T11:23:26.467+08:00
+dateCreated: "2021-11-16T11:23:26"
 ---
 
 # Wall-E

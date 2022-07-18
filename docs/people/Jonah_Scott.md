@@ -2,10 +2,10 @@
 title: Jonah Scott
 description:
 published: true
-date: 2021-06-08T15:55:34.016+08:00
+date: "2021-06-08T15:55:34"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-06-08T15:55:34.016+08:00
+dateCreated: "2021-06-08T15:55:34"
 ---
 
 ## 因为言论导致被解聘

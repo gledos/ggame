@@ -2,11 +2,11 @@
 title: Ice
 description: 前雷亚游戏音乐总监
 published: true
-date: 2022-06-14T12:14:28.1428+08:00
+date: "2022-06-14T12:14:28"
 tags:
     - 腾讯
 editor: markdown
-dateCreated: 2021-05-04T06:42:07.785+08:00
+dateCreated: "2021-05-04T06:42:07"
 ---
 
 ## Telegraph : 1344 7609 2575

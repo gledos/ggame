@@ -2,10 +2,10 @@
 title: MOJi辞書
 description:
 published: true
-date: 2022-04-09T14:53:01.381+08:00
+date: "2022-04-09T14:53:01"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-04-09T14:53:01.381+08:00
+dateCreated: "2022-04-09T14:53:01"
 ---
 
 ## 下架功能

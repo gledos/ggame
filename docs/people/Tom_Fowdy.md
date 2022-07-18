@@ -2,10 +2,10 @@
 title: Tom Fowdy
 description:
 published: true
-date: 2022-06-14T12:14:26.1426+08:00
+date: "2022-06-14T12:14:26"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-12-01T11:08:59.684+08:00
+dateCreated: "2021-12-01T11:08:59"
 ---
 
 ## 被 CGTN 取消供稿的资格

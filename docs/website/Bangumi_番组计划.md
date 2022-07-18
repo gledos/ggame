@@ -2,10 +2,10 @@
 title: Bangumi 番组计划
 description:
 published: true
-date: 2021-11-10T23:42:36.290+08:00
+date: "2021-11-10T23:42:36"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-11-10T23:42:36.290+08:00
+dateCreated: "2021-11-10T23:42:36"
 ---
 
 ## 简介

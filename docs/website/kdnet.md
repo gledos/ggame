@@ -2,11 +2,11 @@
 title: 凯迪社区
 description: 大陆著名论坛
 published: true
-date: 2021-04-17T04:00:20.458+08:00
+date: "2021-04-17T04:00:20"
 tags:
     - 论坛
 editor: markdown
-dateCreated: 2021-04-17T03:59:36.554+08:00
+dateCreated: "2021-04-17T03:59:36"
 ---
 
 ## 2017年整改

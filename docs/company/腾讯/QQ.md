@@ -2,12 +2,12 @@
 title: QQ
 description: ICQ-Like 即时通讯软件
 published: true
-date: 2021-06-02T03:46:58.497+08:00
+date: "2021-06-02T03:46:58"
 tags:
     - 即时通讯
     - 腾讯
 editor: markdown
-dateCreated: 2021-06-02T03:46:58.497+08:00
+dateCreated: "2021-06-02T03:46:58"
 ---
 
 ## 限制(已黑化)这样的用户名

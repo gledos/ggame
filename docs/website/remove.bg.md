@@ -2,10 +2,10 @@
 title: remove.bg
 description:
 published: true
-date: 2021-09-18T11:38:54.279+08:00
+date: "2021-09-18T11:38:54"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-09-18T11:38:54.279+08:00
+dateCreated: "2021-09-18T11:38:54"
 ---
 
 ## 被小米浏览器封锁

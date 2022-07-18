@@ -2,10 +2,10 @@
 title: 运满满 货车帮 BOSS直聘
 description:
 published: true
-date: 2022-06-26T07:31:20:3120+08:00
+date: "2022-06-26T07:31:20"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-07-05T10:50:06.296+08:00
+dateCreated: "2021-07-05T10:50:06"
 ---
 
 # 运满满 货车帮 BOSS直聘

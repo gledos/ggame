@@ -2,12 +2,12 @@
 title: 叉雞
 description: 奇事奇案主题的 YouTuber
 published: true
-date: 2021-01-13T16:25:12.789+08:00
+date: "2021-01-13T16:25:12"
 tags:
     - YouTuber
     - DIY
 editor: markdown
-dateCreated: 2021-01-13T16:25:12.789+08:00
+dateCreated: "2021-01-13T16:25:12"
 ---
 
 ## 尝试自己封杀自己

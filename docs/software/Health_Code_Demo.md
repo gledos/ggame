@@ -2,11 +2,11 @@
 title: 健康码模拟
 description:
 published: true
-date: 2021-01-16T15:18:35.778+08:00
+date: "2021-01-16T15:18:35"
 tags:
     - Github
 editor: markdown
-dateCreated: 2021-01-16T15:18:35.778+08:00
+dateCreated: "2021-01-16T15:18:35"
 ---
 
 ## 封杀

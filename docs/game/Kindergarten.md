@@ -2,10 +2,10 @@
 title: Kindergarten
 description:
 published: true
-date: 2022-06-13T15:02:00.20+08:00
+date: "2022-06-13T15:02:00"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-08-10T17:34:06.909+08:00
+dateCreated: "2021-08-10T17:34:06"
 ---
 
 ```YAML

@@ -2,11 +2,11 @@
 title: Everyone is Awesome
 description:
 published: true
-date: 2022-06-13T14:05:37.537+08:00
+date: "2022-06-13T14:05:37"
 tags:
     - LGBT
 editor: markdown
-dateCreated: 2021-09-16T23:49:56.878+08:00
+dateCreated: "2021-09-16T23:49:56"
 ---
 
 ```YAML

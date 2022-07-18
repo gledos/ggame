@@ -2,10 +2,10 @@
 title: Firefox
 description:
 published: true
-date: 2022-06-15T10:13:46.1346+08:00
+date: "2022-06-15T10:13:46"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-12-07T22:46:02.210+08:00
+dateCreated: "2021-12-07T22:46:02"
 ---
 
 ## 智谋

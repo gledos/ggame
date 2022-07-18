@@ -2,11 +2,11 @@
 title: SocksCap64
 description:
 published: true
-date: 2022-07-03T19:03:12.312+08:00
+date: "2022-07-03T19:03:12"
 tags:
 - Proxy
 editor: markdown
-dateCreated: 2022-03-19T13:37:41.323+08:00
+dateCreated: "2022-03-19T13:37:41"
 ---
 
 ## 简介

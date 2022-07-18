@@ -2,10 +2,10 @@
 title: Kindle
 description:
 published: true
-date: 2022-06-13T15:08:25.825+08:00
+date: "2022-06-13T15:08:25"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-07-08T17:39:49.565+08:00
+dateCreated: "2021-07-08T17:39:49"
 ---
 
 ## 删除用户已下载的图书

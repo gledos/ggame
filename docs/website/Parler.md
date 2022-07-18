@@ -2,11 +2,11 @@
 title: Parler
 description: 一款审查宽松的微型博客型社交网络服务
 published: true
-date: 2021-01-14T14:12:33.140+08:00
+date: "2021-01-14T14:12:33"
 tags:
     - 微型博客
 editor: markdown
-dateCreated: 2021-01-12T14:24:04.513+08:00
+dateCreated: "2021-01-12T14:24:04"
 ---
 
 ## 下架与关闭服务器

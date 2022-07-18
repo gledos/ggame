@@ -2,10 +2,10 @@
 title: Markdown
 description:
 published: true
-date: 2022-01-12T11:57:21.889+08:00
+date: "2022-01-12T11:57:21"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-01-12T11:57:21.889+08:00
+dateCreated: "2022-01-12T11:57:21"
 ---
 
 ## 简介

@@ -2,10 +2,10 @@
 title: 偶像梦幻祭
 description:
 published: true
-date: 2021-06-28T17:45:05.821+08:00
+date: "2021-06-28T17:45:05"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-06-28T17:45:05.821+08:00
+dateCreated: "2021-06-28T17:45:05"
 ---
 
 ## 无题

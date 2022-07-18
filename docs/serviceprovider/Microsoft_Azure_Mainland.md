@@ -2,10 +2,10 @@
 title: Microsoft Azure 大陆版
 description: 由中国世纪互联运营的云端服务平台
 published: true
-date: 2020-10-07T02:46:10.673+08:00
+date: "2020-10-07T02:46:10"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-10-07T02:38:21.531+08:00
+dateCreated: 2020-10-07T02:38:21"
 ---
 
 ## Azure 紧急提示: 关于自查整改“翻墙”行为的通知！

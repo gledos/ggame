@@ -2,11 +2,11 @@
 title: GFWatch
 description:
 published: true
-date: 2022-06-13T13:48:45.4845+08:00
+date: "2022-06-13T13:48:45"
 tags:
     - GFW
 editor: markdown
-dateCreated: 2021-11-03T17:19:28.714+08:00
+dateCreated: "2021-11-03T17:19:28"
 ---
 
 ## 简介

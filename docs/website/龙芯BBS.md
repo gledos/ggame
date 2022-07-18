@@ -2,10 +2,10 @@
 title: 龙芯BBS
 description:
 published: true
-date: 2022-03-08T16:11:38.313+08:00
+date: "2022-03-08T16:11:38"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-03-08T16:11:38.313+08:00
+dateCreated: "2022-03-08T16:11:38"
 ---
 
 ## 网站关闭

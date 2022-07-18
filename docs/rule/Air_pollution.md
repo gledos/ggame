@@ -2,11 +2,11 @@
 title: 对空气质量言论的规则
 description:
 published: true
-date: 2020-10-15T04:35:18.603+08:00
+date: "2020-10-15T04:35:18"
 tags:
     - 奥运
 editor: markdown
-dateCreated: 2020-10-14T15:31:41.624+08:00
+dateCreated: 2020-10-14T15:31:41"
 ---
 
 ## 奥运口罩事件

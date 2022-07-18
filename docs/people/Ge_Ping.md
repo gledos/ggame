@@ -2,10 +2,10 @@
 title: 葛平
 description:
 published: true
-date: 2022-07-10T21:26:02.262+08:00
+date: "2022-07-10T21:26:02"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-04-30T12:25:46.907+08:00
+dateCreated: "2021-04-30T12:25:46"
 ---
 
 ## 音乐软件排除了这个名字

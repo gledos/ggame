@@ -2,10 +2,10 @@
 title: 苏州中学食堂
 description:
 published: true
-date: 2020-12-26T06:37:45.448+08:00
+date: "2020-12-26T06:37:45"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-12-26T06:00:16.050+08:00
+dateCreated: 2020-12-26T06:00:16"
 ---
 
 ## 苏州中学食堂蛆虫事件

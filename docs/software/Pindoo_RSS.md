@@ -2,11 +2,11 @@
 title: 品读RSS
 description:
 published: true
-date: 2022-07-05T13:01:47.147+08:00
+date: "2022-07-05T13:01:47"
 tags:
 - RSS
 editor: markdown
-dateCreated: 2021-01-25T14:48:05.011+08:00
+dateCreated: "2021-01-25T14:48:05"
 ---
 
 # 品读RSS

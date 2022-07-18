@@ -2,10 +2,10 @@
 title: Guilty Gear
 description:
 published: true
-date: 2022-07-08T13:52:16.5216+08:00
+date: "2022-07-08T13:52:16"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-07-07T16:52:07.377+08:00
+dateCreated: "2022-07-07T16:52:07"
 ---
 
 # Guilty Gear

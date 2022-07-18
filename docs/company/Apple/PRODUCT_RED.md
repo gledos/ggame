@@ -2,11 +2,11 @@
 title: (PRODUCT)RED
 description:
 published: true
-date: 2021-07-15T11:56:28.897+08:00
+date: "2021-07-15T11:56:28"
 tags:
     - Apple
 editor: markdown
-dateCreated: 2021-07-15T11:56:28.897+08:00
+dateCreated: "2021-07-15T11:56:28"
 ---
 
 ## 大陆版不提慈善

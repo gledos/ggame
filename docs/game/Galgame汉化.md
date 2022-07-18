@@ -2,10 +2,10 @@
 title: Galgame汉化
 description:
 published: true
-date: 2022-06-13T15:01:56.156+08:00
+date: "2022-06-13T15:01:56"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-09-16T19:34:34.740+08:00
+dateCreated: "2021-09-16T19:34:34"
 ---
 
 ## 禁止录制视频

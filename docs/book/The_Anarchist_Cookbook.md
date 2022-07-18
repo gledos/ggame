@@ -2,10 +2,10 @@
 title: The Anarchist Cookbook
 description:
 published: false
-date: 2021-07-11T00:06:53.699+08:00
+date: "2021-07-11T00:06:53"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-07-11T00:06:53.699+08:00
+dateCreated: "2021-07-11T00:06:53"
 ---
 
 ## 待续

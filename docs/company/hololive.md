@@ -2,13 +2,13 @@
 title: hololive
 description: 以经营虚拟YouTuber为其主要业务
 published: true
-date: 2021-06-11T13:33:40.505+08:00
+date: "2021-06-11T13:33:40"
 tags:
     - YouTuber
     - Hololive
     - Vtuber
 editor: markdown
-dateCreated: 2021-03-18T10:33:47.007+08:00
+dateCreated: "2021-03-18T10:33:47"
 ---
 
 ## 赤井心&桐生可可

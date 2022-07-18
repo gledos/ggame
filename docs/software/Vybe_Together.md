@@ -2,10 +2,10 @@
 title: Vybe Together
 description: 一款组织聚会的软件
 published: true
-date: 2021-01-05T14:00:43.515+08:00
+date: "2021-01-05T14:00:43"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-01-05T14:00:43.515+08:00
+dateCreated: "2021-01-05T14:00:43"
 ---
 
 ## 遭到审查

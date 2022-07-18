@@ -2,11 +2,11 @@
 title: HarmonyOS
 description:
 published: true
-date: 2022-06-13T14:09:41.941+08:00
+date: "2022-06-13T14:09:41"
 tags:
     - Operating-System
 editor: markdown
-dateCreated: 2021-06-04T05:20:27.854+08:00
+dateCreated: "2021-06-04T05:20:27"
 ---
 
 ## 纯净模式

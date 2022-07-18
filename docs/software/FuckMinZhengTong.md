@@ -2,11 +2,11 @@
 title: Fuck闽政通
 description:
 published: true
-date: 2021-01-16T15:21:15.686+08:00
+date: "2021-01-16T15:21:15"
 tags:
     - Github
 editor: markdown
-dateCreated: 2021-01-16T15:21:15.686+08:00
+dateCreated: "2021-01-16T15:21:15"
 ---
 
 ## 无题

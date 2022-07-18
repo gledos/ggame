@@ -2,11 +2,11 @@
 title: Fiery Feeds
 description: 非常专业的 RSS 阅读器
 published: true
-date: 2020-10-06T14:23:25.435+08:00
+date: "2020-10-06T14:23:25"
 tags:
     - RSS
 editor: markdown
-dateCreated: 2020-10-06T13:40:19.445+08:00
+dateCreated: 2020-10-06T13:40:19"
 ---
 
 ## IOS 大陆区下架

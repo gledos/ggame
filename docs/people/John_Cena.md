@@ -2,11 +2,11 @@
 title: John Cena
 description:
 published: true
-date: 2021-06-02T03:40:14.854+08:00
+date: "2021-06-02T03:40:14"
 tags:
     - 新浪微博
 editor: markdown
-dateCreated: 2021-06-02T03:40:14.854+08:00
+dateCreated: "2021-06-02T03:40:14"
 ---
 
 ## 道歉

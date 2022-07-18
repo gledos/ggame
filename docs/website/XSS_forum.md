@@ -2,11 +2,11 @@
 title: 黑客论坛 XSS
 description:
 published: true
-date: 2021-05-17T14:18:41.723+08:00
+date: "2021-05-17T14:18:41"
 tags:
     - 论坛
 editor: markdown
-dateCreated: 2021-05-17T14:18:41.723+08:00
+dateCreated: "2021-05-17T14:18:41"
 ---
 
 ## 禁止勒索软件话题

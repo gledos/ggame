@@ -2,10 +2,10 @@
 title: nl2br
 description:
 published: true
-date: 2021-11-07T15:14:41.776+08:00
+date: "2021-11-07T15:14:41"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-11-07T15:14:41.776+08:00
+dateCreated: "2021-11-07T15:14:41"
 ---
 
 ## 简介

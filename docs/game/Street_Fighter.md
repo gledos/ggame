@@ -2,11 +2,11 @@
 title: 街头霸王
 description: 动作天尊卡普空的格斗游戏
 published: true
-date: 2021-01-05T09:15:26.779+08:00
+date: "2021-01-05T09:15:26"
 tags:
     - 腾讯
 editor: markdown
-dateCreated: 2021-01-05T09:15:26.778+08:00
+dateCreated: "2021-01-05T09:15:26"
 ---
 
 ## 关于商标

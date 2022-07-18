@@ -2,10 +2,10 @@
 title: Windows
 description: 微软公司的 X86 桌面操作系统
 published: true
-date: 2022-06-13T14:06:36.636+08:00
+date: "2022-06-13T14:06:36"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-10-08T22:25:51.586+08:00
+dateCreated: "2021-10-08T22:25:51"
 ---
 
 ## 政府特供版

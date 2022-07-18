@@ -2,11 +2,11 @@
 title: SSSS.电光机王
 description:
 published: true
-date: 2022-07-15T12:35:07.357+08:00
+date: "2022-07-15T12:35:07"
 tags:
 - 动画
 editor: markdown
-dateCreated: 2021-06-02T12:29:21.444+08:00
+dateCreated: "2021-06-02T12:29:21"
 ---
 
 ## 删除纹身

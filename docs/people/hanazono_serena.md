@@ -2,11 +2,11 @@
 title: 花园Serena
 description:
 published: true
-date: 2021-07-07T13:41:51.719+08:00
+date: "2021-07-07T13:41:51"
 tags:
     - Vtuber
 editor: markdown
-dateCreated: 2021-07-07T13:41:51.719+08:00
+dateCreated: "2021-07-07T13:41:51"
 ---
 
 ## 哔哩哔哩直播被关闭

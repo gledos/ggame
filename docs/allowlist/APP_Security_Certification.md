@@ -2,10 +2,10 @@
 title: APP安全认证
 description: 移动互联网应用程序（App）安全认证
 published: true
-date: 2020-10-03T13:58:32.391+08:00
+date: "2020-10-03T13:58:32"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-10-03T13:58:32.391+08:00
+dateCreated: 2020-10-03T13:58:32"
 ---
 
 ## 首批18款App获颁安全认证证书

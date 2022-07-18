@@ -2,12 +2,12 @@
 title: Signal
 description: 一款流行的端对端加密即时通讯软件
 published: true
-date: 2021-03-18T12:05:47.279+08:00
+date: "2021-03-18T12:05:47"
 tags:
     - 即时通讯
     - GFW
 editor: markdown
-dateCreated: 2021-03-18T10:40:04.960+08:00
+dateCreated: "2021-03-18T10:40:04"
 ---
 
 ## 由大陆手机号注册的 IOS 版 Signal 无法使用 CallKit

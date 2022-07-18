@@ -2,10 +2,10 @@
 title: CSOL
 description:
 published: false
-date: 2021-09-17T00:05:50.787+08:00
+date: "2021-09-17T00:05:50"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-09-17T00:05:50.787+08:00
+dateCreated: "2021-09-17T00:05:50"
 ---
 
 ## 防沉迷验证的问题

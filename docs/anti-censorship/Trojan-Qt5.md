@@ -2,11 +2,11 @@
 title: Trojan-Qt5
 description: 一款 Trojan 的 GUI 软件
 published: true
-date: 2022-07-03T19:03:15.315+08:00
+date: "2022-07-03T19:03:15"
 tags:
 - Proxy
 editor: markdown
-dateCreated: 2021-09-16T09:40:16.431+08:00
+dateCreated: "2021-09-16T09:40:16"
 ---
 
 ## 作者删库

@@ -2,10 +2,10 @@
 title: jsDelivr
 description:
 published: true
-date: 2022-06-16T08:35:55.3555+08:00
+date: "2022-06-16T08:35:55"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-05-28T22:40:46.624+08:00
+dateCreated: "2022-05-28T22:40:46"
 ---
 
 ## 简介

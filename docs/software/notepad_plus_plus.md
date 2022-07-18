@@ -2,12 +2,12 @@
 title: Notepad++
 description: 一款 Free 的纯文本编辑器，由侯今吾基于开源的 Scintilla 文本编辑组件独力研发
 published: true
-date: 2022-06-15T10:14:28.1428+08:00
+date: "2022-06-15T10:14:28"
 tags:
 - 奥运
 - Github
 editor: markdown
-dateCreated: 2020-11-07T15:21:08.184+08:00
+dateCreated: 2020-11-07T15:21:08"
 ---
 
 ## Boycott Beijing 2008

@@ -2,11 +2,11 @@
 title: PROMARE
 description: TRIGGER制作的原创动画电影
 published: true
-date: 2022-07-15T12:34:52.3452+08:00
+date: "2022-07-15T12:34:52"
 tags:
 - 动画
 editor: markdown
-dateCreated: 2021-11-04T10:58:12.319+08:00
+dateCreated: "2021-11-04T10:58:12"
 ---
 
 ## 似乎未被和谐

@@ -2,11 +2,11 @@
 title: Wordpress
 description:
 published: true
-date: 2021-08-09T09:49:34.895+08:00
+date: "2021-08-09T09:49:34"
 tags:
     - 博客
 editor: markdown
-dateCreated: 2021-08-09T09:49:34.895+08:00
+dateCreated: "2021-08-09T09:49:34"
 ---
 
 ## 关闭网站

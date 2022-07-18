@@ -2,10 +2,10 @@
 title: NBOS(Network Behavior Observation System)
 description: 基于NetFlow网络行为观测系统
 published: true
-date: 2022-06-13T14:05:55.555+08:00
+date: "2022-06-13T14:05:55"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-07-10T23:23:34.869+08:00
+dateCreated: "2021-07-10T23:23:34"
 ---
 
 > [!example]+ 相关链接

@@ -2,12 +2,12 @@
 title: 多邻国
 description: 免费学习语言的平台
 published: true
-date: 2021-06-27T13:11:43.738+08:00
+date: "2021-06-27T13:11:43"
 tags:
     - 地图
     - restraint
 editor: markdown
-dateCreated: 2021-06-27T13:11:43.738+08:00
+dateCreated: "2021-06-27T13:11:43"
 ---
 
 ## 题目配图被替换

@@ -2,10 +2,10 @@
 title: App Store 大陆区
 description:
 published: true
-date: 2021-01-01T17:20:07.110+08:00
+date: "2021-01-01T17:20:07"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2021-01-01T17:20:07.110+08:00
+dateCreated: "2021-01-01T17:20:07"
 ---
 
 ## 移除 VPN

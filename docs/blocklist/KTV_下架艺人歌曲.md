@@ -2,11 +2,11 @@
 title: KTV 下架艺人歌曲
 description:
 published: true
-date: 2022-06-13T14:06:11.611+08:00
+date: "2022-06-13T14:06:11"
 tags:
     - 靖国神社
 editor: markdown
-dateCreated: 2021-10-20T15:57:01.924+08:00
+dateCreated: "2021-10-20T15:57:01"
 ---
 
 ## 通知1

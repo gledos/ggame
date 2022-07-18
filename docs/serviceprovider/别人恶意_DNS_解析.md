@@ -2,11 +2,11 @@
 title: 别人恶意 DNS 解析
 description:
 published: true
-date: 2022-05-12T11:47:26.821+08:00
+date: "2022-05-12T11:47:26"
 tags:
     - DNS
 editor: markdown
-dateCreated: 2022-05-12T11:47:26.821+08:00
+dateCreated: "2022-05-12T11:47:26"
 ---
 
 ## 简介

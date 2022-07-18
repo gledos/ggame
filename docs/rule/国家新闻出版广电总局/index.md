@@ -2,10 +2,10 @@
 title: 中华人民共和国国家新闻出版广电总局
 description:
 published: true
-date: 2022-04-18T16:38:44.775+08:00
+date: "2022-04-18T16:38:44"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-04-18T16:38:44.775+08:00
+dateCreated: "2022-04-18T16:38:44"
 ---
 
 ## 简介

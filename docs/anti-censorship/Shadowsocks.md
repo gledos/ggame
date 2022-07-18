@@ -2,11 +2,11 @@
 title: Shadowsocks
 description:
 published: true
-date: 2022-07-03T19:03:10.310+08:00
+date: "2022-07-03T19:03:10"
 tags:
 - Proxy
 editor: markdown
-dateCreated: 2021-10-27T22:41:53.712+08:00
+dateCreated: "2021-10-27T22:41:53"
 ---
 
 ## 作者删库

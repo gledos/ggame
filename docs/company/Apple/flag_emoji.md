@@ -2,12 +2,12 @@
 title: flag emoji
 description:
 published: true
-date: 2021-07-28T07:34:20.334+08:00
+date: "2021-07-28T07:34:20"
 tags:
 - ROC_Flag
 - Apple
 editor: markdown
-dateCreated: 2021-07-28T07:34:20.334+08:00
+dateCreated: "2021-07-28T07:34:20"
 ---
 
 ## 苹果公司的产品删除或限制部分 flag emoji

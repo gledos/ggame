@@ -2,11 +2,11 @@
 title: github.io
 description:
 published: true
-date: 2022-05-18T02:38:25.109+08:00
+date: "2022-05-18T02:38:25"
 tags:
     - Github
 editor: markdown
-dateCreated: 2022-05-18T02:38:25.109+08:00
+dateCreated: "2022-05-18T02:38:25"
 ---
 
 ## 简介

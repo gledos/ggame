@@ -2,10 +2,10 @@
 title: Dominion
 description:
 published: true
-date: 2020-11-24T09:36:40.876+08:00
+date: "2020-11-24T09:36:40"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2020-11-24T09:36:40.876+08:00
+dateCreated: 2020-11-24T09:36:40"
 ---
 
 计票提供商 Dominion 子域名解析位置为中国泉州的数据中心。

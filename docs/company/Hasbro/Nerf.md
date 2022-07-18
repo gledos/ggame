@@ -2,10 +2,10 @@
 title: Nerf
 description:
 published: true
-date: 2022-05-25T11:59:10.045+08:00
+date: "2022-05-25T11:59:10"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-05-25T11:59:10.045+08:00
+dateCreated: "2022-05-25T11:59:10"
 ---
 
 ## 不同颜色的扳机

@@ -2,11 +2,11 @@
 title: co.jp
 description: 日本流行的「用法是顶级域名的实际二级域名」
 published: true
-date: 2020-12-02T09:58:30.792+08:00
+date: "2020-12-02T09:58:30"
 tags:
     - GFW
 editor: markdown
-dateCreated: 2020-10-10T09:08:58.801+08:00
+dateCreated: 2020-10-10T09:08:58"
 ---
 
 ## 2012年6月约30个小时的封锁

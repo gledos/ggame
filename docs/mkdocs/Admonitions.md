@@ -2,10 +2,10 @@
 title: Admonition
 description:
 published: true
-date: 2022-06-14T17:27:45.216+08:00
+date: "2022-06-14T17:27:45"
 特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2022-06-14T17:27:45.216+08:00
+dateCreated: "2022-06-14T17:27:45"
 ---
 
 # Admonition
