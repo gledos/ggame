@@ -3,7 +3,8 @@ title: Telegram
 description:
 published: true
 date: "2021-09-10T16:23:13"
-特殊标签标记: #无标签
+tags:
+- 即时通讯
 editor: markdown
 dateCreated: "2021-09-10T16:23:13"
 ---

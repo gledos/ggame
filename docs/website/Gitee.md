@@ -26,7 +26,7 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 2022年1月17日 之前的未知时间，[^I4R31X]Gitee 添加了「仓库公开须知」的协议，需要同时勾选三个协议，才能将仓库设置为公开仓库。详细内容如下：[^93931]
 
-[^I4R31X]: cvicse004861, 《[私有仓库转公开仓库时没有仓库公开须知 · Issue #I4R31X](https://web.archive.org/web/20220519163229/https://gitee.com/oschina/git-osc/issues/I4R31X)》, Gitee, 2022-01-17. (参照 2022-05-20).
+[^I4R31X]: cvicse004861, 《[私有仓库转公开仓库时没有仓库公开须知 · Issue \#I4R31X](https://web.archive.org/web/20220519163229/https://gitee.com/oschina/git-osc/issues/I4R31X)》, Gitee, 2022-01-17. (参照 2022-05-20).
 
 [^1]: 山外的鸭子哥, 《[码云(Gitee)宣布托管开源项目先审后发 承诺合法无违规经人工审核后才可访问](https://web.archive.org/web/20220519165657/https://www.landiannews.com/archives/93931.html)》, 蓝点网, 2022-05-19. (参照 2022-05-20).
 

@@ -41,7 +41,7 @@ dateCreated: "2021-03-18T10:40:04"
     + [Signal“被墙了” — RFA 普通话主页](https://web.archive.org/web/20210318084148/https://www.rfa.org/mandarin/Xinwen/wul0316c-03162021052806.html)
     + [加密聊天软件Signal疑在中国被封锁 - 纽约时报中文网](https://web.archive.org/web/20210318084205/https://cn.nytimes.com/technology/20210317/china-signal/)
     + [加密消息应用软件Signal在中国停止运作 - DW](https://web.archive.org/web/20210316152543/https://www.dw.com/zh/加密消息应用软件signal在中国停止运作/a-56888046)
-    + [Bang Xiao 萧邦 trên Twitter: "Multiple contacts in mainand China just confirmed difficulties using #Signal app from Monday evening. https://t.co/OubrSBtpll"](https://web.archive.org/web/20210316085651/https://twitter.com/BangXiao_/status/1371681976638267400)
+    + [Bang Xiao 萧邦 trên Twitter: "Multiple contacts in mainand China just confirmed difficulties using \#Signal app from Monday evening. https://t.co/OubrSBtpll"](https://web.archive.org/web/20210316085651/https://twitter.com/BangXiao_/status/1371681976638267400)
     + [又一款安全网络聊天应用Signal在中国被封](https://web.archive.org/web/20210316121038/https://www.rfi.fr/cn/中国/20210316-又一款安全网络聊天应用signal在中国被封)
     + [【Signal】外電：Signal疑似被中國禁用　需「翻牆」才可使用 - 香港經濟日報 - 即時新聞頻道 - 即市財經 - Hot Talk - D210316](https://web.archive.org/web/20210318084139/https://inews.hket.com/article/2902488/【Signal】外電：Signal疑似被中國禁用　需「翻牆」才可使用?mtc=20023)
     + [Rising encrypted app Signal is down in China – TechCrunch](https://web.archive.org/web/20210316144125/https://techcrunch.com/2021/03/15/signal-is-down-in-china/)

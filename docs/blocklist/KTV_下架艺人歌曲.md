@@ -55,7 +55,7 @@ dateCreated: "2021-10-20T15:57:01"
 
 微博用户 Scarlett在落地之處開花 通过直接向中华人民共和国文化和旅游部办公厅求证，回复如下:[^KDujXyhrH]
 
-[^KDujXyhrH]: [#赵薇##网信办要求... - @Scarlett在落地之處開花的微博 - 微博](https://archive.md/uePkC "https://weibo.com/1910913772/KDujXyhrH")
+[^KDujXyhrH]: [\#赵薇#\#网信办要求... - @Scarlett在落地之處開花的微博 - 微博](https://archive.md/uePkC "https://weibo.com/1910913772/KDujXyhrH")
 
 > 文化和旅游部办公厅
 >
