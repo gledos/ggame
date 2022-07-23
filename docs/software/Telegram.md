@@ -112,6 +112,6 @@ dateCreated: "2021-09-10T16:23:13"
 >
 >         1
 
-随后 Telegram 回复道，这些改变仅会影响从华为应用商店以及华为设备在官网下载的版本。[^1550242842076856320]
+随后 Telegram 回复道，这些改变仅会影响从 HUAWEI App Gallery 以及华为设备在官网下载的版本。[^1550242842076856320]
 
 [^1550242842076856320]: Telegram Messenger, 《[This code will only be present in builds installed from the Huawei store……](https://web.archive.org/web/20220722044612/https://twitter.com/telegram/status/1550242842076856320)》, Twitter, 2022-07-22. (参照 2022-07-22).
