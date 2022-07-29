@@ -1,0 +1,113 @@
+/*
+Code from: [CSS only, automated, and accessible external link icon](https://codepen.io/heydon/pen/pgBBdR)
+*/
+
+article [href*="/"]::after {
+    display: inline-block;
+    height: 1em;
+    white-space: nowrap;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* 修复缩放模糊问题 */
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href$=".webp"]):not([href$=".png"]):not([href$=".jpg"]):not([href$=".jpeg"]):not([href$=".webm"]):not([href$=".mp4"]):not([href$=".flv"]):not([href$=".docs"]):not([href$=".doc"]):not([href$=".odt"]):not([href$=".pdf"])::after {
+    content: 'external link)';
+    background-image: url("../src/external-links/out_link.png");
+    width: 1em;
+    text-indent: 1em;
+}
+
+/*
+Code from: [CSS: Add Icon to Links](http://xahlee.info/js/css_add_icon_to_link.html)
+*/
+
+/* Document 文档图标 */
+
+article [href$=".docs"]::after, [href$=".doc"]::after, [href$=".docs"]::after {
+    content: '(external link)';
+    background-image: url("../src/external-links/blue-document-office-text.png");
+    width: 1em;
+    text-indent: 1em;
+}
+
+/* 图像图标 */
+
+article [href$=".png"]::after, [href$=".webp"]::after, [href$=".jpg"]::after, [href$=".jpeg"]::after {
+    content: '(image icon link)';
+    background-image: url("../src/external-links/blue-document-image.png");
+    width: 1em;
+    text-indent: 1em;
+}
+
+/* 视频图标 */
+
+article [href$=".mp4"]::after, [href$=".webm"]::after, [href$=".flv"]::after {
+    content: '(video icon link)';
+    background-image: url("../src/external-links/blue-document-film.png");
+    width: 1em;
+    text-indent: 1em;
+}
+
+/* PDF 图标 */
+
+article [href$=".pdf"]::after {
+    content: '(pdf icon link)';
+    background-image: url("../src/external-links/blue-document-pdf-text.png");
+    width: 1em;
+    text-indent: 1em;
+}
+
+/* 分割线 - - - 分割线 - - - 分割线 */
+
+a[href^="https://web.archive.org"], [href^="http://web.archive.org"], [href^="https://archive.org"], [href^="http://archive.org"] {
+    background: url(../src/external-links/Internet_Archive.png) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    /* background-size: 75% auto; */
+    /* 修复缩放模糊问题 */
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+    width: 0em;
+    text-indent: 0em;
+}
+
+a[href^="https://www.youtube.com"], [href^="http://www.youtube.com"], [href^="https://youtube.com"], [href^="http://youtube.com"] {
+    background: url(../src/external-links/m_video_youtube.png) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    background-size: 16px;
+    /* background-size: 75% auto; */
+    /* 修复缩放模糊问题 */
+    image-rendering: -moz-crisp-edges;
+    image-rendering: -o-crisp-edges;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+a[href^="https://archive.is"], [href^="https://archive.ph"], [href^="https://archive.fo"],
+[href^="https://archive.vn"], [href^="https://archive.today"], [href^="https://archive.md"],
+[href^="https://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion"],
+[href^="http://archive.is"], [href^="http://archive.ph"], [href^="http://archive.of"],
+[href^="http://archive.vn"], [href^="http://archive.today"], [href^="http://archive.md"],
+[href^="http://archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion"] {
+    background: url(../src/external-links/archivecaslytosk_onion.webp) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    background-size: 16px;
+}
+
+
+a[href^="https://zh.wikisource.org"], [href^="https://en.wikisource.org"], [href^="https://jp.wikisource.org"], [href^="https://de.wikisource.org"]
+[href^="http://zh.wikisource.org"], [href^="http://en.wikisource.org"], [href^="http://jp.wikisource.org"], [href^="http://de.wikisource.org"] {
+    background: url(../src/external-links/wikisource.png) no-repeat left 0.125em center;
+    padding-left: 1.5em;
+    background-size: 16px;
+}
