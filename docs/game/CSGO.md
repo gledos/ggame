@@ -2,7 +2,7 @@
 title: CSGO
 description:
 published: true
-date: "2022-07-28T21:39:57"
+date: "2022-08-01T23:08:55"
 tags:
 - steam
 editor: markdown
