@@ -30,25 +30,17 @@ dateCreated: "2021-09-28T23:09:13"
 
 <ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。
 
-## 激流大行动和谐
+## 台湾战队被取消资格
 
-> [!quote]+ Hildskjalf的动态[^K0USq]
->
-> ![MAC-10](/src/game/csgo/MAC-10.webp)
->
-> ![P250](/src/game/csgo/P250.webp)
->
-> ![SG-553](/src/game/csgo/SG-553.webp)
->
-> ![布章1](/src/game/csgo/布章1.webp)
->
-> ![布章2](/src/game/csgo/布章2.webp)
->
-> ![布章3](/src/game/csgo/布章3.webp)
->
-> ![贴纸](/src/game/csgo/贴纸.webp)
+2018年11月6日，台湾的 Sad Story 队伍在参加 IEM Katowice 2019 Minor 东亚区公开预选赛\#2 时，在战胜日本 Friendly Welcome 队伍后，被 ESL 官方人员告知已经被取消参赛资格，理由是战队所属国家不符合参赛赛区的要求。
 
-[^K0USq]: Hildskjalf, [哔哩哔哩动态](https://archive.is/K0USq "https://t.bilibili.com/573870367335100723"), 哔哩哔哩.
+最后，ESL 官方人员让 Sad Story 战队参加中国封闭预选赛 (Minor China Closed Qualifier)，以示歉意。
+
+> [!example]+ 相关链接
+>
+> 1.  max90283 (麥克斯), 《[[閒聊] 台灣CSGO隊伍SadStory遭取消資格](https://web.archive.org/web/20220731021856/https://www.ptt.cc/bbs/Steam/M.1541501849.A.97B.html)》, Ptt 批踢踢實業坊, 2018-11-06. (参照 2022-08-01).
+> 2.  楊綿傑と呂伊萱, 《[台灣電競隊大勝 未報中國賽區判失格 - 政治](https://web.archive.org/web/20181116083703/http://news.ltn.com.tw/news/politics/paper/1245280)》, 自由時報電子報, 2018-11-08. (参照 2022-08-01).
+> 3.  LemonFox, 《[台灣戰隊Sad Story 因「國藉問題」於Minor東亞預選賽 被ESL 取消資格 (內附ESL補償方案)](https://web.archive.org/web/20211023063214/https://csgo.com.hk/2018/11/09/taiwans-sad-story-has-been-disqualified-by-esl-in-the-minor-east-asian-qualification-tournament-due-to-national-problems/news/)》, TomorrowLAN CS:GO, 2018-11-09. (参照 2022-08-01).
 
 ## 修改音乐盒名称
 
@@ -272,6 +264,28 @@ dateCreated: "2021-09-28T23:09:13"
 [vn_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/vn.png
 [world_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/world.png
 [za_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/za.png
+
+## 激流大行动和谐
+
+激流大行动是 CSGO 在 2021年9月21日 推出的活动，其中就行推出了饰品，而这些饰品被大量和谐了。
+
+> [!quote]+ Hildskjalf的动态[^K0USq]
+>
+> ![MAC-10](/src/game/csgo/MAC-10.webp)
+>
+> ![P250](/src/game/csgo/P250.webp)
+>
+> ![SG-553](/src/game/csgo/SG-553.webp)
+>
+> ![布章1](/src/game/csgo/布章1.webp)
+>
+> ![布章2](/src/game/csgo/布章2.webp)
+>
+> ![布章3](/src/game/csgo/布章3.webp)
+>
+> ![贴纸](/src/game/csgo/贴纸.webp)
+
+[^K0USq]: Hildskjalf, [哔哩哔哩动态](https://archive.is/K0USq "https://t.bilibili.com/573870367335100723"), 哔哩哔哩.
 
 ## Recoil 箱子皮肤和谐
 
