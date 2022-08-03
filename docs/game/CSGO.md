@@ -2,7 +2,7 @@
 title: CSGO
 description:
 published: true
-date: "2022-08-01T23:08:55"
+date: "2022-08-03T09:07:01"
 tags:
 - steam
 editor: markdown
@@ -13,7 +13,11 @@ dateCreated: "2021-09-28T23:09:13"
 
 > [!summary inline end]+ 反恐精英：全球攻势
 >
-> ![标志](https://s3.tebi.io/ggame/game/csgo/csgo_header.webp)
+> ![CSGO白色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_white.webp#only-dark)
+>
+> ![CSGO黑色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_black.webp#only-light)
+>
+> [^logo]
 >
 > ```yaml
 > 标题:
@@ -28,6 +32,8 @@ dateCreated: "2021-09-28T23:09:13"
 > - 完美世界: 2017年9月15日
 > ```
 
+[^logo]: Overbrine, [Logo for Counter-Strike: Global Offensive](https://www.steamgriddb.com/logo/56047), [Black](https://www.steamgriddb.com/logo/56046).
+
 <ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。
 
 ## 台湾战队被取消资格
@@ -39,7 +45,7 @@ dateCreated: "2021-09-28T23:09:13"
 > [!example]+ 相关链接
 >
 > 1.  max90283 (麥克斯), 《[[閒聊] 台灣CSGO隊伍SadStory遭取消資格](https://web.archive.org/web/20220731021856/https://www.ptt.cc/bbs/Steam/M.1541501849.A.97B.html)》, Ptt 批踢踢實業坊, 2018-11-06. (参照 2022-08-01).
-> 2.  楊綿傑と呂伊萱, 《[台灣電競隊大勝 未報中國賽區判失格 - 政治](https://web.archive.org/web/20181116083703/http://news.ltn.com.tw/news/politics/paper/1245280)》, 自由時報電子報, 2018-11-08. (参照 2022-08-01).
+> 2.  楊綿傑 和 呂伊萱, 《[台灣電競隊大勝 未報中國賽區判失格 - 政治](https://web.archive.org/web/20181116083703/http://news.ltn.com.tw/news/politics/paper/1245280)》, 自由時報電子報, 2018-11-08. (参照 2022-08-01).
 > 3.  LemonFox, 《[台灣戰隊Sad Story 因「國藉問題」於Minor東亞預選賽 被ESL 取消資格 (內附ESL補償方案)](https://web.archive.org/web/20211023063214/https://csgo.com.hk/2018/11/09/taiwans-sad-story-has-been-disqualified-by-esl-in-the-minor-east-asian-qualification-tournament-due-to-national-problems/news/)》, TomorrowLAN CS:GO, 2018-11-09. (参照 2022-08-01).
 
 ## 修改音乐盒名称
