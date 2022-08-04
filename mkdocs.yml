@@ -150,13 +150,13 @@ plugins:
       dirs:
       - hardware
       template: overrides/custom-blog.html
+    - name: meme
+      dirs:
+      - meme
+      template: overrides/custom-blog.html
     - name: mkdocs
       dirs:
       - mkdocs
-      template: overrides/custom-blog.html
-    - name: movement
-      dirs:
-      - movement
       template: overrides/custom-blog.html
     - name: news_archive
       dirs:
