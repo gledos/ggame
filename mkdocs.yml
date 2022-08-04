@@ -260,6 +260,14 @@ plugins:
       "activities/IJOY漫展.md": "activities/漫展/IJOY漫展.md"
       "activities/COMICUP_28.md": "activities/漫展/COMICUP.md"
       "activities/ComicDawn动漫展.md": "activities/漫展/ComicDawn动漫展.md"
+      "movement/「明星相关的审查」.md": "activities/「明星相关的审查」.md"
+      "movement/2014年东莞扫黄事件.md": "activities/2014年东莞扫黄事件.md"
+      "movement/2020清朗专项行动.md": "activities/2020清朗专项行动.md"
+      "movement/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗·互联网用户账号运营乱象专项整治行动.md"
+      "movement/清朗·暑期未成年人网络环境整治.md": "activities/清朗·暑期未成年人网络环境整治.md"
+      "movement/扫黄打非·净网2014.md": "activities/扫黄打非·净网2014.md"
+      "movement/扫黄打非·净网2015.md": "activities/扫黄打非·净网2015.md"
+      "movement/网络安全宣传周活动.md": "activities/网络安全宣传周活动.md"
 
 extra:
   generator: false

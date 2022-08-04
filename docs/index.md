@@ -36,7 +36,7 @@ dateCreated: "2021-03-18T10:32:32"
 | 事件     | [/event][]              | 声音     | [/sound][]           |
 | 游戏     | [/game][]               | 尚不明确 | [/unclear][]         |
 | 硬件     | [/hardware][]           | 视频     | [/video][]           |
-| 运动     | [/movement][]           | 网站     | [/website][]         |
+| 梗       | [/meme][]               | 网站     | [/website][]         |
 
 [/activities]: /activities/index.md
 [/allowlist]: /allowlist/index.md
@@ -49,7 +49,7 @@ dateCreated: "2021-03-18T10:32:32"
 [/event]: /event/index.md
 [/game]: /game/index.md
 [/hardware]: /hardware/index.md
-[/movement]: /movement/index.md
+[/meme]: /meme/index.md
 [/news_archive]: /news_archive/index.md
 [/people]: /people/index.md
 [/punish]: /punish/index.md
