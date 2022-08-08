@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}"
 ---
 
-# {{title}}
-
 ## 简介
 
 

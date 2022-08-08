@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-07T13:12:07"
 ---
 
-# PSN
-
 ## 简介
 
 PlayStation Network (PSN) 是 [索尼][] 互动娱乐提供的数字媒体娱乐服务。

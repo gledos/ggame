@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-06-30T17:03:20"
 ---
 
-# Tumblr
-
 ## 被 GFW 封锁
 
 2013年9月5日，Tumblr 首次被 GFW 封锁。[^FACT]

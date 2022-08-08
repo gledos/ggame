@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-17T17:04:34"
 ---
 
-# Apex Legends
-
 ## 简介
 
 《<ruby>Apex 英雄<rp>(</rp><rt>Apex Legends</rt><rp>)</rp></ruby>》是重生工作室开发的大逃杀类型的游戏。

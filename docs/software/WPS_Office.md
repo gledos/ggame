@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-10T19:23:38"
 ---
 
-# WPS Office
-
 ## 简介
 
 WPS Office 是金山软件公司出品的办公软件，WPS Office 套件诞生于 2001年。

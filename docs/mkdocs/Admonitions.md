@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-06-14T17:27:45"
 ---
 
-# Admonition
-
 Admonition 的详细介绍可以查看 Material for MkDocs 的 [Admonitions](https://squidfunk.github.io/mkdocs-material/reference/admonitions/) 页面。
 
 ## 标记格式问题

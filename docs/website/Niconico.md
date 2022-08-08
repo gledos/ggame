@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-08-01T23:11:05"
 ---
 
-# Niconico動畫
-
 ## 简介
 
 > [!summary inline end]+ Niconico動畫

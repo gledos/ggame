@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2021-08-10T17:34:06"
 ---
 
-# Kindergarten 
-
 ## 简介
 
 > [!summary inline end]+ Kindergarten

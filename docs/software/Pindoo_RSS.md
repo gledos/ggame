@@ -9,8 +9,6 @@ editor: markdown
 dateCreated: "2021-01-25T14:48:05"
 ---
 
-# 品读RSS
-
 ## 简介
 
 一款 iOS 端专注于中文阅读的 RSS 阅读器。

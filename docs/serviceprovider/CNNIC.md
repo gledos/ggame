@@ -9,8 +9,6 @@ editor: markdown
 dateCreated: "2022-07-12T16:03:18"
 ---
 
-# CNNIC
-
 ## 简介
 
 CNNIC 的全称是「China Internet Network Information Center，中国互联网络信息中心」。

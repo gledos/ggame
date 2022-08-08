@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-07T16:52:07"
 ---
 
-# Guilty Gear
-
 ## 简介
 
 《Guilty Gear》，大陆译作「罪恶装备」，台湾译作「聖騎士之戰」，是 Arc System Works Co.,Ltd. 开发的格斗游戏。

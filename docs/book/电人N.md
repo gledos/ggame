@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-29T08:56:17"
 ---
 
-# 电人N
-
 ## 简介
 
 > [!summary inline end]+ 电人N

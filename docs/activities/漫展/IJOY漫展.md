@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-24T10:46:23"
 ---
 
-# IJOY漫展
-
 ## 简介
 
 主办方是 I JOY ACG 北京国际动漫游戏狂欢节。

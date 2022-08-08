@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-27T16:08:29"
 ---
 
-# We Are*
-
 ## 简介
 
 > [!summary inline end]+ We Are*

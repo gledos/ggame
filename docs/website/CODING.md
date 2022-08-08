@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: "2022-07-03T08:00:02"
 ---
 
-# CODING
-
 ## 简介
 
 CODING (Coding.net) 是 [GitHub][] 的中国版，成立于 2014年。前期靠免费的私有仓库和活动吸引用户，最后在 2019年8月 被 [腾讯云][] 收购。[^about]
