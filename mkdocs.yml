@@ -138,17 +138,9 @@ plugins:
       dirs:
       - company
       template: overrides/custom-blog.html
-    - name: event
-      dirs:
-      - event
-      template: overrides/custom-blog.html
     - name: game
       dirs:
       - game
-      template: overrides/custom-blog.html
-    - name: hardware
-      dirs:
-      - hardware
       template: overrides/custom-blog.html
     - name: meme
       dirs:
@@ -268,6 +260,12 @@ plugins:
       "movement/扫黄打非·净网2014.md": "activities/扫黄打非·净网2014.md"
       "movement/扫黄打非·净网2015.md": "activities/扫黄打非·净网2015.md"
       "movement/网络安全宣传周活动.md": "activities/网络安全宣传周活动.md"
+      "hardware/宝塔面板.md": "software/宝塔面板.md"
+      "hardware/红星系统.md": "software/红星系统.md"
+      "hardware/Kindle.md": "company/Amazon/Kindle.md"
+      "hardware/Smart_set-top_box.md": "rule/Smart_set-top_box.md"
+      "hardware/Synology.md": "company/Synology.md"
+      "hardware/WAPI.md": "technology/WAPI.md"
 
 extra:
   generator: false

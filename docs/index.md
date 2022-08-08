@@ -25,18 +25,17 @@ dateCreated: "2021-03-18T10:32:32"
 
 | 板块     | 文件夹                  | 板块     | 文件夹               |
 | -------- | ----------------------- | -------- | -------------------- |
-| 活动     | [/activities][]         | 新闻存档 | [/news_archive][]    |
-| 允许列表 | [/allowlist][]          | 人物     | [/people][]          |
-| 反审查   | [/anti-censorship][/ac] | 处罚     | [/punish][]          |
-| 限制列表 | [/blocklist][]          | 研究     | [/research][]        |
-| 书籍     | [/book][]               | 规则     | [/rule][]            |
-| 捕风捉影 | [/catch_the_wind][]     | 服务     | [/serviceprovider][] |
-| 审查     | [/censorship][]         | 软件     | [/software][]        |
-| 公司     | [/company][]            | 技术     | [/technology][]      |
-| 事件     | [/event][]              | 声音     | [/sound][]           |
+| 活动     | [/activities][]         | 人物     | [/people][]          |
+| 允许列表 | [/allowlist][]          | 处罚     | [/punish][]          |
+| 反审查   | [/anti-censorship][/ac] | 研究     | [/research][]        |
+| 限制列表 | [/blocklist][]          | 规则     | [/rule][]            |
+| 书籍     | [/book][]               | 服务     | [/serviceprovider][] |
+| 捕风捉影 | [/catch_the_wind][]     | 软件     | [/software][]        |
+| 审查     | [/censorship][]         | 技术     | [/technology][]      |
+| 公司     | [/company][]            | 声音     | [/sound][]           |
 | 游戏     | [/game][]               | 尚不明确 | [/unclear][]         |
-| 硬件     | [/hardware][]           | 视频     | [/video][]           |
-| 梗       | [/meme][]               | 网站     | [/website][]         |
+| 梗       | [/meme][]               | 视频     | [/video][]           |
+| 新闻存档 | [/news_archive][]       | 网站     | [/website][]         |
 
 [/activities]: /activities/index.md
 [/allowlist]: /allowlist/index.md
@@ -46,9 +45,7 @@ dateCreated: "2021-03-18T10:32:32"
 [/catch_the_wind]: /catch_the_wind/index.md
 [/censorship]: /censorship/index.md
 [/company]: /company/index.md
-[/event]: /event/index.md
 [/game]: /game/index.md
-[/hardware]: /hardware/index.md
 [/meme]: /meme/index.md
 [/news_archive]: /news_archive/index.md
 [/people]: /people/index.md
