@@ -1,39 +1,56 @@
-/* 行首缩进 - 开始 */
+/*
+    行首缩进 */
 
-p {
+/* p {
     text-indent: 2em;
-}
+} */
 
 /* blockquote>p {
     text-indent: 0em;
 } */
 
-li>p,
+/* li>p,
 .admonition-title {
     text-indent: 0em;
-}
+} */
 
-/* 防止将图片也给缩进 */
-p>img,
+/*
+    防止将图片也给缩进 */
+
+/* p>img,
 html>div>img {
     display: block
-}
+} */
 
-/* 行首缩进 - 结束 */
 /* -------------------- 分割线 -------------------- */
-/* 勾选框位置调整 - 开始 */
 
-.md-typeset,
+/*
+    勾选框位置调整 */
+
+/* .md-typeset,
 .task-list-item [type="checkbox"] {
     top: .1em;
-}
+} */
 
-/* 勾选框位置调整 - 结束 */
 /* -------------------- 分割线 -------------------- */
-/* 防止标题后的 # 被复制 - 开始 */
 
-.headerlink {
-    user-select: none;
+/*
+    防止标题后的 # 被复制 */
+
+.md-typeset .headerlink {
+	user-select: none;
 }
 
-/* 防止标题后的 # 被复制 - 结束 */
+/* -------------------- 分割线 -------------------- */
+
+/*
+    数字的有序列表（覆盖原本的英文） */
+
+.md-typeset ul ol,
+.md-typeset ol ol {
+    list-style-type: decimal;
+}
+.md-typeset ul ol ol,
+.md-typeset ol ol ol {
+    list-style-type: decimal;
+}

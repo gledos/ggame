@@ -278,7 +278,7 @@ extra:
 extra_css:
 - "css/external_link_icon.css"
 - "css/footnotes.css"          # 脚注 CSS
-# - "css/base.css"             # 格式处理
+- "css/base.css"               # 格式处理
 - "css/custom_admonitions.css" # 自定义 Admonitions
 
 # extra_javascript:
