@@ -54,7 +54,7 @@ HKKNNT 描述的前身关系：[^sf5qow]
 
 [^6010]: Nyanners单推人, 《[就是chonglangtv前几天有人收留了一个离家出走的17岁小姑娘](https://web.archive.org/web/20220302033707/https://twitter.com/joeywuyiqiu/status/1498864814155776010)》, Twitter, 2022-03-02. (参照 2022-03-28).
 
-[^t39cim]: NingChoww, 《[呼叫吧母，说说近日AromaticShoulder去告洋状是怎个回事](www.reddit.com/r/SewerFarm/comments/t39cim/呼叫吧母说说近日aromaticshoulder去告洋状是怎个回事/)》, r/SewerFarm, 2022-02-28. (参照 2022-03-28).
+[^t39cim]: NingChoww, 《[呼叫吧母，说说近日AromaticShoulder去告洋状是怎个回事](htpps://www.reddit.com/r/SewerFarm/comments/t39cim/呼叫吧母说说近日aromaticshoulder去告洋状是怎个回事/)》, r/SewerFarm, 2022-02-28. (参照 2022-03-28).
 
 ## CLTV 被关闭
 
