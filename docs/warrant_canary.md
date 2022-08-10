@@ -20,6 +20,31 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年8月10日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年8月10日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   胡欣男, 《[豬仔逃回台 曝最年輕奴工僅15歲](https://www.chinatimes.com/newspapers/20220809000361-260106?chdtv)》, 中時新聞網, 2022-08-09. (参照 2022-08-10).
++   兰十一, 《[丁香园旗下系列账号被限制发言](https://web.archive.org/web/20220809182837/https://36kr.com/p/1864451626324483)》, 36氪, 2022-08-10. (参照 2022-08-10).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYvL1kwAKCRCZXo6bU2oX
+pI05AP9iLvI/HHLjHsFcg386woCZchDfeLguTFPz/mcJissk3AEA8EvelOhUkmP+
+tOo3y/m8ek4E5AcCv+KFA9cKZWKjFAA=
+=FyBe
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年7月14日
 
 ```markdown
@@ -42,8 +67,6 @@ pGC7AQDs3lPSraEUfB7dnfWybfCZbBqO1XTCb5mUaqaa87ksDQEAhzBaY08/qpOS
 =W2hr
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年6月?日
 
