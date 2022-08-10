@@ -2,21 +2,27 @@
 title: Microsoft Bing
 description:
 published: true
-date: "2022-06-13T14:06:29"
+date: "2022-08-10T10:58:46"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-12-17T23:44:06"
 ---
 
-```YAML
-名称:
-    英文名: Microsoft Bing
-    中文名: 微软必应
-域名:
-    国际版: www.bing.com
-    大陆版: cn.bing.com
-推出时间: 2009年6月1日
-```
+## 简介
+
+> [!summary inline end]+ 元数据
+>
+> ```YAML
+> 名称:
+> - 英文名: Microsoft Bing
+> - 中文名: 微软必应
+> 域名:
+> - 国际版: www.bing.com
+> - 大陆版: cn.bing.com
+> 推出时间: 2009年6月1日
+> ```
+
+<ruby>微软必应<rp>(</rp><rt>Microsoft Bing</rt><rp>)</rp></ruby>是一款由微软公司推出的网路搜寻引擎，前身分别是 MSN Search、Windows Live Search 以及 Live Search。
 
 ## 2009年的简体中文审查
 
@@ -139,11 +145,12 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 [^213]: [微软 Bing（必应）已可正常访问 - IT之家](https://web.archive.org/web/20211218062903/https://www.ithome.com/0/593/213.htm)
 
 > [!example]+ 相关链接
-> + [必应崩啦？ - V2EX](https://web.archive.org/web/20211217114535/https://www.v2ex.com/t/822647)
-> + [疑似电信移动到联通互联节点故障导致 Bing 无法访问 - V2EX](https://web.archive.org/web/20211216153646/https://v2ex.com/t/822688)
-> + [最近必应中文搜索是否出现问题？ - 知乎](https://web.archive.org/web/20211216154036/https://www.zhihu.com/question/288799107)
-> + [bing的在中国的搜索自动建议功能被暂停服务30天 目前.cn域名无法打开 : China_irl](https://web.archive.org/web/20211216153557/https://old.reddit.com/r/China_irl/comments/rhpn14/bing的在中国的搜索自动建议功能被暂停服务30天_目前cn域名无法打开/)
-> + [2021 年 12月 16日 18:30许，必应搜索在中国无法访问 : China_irl](https://web.archive.org/web/20211216153602/https://old.reddit.com/r/China_irl/comments/rhrb5x/2021_年_12月_16日_1830许必应搜索在中国无法访问/)
+>
+> +   [必应崩啦？](https://web.archive.org/web/20211217114535/https://www.v2ex.com/t/822647), V2EX.
+> +   [疑似电信移动到联通互联节点故障导致 Bing 无法访问](https://web.archive.org/web/20211216153646/https://v2ex.com/t/822688), V2EX.
+> +   [最近必应中文搜索是否出现问题？](https://web.archive.org/web/20211216154036/https://www.zhihu.com/question/288799107), 知乎.
+> +   [bing的在中国的搜索自动建议功能被暂停服务30天 目前.cn域名无法打开](https://web.archive.org/web/20211216153557/https://old.reddit.com/r/China_irl/comments/rhpn14/bing的在中国的搜索自动建议功能被暂停服务30天_目前cn域名无法打开/), reddit/China_irl.
+> +   [2021 年 12月 16日 18:30许，必应搜索在中国无法访问](https://web.archive.org/web/20211216153602/https://old.reddit.com/r/China_irl/comments/rhrb5x/2021_年_12月_16日_1830许必应搜索在中国无法访问/), reddit/China_irl.
 
 ## 大陆暂时关闭 7 天「搜索建议」
 
