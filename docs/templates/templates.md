@@ -10,6 +10,14 @@ dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}"
 
 ## 简介
 
+> [!summary inline end]+ {{title}}
+>
+> ![标志]()
+>
+> ```yaml
+> 标题:
+> ```
+
 
 
 ## 
