@@ -28,6 +28,69 @@ dateCreated: "2022-08-03T09:18:38"
 +   [PRODUCT RED](/company/Apple/PRODUCT_RED.md)
 +   [XcodeGhost](/company/Apple/XcodeGhost.md)
 
+## 在大陆不支持的服务
+
+知乎用户「[荆棘](https://www.zhihu.com/people/Umar)」统计了大量在 Apple 在大陆不支持的功能。[^2410597383]
+
+[^2410597383]: 荆棘, 《[为什么国内不允许 FaceTime 语音？](https://web.archive.org/web/20220813145135/https://www.zhihu.com/question/335624956/answer/2410597383)》, 知乎, 2022-08-13. (参照 2022-08-13).
+
+> [!quote]+ Apple在中国大陆已知不支持功能列表【不完全统计共44项】截至2022/7/24[^z2][^z3]
+>
+> 1.  eSIM（Apple watch提供、iPhone不支持） **俄罗斯支持**
+> 2.  Callkit
+> 3.  FaceTime audio
+> 4.  FaceTime 群组 **俄罗斯支持**
+> 5.  FaceTime 通话链接 **俄罗斯支持**
+> 6.  Apple Arcade
+> 7.  Apple News
+> 8.  Apple News+
+> 9.  Apple News Audio
+> 10. Apple TV+ **俄罗斯支持**
+> 11. Apple 钱包：Apple Card
+> 12. Apple Books
+> 13. App Store：大陆版 AppStore 有相当多 App 不提供订购与下载
+> 14. 指南针：经纬、海拔 **iOS 15.1正式版及其以后版本** 不仅是大陆版 iPhone 不能用，任何版本的 iPhone 任何国家的 sim 卡只要在中国大陆境内接入通讯基站，均不显示经纬度。[^14]
+> 15. 健康：下载健康记录到 iPhone
+> 16. 健康：与医疗服务提供者共享“健康”App 数据
+> 17. 健康：器官捐赠
+> 18. 健康：检验结果提要和置顶
+> 19. 健康：检验结果科普内容
+> 20. 健康：血糖提要
+> 21. iCloud：自定电子邮件域名 **俄罗斯支持**
+> 22. iCloud+：私密转送 **俄罗斯支持**
+> 23. iTunes Store：音乐 **俄罗斯支持**
+> 24. iTunes Store：电影 **俄罗斯支持**
+> 25. iTunes Store：电视节目
+> 26. 地图：苹果地图 中国有特供版 **俄罗斯支持**
+> 27. 地图：卫星图像 中国有特供版 **俄罗斯支持**
+> 28. 地图：详细的城市体验
+> 29. 地图：方向指引
+> 30. **地图：测速摄像头** 感谢 @paul 在评论里说已提供此功能，但查询官网页面内支持国家列表内并无中国。此项存疑 **俄罗斯支持**
+> 31. 地图：四处看看
+> 32. 地图：增强现实模式下的步行导航
+> 33. 地图：细化位置
+> 34. 地图：俯瞰
+> 35. Siri：电影
+> 36. Siri：视频
+> 37. Siri：电影放映时间
+> 38. 聚焦搜索建议
+> 39. 看图查询
+> 40. Emoji：部分 Emoji 在大陆版苹果设备无法显示。[^40]
+> 41. Walkie-Talkie (Apple Watch 对讲机)[^41]
+> 42. 品牌服务：全球紧急呼救电话
+> 43. 有声读物：有声读物
+> 44. 大陆版 Phone 全面屏机型在 iOS15 及以后版本开启专注模式时状态栏会有提示。非大陆版不显示。（未验证）[^44]
+> 45. Messages for Business 商务聊天 如果您在地图、Safari 或搜索中查找公司，只需点击消息图标即可发送文本。许多企业还允许您直接从他们自己的应用程序或网站开始对话。只有您可以开始对话。当您这样做时，公司无法看到您的姓名或电话号码等个人信息，除非您选择在约会或送货时共享这些信息。删除消息线程后，公司将无法再次与您联系，直到您开始另一个对话。[^45]
+
+[^z2]: 参考 iOS 和 iPadOS 功能可用性及网友提供信息 <https://www.apple.com.cn/ios/feature-availability/>
+[^z3]: 以下罗列之功能主要是指 iPhone & iPad &Apple Watch 等移动设备，Mac 系列可能稍有不同。
+
+[^14]: 据 [@JasonCai](https://www.zhihu.com/people/ce48983a6c29fe447e5fb45f2e6cb1cb) 提供资讯
+[^44]: 感谢 [@Raveniume.](https://www.zhihu.com/people/c044a8e147d7e0b6deee3f265818298c) 提供
+[^40]: 感谢 [@Cat Chen](https://www.zhihu.com/people/11c4242fd92613a7f85ad9fff60c29c9) 补充（包括ROC）问题
+[^41]: 感谢 [@无知使我快乐](https://www.zhihu.com/people/1192ddd385940c587792a3c819f69967) 补充
+[^45]: 感谢 [@Leiseya](https://www.zhihu.com/people/5d0dd5ae9e2cc58a6c1a9400e4e62c1b) 提供
+
 ## 2018年9月发布会
 
 2018年9月12日 的苹果发布会，展示了一张含有各个地区的图片随后引发了争议，[^ljbYl][^4569845] 但很快就消散了。
