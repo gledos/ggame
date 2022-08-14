@@ -54,3 +54,13 @@ html>div>img {
 .md-typeset ol ol ol {
     list-style-type: decimal;
 }
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    字体配置 */
+
+rtc,
+rt { font-size: 11px;
+    line-height: 11px
+};
