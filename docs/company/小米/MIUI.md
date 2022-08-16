@@ -2,7 +2,7 @@
 title: MIUI
 description: 小米公司的手机系统
 published: true
-date: "2022-07-12T11:56:37"
+date: "2022-08-16T16:36:04"
 tags:
 - operating-system
 editor: markdown
@@ -122,6 +122,10 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 ## 内置敏感词审查系统
 
+2021年9月，立陶宛的<ruby>国家网络安全中心<rp>(</rp><rt>Nacionalinis kibernetinio saugumo centras</rt><rp>)</rp></ruby>发现了小米手机含有敏感词审查系统：
+
+> [!quote]+ Lithuania says throw away Chinese phones due to censorship concerns
+>
 > Lithuania’s Defense Ministry recommended that consumers avoid buying Chinese mobile phones and advised people to throw away the ones they have now after a government report found the devices had built-in censorship capabilities.
 >
 > Flagship phones sold in Europe by China’s smartphone giant Xiaomi Corp have a built-in ability to detect and censor terms such as “Free Tibet”, “Long live Taiwan independence” or “democracy movement”, Lithuania’s state-run cybersecurity body said on Tuesday.
@@ -130,24 +134,38 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 >
 > The report said the list of terms which could be censored by the Xiaomi phone’s system apps, including the default internet browser, currently includes 449 terms in Chinese and is continuously updated.[^52439]
 
-[^52439]: [Lithuania says throw away Chinese phones due to censorship concerns - Reuters](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)
+[^52439]: Andrius Sytas, 《[Lithuania says throw away Chinese phones due to censorship concerns](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)》, Reuters, 2021-09-21. 参照: 2022-08-16. [Online].
 
 > [!example]+ 相关链接
-> + [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
-> + [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
+>
+> +   [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
+> +   [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
 
-## 自动添加 DNS
+## 没有内置国家监控中心app
+
+2022年1月 月初，因为当时发生了部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」，[^2298720242] 并且 MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈骗中心合作，[^114760] 导致网络上出现了 MIUI 13 内置了国家反诈骗中心的传言。
+
+[^2298720242]: 知乎用户2jT2Ug, 《[如何评价 MIUI 13 可能内置反诈系统，有什么影响？](https://web.archive.org/web/20220816085614/https://www.zhihu.com/question/509458835/answer/2298720242)》, 知乎, 2022-01-05. (参照 2022-08-16).
+
+[^114760]: IT之家, 《[小米 MIUI 13 全链路反诈功能与国家反诈中心合作，避免用户损失](https://web.archive.org/web/20220816085636/https://www.sohu.com/a/514045049_114760)》, 2022-01-03. (参照 2022-08-16).
+
+2022年1月6日，因为有人质疑 MIUI 内置国家反诈骗中心，所以 MIUI 官方帐号回复道：「MIUI13没有内置国家监控中心app，请勿传谣」。[^6lKCJ]
+
+[^6lKCJ]: 爱睡觉的乐乐, 《[听说miui13内置国家反诈骗中心app，看上去这是我最后一个小米手机了，而且还是永不升级 😂😂](https://archive.ph/6lKCJ "https://weibo.com/1229559082/L9vKRt6No")》, 新浪微博, 2022-01-05. (参照 2022-08-16).
+
+## 自动添加DNS
 
 2022年3月6日，MIUI 被发现以下代码，会根据系统地区自动添加 114 以及「互联网国家工程中心」或谷歌的 DNS。[^0166]:
 
 [^0166]: llccd @gNodeB, 《[小米手机设置不存在的 DNS 仍然可以解析域名](https://twitter.com/gNodeB/status/1500500166549327877)》, Twitter. (参照 2022-03-08).
 
-```JAVA
+```java
 String dns = System.isInCnRegion() ? "114.114.114.114" : "8.8.8.8";
 String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 ```
 
 由于该功能没有被公布，所以可能会造成 DNS 泄露，包括在使用 VPN 的时候。以及与其他手机出现网络上的差异。
 
-+ 相关条目
-    + [三星港版手机](/company/Samsung/HK_Phone.md)
+> [!example]+ 相关条目
+>
+> +   [三星港版手机](/company/Samsung/HK_Phone.md)
