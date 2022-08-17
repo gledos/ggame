@@ -18,21 +18,21 @@ dateCreated: "2021-01-14T10:53:04"
 
 ## 大量网络服务不同程度的封禁了特朗普或相关内容
 
-+ REDDIT
-+ TWITCH
-+ SHOPIFY
-+ GOOGLE
-+ YOUTUBE
-+ FACEBOOK
-+ INSTAGRAM
-+ SNAPCHAT
-+ TIKTOK
-+ APPLE
-+ DISCORD
-+ PINTEREST
-+ AMAZON AWS
-+ STRIPE
-+ OKTA
-+ TWILIO
++   REDDIT
++   TWITCH
++   SHOPIFY
++   GOOGLE
++   YOUTUBE
++   FACEBOOK
++   INSTAGRAM
++   SNAPCHAT
++   TIKTOK
++   APPLE
++   DISCORD
++   [PINTEREST](website/Pinterest.md)
++   AMAZON AWS
++   STRIPE
++   OKTA
++   TWILIO
 
 [All the platforms that have banned or restricted Trump so far - Axios](https://web.archive.org/web/20210113103440/https://www.axios.com/platforms-social-media-ban-restrict-trump-d9e44f3c-8366-4ba9-a8a1-7f3114f920f1.html)
