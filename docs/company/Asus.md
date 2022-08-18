@@ -6,7 +6,7 @@ date: "2020-12-30T10:02:29"
 tags:
 - hololive
 editor: markdown
-dateCreated: 2020-12-30T10:02:29"
+dateCreated: "2020-12-30T10:02:29"
 ---
 
 ## ROG玩家国度 × Hololive

@@ -6,7 +6,7 @@ date: "2020-11-17T03:02:58"
 tags:
 - gfw
 editor: markdown
-dateCreated: 2020-11-17T03:01:59"
+dateCreated: "2020-11-17T03:01:59"
 ---
 
 > 想要被不和谐，咱们用中文的就得先识大体，少在那里说到政治话题。

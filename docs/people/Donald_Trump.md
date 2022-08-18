@@ -29,7 +29,7 @@ dateCreated: "2021-01-14T10:53:04"
 +   TIKTOK
 +   APPLE
 +   DISCORD
-+   [PINTEREST](website/Pinterest.md)
++   [PINTEREST](/website/Pinterest.md)
 +   AMAZON AWS
 +   STRIPE
 +   OKTA
