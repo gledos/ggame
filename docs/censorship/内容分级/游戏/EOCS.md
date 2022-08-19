@@ -1,5 +1,5 @@
 ---
-title: EOCS
+title: 计算机软件伦理机构
 description:
 published: true
 date: "2022-08-19T17:20:14"
@@ -22,7 +22,7 @@ dateCreated: "2022-08-16T18:45:54"
 > 域名: www.sofurin.org
 > ```
 
-<ruby>计算机软件伦理机构<rp>(</rp><rt>Ethics Organization of Computer Software</rt><rp>)</rp></ruby> 是日本的电子游戏分级的组织，用来指导消费者购买适合自己年龄的游戏。
+<ruby>计算机软件伦理机构<rp>(</rp><rt>Ethics Organization of Computer Software</rt><rp>)</rp></ruby> 是日本的电子游戏分级的组织，用来指导消费者购买适合自己年龄的游戏。英文简称为 EOCS，汉字简称「软伦」。
 
 计算机软件伦理机构在 1992年10月27日 于日本正式设立，1992年11月20日 通过道德规范。
 
@@ -62,3 +62,8 @@ dateCreated: "2022-08-16T18:45:54"
 
 [EOCS_12]: https://s3.tebi.io/ggame/censorship/内容分级/游戏/EOCS/EOCS_12.svg
 [EOCS_15]: https://s3.tebi.io/ggame/censorship/内容分级/游戏/EOCS/EOCS_15.svg
+
+成人指定
+メディア倫理協会
+
+１００Ａ６０００

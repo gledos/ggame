@@ -1,5 +1,5 @@
 ---
-title: CERO
+title: 电脑娱乐分级机构
 description:
 published: true
 date: "2022-08-15T18:42:39"
@@ -21,11 +21,13 @@ dateCreated: "2022-08-14T07:28:10"
 > - 中文: 电脑娱乐分级机构
 > ```
 
-<ruby>电脑娱乐分级机构<rp>(</rp><rt>Computer Entertainment Rating Organization</rt><rp>)</rp></ruby> 是日本的电子游戏分级的组织，用来指导消费者购买适合自己年龄的游戏。
+<ruby>电脑娱乐分级机构<rp>(</rp><rt>Computer Entertainment Rating Organization</rt><rp>)</rp></ruby> 是日本的电子游戏分级的组织，用来指导消费者购买适合自己年龄的游戏。英文简称为 CERO。
 
 CERO 诞生于 2002 年，虽然该组织属于「特定非営利活動法人」（即<ruby>非营利性组织<rp>(</rp><rt>Nonprofit Organization</rt><rp>)</rp></ruby>），但其规则是强制性的，没有进行评级的商业游戏无法上架各大平台（同人游戏可以在部分渠道无需评级销售）。
 
-此评级系统的范围除了主机平台，还有除了色情类型的电脑游戏、手机游戏和云游戏。个人电脑的成人游戏（主要指色情游戏），是由 <ruby>EOCS<rp>(</rp><rt>计算机软件伦理机构</rt><rp>)</rp></ruby> 来审查。
+此评级系统的范围除了主机平台，还有除了色情类型的电脑游戏、手机游戏和云游戏。个人电脑的成人游戏（主要指色情游戏），是由 <ruby>[计算机软件伦理机构][]<rp>(</rp><rt>EOCS</rt><rp>)</rp></ruby> 来审查。
+
+[计算机软件伦理机构]: /censorship/内容分级/游戏/EOCS.md
 
 ## 分级标识
 
