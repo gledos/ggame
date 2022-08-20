@@ -268,6 +268,9 @@ plugins:
       "hardware/Smart_set-top_box.md": "rule/Smart_set-top_box.md"
       "hardware/Synology.md": "company/Synology.md"
       "hardware/WAPI.md": "technology/WAPI.md"
+      "censorship/内容分级/混合/内容软件协同组合.md": "censorship/内容分级/混合/内容软件协同组合.md"
+      "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
+      "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
 
 extra:
   generator: false

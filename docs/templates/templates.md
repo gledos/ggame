@@ -10,7 +10,7 @@ dateCreated: "{{date:YYYY-MM-DD}}T{{time:HH:mm:ss}}"
 
 ## 简介
 
-> [!summary inline end]+ {{title}}
+> [!summary inline end]+ 元数据
 >
 > ![标志]()
 >
