@@ -17,6 +17,8 @@ theme:
   favicon: favicon.png
   icon:
     logo: material/microsoft-xbox-controller-off
+    admonition:
+      quote: bootstrap/cblb
   font:
     text: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif"     # 跨平台中文字体解决方案 https://zenozeng.github.io/fonts.css/
     code: "Sarasa Fixed SC, Noto Sans Mono CJK SC"
@@ -82,6 +84,12 @@ markdown_extensions:
 - pymdownx.mark
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
+- pymdownx.emoji:         # 支持图标icons和表情渲染，比如:smile:
+    # emoji_index: !!python/name:materialx.emoji.twemoji
+    # emoji_generator: !!python/name:materialx.emoji.to_svg
+    options:
+      custom_icons:
+        - overrides/.icons
 # pymdownx.b64            # 将图片编码为 base64
 # - abbr                  # 缩写词，因为没有多少 Markdown 使用这样的语法，所以不会使用。
 # - nl2br                 # newline-to-break markdown 非严格换行，我不喜欢的插件
@@ -91,8 +99,6 @@ markdown_extensions:
 #     relative_path: ''   # default ''
 #     absolute: false     # default: false
 #     tags: 'a script img link object embed'
-# - pymdownx.emoji:       # 支持图标icons和表情渲染，比如:smile:
-# emoji_generator: !!python/name:pymdownx.emoji.to_png
 # - pymdownx.caret        # 上标、下划线
 # - pymdownx.smartsymbols # 1st 2en 以及特殊符号
 # - pymdownx.tilde        # 下标
@@ -111,94 +117,117 @@ plugins:
     - name: activities
       dirs:
       - activities
+      size: 50
       template: overrides/custom-blog.html
     - name: allowlist
       dirs:
       - allowlist
+      size: 50
       template: overrides/custom-blog.html
     - name: anti-censorship
       dirs:
       - anti-censorship
+      size: 50
       template: overrides/custom-blog.html
     - name: blocklist
       dirs:
       - blocklist
+      size: 50
       template: overrides/custom-blog.html
     - name: book
       dirs:
       - book
+      size: 50
       template: overrides/custom-blog.html
     - name: catch_the_wind
       dirs:
       - catch_the_wind
+      size: 50
       template: overrides/custom-blog.html
     - name: censorship
       dirs:
       - censorship
+      size: 50
       template: overrides/custom-blog.html
     - name: company
       dirs:
       - company
+      size: 50
       template: overrides/custom-blog.html
     - name: game
       dirs:
       - game
+      size: 50
       template: overrides/custom-blog.html
     - name: meme
       dirs:
       - meme
+      size: 50
       template: overrides/custom-blog.html
     - name: mkdocs
       dirs:
       - mkdocs
+      size: 50
       template: overrides/custom-blog.html
     - name: news_archive
       dirs:
       - news_archive
+      size: 50
       template: overrides/custom-blog.html
     - name: people
       dirs:
       - people
+      size: 50
       template: overrides/custom-blog.html
     - name: punish
       dirs:
       - punish
+      size: 50
       template: overrides/custom-blog.html
     - name: research
       dirs:
       - research
+      size: 50
       template: overrides/custom-blog.html
     - name: rule
       dirs:
       - rule
+      size: 50
       template: overrides/custom-blog.html
     - name: serviceprovider
       dirs:
       - serviceprovider
+      size: 50
       template: overrides/custom-blog.html
     - name: software
       dirs:
       - software
+      size: 50
       template: overrides/custom-blog.html
     - name: technology
       dirs:
       - technology
+      size: 50
       template: overrides/custom-blog.html
     - name: sound
       dirs:
       - sound
+      size: 50
       template: overrides/custom-blog.html
     - name: unclear
       dirs:
       - unclear
+      size: 50
       template: overrides/custom-blog.html
     - name: video
       dirs:
       - video
+      size: 50
       template: overrides/custom-blog.html
     - name: website
       dirs:
       - website
+      size: 50
       template: overrides/custom-blog.html
 # - progress              # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
@@ -240,6 +269,7 @@ plugins:
     - "*.tmp"
     - "*.gz"
     - "encryption/*"
+    - "liquid/*"
     # regex:
     # - '.*\.(tmp|bin|tar)$'
 - redirects:              # 重定向插件                https://github.com/datarobot/mkdocs-redirects
@@ -268,7 +298,6 @@ plugins:
       "hardware/Smart_set-top_box.md": "rule/Smart_set-top_box.md"
       "hardware/Synology.md": "company/Synology.md"
       "hardware/WAPI.md": "technology/WAPI.md"
-      "censorship/内容分级/混合/内容软件协同组合.md": "censorship/内容分级/混合/内容软件协同组合.md"
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
 
