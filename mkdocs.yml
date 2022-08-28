@@ -300,6 +300,8 @@ plugins:
       "hardware/WAPI.md": "technology/WAPI.md"
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
+      "website/新浪微博.md": "company/新浪/新浪微博.md"
+      "website/新浪博客.md": "company/新浪/新浪博客.md"
 
 extra:
   generator: false
