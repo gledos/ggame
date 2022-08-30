@@ -229,7 +229,7 @@ plugins:
       - website
       size: 50
       template: overrides/custom-blog.html
-# - progress              # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
+# - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
     is_video: True
     css_style:
