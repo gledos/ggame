@@ -24,7 +24,7 @@ dateCreated: "2021-04-19T15:20:55"
 >
 > 分级：[EOCS][] R18
 
-[^cover]: おののいもこ, 《[ドーナドーナ](https://www.pixiv.net/artworks/85980610)》, pixiv, 2020-11-29. (参照 2022-08-31).
+[^cover]: Fetton, 《[File:多娜多娜简中版LOGO.png](https://zh.moegirl.org.cn/File:多娜多娜简中版LOGO.png)》, 萌娘百科, 2021-03-31. (参照 2022-08-31).
 
 [EOCS]: /censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md
 
