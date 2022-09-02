@@ -28,9 +28,11 @@ vpixiv 是 AWM 个人开发的提供<ruby>P站<rp>(</rp><rt>pixiv</rt><rp>)</rp>
 
 ## 含有审查功能
 
-虽然是 pixiv 的镜像站，但 vpixiv 含有审查功能，不显示 R18 标签的内容，并且有关键词审查，根据 pixiv 用户的测试，使用了关于政治的敏感词之后，vpixiv 上面的对应的镜像页面就显示 404 Not Found 了。[^44866]
+虽然是 pixiv 的镜像站，但 vpixiv 含有审查功能，不显示 R18 标签的内容，并且有关键词审查，根据 pixiv 用户的测试，使用了关于政治的敏感词之后，vpixiv 上面的对应的镜像页面就显示 404 Not Found 了。[^44866] 根据作者的说法，屏蔽的是 R18 和高敏感度内容。[^1035233]
 
 [^44866]: 十夜@コンiぐだ100日チャレンジ中, 《[いぇーい！！](https://web.archive.org/web/20220901120608/https://twitter.com/touya_touya_00/status/1565204748382244866)》, Twitter, 2022-09-01. (参照 2022-09-01).
+
+[^1035233]: AWM, 《[想买个国内小鸡北岸反代pixiv](https://web.archive.org/web/20220902031806/https://hostloc.com/thread-1035233-1-1.html)》, 全球主机交流论坛, 2022-06-20. (参照 2022-09-02).
 
 > [!example]+ 相关链接
 >
