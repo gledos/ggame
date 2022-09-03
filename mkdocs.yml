@@ -104,6 +104,49 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+# - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
+- mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
+    is_video: True
+    css_style:
+      width: "100%"
+      height: "100%"
+# - minify:               # 将文件 minify 的插件   https://github.com/byrnereese/mkdocs-minify-plugin
+#     # minify_html: true # html 过多，导致生成时间变成了三倍……
+#     minify_js: true     # 只压缩 js 和 css 效果又不明显，所以不打算使用……
+#     minify_css: true
+#     htmlmin_opts:
+#       remove_comments: true
+#   #   js_files:
+#   #   - my/javascript/dir/file1.js
+#       css_files:
+#       - css/external_link_icon.css
+#       - css/footnotes.css
+#       - css/base.css
+#       - css/custom_admonitions.css
+# - search:
+#     separator: '[\s\u200b\-]'
+- exclude-search:
+    exclude:
+    - rule/*
+    - news_archive/*
+    - encryption/*
+- tags:
+    tags_file: tags.md
+- callouts                # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
+- abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
+# - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
+# - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
+# - autolinks
+- exclude:
+    glob:
+    - "src/_HD_/*"
+    - "mkdocs/本地/*"
+    - "*.tmp"
+    - "*.gz"
+    - "encryption/*"
+    - "liquid/*"
+    # regex:
+    # - '.*\.(tmp|bin|tar)$'
 - blogging:
     features:
       tags:
@@ -229,49 +272,6 @@ plugins:
       - website
       size: 50
       template: overrides/custom-blog.html
-# - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
-- mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
-    is_video: True
-    css_style:
-      width: "100%"
-      height: "100%"
-# - minify:               # 将文件 minify 的插件   https://github.com/byrnereese/mkdocs-minify-plugin
-#     # minify_html: true # html 过多，导致生成时间变成了三倍……
-#     minify_js: true     # 只压缩 js 和 css 效果又不明显，所以不打算使用……
-#     minify_css: true
-#     htmlmin_opts:
-#       remove_comments: true
-#   #   js_files:
-#   #   - my/javascript/dir/file1.js
-#       css_files:
-#       - css/external_link_icon.css
-#       - css/footnotes.css
-#       - css/base.css
-#       - css/custom_admonitions.css
-# - search:
-#     separator: '[\s\u200b\-]'
-- exclude-search:
-    exclude:
-    - rule/*
-    - news_archive/*
-    - encryption/*
-- tags:
-    tags_file: tags.md
-- callouts                # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
-- abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
-# - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
-# - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
-# - autolinks
-- exclude:
-    glob:
-    - "src/_HD_/*"
-    - "mkdocs/本地/*"
-    - "*.tmp"
-    - "*.gz"
-    - "encryption/*"
-    - "liquid/*"
-    # regex:
-    # - '.*\.(tmp|bin|tar)$'
 - redirects:              # 重定向插件                https://github.com/datarobot/mkdocs-redirects
     redirect_maps:
       "website/立场新闻.md": "company/立场新闻.md"
