@@ -10,15 +10,38 @@ dateCreated: "2021-08-14T23:43:59"
 
 ## 令状金丝雀
 
-令状金丝雀 ([Warrant Canary](https://en.wikipedia.org/wiki/Warrant_canary))
-
-该技术，或者说技巧是用来规避《[爱国者法案 (美国)](https://en.wikipedia.org/wiki/Patriot_Act)》禁止服务提供商声明自己收到了必须披露用户数据的行为。
+<ruby>令状金丝雀<rp>(</rp><rt>[Warrant Canary](https://en.wikipedia.org/wiki/Warrant_canary)</rt><rp>)</rp></ruby>技术，或者说技巧是用来规避《[爱国者法案（美国）](https://en.wikipedia.org/wiki/Patriot_Act)》禁止服务提供商声明自己收到了必须披露用户数据的行为。
 
 具体原理是公开一个声明，当收到法院的必须披露用户数据的行为时，就撤掉这个声明或者停止更新这个声明。
 
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2022年9月10日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年8月10日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Bradsher Keith, 《[中国富豪涌现出走潮：当企业家成为中国经济的局外人](https://cn.nytimes.com/business/20220909/soho-china-entrepreneurs/)》, 纽约时报中文网, 2022-09-09. (参照 2022-09-10).
++   尤嬿妮, 《[黃明志18禁暴走創作 還原「戴金鍊」驚人原因 - 娛樂](https://www.chinatimes.com/realtimenews/20220910001787-260404?chdtv)》, 中時新聞網, 2022-09-10. (参照 2022-09-10).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCYxweUQAKCRCZXo6bU2oX
+pOHCAQDqg93oNbsJpwAOylW5RFrRHOK0bl8c+EEPfiIF9IeqvAD8C1wInFWf42a/
+HBkJhulO3D/cr8OHTCuzGYbYO3c8ZAI=
+=oKcJ
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2022年8月10日
 
@@ -42,8 +65,6 @@ tOo3y/m8ek4E5AcCv+KFA9cKZWKjFAA=
 =FyBe
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年7月14日
 
