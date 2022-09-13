@@ -19,6 +19,8 @@ theme:
     logo: material/microsoft-xbox-controller-off
     admonition:
       quote: bootstrap/cblb
+    tag:
+      apple: material/apple
   font:
     text: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif"     # 跨平台中文字体解决方案 https://zenozeng.github.io/fonts.css/
     code: "Sarasa Fixed SC, Noto Sans Mono CJK SC"
@@ -132,6 +134,7 @@ plugins:
     - encryption/*
 - tags:
     tags_file: tags.md
+    apple: apple
 - callouts                # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
 - abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
 # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。

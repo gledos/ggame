@@ -50,7 +50,9 @@ dateCreated: "2022-08-31T15:16:29"
 >
 > 我们后续将继续推进与hololive达成更正式的协议，确保其旗下主播不再直播心动网络的任何游戏。
 
-但最后一段文字在发送后一段时间被修改，原文大概是「中止和hololive一切合作」。[^VrjAf] 然后一些玩家在想 Muse Dash 会不会移除<ruby>白上吹雪<rp>(</rp><rt>白上フブキ</rt><rp>)</rp></ruby>，另一些玩家希望心动网络将白上吹雪歌曲等内容移除，[^mdhcdc][^031244197] 但最后事情没有进一步发展，之后热度也降低了。
+但最后一段文字在发送后一段时间被修改，原文大概是「中止和hololive一切合作」。[^VrjAf] 然后一些玩家在想 Muse Dash 会不会移除<ruby>[白上吹雪][]<rp>(</rp><rt>白上フブキ</rt><rp>)</rp></ruby>，另一些玩家希望心动网络将白上吹雪歌曲等内容移除，[^mdhcdc][^031244197] 但最后事情没有进一步发展，之后热度也降低了。
+
+[白上吹雪]: /people/白上吹雪.md
 
 [^mdhcdc]: Wojtek_kun、Nipponhashi Vtuber Team, 《[Muse Dash backslashed because Akai Haato Streamed. Gawr Gura and Hachaama privated videos on Youtube. Muse Dash banned Hololive members streaming their games](https://web.archive.org/web/20210413193900/https://nipponhashi.com/muse-dash-hololive-china-drama-continue/)》, Nipponhashi, 2020-11-03. (参照 2022-08-31).
 
@@ -60,3 +62,16 @@ dateCreated: "2022-08-31T15:16:29"
 >
 > +   lingboy, 《[【問題】Hololive 旗下Vtuber 不能再直播Muse Dash @虛擬 Youtuber（Vtuber）](https://web.archive.org/web/20220831130044/https://forum.gamer.com.tw/C.php?bsn=60608&snA=1740)》, 巴哈姆特電玩資訊站, 2020-11-03. (参照 2022-08-31).
 > +   大摳, 《[赤井心實況《Muse Dash》小粉紅繼續亂燒，開發商兩邊不是人](https://web.archive.org/web/20220831123823/https://tw.news.yahoo.com/littlepinkdeadmom-031244197.html)》, Yahoo新闻, 2020-11-06. (参照 2022-08-31).
+
+Reddit 的讨论贴被管理员锁定，理由是：[^jn8uyl]
+
+[^jn8uyl]: Amarrez, 《[The company behind Muse Dash has banned Hololive from continuing to stream their game due to the current controversy with China, all previous streams have been privated (For example, Gura’s)](https://web.archive.org/web/20220718142132/https://www.reddit.com/r/Hololive/comments/jn8uyl/the_company_behind_muse_dash_has_banned_hololive/)》, r/Hololive, 2020-11-03. (参照 2022-09-12).
+
+> [!quote]+ hololive Mod
+>
+> I allowed this thread to remain so discussion -could- be civil, but I'm afraid I have to lock comments. This isn't about censorship -- it's about making sure the subreddit isn't used to fuel or spread anger, especially about politics, which we strive to stay away from as entertainers anyway.<br>
+> Let's try to just enjoy ourselves!
+>
+> (T-chan)
+
+即无关审查，而是想要避免愤怒，以及让政治远离 hololive。
