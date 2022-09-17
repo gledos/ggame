@@ -45,15 +45,15 @@ dateCreated: "2022-04-18T21:59:02"
 | 2022-08-02           | [QQ音乐](#QQ音乐)                       |
 | 2022-08-08           | [网易云音乐][]（独立条目）              |
 
-[知乎]: /website/知乎.md#展示账号IP归属地
-[百度贴吧]: /company/百度/贴吧.md#展示账号IP归属地
-[微信公众号]: /company/腾讯/微信公众号.md#展示账号IP归属地
-[新浪微博]: /company/新浪/新浪微博.md#展示账号IP归属地
-[哔哩哔哩]: /website/哔哩哔哩弹幕网.md#展示账号IP归属地
-[Keylol]: /website/Keylol.md#展示账号IP归属地
-[网易云音乐]: /company/网易/网易云音乐.md#展示账号IP归属地
+[知乎]: /website/知乎.md#展示账号ip归属地
+[百度贴吧]: /company/百度/贴吧.md#展示账号ip归属地
+[微信公众号]: /company/腾讯/微信公众号.md#展示账号ip归属地
+[新浪微博]: /company/新浪/新浪微博.md#展示账号ip归属地
+[哔哩哔哩]: /website/哔哩哔哩弹幕网.md#展示账号ip归属地
+[Keylol]: /website/Keylol.md#展示账号ip归属地
+[网易云音乐]: /company/网易/网易云音乐.md#展示账号ip归属地
 
-## 展示账号IP归属地的平台
+## 展示账号ip归属地的平台
 
 ### 抖音
 

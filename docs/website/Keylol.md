@@ -60,7 +60,7 @@ dateCreated: "2020-10-10T09:09:02"
 
 [^fbbvD]: [其乐社区现已正常重启，浏览和发帖前请看此贴，想知道的和所需要的都在这里](https://archive.is/fbbvD "https://keylol.com/t643467-1-1"), 其乐 Keylol. 备注：查看需要登陆
 
-## 展示账号IP归属地
+## 展示账号ip归属地
 
 > [!info]+ 此章节的主条目
 >
