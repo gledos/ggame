@@ -29,21 +29,11 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail][]，流媒体平台
 [Gmail]: /company/Google/Gmail.md
 [YouTube]: /company/Google/Youtube.md
 
-## 长沙杨飞的研究
+## 重定向
 
-2015年2月20日，长沙杨飞发布了文章《[深度分析|为什么我们不能访问谷歌？][]》，详细研究了大量的 Google 无法访问的原因。
+2010年3月23日，因为被网络攻击以及不断遭到审查的原因，Google 将 cn 域名跳转到了 com.hk 的 Google 香港，希望这样合法的操作能得到大陆政府的尊重。[^g100323]
 
-[深度分析|为什么我们不能访问谷歌？]: http://www.midphoto.com/chinese/whatsnew/2016/2.htm
-
-但此文存在一个小问题，其中引用了被认为是陈云说的话：
-
-> 在国民党统治时期，制定了一个新闻法，我们共产党人仔细研究它的字句，抓它的辫子，钻它的空子。现在我们当权，我看还是不要新闻法好，免得人家钻我们空子。没有法，我们主动，想怎样控制就怎样控制。
-
-但这句话找不到明确的出处，但也未被辟谣。
-
-备注：文章的最后，预告了第二片分析文章《为什么我们不能访问Facebook和Twitter》，但作者没有时间写，所以一直没有发布。[^03729]
-
-[^03729]: 杨飞, 「[后文一直没写，没时间。如果要写，大致会和谷歌那篇差不多。](https://web.archive.org/web/20220911143608/http://users.smartgb.com/g/g.php?a=s&i=g17-03729-65&m=all&p=1)」, 杨飞的留言板, 2020-04-07. (参照 2022-09-11).
+[^g100323]: 《[关于谷歌中国的最新声明](https://web.archive.org/web/20220726032957/https://www.google.com/press/new-approach-to-china/update.html)》, Google, 2010-03-23. (参照 2022-09-18).
 
 ## 敏感词提醒功能
 
@@ -61,3 +51,19 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail][]，流媒体平台
 [^gbdcgc_e]: percy, 《[Google Bows Down To Chinese Government On Censorship](https://web.archive.org/web/20130104112055/https://en.greatfire.org/blog/2013/jan/google-bows-down-chinese-government-censorship)》, GreatFire.org, 2013-01-04. (参照 2022-09-11).
 
 2012年12月5日 到 8日 期间，谷歌将此功能移除了，并且删除了相关的帮助文档。
+
+## 长沙杨飞的研究
+
+2015年2月20日，长沙杨飞发布了文章《[深度分析|为什么我们不能访问谷歌？][]》，详细研究了大量的 Google 无法访问的原因。
+
+[深度分析|为什么我们不能访问谷歌？]: http://www.midphoto.com/chinese/whatsnew/2016/2.htm
+
+但此文存在一个小问题，其中引用了被认为是陈云说的话：
+
+> 在国民党统治时期，制定了一个新闻法，我们共产党人仔细研究它的字句，抓它的辫子，钻它的空子。现在我们当权，我看还是不要新闻法好，免得人家钻我们空子。没有法，我们主动，想怎样控制就怎样控制。
+
+但这句话找不到明确的出处，但也未被辟谣。
+
+备注：文章的最后，预告了第二片分析文章《为什么我们不能访问Facebook和Twitter》，但作者没有时间写，所以一直没有发布。[^03729]
+
+[^03729]: 杨飞, 「[后文一直没写，没时间。如果要写，大致会和谷歌那篇差不多。](https://web.archive.org/web/20220911143608/http://users.smartgb.com/g/g.php?a=s&i=g17-03729-65&m=all&p=1)」, 杨飞的留言板, 2020-04-07. (参照 2022-09-11).
