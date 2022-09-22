@@ -100,12 +100,16 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 这些针对 Gitee Pages 的审查，能追溯到 2022年5月：
 
-> [!example]+
+> [!example]+ 一些关于 Gitee Pages 的审查情况
+>
+> 1.  《[搜索「违规」](https://web.archive.org/web/20220705073104/https://gitee.com/oschina/git-osc/issues?issue_search=违规)》, 2022-07-05. (参照 2022-07-05).
+> 2.  get2bad, 《[gitee pages审核总是违规，纯技术博客，有什么问题嘛？](https://web.archive.org/web/20220705075323/https://gitee.com/oschina/git-osc/issues/I4NL8O)》, 2021-12-22. (参照 2022-07-05).
+> 3.  oxygen, 《[README 违规，但没显示违规原因](https://web.archive.org/web/20220705075330/https://gitee.com/oschina/git-osc/issues/I57GY8)》, 2022-05-15. (参照 2022-07-05).
+> 4.  Chuanzhen He, 《[部署失败，无违规信息，却仍然显示部署失败？](https://web.archive.org/web/20220705072942/https://gitee.com/oschina/git-osc/issues/I5AFHO)》, 2022-06-01. (参照 2022-07-05).
+> 5.  xwxone, 《[可能包含违禁违规内容，请排查调整后再行重试](https://web.archive.org/web/20220705075130/https://gitee.com/oschina/git-osc/issues/I5AORE)》, 2022-06-04
+> 6.  大白鹅, 《[gitee page 部署失败，提示违规，不清楚哪里违规了](https://web.archive.org/web/20220705074958/https://gitee.com/oschina/git-osc/issues/I5B1KW)》, 2022-06-07. (参照 2022-07-05).
+> 7.   andy, 《[【gitee page 部署失败】可能包含违禁违规内容，请排查调整后再行重试。](https://web.archive.org/web/20220705072852/https://gitee.com/oschina/git-osc/issues/I5BI39)》, 2022-06-09. (参照 2022-07-05).
 
-1.  《[搜索「违规」](https://web.archive.org/web/20220705073104/https://gitee.com/oschina/git-osc/issues?issue_search=违规)》, 2022-07-05. (参照 2022-07-05).
-2.  get2bad, 《[gitee pages审核总是违规，纯技术博客，有什么问题嘛？](https://web.archive.org/web/20220705075323/https://gitee.com/oschina/git-osc/issues/I4NL8O)》, 2021-12-22. (参照 2022-07-05).
-3.  oxygen, 《[README 违规，但没显示违规原因](https://web.archive.org/web/20220705075330/https://gitee.com/oschina/git-osc/issues/I57GY8)》, 2022-05-15. (参照 2022-07-05).
-4.  Chuanzhen He, 《[部署失败，无违规信息，却仍然显示部署失败？](https://web.archive.org/web/20220705072942/https://gitee.com/oschina/git-osc/issues/I5AFHO)》, 2022-06-01. (参照 2022-07-05).
-5.  xwxone, 《[可能包含违禁违规内容，请排查调整后再行重试](https://web.archive.org/web/20220705075130/https://gitee.com/oschina/git-osc/issues/I5AORE)》, 2022-06-04
-6.  大白鹅, 《[gitee page 部署失败，提示违规，不清楚哪里违规了](https://web.archive.org/web/20220705074958/https://gitee.com/oschina/git-osc/issues/I5B1KW)》, 2022-06-07. (参照 2022-07-05).
-7.   andy, 《[【gitee page 部署失败】可能包含违禁违规内容，请排查调整后再行重试。](https://web.archive.org/web/20220705072852/https://gitee.com/oschina/git-osc/issues/I5BI39)》, 2022-06-09. (参照 2022-07-05).
+还有未知时间，遇到「左倾」「右倾」这样的关键词，就会直接封锁 Gitee Pages 功能。[^88259]
+
+[^88259]: JasonkayZK, 《[当年gitee pages的博客因为写了篇红黑树，里面带了“左倾”、“右倾”这两个字导致整个博客被封之后就再也没用过gitee了，哈哈😄](https://web.archive.org/web/20220519143836/https://twitter.com/Jasonkay_ZK/status/1527297310811488259)》, Twitter, 2022-05-19. (参照 2022-09-22).
