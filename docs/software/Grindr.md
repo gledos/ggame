@@ -3,7 +3,8 @@ title: Grindr
 description:
 published: true
 date: "2022-02-01T21:54:06"
-特殊标签标记: #无标签
+tags:
+- lgbt
 editor: markdown
 dateCreated: "2022-02-01T21:54:06"
 ---

@@ -2,7 +2,7 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: "2022-08-09T20:44:36"
+date: "2022-09-23T14:21:16"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-03-18T10:32:32"
@@ -24,17 +24,18 @@ dateCreated: "2021-03-18T10:32:32"
 
 | 板块     | 文件夹                  | 板块     | 文件夹               |
 | -------- | ----------------------- | -------- | -------------------- |
-| 活动     | [/activities][]         | 人物     | [/people][]          |
-| 允许列表 | [/allowlist][]          | 处罚     | [/punish][]          |
-| 反审查   | [/anti-censorship][/ac] | 研究     | [/research][]        |
-| 限制列表 | [/blocklist][]          | 规则     | [/rule][]            |
-| 书籍     | [/book][]               | 服务     | [/serviceprovider][] |
-| 捕风捉影 | [/catch_the_wind][]     | 软件     | [/software][]        |
-| 审查     | [/censorship][]         | 技术     | [/technology][]      |
-| 公司     | [/company][]            | 声音     | [/sound][]           |
+| 活动     | [/activities][]         | 处罚     | [/punish][]          |
+| 允许列表 | [/allowlist][]          | 研究     | [/research][]        |
+| 反审查   | [/anti-censorship][/ac] | 规则     | [/rule][]            |
+| 限制列表 | [/blocklist][]          | 服务     | [/serviceprovider][] |
+| 书籍     | [/book][]               | 软件     | [/software][]        |
+| 捕风捉影 | [/catch_the_wind][]     | 技术     | [/technology][]      |
+| 审查     | [/censorship][]         | 声音     | [/sound][]           |
+| 公司     | [/company][]            | 主题     | [/theme][]           |
 | 游戏     | [/game][]               | 尚不明确 | [/unclear][]         |
 | 梗       | [/meme][]               | 视频     | [/video][]           |
 | 新闻存档 | [/news_archive][]       | 网站     | [/website][]         |
+| 人物     | [/people][]             |          |                      |
 
 [/activities]: /activities/index.md
 [/allowlist]: /allowlist/index.md
@@ -53,8 +54,9 @@ dateCreated: "2021-03-18T10:32:32"
 [/rule]: /rule/index.md
 [/serviceprovider]: /serviceprovider/index.md
 [/software]: /software/index.md
-[/technology]: /technology/index.md
 [/sound]: /sound/index.md
+[/technology]: /technology/index.md
+[/theme]: /theme/index.md
 [/unclear]: /unclear/index.md
 [/video]: /video/index.md
 [/website]: /website/index.md

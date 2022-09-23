@@ -32,7 +32,8 @@ dateCreated: "2021-11-05T11:58:20"
 > 代表阿尔巴尼亚的歌手尤金·布希皮帕(Eugent Bushpepa)右臂的一个纹身被遮挡。画面中同台的鼓手也从颈部以下被模糊处理。[^20180514]
 
 > [!example]+ 相关链接
-> + [China cuts off tattoo, LGBT elements from Eurovision contest feed - Global Times](https://web.archive.org/web/20210909202556/https://www.globaltimes.cn/content/1101517.shtml)
-> + [彩虹旗被“打格” 芒果TV被禁转播欧洲歌唱大赛 - BBC News 中文](https://web.archive.org/web/20210226001533/https://www.bbc.com/zhongwen/simp/world-44084473)
-> + [欧洲歌唱大赛彩虹旗被“打格” 折射中国电视审查现状 - BBC News 中文](https://web.archive.org/web/20181226234832/https://www.bbc.com/zhongwen/simp/chinese-news-44098873)
-> + [China banned from broadcasting Eurovision after cutting same-sex dance and tattooed singer | Metro News](https://web.archive.org/web/20210518001533/https://metro.co.uk/2018/05/10/china-banned-from-broadcasting-eurovision-after-cutting-same-sex-dance-and-tattooed-singer-7536787/)
+>
+> +   [China cuts off tattoo, LGBT elements from Eurovision contest feed - Global Times](https://web.archive.org/web/20210909202556/https://www.globaltimes.cn/content/1101517.shtml)
+> +   [彩虹旗被“打格” 芒果TV被禁转播欧洲歌唱大赛 - BBC News 中文](https://web.archive.org/web/20210226001533/https://www.bbc.com/zhongwen/simp/world-44084473)
+> +   [欧洲歌唱大赛彩虹旗被“打格” 折射中国电视审查现状 - BBC News 中文](https://web.archive.org/web/20181226234832/https://www.bbc.com/zhongwen/simp/chinese-news-44098873)
+> +   [China banned from broadcasting Eurovision after cutting same-sex dance and tattooed singer | Metro News](https://web.archive.org/web/20210518001533/https://metro.co.uk/2018/05/10/china-banned-from-broadcasting-eurovision-after-cutting-same-sex-dance-and-tattooed-singer-7536787/)

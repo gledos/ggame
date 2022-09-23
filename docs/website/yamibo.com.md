@@ -4,15 +4,15 @@ description: 专注于百合题材的ACGN的网站
 published: true
 date: "2020-12-07T14:32:37"
 tags:
-- 微信公众号
 - lgbt
+- 微信公众号
 editor: markdown
 dateCreated: "2020-12-07T14:17:57"
 ---
 
 ## 简介
 
-专注于百合题材的ACGN的网站。
+专注于百合题材的小说网站。
 
 ## 公众号无理由停更
 
