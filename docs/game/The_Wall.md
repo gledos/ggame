@@ -17,7 +17,7 @@ dateCreated: "2021-01-05T08:00:21"
 
 `2017-07-19 13:35:46` **奶牛关提问** [如何看待国产独立游戏《墙（THE WALL）》在国区悄然下架？](https://web.archive.org/web/20200419061706/https://cowlevel.net/question/1912997/answer/2198681)
 
-《墙（THE WALL）》的作者玫瑰狗说 [我被相关部门批评教育了。我人没事。大家不用担心。
+《墙（THE WALL）》的作者玫瑰狗说：「被相关部门批评教育了。我人没事。大家不用担心。」
 
 `2017-07-19` **讨论** [[爆卦] Steam遊戲《牆》在中國被封鎖並鎖區](https://archive.is/WalTd "http://disp.cc/b/163-a9eH")
 
