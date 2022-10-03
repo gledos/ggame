@@ -2,7 +2,7 @@
 title: Google
 description:
 published: true
-date: "2022-09-11T21:40:29"
+date: "2022-10-03T14:16:55"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-09-11T21:40:29"
@@ -62,8 +62,38 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail][]，流媒体平台
 
 > 在国民党统治时期，制定了一个新闻法，我们共产党人仔细研究它的字句，抓它的辫子，钻它的空子。现在我们当权，我看还是不要新闻法好，免得人家钻我们空子。没有法，我们主动，想怎样控制就怎样控制。
 
-但这句话找不到明确的出处，但也未被辟谣。
+这句话找不到明确的出处，但也未被辟谣。
 
 备注：文章的最后，预告了第二片分析文章《为什么我们不能访问Facebook和Twitter》，但作者没有时间写，所以一直没有发布。[^03729]
 
 [^03729]: 杨飞, 「[后文一直没写，没时间。如果要写，大致会和谷歌那篇差不多。](https://web.archive.org/web/20220911143608/http://users.smartgb.com/g/g.php?a=s&i=g17-03729-65&m=all&p=1)」, 杨飞的留言板, 2020-04-07. (参照 2022-09-11).
+
+## 2022年大规模封锁
+
+2022年9月22日，`google.com` 和 `*.google.com` 域名被加入到 GFW 的 SNI 黑名单中，2022年9月30日 上述域名遭到了 DNS 污染。[^nb128] 受到影响的服务包括但不限于：
+
+[^nb128]: gfw-report, 《[The Great Firewall of China has blocked google.com and all its subdomains](https://web.archive.org/web/20221002155034/https://github.com/net4people/bbs/issues/128)》, GitHub Issue/net4people/bbs#128, 2022-10-01. (参照 2022-10-03).
+
++   Google FCM：`mtalk.google.com`
++   Google 软件下载以及更新：`dl.google.com`，主要影响：
+    +   Google Chrome
+    +   Android Studio
++   `ocsp.pki.goog` 和 `crls.pki.goog` 的 CNAME 指向 `*.google.com`，导致 Google Trust Services 签发的证书 OCSP 和 CRL 不可用。
+
+2022年9月29日，[Google 翻译](/company/Google/Google翻译.md) 在大陆部分地区被谷歌关闭，随后 Google 表示由于使用率低，所以停止了大陆的 Google 翻译。[^3c9Ht] 据 Telegram「呐!cn 频道」的消息：「据内部人士透露, 由于大会临近, 上级部门要求 Google 中国区部分业务下线整改, 恢复时间未知」「据 Google 中国区消费者业务部门内部人士透露, Google 中国区部分业务因为备案合规性问题下线整改」。[^tgn]
+
+[^3c9Ht]: Kyle Wiggers, 《[Google appears to have disabled Google Translate in parts of China](https://archive.ph/3c9Ht "https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/")》, TechCrunch, 2022-09-30. (参照 2022-10-03).
+
+[^tgn]: 呐!cn 频道, 「[据内部人士透露, 由于大会临近, 上级部门要求 Google 中国区部分业务下线整改, 恢复时间未知](https://web.archive.org/web/20221003034851/https://t.me/s/Na_cn/938)」, Telegram, 2022-09-30. (参照 2022-10-03).
+
+2022年9月30日，Google Analytics 的域名 `www.googletagmanager.com` 遭到了 DNS 污染，[^17345]
+
+[^17345]: William Long, 「[谷歌分析（Google Analytics）的服务器被中国封了。](https://web.archive.org/web/20220930093116/https://twitter.com/williamlong/status/1575755252137017345)」, Twitter, 2022-09-30. (参照 2022-10-03).
+
+2022年10月2日，Google 部分服务的域名被解除了网络封锁，具体来说恢复的有 `dl.google.com`, `www.googletagmanager.com`, `tools.google.com`, `fonts.gstatic.com` 和 `google.com`（仅解除 DNS 污染），尚未恢复的有 `google.com.*`, `dl-ssl.google.com` 和 `translate.googleapis.com`。[^35392][^1080360][^884153]
+
+[^35392]: William Long, 「[10月2日再次进行域名检测，发现谷歌分析的域名已经处于未被污染的状态，谷歌分析（Google Analytics）统计代码也恢复正常可以访问，因此判断之前的操作应该是误封。](https://web.archive.org/web/20220930093116/https://twitter.com/williamlong/status/1575755252137017345)」, Twitter, 2022-10-02. (参照 2022-10-03).
+
+[^1080360]: hellochrome, 《[[更新：部分污染已解除] dl.google.com 等域名被污染](https://web.archive.org/web/20221003041210/https://hostloc.com/thread-1080360-1-1.html)》, 全球主机交流论坛, 2022-09-30. (参照 2022-10-03).
+
+[^884153]: 872517414, 《[google.com 已被 DNS 污染](https://web.archive.org/web/20221001013459/https://www.v2ex.com/t/884153)》, V2EX/水深火热, 2022-09-30. (参照 2022-10-03).
