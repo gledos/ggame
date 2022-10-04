@@ -36,7 +36,7 @@ dateCreated: "2022-07-24T14:42:51"
 
 原定于 2022年7月17日 的 Comic Dawn 漫展，被取消，但取消时间尚不明确。
 
-> [!example]+ 相关资料
+> [!abstract]+ 相关资料
 >
 > 1.  等着Monika出来的我, 《[关于最近南京夏日祭临时取消这件事的看法](https://archive.ph/YpFEB "https://www.bilibili.com/read/cv17617627/")》, 哔哩哔哩, 2022-07-17. (参照 2022-07-24).
 > 2.  空格恐惧, 《[关于b站夏日祭一事的侦察](https://web.archive.org/web/20220724075921/https://zhuanlan.zhihu.com/p/542594104)》, 知乎专栏, 2022-07-17. (参照 2022-07-24).

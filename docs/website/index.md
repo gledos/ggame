@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 website 即网站，一些网站相关的内容会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content website }}

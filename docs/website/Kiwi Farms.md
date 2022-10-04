@@ -17,7 +17,7 @@ dateCreated: "2021-07-16T15:45:47"
 
 由于 2021年6月末 ，知名开发者因 Kiwi Farms 的霸凌而自杀，所以原本 kiwifarms.net 的域名注册商 Dreamhost 将停止对 kiwifarms.net 的支持服务，只给了 14 天让 Kiwi Farms 的控制者转移域名到其他的域名注册商。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [Hector Martin on Twitter: "I have spoken to the police department in charge of the investigation, and they have confirmed that Near passed away yesterday, June 27th 2021. In respect of their privacy, I will not be seeking out any further information. Please don't ask."](https://web.archive.org/web/20210701083153/https://twitter.com/marcan42/status/1409494303244656644)
 > +   [Dreamhost is terminating my account. - Kiwi Farms](https://web.archive.org/web/20210713110809/https://kiwifarms.net/threads/dreamhost-is-terminating-my-account.94840/#post-9420467)

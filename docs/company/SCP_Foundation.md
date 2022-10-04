@@ -10,7 +10,7 @@ dateCreated: "2021-05-01T15:38:17"
 
 ## 大清洗
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [北京市文化市场综合执法总队开展“儿童邪典”视频专项查处和治理工作见成效 - 北京市文化市场综合执法总队](https://archive.is/z7zKL "http://whsczfzd.beijing.gov.cn/bjwhzf/dtxx/202104/2fa9bccb4d6b4be09ce659a4ec90f712.shtml")
 > +   [关于新增迭代页（offset）及内容方面限制的说明 - SCP基金会](https://web.archive.org/web/20210409123402/http://scp-wiki-cn.wikidot.com/statement-on-disabling-offset)

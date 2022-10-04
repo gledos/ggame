@@ -56,7 +56,7 @@ dateCreated: "2021-12-01T11:08:59"
 
 [^x1HWpPOsMX]: [Paper Boats on Twitter: "@Tom_Fowdy announced in Weibo he has been permanently banned from @cgtnofficial, no metion in his Twitter feed though. https://t.co/6RBZ9s6USP https://t.co/x1HWpPOsMX" / Twitter](https://web.archive.org/web/20211201050949/https://twitter.com/time_137/status/1465218447957106691)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > + [Tom Fowdy has been banned from writing from CGTN for writing on RT "Why China is losing the war of words with the West" : China](https://web.archive.org/web/20211201035220/https://old.reddit.com/r/China/comments/r58896/tom_fowdy_has_been_banned_from_writing_from_cgtn/)
 > + [英国洋五毛Tom Fowdy因在俄爹外宣RT撰文批评中共外宣“在彭帅事件中节节败退”被CGTN封杀 - 新·品葱](https://web.archive.org/web/20211201043124/https://pincong.rocks/article/37198)

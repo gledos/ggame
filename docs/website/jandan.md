@@ -49,7 +49,7 @@ dateCreated: "2021-07-13T16:36:24"
 >
 > 具体的处罚要周一才知道，希望到时候我还能有时间给大家说明。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [煎蛋面临整站关停](https://web.archive.org/web/20181219192952/https://www.solidot.org/story?sid=57197), Solidot
 

@@ -25,7 +25,7 @@ dateCreated: "2021-08-10T17:34:06"
 
 [哔哩哔哩弹幕网]: /website/哔哩哔哩弹幕网.md
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [为什么这游戏B站找都找不到，以前还经常看的](https://web.archive.org/web/20210810064347/https://tieba.baidu.com/p/6156920246), 百度贴吧/kindergarten吧, 2019-06-08.
 > +   [为什么B站看不到这个游戏了](https://web.archive.org/web/20210810064420/https://tieba.baidu.com/p/6234129295), 百度贴吧/kindergarten吧, 2019-08-23.

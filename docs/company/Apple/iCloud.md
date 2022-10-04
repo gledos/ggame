@@ -20,7 +20,7 @@ Private Relay 是一个轻量级的 VPN 式服务，仅限于 iCloud Plus 会员
 
 大陆、白俄罗斯、哥伦比亚、埃及、哈萨克斯坦、沙特、南非、土库曼斯坦、乌干达和菲律宾不可使用 private relay 功能。
 
-> [!example]+ 相关资料
+> [!abstract]+ 相关资料
 >
 > +   [苹果的新隐私保护功能因监管原因在中国不可用](https://web.archive.org/web/20210609071732/https://www.solidot.org/story?sid=67988), 奇客Solidot.
 > +   [苹果的隐私保护新功能因监管原因在中国将不可用](https://web.archive.org/web/20210609080258if_/https://cn.reuters.com/article/idCNKCS2DK07J), Reuters.

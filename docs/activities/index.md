@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 Activities 即运动、活动，这里会收录相关的条目。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content activities }}

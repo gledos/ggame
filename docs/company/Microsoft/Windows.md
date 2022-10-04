@@ -22,5 +22,5 @@ dateCreated: "2021-10-08T22:25:51"
 
 [^806309]: [Windows 用来检测网络连通性的 IP 似乎被劫持了 - V2EX](https://web.archive.org/web/20211008141151/https://v2ex.com/t/806309)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [【建议收藏】最近频繁出现的Win10/11 网络断连，无网络原因及解决方法 - 哔哩哔哩](https://archive.is/pqqfy "https://www.bilibili.com/video/BV1v44y1x7zM")

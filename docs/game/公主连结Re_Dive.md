@@ -104,7 +104,7 @@ dateCreated: "2021-10-14T16:39:38"
 
 目前尚不清楚游戏更新后是否会实装这些改变
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [说好的小姐呢？ - 果厨果厨果的动态-哔哩哔哩](https://archive.is/vJqkX "https://t.bilibili.com/581324497824143217")
 > + [你们要的加布料，佩可（立绘）只是第一个 - 果厨果厨果的动态-哔哩哔哩](https://archive.is/68KWi "https://t.bilibili.com/581362830407448442")
 
@@ -112,7 +112,7 @@ dateCreated: "2021-10-14T16:39:38"
 
 解包内容确认已实装。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [真变成品级了啊。。【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123529/https://tieba.baidu.com/p/7575426112)
 > + [【图片】改动后的pcr【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123409/https://tieba.baidu.com/p/7575445029)
 > + [【图片】改了，但没完全改【公主连结吧】 - 百度贴吧](https://web.archive.org/web/20211014123415/https://tieba.baidu.com/p/7575544907)

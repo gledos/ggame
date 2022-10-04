@@ -47,7 +47,7 @@ Pan Piano 是由 YouTuber 小p经营的频道。小p是钢琴家与 Cosplayer，
 
 相册虽然还在，但都禁止评论。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [青眼白龙好吃\(-ㅂ-)/ panpiano](https://archive.vn/Wtjsp "https://h.bilibili.com/81458699"), 哔哩哔哩相簿.
 > +   [【贺】小p的十万奖牌到家了!!!!好感动~~ 感谢所有的小伙伴们(｡>▽<｡)♡ panpiano](https://archive.vn/0WGzx "https://h.bilibili.com/21546631"), 哔哩哔哩相簿.

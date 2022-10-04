@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 research 即研究，一些审查相关的研究，会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content research }}

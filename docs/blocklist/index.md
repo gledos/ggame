@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 blocklist 即禁止名单、黑名单，一些禁止清单会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content blocklist }}

@@ -13,7 +13,7 @@ dateCreated: "2021-01-19T15:22:09"
 
 与持不同政见者合作的节目，在一天左右全网下架。下架时还没有造成不良影响，被一些人形容成膝盖很软。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > + [Uncle Roger「罗杰叔叔」為了討好牆內的中國觀眾，反被牆外的粉絲憤怒抵制？《 YouTube 觀察日記 》EP038 志祺七七 - YouTube](https://archive.is/7lQVS)
 > + [炎上事件簿 - 【不敵人民幣壓力 羅傑叔叔向小粉紅道歉】 先前曾經吐槽BBC蛋炒飯的Uncle... - Facebook](https://archive.is/woNzU "https://archive.is/woNzU")

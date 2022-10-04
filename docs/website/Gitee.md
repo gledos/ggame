@@ -100,7 +100,7 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 这些针对 Gitee Pages 的审查，能追溯到 2022年5月：
 
-> [!example]+ 一些关于 Gitee Pages 的审查情况
+> [!abstract]+ 一些关于 Gitee Pages 的审查情况
 >
 > 1.  《[搜索「违规」](https://web.archive.org/web/20220705073104/https://gitee.com/oschina/git-osc/issues?issue_search=违规)》, 2022-07-05. (参照 2022-07-05).
 > 2.  get2bad, 《[gitee pages审核总是违规，纯技术博客，有什么问题嘛？](https://web.archive.org/web/20220705075323/https://gitee.com/oschina/git-osc/issues/I4NL8O)》, 2021-12-22. (参照 2022-07-05).

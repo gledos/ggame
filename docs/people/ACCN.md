@@ -644,7 +644,7 @@ dateCreated: "2021-11-02T10:00:55"
 +   弈剑行
 +   通感纪元
 
-> [!example]+ ACCN 相关链接
+> [!abstract]+ ACCN 相关链接
 >
 > +   [[爆卦] 中國手遊倒閉控訴：台灣省的駭客勒索我 - Gossiping板 - Disp BBS](https://disp.cc/b/163-dW1O)
 > +   [【問題】台灣ACCN黑客組織ddos攻擊中國手遊 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20211101161055/https://forum.gamer.com.tw/C.php?bsn=60076&snA=6520540)

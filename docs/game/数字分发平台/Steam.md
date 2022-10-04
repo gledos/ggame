@@ -38,7 +38,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 ## Steam 大陆区个人主页会因违规好友连坐
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [好友头像“违规”，steam连坐其他用户，删除“违规好友”才可恢复账户。 サクラバ氏ギャラリー on Twitter](https://archive.is/qe2Xe "https://twitter.com/SakurabaMay/status/1229632986234011648")
 > +   [好友头像“违规”，steam连坐其他用户，删除“违规好友”才可恢复账户。 daniel on Twitter](https://archive.is/oTESb "https://twitter.com/DanielDanielabc/status/1229827961416605696")
@@ -48,7 +48,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 2020年8月，有一位使用简体中文的俄罗斯区 Steam 用户向客服举报了一款游戏，然后客服将该 Steam 用户转到了没有上架这款游戏的大陆区。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [【情報】中國玩家檢舉台灣遊戲辱華…反遭Steam「送中」笑翻網 @場外休憩區 哈啦板 - 巴哈姆特](https://web.archive.org/web/20210609075244/https://forum.gamer.com.tw/C.php?bsn=60076&snA=5854690)
 > +   [中國玩家檢舉台灣遊戲辱華…反遭Steam「送中」笑翻網 - 三立新聞網 SETN.COM](https://web.archive.org/web/20210609075240/https://www.setn.com/News.aspx?NewsID=794782)
@@ -57,7 +57,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 2021年6月27日，Steam 将一些阿根廷、俄罗斯区的玩家遣返到初始地区。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [【悲报】阿根廷账户被遣返回国，云阿区人注意 - 其乐 Keylol](https://archive.is/mwocj "https://keylol.com/t727233-1-1")
 > +   [就在刚刚 STEAM强制把阿根廷区转国区【steam吧】 - 百度贴吧](https://web.archive.org/web/20210627034813/https://tieba.baidu.com/p/7424355145)
@@ -86,7 +86,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 [^s13r]: [Valve 禁止区块链游戏和 NFT - 奇客Solidot](https://web.archive.org/web/20211016093336/https://www.solidot.org/story?sid=69261)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [Steam bans games that allow cryptocurrency and NFT trading - Engadget](https://web.archive.org/web/20211016010537/https://www.engadget.com/steam-ban-cryptocurrency-nft-trading-blockchain-valve-165038811.html)
 > +   [Valve bans blockchain games and NFTs on Steam, Epic will try to make it work - The Verge](https://web.archive.org/web/20211016010534/https://www.theverge.com/2021/10/15/22728425/valve-steam-blockchain-nft-crypto-ban-games-age-of-rust)

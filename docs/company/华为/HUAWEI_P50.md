@@ -18,6 +18,6 @@ dateCreated: "2021-08-15T10:59:37"
 
 [^223bl]: [「第二集：两层cpu变三层」把华为p50pro的堆积叠层cpu怼到meta40pro上面去成功啦 - 哔哩哔哩](https://archive.is/H0xKq "https://www.bilibili.com/video/BV1e3411z7bV/")
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [粉丝说修好这个手机，给介绍一个女朋友，结果。。。 - 哔哩哔哩](https://archive.is/3rsDU "https://www.bilibili.com/video/BV19A411P72M")
 > + [看抖音华为P50拆解，我感觉华为太难了。买高通原来是为了cpu运行内存，技术流高手还在研究P50 改5G 已经改一半了，不知道会不会成功。。 NGA玩家社区](https://archive.is/Z2v0z "https://nga.178.com/read.php?tid=28037831")

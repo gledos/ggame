@@ -67,7 +67,7 @@ dateCreated: "2021-10-20T15:57:01"
 >
 > 经检索，我部未制作、未获取您申请公开的信息，该政府信息不存在。根据《中华人民共和国政府信息公开条例》第三十六条第（四）项规定，现予告知。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [据大陆网爆料，被KTV徐志安和蔡依林封杀的47人有份？](https://web.archive.org/web/20211020073605/https://remonews.com/hongkong/据大陆网爆料，被ktv徐志安和蔡依林封杀的47人有份/)
 > + [套的歌不下架，下架堍的歌，真让人无语](https://web.archive.org/web/20211020082053/https://www.douban.com/group/topic/250100677/)
 > + [台媒:陆疯传「KTV封杀艺人名单」 大咖歌手上榜 -6park.com](https://web.archive.org/web/20211020073646/https://www.6parknews.com/newspark/view.php?app=news&act=view&nid=512422)

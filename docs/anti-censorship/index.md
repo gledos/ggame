@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 anti-censorship 即反审查，一些破除网络审查的工具就会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content anti-censorship }}

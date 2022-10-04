@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 meme 即模因（梗），一些模因（梗）会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content meme }}

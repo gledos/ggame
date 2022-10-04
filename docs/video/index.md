@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 video 即视频，一些视频相关的内容会被收录到此版块（文件夹），比如动画、电影等内容。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content video }}

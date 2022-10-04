@@ -34,7 +34,7 @@ vpixiv 是 AWM 个人开发的提供<ruby>P站<rp>(</rp><rt>pixiv</rt><rp>)</rp>
 
 [^1035233]: AWM, 《[想买个国内小鸡北岸反代pixiv](https://web.archive.org/web/20220902031806/https://hostloc.com/thread-1035233-1-1.html)》, 全球主机交流论坛, 2022-06-20. (参照 2022-09-02).
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   AWM, 《[vpixiv网站更新，添加后端springboot工程](https://web.archive.org/web/20220901113127/https://hostloc.com/thread-1039411-1-1.html)》, 全球主机交流论坛, 2022-06-29. (参照 2022-09-01).
 > +   餅乾, 《[中國盜版pixiv「vpixiv」惹怒繪師，不過寫上禁字就能成功防盜💥](https://web.archive.org/web/20220901110422/https://www.4gamers.com.tw/news/detail/54884/vpixiv-disputation-)》, 4Gamers 官方網站, 2022-09-01. (参照 2022-09-01).

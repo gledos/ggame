@@ -42,7 +42,7 @@ dateCreated: "2021-09-28T23:09:13"
 
 最后，ESL 官方人员让 Sad Story 战队参加中国封闭预选赛 (Minor China Closed Qualifier)，以示歉意。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > 1.  max90283 (麥克斯), 《[[閒聊] 台灣CSGO隊伍SadStory遭取消資格](https://web.archive.org/web/20220731021856/https://www.ptt.cc/bbs/Steam/M.1541501849.A.97B.html)》, Ptt 批踢踢實業坊, 2018-11-06. (参照 2022-08-01).
 > 2.  楊綿傑 和 呂伊萱, 《[台灣電競隊大勝 未報中國賽區判失格 - 政治](https://web.archive.org/web/20181116083703/http://news.ltn.com.tw/news/politics/paper/1245280)》, 自由時報電子報, 2018-11-08. (参照 2022-08-01).

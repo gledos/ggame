@@ -116,7 +116,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 + 
 -->
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
 > +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
@@ -162,7 +162,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 > +   [V2EX › gledos](https://web.archive.org/web/20210423092142/https://www.v2ex.com/member/gledos)
 > +   [V2EX › gledos](https://archive.is/zFKCG)
 
-> [!example]+ 相关讨论
+> [!abstract]+ 相关讨论
 >
 > 大多数在 V2EX 的被封锁讨论都已经转入了隐藏节点「水深火热」或者直接标记为需要登录查看。
 >
@@ -179,7 +179,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 [^21v2_769]: 需登录 [为啥这个帖子会重定向到 v 站首页？ - V2EX](https://v2ex.com/t/769231)
 
-> [!example]+ 直接证据
+> [!abstract]+ 直接证据
 >
 > +   [www.v2ex.com GET测试结果 网站速度测试](https://archive.is/TYkOv "http://www.17ce.com/site/http/20210423_db4ddc00a3f511eb947f5743479ea7f2:1.html"), 17CE, 2021-04-23.
 > +   月光博客, 「[国内知名开发社区v2ex域名解析疑似被DNS污染，目前已经无法从国内访问，国内解析其域名会被解析到错误的IP地址。…](https://web.archive.org/web/20210423080429/https://twitter.com/williamlong/status/1381868729051451397)」, Twitter.

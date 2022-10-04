@@ -36,7 +36,7 @@ dateCreated: "2021-11-11T20:40:21"
 
 [^sguf]: [Sex Game Uses Far-Right YouTuber For Promo, Claims To Be "Unaware" Of His "Polarizing Background"](https://web.archive.org/web/20210127180522/https://kotaku.com/sex-game-uses-far-right-youtuber-for-promo-claims-to-b-1845780629)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [Why are FOW Interactive associating themselves with a known racist like Arch? : subverse](https://old.reddit.com/r/subverse/comments/k2uji2/why_are_fow_interactive_associating_themselves/)
 > + [Subverse developer under fire for partnering with YouTuber Arch - GamesIndustry.biz](https://www.gamesindustry.biz/articles/2020-12-01-subverse-developer-under-fire-for-partnering-with-youtuber-arch)
 > + [【新闻】马头社studiofow最近居然卷入了政治正确风波_游戏综合 - 游民星空](https://web.archive.org/web/20211111144649/https://club.gamersky.com/activity/443436)

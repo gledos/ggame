@@ -28,7 +28,7 @@ dateCreated: "2022-07-07T16:52:07"
     +   [又不辱華了！《聖騎士之戰：奮戰》刪除台灣為國家描述、西藏當然也不見了 - NOW電玩](https://archive.is/3JxfI "https://game.nownews.com/news/20210622/3297099/")
     +   [[閒聊] 又不辱華了！《聖騎士之戰：奮戰》刪除台灣為國家描述、西藏當然也不見了](https://web.archive.org/web/20210625075652/https://disp.cc/amp/21-dJBS), Disp BBS.
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [[新聞] 格鬥遊戲也能辱華！？《聖騎士之戰：奮戰》世界觀描述台灣為國家惹議](https://web.archive.org/web/20210625071920if_/https://www.pttweb.cc/bbs/C_Chat/M.1623570416.A.3C1), PTT網頁版.
 > +   [格鬥遊戲也能辱華！？《聖騎士之戰：奮戰》世界觀描述台灣為國家惹議](https://archive.is/mxT00 "https://game.nownews.com/news/20210613/3296563/"), NOW電玩.

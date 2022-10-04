@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 catch the wind 即捕风捉影，一些捕风捉影的事件会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content catch_the_wind }}

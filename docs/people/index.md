@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 people 即人物，一些人物、昵称或者一些组织。会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content people }}

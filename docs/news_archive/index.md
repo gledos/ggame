@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 news_archive 即新闻存档，正如其名，用来存档新闻，主要收集「游戏有害论」「批判游戏」之类的新闻到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content news_archive }}

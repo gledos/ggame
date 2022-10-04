@@ -19,5 +19,5 @@ dateCreated: "2021-07-16T16:15:29"
 
 随后的某个时间，回形针PAPERCLIP 在哔哩哔哩的视频彻底无法观看了。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [【立此存照】回形针、大象公会的微博、微信等多个平台账号被封禁 - 中国数字时代](https://web.archive.org/web/20210714175749/https://chinadigitaltimes.net/chinese/668234.html)

@@ -15,7 +15,7 @@ dateCreated: "2020-12-13T22:17:28"
 
 [^20201128121534]: [2020答案年终秀：我们的新使命 - 观视频工作室 - 哔哩哔哩直播](https://web.archive.org/web/20201128121534/https://live.bilibili.com/1889966)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > + 无法评论的微博 [这是我应新财富之约稿而作，写RCEP的文章... 来自翟东升 - 微博](https://archive.is/x5YTb "https://weibo.com/7452092375/JxtCn8RUS")
 > + 无法评论的哔哩哔哩系列视频 [中国房价是怎么涨起来的？这要从40年前学习香港说起【答案年终秀】 - 哔哩哔哩](https://archive.is/qJtkh)

@@ -34,7 +34,7 @@ dateCreated: "2021-10-27T22:41:53"
 [remove · shadowsocks/shadowsocks@938bba3 · GitHub](https://web.archive.org/web/20200928040938/https://github.com/shadowsocks/shadowsocks/commit/938bba32a4008bdde9c064dda6a0597987ddef54)
 -->
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [Circumvention Tool Deleted After Police Visit Developer - China Digital Times (CDT)](https://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/)
 > + [SS作者被约谈，项目已Removed according to regulations](https://web.archive.org/web/20190907070114/http://bangumi.tv/group/topic/311628)
 > + [关于最近 @clowwindy 事件的整理 - PRIN BLOG](https://web.archive.org/web/20201128070624/https://printempw.github.io/about-clowwindy-archive/)

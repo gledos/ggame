@@ -23,7 +23,7 @@ dateCreated: "2021-07-14T21:58:17"
 
 这是官方邮件对该问题的回复。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [chat下架了吗？【群晖吧】 - 百度贴吧](https://web.archive.org/web/20210714140652/https://tieba.baidu.com/p/7279904426)
 > + [NAS 篇四：群晖 D(大)S(色)M(魔) 7.0 正式版发布了，它还带来了一款密码管理套件。 - NAS存储 - 什么值得买](https://web.archive.org/web/20210714140646/https://post.smzdm.com/p/az3o8gd0/)
 > + [群晖 DSM7.0 正式发布了 - V2EX](https://web.archive.org/web/20210714132419/https://www.v2ex.com/t/786442)

@@ -116,7 +116,7 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 2021年6月4日，所有地区的必应搜索都审查了一张图片，这个问题数小时之后才修好，微软称这是意外的认为差错。这件事导致了必应被全球性的一些抵制，文本编辑器软件 [Notepad++](/software/notepad_plus_plus.md) 因此删除了必应这个内置的搜索引擎。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [Microsoft says 'tank man' image blocking due to human error - ABC News](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)
 > + [Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’ | Reuters](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)
 
@@ -144,7 +144,7 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 [^213]: [微软 Bing（必应）已可正常访问 - IT之家](https://web.archive.org/web/20211218062903/https://www.ithome.com/0/593/213.htm)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [必应崩啦？](https://web.archive.org/web/20211217114535/https://www.v2ex.com/t/822647), V2EX.
 > +   [疑似电信移动到联通互联节点故障导致 Bing 无法访问](https://web.archive.org/web/20211216153646/https://v2ex.com/t/822688), V2EX.
