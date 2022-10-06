@@ -97,3 +97,34 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail][]，流媒体平台
 [^1080360]: hellochrome, 《[[更新：部分污染已解除] dl.google.com 等域名被污染](https://web.archive.org/web/20221003041210/https://hostloc.com/thread-1080360-1-1.html)》, 全球主机交流论坛, 2022-09-30. (参照 2022-10-03).
 
 [^884153]: 872517414, 《[google.com 已被 DNS 污染](https://web.archive.org/web/20221001013459/https://www.v2ex.com/t/884153)》, V2EX/水深火热, 2022-09-30. (参照 2022-10-03).
+
+## 内容过滤问题
+
+2022年10月5日，Google 被发现了内容过滤问题，在任意地区、语言的情况下搜索一些关键词时，会被过滤，具体特性如下：[^884763]
+
+[^884763]: ioactor386, 《[Google 搜索很多中文词汇只有几十条结果](https://web.archive.org/web/20221006041700/https://www.v2ex.com/t/884763)》, V2EX, 2022-10-05. (参照 2022-10-06).
+
++   结果数量在第一页显示正常，常见词语都是百万级以上
++   翻阅到 10 页左右时，就会到底
++   然后显示以下内容：
+
+    In order to show you the most relevant results, we have omitted some entries very similar to the 〇〇 already displayed.
+    
+    If you like, you can repeat the search with the omitted results included.
+    
+    ---
+    
+    为了提供关联性最高的搜寻结果，我们省略了部分与先前〇〇笔已经显示过的结果非常类似的项目。
+    
+    如有需要，您可以重新执行搜寻并显示所有结果。
+
++   点击后才能看到完整的搜索结果
++   权重与之前的搜索有变动
+
+    搜索「共产党」一词，现在往往主要显示 .cn 的网站以及官媒，[^TJFZe] 但之前还会显示大量外媒的报导。[^WfVz3]
+
+[^WfVz3]: 《[共产党](https://archive.ph/WfVz3)》, Google Suche, 2020-10-21. (参照 2022-10-06).
+
+[^TJFZe]: 《[共产党](https://archive.ph/TJFZe)》, Google Search, 2022-10-06. (参照 2022-10-06).
+
+目前可以给网页添加 `filter=0` 的参数来显示全部内容。
