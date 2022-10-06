@@ -53,7 +53,7 @@ dateCreated: "2022-04-18T21:59:02"
 [微信公众号]: /company/腾讯/微信公众号.md#展示账号ip归属地
 [新浪微博]: /company/新浪/新浪微博.md#展示账号ip归属地
 [哔哩哔哩]: /website/哔哩哔哩弹幕网.md#展示账号ip归属地
-[Keylol]: /website/Keylol.md#展示账号ip归属地
+[Keylol]: /website/其乐.md#展示账号ip归属地
 [酷安]: /software/酷安.md#展示账号ip归属地
 [网易云音乐]: /company/网易/网易云音乐.md#展示账号ip归属地
 
