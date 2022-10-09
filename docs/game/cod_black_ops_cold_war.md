@@ -1,5 +1,5 @@
 ---
-title: 使命召唤:黑色行动-冷战
+title: 使命召唤:黑色行动 冷战
 description:
 published: true
 date: "2020-11-19T14:54:08"
@@ -11,6 +11,7 @@ dateCreated: "2020-11-19T14:36:44"
 
 ## 使命召唤 黑色行动 冷战 宣传片
 
+<!--
 > 「Where you going?」
 >
 > 「To protest, to TiananmenSquare」
@@ -18,17 +19,18 @@ dateCreated: "2020-11-19T14:36:44"
 > 「..Why?」
 >
 > 「Why? I think it's my **duty**!」
+-->
 
-这部是正作第17作，写下这些文字的当下，目前大多数媒体都提到了这是一款软重启的作品，即保留大部分黑色行动的设定，进行重启的作品。[^soft_reboot]
+这部是正作第17作，写下这些文字的当下，目前大多数媒体都提到了这是一款软重启的作品，即保留大部分黑色行动的设定，进行重启的作品。
+
 最初的宣传片长度为 2:03，YouTube 视频ID为 zVSP9BM1o5Q ，其中包含了两个很短的关于中国的片段
 
-zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unlisted 即不公开的状态，只能靠链接进入，不能在YouTube上以及COD官方频道中找到，
-本来也是解密活动的奖励视频。
+zVSP9BM1o5Q 这个视频应该不是正式宣传片，因为一直处于 Unlisted 即不公开的状态，只能靠链接进入，不能在 YouTube 上以及 COD 官方频道中找到，本来也是解密活动的奖励视频。
 
 ### 涉及的核心视频已转为私人影片，目前不可播放
 
-+ [Know Your History - YouTube - archive.today](https://archive.is/Y2Jus)
-+ [Know Your History - YouTube - web.archive.org](https://web.archive.org/web/20200819204429if_/https://www.youtube.com/watch?v=zVSP9BM1o5Q)
++   [Know Your History - YouTube - archive.today](https://archive.is/Y2Jus)
++   [Know Your History - YouTube - web.archive.org](https://web.archive.org/web/20200819204429if_/https://www.youtube.com/watch?v=zVSP9BM1o5Q)
 
 ### 国内网站上的预告片及其相关视频
 
