@@ -42,7 +42,7 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 ## 相关研究
 
-《Hmoegirl Recovery》这篇由前站务人员编写的时间线以及后续发布的聊天截图揭示了具体的情况：[^yDKV0] 站长于美国被捕，并被引渡回大陆。[^46112]
+《Hmoegirl Recovery》这篇由前站务人员编写的时间线以及后续发布的聊天截图揭示了具体的情况。[^yDKV0][^46112]
 
 [^yDKV0]: Cuthead, 《[Hmoegirl Recovery](https://archive.ph/yDKV0 "https://yogas.eu.org/views/hmoegirl_recovery.html")》, yogas.eu.org, 2022-10-09. (参照 2022-10-09).
 
