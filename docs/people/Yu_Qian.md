@@ -12,7 +12,7 @@ dateCreated: "2020-10-14T05:22:25"
 
 节目《总加速师是条狗》改名为《国家命运和狗》
 
-原始视频的快照，可能加载时间较常 [总加速师是条狗](https://web.archive.org/web/20201014041053if_/https://www.youtube.com/embed/_4s0r5g1KSw?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent)
+原始视频的快照，可能加载时间较长 [总加速师是条狗](https://web.archive.org/web/20201014041053if_/https://www.youtube.com/embed/_4s0r5g1KSw?version=3&rel=1&fs=1&autohide=2&showsearch=0&showinfo=1&iv_load_policy=1&wmode=transparent)
 
 <!-- 或者这个网站 [总加速师是条狗](https://web.archive.org/web/20201006015351/https://r3---sn-n4v7knll.googlevideo.com/videoplayback?expire=1601970826&ei=Ks57X7-1Hb2L2_gP45y2cA&ip=207.241.231.173&id=o-ACIGWYhbHncclsvEpQJY1PwBjuw0Rv2hArRS5SbtJLm6&itag=22&source=youtube&requiressl=yes&mh=68&mm=31,26&mn=sn-n4v7knll,sn-a5mekner&ms=au,onr&mv=m&mvi=3&pl=20&initcwndbps=1740000&vprv=1&mime=video/mp4&ratebypass=yes&dur=898.449&lmt=1601926095473994&mt=1601949061&fvip=3&fexp=23915654&c=WEB&txp=5516222&sparams=expire,ei,ip,id,itag,source,requiressl,vprv,mime,ratebypass,dur,lmt&sig=AOq0QJ8wRQIgH5O30hYkSABP4wVACCxLVi9FIAuS-346S-cQztNWllYCIQDQ7eIGjf09XPq8XaH9r2BWIxXreOeNzyvnmY3csn05zQ%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl,initcwndbps&lsig=AG3C_xAwRQIhALfi9P07kZ5WHdfNXlloYeSV2NRbISts55z6Jlzt3V4_AiAP9J_QdSFyPfDfzUCV8aJaX9RveOoSemFF8UJgkJeqKg%3D%3D&video_id=_4s0r5g1KSw) -->
 

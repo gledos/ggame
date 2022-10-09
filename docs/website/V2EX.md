@@ -83,7 +83,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 2021年1月19日，由 Tencent 提供的安全监测服务的浏览器，[^V2EX_mlb] 比如国行 iOS 系统的 safari 浏览器默认设置，微信内置浏览器与腾讯浏览器等浏览器，将讨论 QQ 读取浏览器记录的讨论添加到了黑名单，提示为危险网站或者被多人举报。[^V2EX_qqq][^V2EX_wx]
 
-[[^V2EX_mlb]: [v 站的网址，这两天是不是被国产浏览器全部加黑名单了？ - V2EX](https://web.archive.org/web/20210130124559/https://www.v2ex.com/t/749828)
+[^V2EX_mlb]: [v 站的网址，这两天是不是被国产浏览器全部加黑名单了？ - V2EX](https://web.archive.org/web/20210130124559/https://www.v2ex.com/t/749828)
 
 [^V2EX_qqq]: [QQ 正在尝试读取你的浏览记录 - V2EX](https://web.archive.org/web/20210127081725/https://www.v2ex.com/t/745030)
 

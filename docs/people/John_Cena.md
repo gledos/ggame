@@ -18,7 +18,7 @@ dateCreated: "2021-06-02T03:40:14"
 > 对我的错误，我很很抱歉<br>
 > 我必须说现在<br>
 > 很很很很很重要<br>
-> 我爱更尊重中国和中国人[^j]
+> 我爱更尊重中国和中国人[^jcr]
 
 [^jcr]: [你好中国，我是赵喜娜 我必须说现在 在速... 来自RealWWEJohnCena - 微博](https://archive.ph/gWToB "https://weibo.com/3477696732/Kh0DJbh7C")
 

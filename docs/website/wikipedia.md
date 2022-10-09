@@ -49,5 +49,5 @@ WMC 是「中国大陆维基人用户组」(Wikimedians of Mainland China User G
 + [维基百科:中国大陆维基人用户组 - 维基百科，自由的百科全书](https://web.archive.org/web/20210915062030/https://zh.wikipedia.org/zh-hans/Wikipedia:中国大陆维基人用户组)
 + [忧渗透与起底风险 维基百科对中国编辑下禁令 - DW](https://web.archive.org/web/20210915074321/https://www.dw.com/zh/忧渗透与起底风险-维基百科对中国编辑下禁令/a-59185673)
 + [封禁一个维基人 中文维基百科“编辑战”背后_新闻频道_映象网](https://web.archive.org/web/20210827165139/http://news.hnr.cn/sd/201403/t20140314_878535.html)
-+ 《封禁一个维基人 中文维基百科“编辑战”背后》缺少第二页
++ [封禁一个维基人 中文维基百科“编辑战”背后_新闻频道_映象网](https://web.archive.org/web/20221009104525/http://news.hnr.cn/sd/201403/t20140314_878535_1.html)
 + [封禁一个维基人 中文维基百科“编辑战”背后_新闻频道_映象网](https://web.archive.org/web/20210915150823/https://news.hnr.cn/sd/201403/t20140314_878535_2.html)
