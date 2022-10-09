@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 serviceprovider 即服务，通常指软件或者实体的服务业，比如邮箱服务与实体店铺。一些服务会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content serviceprovider }}

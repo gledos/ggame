@@ -34,6 +34,6 @@ DLsite_ID: RJ317211
 
 [^2313294]: [things u should know - 417-中華民國光束炮 - pixivFANBOX](https://archive.is/sEIKc "https://eccma417.fanbox.cc/posts/2313294")
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [[綜合]LonaRPG](https://web.archive.org/web/20220114054132/https://komicolle.org/c/153603)
 > + [有人知道這款美式高自由度成人RPG？作者附註玩了就台獨＞＜ - iamleo123的創作 - 巴哈姆特](https://web.archive.org/web/20220114140604/https://home.gamer.com.tw/artwork.php?sn=5244968)

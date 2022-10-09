@@ -36,6 +36,6 @@ dateCreated: "2021-01-16T15:18:35"
 + [「健康码演示」APP 作者已被采取刑事强制措施 - OSCHINA - 中文开源技术交流社区](https://web.archive.org/web/20210116031545/https://www.oschina.net/news/126307/health-code-demo-removed)
 + [抓到了！刑拘！ 来自共青团中央 - 微博](https://archive.is/mnBN1)
 + [\#男子发布健康码演示APP被查处# 【#男子发布健康码演示APP被查处#】@杭州发布 通报：解某某（男，41岁）于2020年4、5月份擅自研发“健康码演示”APP并上传至应用市场，严重扰乱了社会秩序。目前解某某已被西湖区公安分局采取刑事强制措施，案件在进一步侦办。 来自央视新闻 - 微博](https://archive.is/x9BZ0)
-+ [\#男子发布健康码演示APP被查处# 这都不能只能算是缺德了，简直就是丧良心，这么多人力、物力、财力都投入进去了，搞这东西简直就是破坏我们防疫系统！这个简直就是新冠的掩护！ ​​​​  来自圈内扒娘 - 微博](https://archive.is/QbAf9)
++ [\#男子发布健康码演示APP被查处# 这都不能只能算是缺德了，简直就是丧良心，这么多人力、物力、财力都投入进去了，搞这东西简直就是破坏我们防疫系统！这个简直就是新冠的掩护！   来自圈内扒娘 - 微博](https://archive.is/QbAf9)
 
 <!-- [GitHub - XJP-GIT/HealthCode: 健康码演示](https://web.archive.org/web/20210116033039/https://github.com/XJP-GIT/HealthCode) -->

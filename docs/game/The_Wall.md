@@ -57,7 +57,7 @@ dateCreated: "2021-01-05T08:00:21"
 [严肃性](https://web.archive.org/web/20180524103048/https://cowlevel.net/article/1846170)<!-- (可能是被质疑吃人血馒头，跟风) -->，
 之后公布了游戏的[设定](https://web.archive.org/web/20180524103454/https://cowlevel.net/article/1848198)。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [THE WALL 墙 · AppID: 635070 · Steam Database](https://archive.is/ie2Fo "https://steamdb.info/app/635070/")
 > + [【网络民议】国产独立游戏：墙 - 中国数字时代](https://web.archive.org/web/20200928111807/https://chinadigitaltimes.net/chinese/2017/06/【网络民议】国产独立游戏：墙/)
 > + [国产网络审查讽刺游戏《THE WALL 墙》大胆的作者会不会突然失踪…… - 舞动漫画 - 公众号](https://archive.is/Run3o "https://freewechat.com/a/MzAwNzUyOTEzOQ==/2649772535/2?raw")

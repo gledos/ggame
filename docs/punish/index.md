@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 punish 即公示，主要收录了「APP侵害用户权益专项整治行动」的相关内容。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content punish }}

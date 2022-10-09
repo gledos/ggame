@@ -21,12 +21,12 @@ Ice 此时负责的游戏《Cytus II》也下架了一段时间，上架时删�
 
 [^qq_yy]: [「速报」QQ搜索已屏蔽了大多数音游关键词，音游群何去何从？ - 哔哩哔哩](https://archive.is/E19rK "https://www.bilibili.com/video/BV1aC4y1b7TX")
 
-> [!example]+ 涉及辱华的内容
+> [!abstract]+ 涉及辱华的内容
 >
 > + 《Telegraph : 1344 7609 2575》1分11秒出现了不该出现的宣传语的电报信号
 > + 歌曲在 soundcloud.com 的 URL 为 soundcloud.com/iceloki/v-i-7449-3263-0086-0502-3111
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > + [[集中贴][新瓜]雷亚总监夹带私货，歌曲摩斯电码支持废青 NGA玩家社区](https://archive.is/k1U2B "https://bbs.nga.cn/read.php?tid=22604415")
 > + [作曲師在音樂中藏「挺港電碼」！台灣知名音樂遊戲在中國下架 - 自由電子報 - LINE TODAY](https://archive.is/sUeM4 "https://web.archive.org/web/20210504052935/https://today.line.me/tw/v2/article/ykllZz")

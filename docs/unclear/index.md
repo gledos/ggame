@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 unclear 即尚不明确，一些尚不明确的内容会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content unclear }}

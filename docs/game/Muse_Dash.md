@@ -58,7 +58,7 @@ dateCreated: "2022-08-31T15:16:29"
 
 [^031244197]: 大摳, 《[赤井心實況《Muse Dash》小粉紅繼續亂燒，開發商兩邊不是人](https://web.archive.org/web/20220831123823/https://tw.news.yahoo.com/littlepinkdeadmom-031244197.html)》, Yahoo新闻, 2020-11-06. (参照 2022-08-31).
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   lingboy, 《[【問題】Hololive 旗下Vtuber 不能再直播Muse Dash @虛擬 Youtuber（Vtuber）](https://web.archive.org/web/20220831130044/https://forum.gamer.com.tw/C.php?bsn=60608&snA=1740)》, 巴哈姆特電玩資訊站, 2020-11-03. (参照 2022-08-31).
 > +   大摳, 《[赤井心實況《Muse Dash》小粉紅繼續亂燒，開發商兩邊不是人](https://web.archive.org/web/20220831123823/https://tw.news.yahoo.com/littlepinkdeadmom-031244197.html)》, Yahoo新闻, 2020-11-06. (参照 2022-08-31).

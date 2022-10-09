@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 software 即软件，一些软件会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content software }}

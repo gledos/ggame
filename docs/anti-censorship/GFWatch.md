@@ -19,5 +19,5 @@ dateCreated: "2021-11-03T17:19:28"
 
 + [How Great is the Great Firewall? Measuring China’s DNS Censorship](/src/anti-censorship/GFWatch/sec21-hoang.pdf)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [4所大學團隊每日測試4億個網域研究「防火長城」，發現有31萬網域被擋下、部分的封鎖只是「意外」 - The News Lens 關鍵評論網](https://web.archive.org/web/20210713174731/https://www.thenewslens.com/article/153597)

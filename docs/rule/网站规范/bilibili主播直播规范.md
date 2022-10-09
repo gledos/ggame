@@ -10,7 +10,7 @@ dateCreated: "2022-09-15T08:42:59"
 
 ## 存档链接
 
-> [!example]+ 存档链接
+> [!abstract]+ 存档链接
 >
 > +   《[bilibili主播直播规范V2.6](https://archive.ph/vvJu4)》, 哔哩哔哩新闻公告, 2022-08-24. (参照 2022-09-15).
 > +   《[bilibili主播直播规范V2.5](https://archive.ph/PCVIE)》, 哔哩哔哩新闻公告, 2022-05-18. (参照 2022-09-15).

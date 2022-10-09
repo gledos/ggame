@@ -29,7 +29,7 @@ dateCreated: "2021-11-01T22:40:31"
 
 ## 遭到审查
 
-> [!example]+ 审查时间线
+> [!abstract]+ 审查时间线
 >
 > +   10.13
 >     +   总表被举报致封禁，数小时后解封
@@ -57,12 +57,12 @@ dateCreated: "2021-11-01T22:40:31"
 > +   10.25 收集表被封
 > +   10.28 小程序和公众号被永久封禁
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > + [GitHub - WorkerLivesMatter/WorkingTime](https://web.archive.org/web/20211029182152/https://github.com/WorkerLivesMatter/WorkingTime)
 > + [如何看待公司作息Working Time文档被删除？ - 知乎](https://web.archive.org/web/20211101143200/https://www.zhihu.com/question/493416916)
 
-> [!example]+ 其他链接
+> [!abstract]+ 其他链接
 >
 > + [Team behind censored spreadsheet exposing brutal 996 Big Tech work hours deletes project after widespread crackdown - South China Morning Post](https://web.archive.org/web/20211106004924/https://www.scmp.com/tech/tech-trends/article/3155039/team-behind-censored-spreadsheet-exposing-brutal-996-big-tech-work)
 > + ['Worker Lives Matter' Spurs Discussion on Chinese Social Media](https://web.archive.org/web/20211105133507/https://radiichina.com/worker-lives-matter/)

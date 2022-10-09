@@ -254,7 +254,7 @@ dateCreated: "2021-07-23T10:47:09"
 > +   这就是僵尸吗？
 > +   优酱我带走了。
 
-> [!example]+ 来源
+> [!abstract]+ 来源
 >
 > +   [B站一个月内下架23部番剧，有你喜欢的吗？](https://web.archive.org/web/20210805112802/https://www.sohu.com/a/478079426_534749), 绅士动漫网.
 > +   [B站近期又开始下架番剧了，连新番都不放过！](https://web.archive.org/web/20210805115022/https://www.sohu.com/a/477894693_534749), 绅士动漫网.

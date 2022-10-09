@@ -31,11 +31,11 @@ dateCreated: "2021-04-22T12:22:03"
 
 随后 GOG 在微博与推特都发布了停止上架该游戏的公告，GOG里的游戏主页也被重定向到主页了
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [GOG.COM on Twitter: "Earlier today, it was announced that the game Devotion is coming to GOG. After receiving many messages from gamers, we have decided not to list the game in our store."](https://archive.is/ysypD "https://twitter.com/GOGcom/status/1339227388438306817")
 > + [在今天早些时，关于《Devotion》会上架GOG平台的消息我们收到了很多大家的评论。这里我们希望让大家知道这款游戏将不会在GOG平台上架。 来自GOG游戏心选 - 微博](https://archive.vn/ejuE0 "https://weibo.com/6545667627/JyMAbiLHt")
 
-> [!example]+ 其他链接
+> [!abstract]+ 其他链接
 > + GOG商店页面 [Devotion on GOG.com](https://web.archive.org/web/20201216104008/https://www.gog.com/game/devotion)
 > + [你還願意嗎？心靈恐怖話題作《還願》宣布 18 日在 GOG 平台重新上市《DEVOTION》 - 巴哈姆特](https://web.archive.org/web/20201216154230/https://gnn.gamer.com.tw/detail.php?sn=208011)
 > + [【更新】赤燭遊戲獨立發行《還願》將在GOG推出 引發中國玩家不滿突遭下架: 遊戲基地 gamebase](https://web.archive.org/web/20201216160509/https://www.gamebase.com.tw/news/topic/99389639/)

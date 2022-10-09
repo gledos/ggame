@@ -14,5 +14,5 @@ dateCreated: "2021-09-16T19:34:34"
 
 [^56541772]: [录制汉化组的Galgame不行么？ - 知乎](https://web.archive.org/web/20210509121446/https://www.zhihu.com/question/56541772)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [如何评价录制汉化galgame视频上传哔哩哔哩的行为？ - 知乎](https://web.archive.org/web/20210509121415mp_/https://www.zhihu.com/question/62779037)

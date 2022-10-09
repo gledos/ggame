@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 `/mkdocs` 这个目录是放置更此 Wiki 相关的信息，主要是 mkdocs 技术方面的内容。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content mkdocs }}

@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 sound 即声音，一些音乐会被收录到此版块（文件夹），其中也包括 <ruby>播客<rp>(</rp><rt>Podcast</rt><rp>)</rp></ruby>
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content sound }}

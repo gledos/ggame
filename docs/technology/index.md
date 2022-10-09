@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 technology 即技术，一些技术会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content technology }}

@@ -20,7 +20,7 @@ dateCreated: "2021-11-10T21:47:33"
 
 [^631261]: [马头社Subverse正式登陆GOG！Subverse GOG版依然锁区 - 游侠网](https://web.archive.org/web/20211110150816/https://www.ali213.net/news/html/2021-10/631261.html)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [Exclusive First Look at SUBVERSE! Tactical Grid Combat, Waifus and SHMUP Gameplay! : Games](https://old.reddit.com/r/Games/comments/k2ql6d/exclusive_first_look_at_subverse_tactical_grid/)
 
 ## 2021年11月10日公告争议

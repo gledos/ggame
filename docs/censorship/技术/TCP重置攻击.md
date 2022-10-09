@@ -24,7 +24,7 @@ sequenceDiagram
     A ->> B: ACK y+1
 ```
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [How does a TCP Reset Attack work? - Robert Heaton](https://robertheaton.com/2020/04/27/how-does-a-tcp-reset-attack-work/)
 > +   [TCP 重置攻击的工作原理 - SegmentFault 思否](https://web.archive.org/web/20220130104858/https://segmentfault.com/a/1190000022954874)

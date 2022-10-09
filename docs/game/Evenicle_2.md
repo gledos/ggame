@@ -14,6 +14,6 @@ dateCreated: "2021-07-08T17:27:58"
 
 [^sbfa]: [Alicesoft Official on Twitter: "Today we would like to announce that we won't be able to release the full English version of Evenicle 2 on Steam. We would like to assure our fans that we are still continuing our work on it and will deliver Evenicle 2 to you through different storefronts.… https://t.co/oKn3o9mnWP"](https://web.archive.org/web/20210522083101/https://twitter.com/Alicesoft_en/status/1360056506998116353)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [Evenicle 2 - Cancellation of the full release on Steam :: Evenicle 2 - Clinical Trial Edition General Discussions](https://web.archive.org/web/20210708093326/https://steamcommunity.com/app/1350710/discussions/0/5760637065630773683/)
 > + [AliceSoft《Evenicle -イブニクル- 2》 上架 Steam 失败 - 哔哩哔哩](https://archive.is/RHxEh "https://www.bilibili.com/read/cv9855101")

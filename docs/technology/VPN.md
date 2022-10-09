@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: "2021-08-16T23:19:26"
 ---
 
-## VPN受到干扰
+## 简介
 
-待续
+VPN 的全称是 <ruby>虚拟专用网<rp>(</rp><rt>virtual private network</rt><rp>)</rp></ruby>，最初的用途是在外部的公共网络上访问专有的资源，比如连上公司、学校的内网等。
 
-[“虚拟专用网络”(VPN)在华服务受扰](https://web.archive.org/web/20160414103717/http://www.voachinese.com/content/article-20110317-china-shenanigan-action-118164504/779424.html)
+现在广义上任何 <ruby>代理<rp>(</rp><rt>Proxy</rt><rp>)</rp></ruby> 都可能被称作 VPN。

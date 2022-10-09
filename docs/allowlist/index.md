@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 allowlist 即允许列表、白名单。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content allowlist }}

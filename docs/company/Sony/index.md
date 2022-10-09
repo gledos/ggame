@@ -16,7 +16,7 @@ dateCreated: "2021-07-01T14:20:18"
 
 [^KmHFgzDKf]: [我司对广大网友的关切高度重视！ 我司原... 来自索尼中国 - 微博](https://archive.is/KjNW2 "https://weibo.com/3103768347/KmHFgzDKf")
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [如何看待索尼新品发布会与卢沟桥事变时间高度重合？ - 知乎](https://web.archive.org/web/20210701042624/https://www.zhihu.com/question/469183453)
 > +   [想试探底线？有本事你别删除啊！ - epcdiy的动态-哔哩哔哩](https://archive.is/vR4ew "https://t.bilibili.com/542309762240031711?tab=2")

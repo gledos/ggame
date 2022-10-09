@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 rule 即规则，一些法规、办法、通知等文件会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content rule }}

@@ -44,7 +44,7 @@ dateCreated: "2021-10-29T17:56:32"
 20. Reminisence（天翼之链 OST）
 21. It's my war now（地下城与勇士OST）
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 > + [nexon dlc要锁区了 - 百度 djmax 吧](https://tieba.baidu.com/p/7590585180)
 > + [新dlc不能买吗?晕了，显示地区买不了。。。 - 百度 djmax 吧](https://tieba.baidu.com/p/7591861390)
 > + [【DMRV】NEXON DLC硬锁国区 - 百度 djmax 吧](https://tieba.baidu.com/p/7591915448)

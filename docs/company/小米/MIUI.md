@@ -141,7 +141,7 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 [^52439]: Andrius Sytas, 《[Lithuania says throw away Chinese phones due to censorship concerns](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)》, Reuters, 2021-09-21. 参照: 2022-08-16. [Online].
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
 > +   [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
@@ -171,6 +171,6 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 
 由于该功能没有被公布，所以可能会造成 DNS 泄露，包括在使用 VPN 的时候。以及与其他手机出现网络上的差异。
 
-> [!example]+ 相关条目
+> [!abstract]+ 相关条目
 >
 > +   [三星港版手机](/company/Samsung/HK_Phone.md)

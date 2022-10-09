@@ -41,7 +41,7 @@ dateCreated: "2020-11-07T15:21:08"
 
 [^1429]: [SourceForge可正常访问 - 月光博客](https://web.archive.org/web/20080910191337/http://www.williamlong.info/archives/1429.html)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [这次 Sourceforge 被 blocked 可能是由于 Notepadd++ 作者反对2008年北京奥运造成的 - Sutra's Blog](https://web.archive.org/web/20201105143128/https://zhoushuqun.wordpress.com/2008/06/29/这次-sourceforge-被-blocked-可能是由于-notepadd-作者反对2008年北京奥运造/)
 > +   [Notepad++怎么回事？一个编辑器也要和政治挂钩？抵制奥运？ - CSDN论坛](https://web.archive.org/web/20201106102721/https://bbs.csdn.net/topics/240010954)
@@ -83,6 +83,6 @@ Notepad++ 官网遭到了 DDOS 攻击。
 
 关于移除必应搜索的相关讨论: [Remove Microsoft Bing from search engines for Search on Internet command · notepad-plus-plus/notepad-plus-plus@06657c8 · GitHub](https://web.archive.org/web/20210608143826/https://github.com/notepad-plus-plus/notepad-plus-plus/commit/06657c82b3b9a1871c483982282f046b1ac7b3be)
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [Notepad++ v8 发布 - 奇客Solidot](https://web.archive.org/web/20210608100245/https://www.solidot.org/story?sid=67977)

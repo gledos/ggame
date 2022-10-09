@@ -62,7 +62,7 @@ HKKNNT 描述的前身关系：[^sf5qow]
 
 [^CLTV_ban]: 《[Reddit - Dive into anything](https://web.archive.org/web/20220601021258/https://www.reddit.com/r/CLTV/)》, r/CLTV, 2022-06-01. (参照 2022-06-02).
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   Nokia\_5230, 《[Reddit 第二大中文sub已经被封](https://web.archive.org/web/20220601020051/https://www.reddit.com/r/China_irl/comments/v20cm9/reddit_第二大中文sub已经被封/)》, r/China_irl, 2022-06-01. (参照 2022-06-02).
 > +   Administrative-Ant89, 《[关于查理tv被炸，我说两句](https://web.archive.org/web/20220601024836/https://www.reddit.com/r/Liutiaogou/comments/v23yn5/关于查理tv被炸我说两句/)》, r/Liutiaogou, 2022-06-01. (参照 2022-06-02).

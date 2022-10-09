@@ -15,6 +15,6 @@ exclude_from_blog: true
 
 book 即书籍，一些书籍会被收录到此版块（文件夹）。
 
-> [!example]+ 最近更新
+> [!note]+ 最近更新
 >
 > {{ blog_content book }}

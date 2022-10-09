@@ -21,7 +21,7 @@ dateCreated: "2021-07-09T23:07:32"
 
 原本不需要登陆的论坛镜像站 <404.website> 也在相同的时间必须要登陆才能查看。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [【已解决？】某个压制组突然蒸发](https://web.archive.org/web/20210618051002/https://bangumi.tv/group/topic/363149)
 > +   [vcb studio压制组怎么了? - 知乎](https://web.archive.org/web/20210709142916/https://www.zhihu.com/question/464011062)

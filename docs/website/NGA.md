@@ -63,7 +63,7 @@ NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CC
 
 [^NGA_nwca]: [[公告] 有价值/有意义帖子冲水 集中打捞申请帖(包括审核未通过的有意义帖子也可以申请打捞) NGA玩家社区](https://archive.is/XB1St "https://bbs.nga.cn/read.php?tid=19025853")
 
-> [!example]+ 相关讨论
+> [!abstract]+ 相关讨论
 >
 > +   [nga的冲水机制是所有论坛里独一无二的吗？早上的帖子现在就没了 NGA玩家社区](https://archive.is/NYSD4 "https://bbs.nga.cn/read.php?tid=23563590")
 > +   [[其他问题] 为啥硬件区也要冲水 NGA玩家社区](https://archive.is/g2U9R "https://ngabbs.com/read.php?tid=18441240")
@@ -77,7 +77,7 @@ NGA 关闭时间为2015年8月15日，为期一个月，这个消息也登上 CC
 
 大概与游戏本身无关，是因为 APP 里有侵犯用户隐私的第三方 SDK，不过我觉得对比 [其乐](/website/其乐.md) 莫名其妙就被关闭两周，这种差异值得探讨。
 
-> [!example]+ 相关链接
+> [!abstract]+ 相关链接
 >
 > +   [nga的app竟然被下架了 - 步行街主干道 - 虎扑社区](https://web.archive.org/web/20200919035614/https://bbs.hupu.com/37980408.html)
 > +   [[杂谈]NGa出什么事了？被下架？ NGA玩家社区](https://archive.is/Rs8HF "https://bbs.nga.cn/read.php?tid=23358454")

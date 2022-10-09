@@ -11,7 +11,7 @@ dateCreated: "2021-01-16T15:21:15"
 
 ## 无题
 
-该条目发生在 [健康码模拟](/software/Health_Code_Demo.md) 事件之后。
+该条目发生在 [健康码模拟](/software/电子护照/Health_Code_Demo.md) 事件之后。
 
 ???+ quote "作者的公告"
 
@@ -37,11 +37,11 @@ dateCreated: "2021-01-16T15:21:15"
 
 [^hcd_fmzt]: ShirosakiMieru, 《[FuckMinZhengTong](https://web.archive.org/web/20210113154030/https://github.com/ShirosakiMieru/FuckMinZhengTong/)》, GitHub, 2021-01-13. (参照 2022-04-22).
 
-2021年1月13日，作者 Shirosaki Mieru 在仓库中写了上面的道歉信，并请求备份、分发代码的人将其移除，[^pr_1]以防止把事情闹大，不过随后还是将 Github、Twitter 账号与个人网站关闭了。[^hcd_fmzt_d]
+2021年1月13日，作者 Shirosaki Mieru 在仓库中写了上面的道歉信，并请求备份、分发代码的人将其移除，[^51125][^51116] 以防止把事情闹大，不过随后还是将 Github、Twitter 账号与个人网站关闭了。[^hcd_fmzt_d]
 
-[^pr_1]:
-    + ShirosakiMieru, 「[我是FuckMZT的作者，希望您能删除此仓库 Pull Request #1 · kimjongum/FuckMinZhengTong](https://web.archive.org/web/20220422051125/https://github.com/kimjongum/FuckMinZhengTong/pull/1)」, GitHub, 2021-01-14. (参照 2022-04-22).
-    + ShirosakiMieru, 「[我是FuckMZT的作者，希望您能删除此仓库 Pull Request #1 · ZenithNUC/FuckMinZhengTong](https://web.archive.org/web/20220422051116/https://github.com/ZenithNUC/FuckMinZhengTong/pull/1)」, GitHub, 2021-01-14. (参照 2022-04-22).
+[^51125]: ShirosakiMieru, 「[我是FuckMZT的作者，希望您能删除此仓库 Pull Request #1 · kimjongum/FuckMinZhengTong](https://web.archive.org/web/20220422051125/https://github.com/kimjongum/FuckMinZhengTong/pull/1)」, GitHub, 2021-01-14. (参照 2022-04-22).
+
+[^51116]: ShirosakiMieru, 「[我是FuckMZT的作者，希望您能删除此仓库 Pull Request #1 · ZenithNUC/FuckMinZhengTong](https://web.archive.org/web/20220422051116/https://github.com/ZenithNUC/FuckMinZhengTong/pull/1)」, GitHub, 2021-01-14. (参照 2022-04-22).
 
 [^hcd_fmzt_d]: 《[ShirosakiMieru](https://web.archive.org/web/20210111224414/https://github.com/ShirosakiMieru)》, GitHub, 2021-01-11. (参照 2022-04-22).
 
@@ -55,6 +55,6 @@ dateCreated: "2021-01-16T15:21:15"
 
 ### 其他网站
 
-+ [伪造健康码的又是个二刺螈程序员-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://archive.is/FJcF7)
-+ [/综合版1/ - (　^ω^)还敢冲塔，又有新的假健康码生产软件出现了https://github.com/kimjongum/FuckMinZhengTong](https://web.archive.org/web/20210116114526/https://kukuku.uk/综合版1/res/57778.html)
++   [伪造健康码的又是个二刺螈程序员-美国VPS综合讨论-全球主机交流论坛 - Powered by Discuz!](https://archive.is/FJcF7)
++   [/综合版1/ - (　^ω^)还敢冲塔，又有新的假健康码生产软件出现了https://github.com/kimjongum/FuckMinZhengTong](https://web.archive.org/web/20210116114526/https://kukuku.uk/综合版1/res/57778.html)
 -->
