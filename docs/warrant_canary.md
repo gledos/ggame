@@ -18,6 +18,32 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年10月11日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年10月11日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   凱拉特, 《[小島秀夫透露他花數年時間才獲得能在《潛龍諜影》中使用「真實歷史影像」的授權](https://www.cool3c.com/article/182212)》, Cool3c, 2022-10-03. (参照 2022-10-11).
++   巴哈姆特, 《[日本 BL 漫畫家ホン・トク個展「HONTOKU 台灣初個展──究極美」11/4 登台](https://gnn.gamer.com.tw/detail.php?sn=239297)》, 巴哈姆特電玩資訊站, 2022-10-11. (参照 2022-10-11).
++   葉睿涵, 《[俄巡弋飛彈狂轟基輔發電廠！「炸出蕈狀雲」電網陷危 爆炸畫面曝](https://www.ettoday.net/news/20221011/2355923.htm)》, ETtoday國際新聞, 2022-10-11. (参照 2022-10-11).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCY0VpJQAKCRCZXo6bU2oX
+pBjiAP9rrzIlPGt8dPthUG7mabh2RwnuLq0f88P8EkPQgj9IGAEAvJ5h72c+V1OU
+zpyVeD/67s5FZBE/APCTmZGvvjmbqQ4=
+=u2dW
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年9月10日
 
 ```markdown
@@ -41,7 +67,7 @@ HBkJhulO3D/cr8OHTCuzGYbYO3c8ZAI=
 -----END PGP SIGNATURE-----
 ```
 
-## 过去的令状金丝雀
+备注：更新时间我写错了……应该是9月10日。
 
 ### 2022年8月10日
 
