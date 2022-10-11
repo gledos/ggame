@@ -75,3 +75,13 @@ Reddit 的讨论贴被管理员锁定，理由是：[^jn8uyl]
 > (T-chan)
 
 中文大意为：无关审查，而是想要避免愤怒，以及让政治远离 hololive。
+
+## 内容和谐
+
+2021年11月，Muse Dash 可能进行了第一次和谐，大量可动的立绘被修改，修改部分主要是添加衣物和遮挡皮肤。[^8e3Y5] 之后又经过了数次和谐，曲谱封面也遭到了和谐。[^hbaBh]
+
+[^8e3Y5]: Jessie Rasberry, 《[立绘改动统计（不含插画语音）](https://archive.ph/8e3Y5 "https://www.taptap.com/topic/19667116")》, TapTap/Muse Dash, 2021-11-23. (参照 2022-10-11).
+
+[^hbaBh]: NL287, 《[没和谐的已和谐的封面曲谱对比图](https://archive.ph/hbaBh "https://www.taptap.com/topic/19736577")》, TapTap/Muse Dash, 2021-12-05. (参照 2022-10-11).
+
+不过有人分享了一个反和谐的方法：Android 用户需要将 `Android/media/com.prpr.musedash.TapTap/files/` 目录下的 `review`  修改成 `no_review`，iPhone 用户只要到「文件」中将 MuseDash 目录，之后的操作与 Android 相同，有玩家认为这是官方留下的反和谐方法。
