@@ -41,7 +41,7 @@ Apple Arcade: https://apps.apple.com/jp/app/worlds-end-club/id1486537612
 
 [^145007]: [「12人の子どもたちが世界の終わりに立ち向かう」小高和剛氏×打越鋼太郎氏『ワールズエンドクラブ』開発インタビュー【前編】 - コロコロコミック公式](https://web.archive.org/web/20210517120553/https://corocoro.jp/145007/)
 
-根据该采访的 Google 翻译，gledos 的简述:
+根据该采访的 Google 翻译，gledos 整理后的简述:
 
 + 想要制作一款主要能在中国发行的游戏国际化游戏，所以将游戏设计成了没有残酷演出的样貌
 + 因为通过 Steam 了解到中文用户很多，所以想要进入中国市场

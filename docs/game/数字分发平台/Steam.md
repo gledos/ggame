@@ -4,6 +4,7 @@ description: PC 最大的游戏平台，由 Valve 运营
 published: true
 date: "2021-06-09T08:00:24"
 tags:
+- steam
 - 游戏平台
 - 地图
 editor: markdown
