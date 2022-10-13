@@ -1,6 +1,6 @@
 ---
 title: Notepad++
-description: 一款 Free 的纯文本编辑器，由侯今吾基于开源的 Scintilla 文本编辑组件独力研发
+description:
 published: true
 date: "2022-06-15T10:14:28"
 tags:
@@ -10,11 +10,15 @@ editor: markdown
 dateCreated: "2020-11-07T15:21:08"
 ---
 
+## 简介
+
+一款 Free 的纯文本编辑器，由侯今吾基于开源的 Scintilla 文本编辑组件独力研发。
+
 ## Boycott Beijing 2008
 
 ### 开始
 
-2008年，Notepad++ 托管在 SourceForge 上的主页上增加了一个名为 Boycott Beijing 2008 的小图片与两个链接。[^uk_site]图片是无国界记者(Reporters sans frontières)所制作的网页宣传横幅。[^Press]第一个链接指向的是无国界记者的一篇英文文章，文章简述了为什么无国界记者组织为什么反对北京举办奥运会。[^RSF]第二个链接指向的是软件作者的意见。[^Olympic]
+2008年，Notepad++ 托管在 SourceForge 上的主页上增加了一个名为 Boycott Beijing 2008 的小图片与两个链接。[^uk_site] 图片是无国界记者(Reporters sans frontières)所制作的网页宣传横幅。[^Press] 第一个链接指向的是无国界记者的一篇英文文章，文章简述了为什么无国界记者组织为什么反对北京举办奥运会。[^RSF] 第二个链接指向的是软件作者的意见。[^Olympic]
 
 [^uk_site]:
     +   [http://notepad-plus.sourceforge.net/uk/site.htm](https://web.archive.org/web/20080418094022/http://notepad-plus.sourceforge.net:80/uk/site.htm)
@@ -33,7 +37,7 @@ dateCreated: "2020-11-07T15:21:08"
 
 ### 结果
 
-托管了 Notepad++ 的合作式软件开发管理系统 SourceForge 随后遭到屏蔽，[^6791]整整30天后屏蔽被解除，在此期间以及之后，均还没有人或组织声称表示对此事件负责。
+托管了 Notepad++ 的合作式软件开发管理系统 SourceForge 随后遭到屏蔽，[^6791] 整整 30 天后屏蔽被解除，在此期间以及之后，均还没有人或组织声称表示对此事件负责。
 
 [^6791]:
     +   [Sourceforge.net Blocked 被GF擋下 - Solidot](https://web.archive.org/web/20181217014416/https://www.solidot.org/story?sid=6791)
@@ -55,7 +59,7 @@ dateCreated: "2020-11-07T15:21:08"
 
 ### 开始
 
-2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为"Free Uyghur Edition"。
+2019年10月29日，在 Notepad++ 7.8.1 版本的发行通告中，该版本被命名为 "Free Uyghur Edition"。
 
 ### 经过
 
@@ -86,3 +90,9 @@ Notepad++ 官网遭到了 DDOS 攻击。
 > [!abstract]+ 相关链接
 >
 > +   [Notepad++ v8 发布 - 奇客Solidot](https://web.archive.org/web/20210608100245/https://www.solidot.org/story?sid=67977)
+
+## NotepadFree
+
+2022年10月10日，「Super桓」在知乎发布了自己的 Fork 版本 Notepad++，其名为 NotepadFree，将软件中出现的 Notepad++ 替换为了 NotepadFree，并且移除了关于页面的 Notepad++ 官网。Fork 版本的理由是软件官网夹带私货。[^jGC7g]
+
+[^jGC7g]: Super桓, 《[NotepadFree: Notepad++告别政治](https://archive.ph/jGC7g "https://zhuanlan.zhihu.com/p/572154899")》, 知乎专栏, 2022-10-10. (参照 2022-10-12).
