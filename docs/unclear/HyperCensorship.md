@@ -14,7 +14,9 @@ HyperCensorship 是一位匿名的 GitHub 用户，自称是在珠海的一家�
 
 ## 泄漏内容
 
-2022年10月11日，HyperCensorship 在 GitHub 的  net4people/bbs 仓库的 issues 讨论中发布了多条关于审查的信息：
+2022年10月11日，HyperCensorship 在 GitHub 的  net4people/bbs 仓库的 issues 讨论中发布了多条关于审查的信息：[^issues129]
+
+[^issues129]: gfw-report, 《[Issue #129 Large scale blocking of TLS-based censorship circumvention tools in China](https://web.archive.org/web/20221012130148/https://github.com/net4people/bbs/issues/129)》, GitHub, net4people/bbs. (参照 2022-10-12).
 
 > [!quote]+ 2022-10-11T01:42:57Z
 >
