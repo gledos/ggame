@@ -11,7 +11,7 @@ dateCreated: "2022-05-18T02:38:25"
 
 ## 简介
 
-<github.io> 是 Github Pages 的域名，任何 [GitHub](/website/GitHub.md) 用户都能使用 Github Pages 搭建静态网站。[^696315]
+github.io 是 Github Pages 的域名，任何 [GitHub](/website/GitHub.md) 用户都能使用 Github Pages 搭建静态网站。[^696315]
 
 [^696315]: chenz197, 《[github.io 之类的都打不开了 大家也是这样吗](https://www.v2ex.com/t/696315)》, V2EX, 2020-08-07. (参照 2022-05-18).
 

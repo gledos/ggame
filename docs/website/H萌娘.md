@@ -12,7 +12,7 @@ dateCreated: "2022-10-09T12:26:55"
 
 H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情与政治相关文化为主题的在线百科全书。[^wiki]
 
-[^wiki]: 《[H萌娘](https://web.archive.org/web/20220918055008/https://zh.wikipedia.org/wiki/H%E8%90%8C%E5%A8%98)》, 维基百科, 2022-09-18. (参照 2022-10-09).
+[^wiki]: 《[H萌娘](https://web.archive.org/web/20220918055008/https://zh.wikipedia.org/wiki/H萌娘)》, 维基百科, 2022-09-18. (参照 2022-10-09).
 
 2016年5月31日 建立，目的是用于安置萌娘百科过去收录的涉及色情和政治敏感题材的条目，以应对萌娘百科转移到中国大陆后的网络审查，尽管网站创建初期被视为萌娘百科的「里站」，但现时萌娘百科和H萌娘互不承认其关联性。
 
@@ -40,7 +40,7 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 [雪球法则]: https://zh.wikipedia.org/wiki/Wikipedia:雪球法则
 
-[^wikich]: 《[维基百科:頁面存廢討論/記錄/2022/09/10](https://web.archive.org/web/20220926125127/https://zh.wikipedia.org/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2022/09/10#H%E8%90%8C%E5%A8%98)》, 维基百科, 2022-09-10. (参照 2022-09-27).
+[^wikich]: 《[维基百科:頁面存廢討論/記錄/2022/09/10](https://web.archive.org/web/20220926125127/https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢討論/記錄/2022/09/10#H萌娘)》, 维基百科, 2022-09-10. (参照 2022-09-27).
 
 ## 相关研究
 
