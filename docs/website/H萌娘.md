@@ -36,7 +36,9 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 [^tgm]: <https://t.me/gledos_microblogging/753>
 
-2022年9月10日，因为有人提出了关注度的问题，使用 [雪球法则](https://zh.wikipedia.org/wiki/Wikipedia:雪球法则) 打算删除H萌娘的维基百科条目，最后于 2022年9月19日 被正式删除。[^wikich]
+2022年9月10日，因为有人提出了关注度的问题，使用 [雪球法则][] 打算删除H萌娘的维基百科条目，最后于 2022年9月19日 被正式删除。[^wikich]
+
+[雪球法则]: https://zh.wikipedia.org/wiki/Wikipedia:雪球法则
 
 [^wikich]: 《[维基百科:頁面存廢討論/記錄/2022/09/10](https://web.archive.org/web/20220926125127/https://zh.wikipedia.org/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2022/09/10#H%E8%90%8C%E5%A8%98)》, 维基百科, 2022-09-10. (参照 2022-09-27).
 

@@ -133,7 +133,7 @@ dateCreated: "2021-03-18T10:33:47"
 
 ### hololive 旗下 Vtuber 接到了 Diablo Immortal 的广告
 
-Diablo Immortal 是暴雪与网易共同拥有版权的游戏，[^DI_Rights]Botan Ch.獅白ぼたん 在 2021年6月13日 进行做了广告。[^DI_AD]
+Diablo Immortal 是暴雪与网易共同拥有版权的游戏，[^DI_Rights] Botan Ch.獅白ぼたん 在 2021年6月13日 进行做了广告。[^DI_AD]
 
 [^DI_Rights]: © 2021 Blizzard Entertainment, Inc. and NetEase, Inc. All Rights Reserved. [Diablo® Immortal™](https://web.archive.org/web/20210609173056/https://diabloimmortal.com/en-us/)
 
