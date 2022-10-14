@@ -28,6 +28,10 @@ eSIM，又名<ruby>嵌入式SIM<rp>(</rp><rt>embedded-SIM</rt><rp>)</rp></ruby>�
 
 [^71592]: 张伟健, 《[摩托罗拉Razr折叠屏手机不在国内开卖，因为运营商不支持eSIM](https://web.archive.org/web/20210307150435/https://www.expreview.com/71592.html)》, 超能网, 2019-11-15. (参照 2022-09-10).
 
+2022年10月14日，运营商方面人士则向第一财经记者透露，「要看主管部门，手机支持 eSIM 需要获得主管部门的同意」。[^74142]
+
+[^74142]: 第一财经, 《[手机厂商要“消灭SIM卡”？](https://web.archive.org/web/20221014021231/https://finance.sina.com.cn/jjxw/2022-09-29/doc-imqqsmrp0933136.shtml "https://www.toutiao.com/article/7148665324018074142/")》, 今日头条, 2022-09-29. (参照 2022-10-14).
+
 ## eSIM一号双终端业务
 
 eSIM 一号双终端业务最初是在数个地区的试点，之后在 2020 年在全地区开展，是给智能手表提供 eSIM 的服务，仅有白名单中的设备可以被支持。

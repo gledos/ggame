@@ -36,6 +36,10 @@ dateCreated: "2021-09-28T23:09:13"
 
 <ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。
 
+## 反和谐
+
+2017年9月15日，完美世界代理了 CSGO，随后玩家发现反和谐的操作比起完美世界之前代理的 DOTA2 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
+
 ## 台湾战队被取消资格
 
 2018年11月6日，台湾的 Sad Story 队伍在参加 IEM Katowice 2019 Minor 东亚区公开预选赛\#2 时，在战胜日本 Friendly Welcome 队伍后，被 ESL 官方人员告知已经被取消参赛资格，理由是战队所属国家不符合参赛赛区的要求。
@@ -47,22 +51,6 @@ dateCreated: "2021-09-28T23:09:13"
 > 1.  max90283 (麥克斯), 《[[閒聊] 台灣CSGO隊伍SadStory遭取消資格](https://web.archive.org/web/20220731021856/https://www.ptt.cc/bbs/Steam/M.1541501849.A.97B.html)》, Ptt 批踢踢實業坊, 2018-11-06. (参照 2022-08-01).
 > 2.  楊綿傑 和 呂伊萱, 《[台灣電競隊大勝 未報中國賽區判失格 - 政治](https://web.archive.org/web/20181116083703/http://news.ltn.com.tw/news/politics/paper/1245280)》, 自由時報電子報, 2018-11-08. (参照 2022-08-01).
 > 3.  LemonFox, 《[台灣戰隊Sad Story 因「國藉問題」於Minor東亞預選賽 被ESL 取消資格 (內附ESL補償方案)](https://web.archive.org/web/20211023063214/https://csgo.com.hk/2018/11/09/taiwans-sad-story-has-been-disqualified-by-esl-in-the-minor-east-asian-qualification-tournament-due-to-national-problems/news/)》, TomorrowLAN CS:GO, 2018-11-09. (参照 2022-08-01).
-
-## 修改音乐盒名称
-
-> [!summary inline end]+ 反恐精英：全球攻势
->
-> ![The Lowlife Pack](https://s3.tebi.io/ggame/game/csgo/The_Lowlife_Pack.webp)
->
-> ```yaml
-> 英文名: Music Kit | Neck Deep, The Lowlife Pack
-> 过去中文名: 音乐盒 | Neck Deep - 痞子帮
-> 现在中文名: 音乐盒 | Neck Deep - 躺平青年
-> ```
-
-2021年6月9日，「Music Kit | Neck Deep, The Lowlife Pack」音乐盒的简体中文翻译从「痞子帮」修改为了「躺平青年」。[^BV1mK4y137co]
-
-[^BV1mK4y137co]: 某毕业的vup, 《[CSGO音乐盒痞子帮改名躺平（赢）青年！？你们要的改名还是来了.](https://archive.ph/34L6k "https://www.bilibili.com/video/BV1mK4y137co")》, 哔哩哔哩, 2021-06-09. (参照 2022-07-28).
 
 ## 修改旗帜
 
@@ -270,6 +258,22 @@ dateCreated: "2021-09-28T23:09:13"
 [vn_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/vn.png
 [world_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/world.png
 [za_r]: https://s3.tebi.io/ggame/game/csgo/旗帜/regions/za.png
+
+## 修改音乐盒名称
+
+> [!summary inline end]+ 反恐精英：全球攻势
+>
+> ![The Lowlife Pack](https://s3.tebi.io/ggame/game/csgo/The_Lowlife_Pack.webp)
+>
+> ```yaml
+> 英文名: Music Kit | Neck Deep, The Lowlife Pack
+> 过去中文名: 音乐盒 | Neck Deep - 痞子帮
+> 现在中文名: 音乐盒 | Neck Deep - 躺平青年
+> ```
+
+2021年6月9日，「Music Kit | Neck Deep, The Lowlife Pack」音乐盒的简体中文翻译从「痞子帮」修改为了「躺平青年」。[^BV1mK4y137co]
+
+[^BV1mK4y137co]: 某毕业的vup, 《[CSGO音乐盒痞子帮改名躺平（赢）青年！？你们要的改名还是来了.](https://archive.ph/34L6k "https://www.bilibili.com/video/BV1mK4y137co")》, 哔哩哔哩, 2021-06-09. (参照 2022-07-28).
 
 ## 激流大行动和谐
 
