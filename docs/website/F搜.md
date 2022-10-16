@@ -10,11 +10,13 @@ dateCreated: "2022-01-30T23:23:33"
 
 ## 简介
 
-```YAML
-中文名: F搜
-英文名: F Search
-url: fsou.cc
-```
+> [!summary inline end]+ 元数据
+>
+> ```YAML
+> 中文名: F搜
+> 英文名: F Search
+> url: fsou.cc
+> ```
 
 F搜 是一个搜索引擎，类似 Google、必应、百度一样的搜索引擎，提供了无广告、过滤内容农场的搜索结果，支持翻译、天气、IP 查询等功能。
 

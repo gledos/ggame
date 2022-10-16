@@ -45,9 +45,15 @@ dateCreated: "2021-01-29T11:00:39"
 >
 > gledos 对 Dota 2 不了解，所以这部分没法保证完整且正确的描述 Dota 2 反和谐的情况。
 
-反和谐大概有三种方法，第一种是跟游戏的 License 有关：
+反和谐有多种方法，部分早已失效，而效果也有一些差异，不过本地服务器的关键字屏蔽均无法修改。
 
-### License
+### 覆盖 License
+
+> [!example inline end]+ 和谐情况
+>
+> | 模型   | 特效   |
+> | ------ | ------ |
+> | 未和谐 | 未和谐 |
 
 +   使用完美世界的启动器登录 Dota 2，就会自动获得 Dota 2 - Perfect World Retail (CN) 俗称和谐码／完美码，这是和谐的根源
 +   早期 Dota 2 还是付费游戏的时代，许多商品会附赠 CD Key
@@ -58,15 +64,23 @@ dateCreated: "2021-01-29T11:00:39"
 
 [^t139116]: 、pikachu, 《[[科普]Dota2反和谐的究极研究和方法](https://web.archive.org/web/20150904003339/http://steamcn.com/t139116-1-1)》, SteamCN 蒸汽动力, 2015-08-31. (参照 2022-10-15).
 
+所以只要弄到一个高优先级的 Dota 2 License，就可以反和谐，曾经可以免费获得，2019 年时已经早已绝版，所以市场上的价格高达数百人民币。
+
 > [!example inline end]+ 和谐情况
 >
 > | 模型   | 特效   |
 > | ------ | ------ |
-> | 未和谐 | 未和谐 |
+> | 未和谐 | 已和谐 |
 
-所以只要弄到一个高优先级的 Dota 2 License，就可以反和谐，曾经可以免费获得，2019 年时已经早已绝版，所以市场上的价格高达数百人民币。
+但在 2021年2月 月初，玩家发现 Dota 2 的本地服务器会转到蒸汽平台，此时会添加一个名为 Steam China PW Grant 的 License，这个 License 在蒸汽平台的优先级是最高的，但还是有一点后门，此时如果有任何反和谐 License，那么游戏在本地服务器就会呈现半反和谐的效果。[^qWFj3]
 
-曾经还有请求 Steam 客服移除 Dota 2 - Perfect World Retail (CN) 这个 License，不过现在 Steam 客服已经不会移除了。又或者开启家庭共享，将含有反和谐功能的小号共享给主要帐号，不过此功能在 2016年12月 之前也被 Valve 停用了。
+[^qWFj3]: DOTA2更新资讯_HOHO, 「[根据目前一些刀友测试，这次\#DOTA2\#国服客户端转入蒸汽平台，如果STEAM玩家输入-perfectworld指令进入DO2国服，会添加一个新的完美码……](http://archive.ph/qWFj3 "https://weibo.com/5799916826/K16kD1SmC")」, 新浪微博, 2021-02-09. (参照 2022-10-15).
+
+所以 2021年2月 之后，使用反和谐的 License 不再是最佳的反和谐方案了。
+
+### 移除 License
+
+曾经还有请求 Steam 客服移除 Dota 2 - Perfect World Retail (CN) 这个 License，这样也能实现与高优先级的 License 相似的效果，不过现在 Steam 客服已经不会移除了。
 
 ### dota_lv
 
@@ -90,14 +104,27 @@ dateCreated: "2021-01-29T11:00:39"
 > | ------ | ------ |
 > | 未和谐 | 未和谐 |
 
-此方法俗称打 Mod，Valve 不会对饰品的 Mod（模型、纹理、图标、音效和文字等）进行严格的校验。所以 Dota 2 有各种 skinchanger 这种免费更换皮肤的插件，这种操作基本没有 VAC 封禁的案例。（不过 CSGO 就不能这么玩了）
+此方法俗称打 Mod，Valve 不会对饰品的 Mod（模型、纹理、图标、音效和文字等）进行严格的校验。
 
-所以替换 vpk 模型文件，可以做到完全的反和谐，不过得注意不要使用包含其他功能的 Mod。
+所以 Dota 2 有各种 skinchanger 这种免费更换皮肤的插件，这种操作基本没有 VAC 封禁的案例。[^d2wvac]（不过 CSGO 就不能这么玩了）替换 vpk 模型文件，可以做到完全的反和谐，不过得注意不要使用包含其他功能的 Mod。
 
-### Steam China PW Grant 的变化
+[^d2wvac]: 《[封禁](https://web.archive.org/web/20210916163948/https://dota2.fandom.com/zh/wiki/封禁)》, Dota 2 Wiki. (参照 2022-10-15).
 
-2021年2月 月初，玩家发现 Dota 2 的本地服务器会转到蒸汽平台，此时会添加一个名为 Steam China PW Grant 的 License，这个 License 在蒸汽平台的优先级是最高的，但还是有一点后门，此时如果有任何反和谐 License，那么游戏在本地服务器就会呈现半反和谐的效果。[^qWFj3]
 
-[^qWFj3]: DOTA2更新资讯_HOHO, 「[根据目前一些刀友测试，这次\#DOTA2\#国服客户端转入蒸汽平台，如果STEAM玩家输入-perfectworld指令进入DO2国服，会添加一个新的完美码……](http://archive.ph/qWFj3 "https://weibo.com/5799916826/K16kD1SmC")」, 新浪微博, 2021-02-09. (参照 2022-10-15).
+### 家庭共享
 
-所以 2021年2月 之后，使用反和谐的 License 不再是最佳的反和谐方案了。
+开启家庭共享功能，将含有反和谐功能的小号共享给主要帐号，不过此功能在 2016年12月 之前被停用了，反和谐效果尚不明确。
+
+### 修改配置文件
+
+在 Dota 2 Wiki 上面记录了这样的反和谐方式，找到游戏根目录下的 `game\dota\gameinfo.gi` 文件，然后使用文本编辑器开启，找到含有 Game_LowViolence 的部分，在此段内容的前方加上双斜线注释 `//`：[^d2wac]
+
+[^d2wac]: 《[反和谐教程](https://web.archive.org/web/20221015114637/https://dota2.fandom.com/zh/wiki/反和谐教程?so=search)》, Dota 2 Wiki. (参照 2022-10-15).
+
+```text
+...前略...
+//Game_LowViolence	dota_lv
+...后略...
+```
+
+保存后就能实现反和谐，不过反和谐效果尚不明确，现在是否能够使用也未知。
