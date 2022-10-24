@@ -24,8 +24,8 @@ Typora 是一款所见即所得的 Markdown 跨桌面平台的写作工具，由
 
 [^1466]: Typora, 「[2021年12月2日 23:06 PST](https://web.archive.org/web/20211203071140/https://twitter.com/Typora/status/1466665114824626179)」, Twitter, 2021-12-03. (参照 2022-03-19).
 
-???+ quote "Typora - 2021年12月2日 23:06 PST"
-
-    Announce (for Chinese User): 由于我们的网站在国内已被封锁，会导致激活失败，现已暂停国内销售。我们正在搭建国内的平台，但相关审核可能需要数天。有类似处理经验的也欢迎指导我们<helpus@typora.io> 🙏
+> [!quote]+ Typora - 2021年12月2日 23:06 PST
+>
+> Announce (for Chinese User): 由于我们的网站在国内已被封锁，会导致激活失败，现已暂停国内销售。我们正在搭建国内的平台，但相关审核可能需要数天。有类似处理经验的也欢迎指导我们<helpus@typora.io> 🙏
 
 关于台湾与香港的国家标识，与随后被 GFW 封禁问题，两者的联系未知，随后 Typora 创建了简体中文网站 `typoraio.cn`，避免用户因域名被封导致无法连接服务器的情况。
