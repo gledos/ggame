@@ -41,6 +41,18 @@ dateCreated: "2022-09-23T12:46:22"
 
 2022年5月24日，苹果在官网上线了2022年新款的 [Apple Watch](/company/Apple/Apple_Watch.md) 彩虹表带。但是在大陆网站的宣传语中完全没有提及「骄傲（旗）」以及「LGBTQ+」等概念。
 
+2022年6月，这是 [骄傲月][]，加拿大和美国的使领馆在新浪微博发送了骄傲骑行的活动介绍和图片，但随后被新浪微博屏蔽。[^87969][^85632][^TjgPf][^57V1V]
+
+[骄傲月]: https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80%E8%87%AA%E8%B1%AA%E6%97%A5
+
+[^87969]: Canada en Chine, 「[Nous avons partagé notre esprit……](https://web.archive.org/web/20220620092611/https://twitter.com/CanadaChine/status/1538815360475987969)」, Twitter, 2022-06-20. (参照 2022-10-25).
+
+[^85632]: Canada in China, 「[Shared our \#PrideRideBeijing spirit……](https://web.archive.org/web/20220620091416/https://twitter.com/CanadaChina/status/1538812110486085632)」, Twitter, 2022-06-20. (参照 2022-10-25).
+
+[^TjgPf]: 美国驻华使领馆 US MissionCN, 「[Nous aussi……](https://archive.ph/TjgPf "https://twitter.com/USA_China_Talk/status/1539103282181943296")」, Twitter, 2022-06-21. (参照 2022-10-25).
+
+[^57V1V]: 美国驻华使领馆 US MissionCN, 「[我们也是……](https://archive.ph/57V1V "https://twitter.com/USA_China_Talk/status/1539103615314538496")」, Twitter, 2022-06-21. (参照 2022-10-25).
+
 2022年7月21日，微信公众号「BAFA美术馆」发布了《[如何让你的作品在美院毕业展里存活下来](/activities/2022美术学院毕业展.md)》，其中给出了建议：「两个同性别的人在一起有肢体接触，就会被认为有同性恋倾向并且下架」。
 
 2022年7月25日，「[2022武汉百合only](/activities/漫展/2022武汉百合only.md)」新浪微博账号发布了「有缘再会。」这样一句话，停止了这场百合主题的漫展。
