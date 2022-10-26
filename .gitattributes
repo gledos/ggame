@@ -1,2 +1,2 @@
-*.md linguist-detectable
 *.html linguist-documentation
+*.md linguist-detectable
