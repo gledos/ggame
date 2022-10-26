@@ -1,2 +1,3 @@
 *.html linguist-documentation
 *.md linguist-detectable
+*.md linguist-language=Markdown
