@@ -20,15 +20,15 @@ Apex Legends 含有敏感词，已知的有「gay」「ass」，在聊天栏中�
 
 Apex Legends 也有一些中文敏感词，比如一些脏话，会被和谐为星号 \*，尚不明确是否会导致账号被封禁。
 
-Apex Legends 对于 <ruby>N-word<rp>(</rp><rt>Nigger</rt><rp>)</rp></ruby> 的审查很严重，一些相似读音的变体也会被审查，比如日语「逃跑」的日语罗马字 Nigero 就会被审查。[^mdggh6]
+Apex Legends 对于 <ruby>N-word<rp>(</rp><rt>Nigger</rt><rp>)</rp></ruby> 的审查很严重，一些相似读音的变体也会被审查，比如日语「逃跑（逃げろ）」的日语罗马字 Nigero 就会被审查。[^mdggh6][^386526]
 
 [^mdggh6]: 1zana, 《[A Japanese player got suspended because he said 「nigero」 which means run](https://web.archive.org/web/20220105051846/https://www.reddit.com/r/apexlegends/comments/mdggh6/a_japanese_player_got_suspended_because_he_said/)》, r/apexlegends, 2021-03-26. (参照 2022-07-17).
 
+[^386526]: AlainDrone, 《[エーペックスレジェンズ：「逃げろ！」で誤BANされる日本人続出、ヘイトスピーチ容疑をかけられる。対処法は？](https://web.archive.org/web/20211214072342/https://fpsjp.net/archives/386526)》, EAA!! - FPS News, 2021-04-06. (参照 2022-10-26).
+
 ## 哔哩哔哩直播封禁
 
-Apex Legends 只对名称进行少量的审查，而大陆政治敏感的词语没有审查，所以一些大陆直播 Apex 的直播者遭到了 [哔哩哔哩][] 封禁，即使是开启了游戏里内建的「直播模式」，隐藏了其他玩家的名称也不能 100% 防止问题，因为「直播模式」会显示传奇名称加上随机的四个数字，而这四个数字可能就会变成敏感词。[^dTnAe]
-
-[哔哩哔哩]: /website/哔哩哔哩弹幕网.md
+Apex Legends 只对名称进行少量的审查，而大陆政治敏感的词语没有审查，所以一些大陆直播 Apex 的直播者遭到了 [哔哩哔哩](/website/哔哩哔哩弹幕网.md) 封禁，即使是开启了游戏里内建的「直播模式」，隐藏了其他玩家的名称也不能 100% 防止问题，因为「直播模式」会显示传奇名称加上随机的四个数字，而这四个数字可能就会变成敏感词。[^dTnAe]
 
 [^dTnAe]: 玖亿啊OuO, 「[第一次封下午4点到6点，解封后开播直接封三天……](https://archive.ph/dTnAe "https://t.bilibili.com/683496925316513813")」, 哔哩哔哩, 2022-07-16. (参照 2022-07-17).
 
