@@ -9,7 +9,9 @@ editor: markdown
 dateCreated: "2020-10-10T09:08:45"
 ---
 
-<!-- 国内专业的游戏玩家社区 -->
+## 简介
+
+NGA 是国内专业的游戏玩家社区，全称为<ruby>艾泽拉斯国家地理<rp>(</rp><rt>National Geographic of Azeroth</rt><rp>)</rp></ruby>，是网络游戏《魔兽世界》的爱好者网站，创建时间是 2002 年。
 
 ## 论坛含有不实新闻导致关站一个月
 
