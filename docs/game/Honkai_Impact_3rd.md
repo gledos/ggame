@@ -347,7 +347,7 @@ dateCreated: "2021-05-07T15:42:36"
 + [BOIS They've done it, we've done it. The kiss is back on the official manga site. Coincidence or not this is a win : houkai3rd](https://web.archive.org/web/20210427150400/https://old.reddit.com/r/houkai3rd/comments/mzkk5r/bois_theyve_done_it_weve_done_it_the_kiss_is_back/)
 + [绀海篇被删的两张图，给大家献上，还有，别买绀海篇漫画，图和话都改了，改的不成样子了，真不想说啥了。本来发了两次漫画书和原版对比_崩坏3rd吧_百度贴吧](https://web.archive.org/web/20210427154310/https://tieba.baidu.com/p/6190775279)
 + [【图片】给各位hxd找到了没删减的绀海篇就那两段，二楼放【原神吧】_百度贴吧](https://web.archive.org/web/20210427154602/https://tieba.baidu.com/p/6692743855)
-+ [绀海篇 回顾绀海篇，发现亲嘴那里好像被和谐了【崩坏3rd吧】_百度贴吧](https://web.archive.org/web/20210427154418/https://tieba.baidu.com/p/5561969562)
++ [绀海篇 回顾绀海篇，发现亲嘴那里好像被和谐了【崩坏3rd吧】 百度贴吧](https://web.archive.org/web/20210427154418/https://tieba.baidu.com/p/5561969562)
 + [崩坏3？百合3？不后宫3，我眼瞎我傻上了绀海篇这坑草 - 哔哩哔哩专栏](https://archive.is/EH4dV "https://www.bilibili.com/read/cv7980303/")
 + [崩3实体书《绀海篇》介绍与网络版对比 - 希儿资料库 - 哔哩哔哩专栏](https://archive.is/jwlsB "https://www.bilibili.com/read/cv2353788/")
 + 帖子发布或回复时间超过限制 [[厨力放出]绀海篇实体漫画全部修改内容 NGA玩家社区](https://archive.is/hSejc)
