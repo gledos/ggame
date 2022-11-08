@@ -14,11 +14,15 @@ Victor Gevers 是荷兰黑客、安全研究人员，擅长披露漏洞，是隶
 
 ## SenseNets
 
-2019年2月13日，Victor Gevers 在推特上披露了 SenseNets 的一个 MongoDB 数据库没有密码的暴露在网络上，而此数据库含有 25 万 65724 人的姓名、身份证号码、身份证签发日期、身份证到期日期、性别、国籍、家庭住址、出生日期、照片、雇主和 GPS 座标信息。而其中汉族占 54.9%，维吾尔族占 28.3% 所以 Victor Gevers 认为这个数据库所对应的用途是侧重于少数民族的。[^40451]
+2019年2月13日，Victor Gevers 在推特上披露了 SenseNets 的一个 MongoDB 数据库没有密码的暴露在网络上，而此数据库含有 256 万 5724 人的姓名、身份证号码、身份证签发日期、身份证到期日期、性别、国籍、家庭住址、出生日期、照片、雇主和 GPS 座标信息。而其中汉族占 54.9%，维吾尔族占 28.3% 所以 Victor Gevers 认为这个数据库所对应的用途是侧重于少数民族的。[^40451]
 
 [^40451]: Victor Gevers, 「[These are the trackers which are connected the SenseNets database……](https://web.archive.org/web/20221016155839/https://twitter.com/0xDUDE/status/1096788937492840451?ref_src=twsrc^tfw)」, Twitter, 2019-02-13. (参照 2022-11-04).
 
 备注：2015 年，少数民族占总人口的 8.5%。
+
+## 智能学校相关
+
+详情可以阅读 [智能学校](/unclear/智能学校.md) 条目。
 
 ## China PRISM
 
@@ -30,7 +34,7 @@ Victor Gevers 是荷兰黑客、安全研究人员，擅长披露漏洞，是隶
 | qg         | 未知，有人认为是 [学习强国](/software/Xuexi_Qiangguo.md) |
 | qqmesg     | [腾讯 QQ](/company/腾讯/QQ.md)                           |
 | wwmsg      | 阿里旺旺                                                 |
-| wxmsg      | [腾讯微信](/company/腾讯/微信.md)                         |
+| wxmsg      | [腾讯微信](/company/腾讯/微信.md)                        |
 | yymsg      | YY                                                       |
 
 [^80192]: Victor Gevers, 《[Can anyone (from China) identify these Messaging services?](https://web.archive.org/web/20221020040322/https://twitter.com/0xDUDE/status/1101909112131080192)》, Twitter, 2019-03-03. (参照 2022-11-04).
@@ -46,7 +50,3 @@ Victor Gevers 是荷兰黑客、安全研究人员，擅长披露漏洞，是隶
 之后 Victor Gevers 透露的截图显示了「镇登记」的字样。BreedReady = 1 的年龄是 18 ~ 39 岁，尚不明确其含义，而数据库被托管在山东一所大学。
 
 备注：Breed 有孕育（动词）的意思。
-
-## 智能学校相关
-
-待续
