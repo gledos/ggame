@@ -1,0 +1,44 @@
+name: ci
+on:
+  push:
+    branches:
+    - master
+    - main
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
+    - run: pip install mkdocs-material
+    - run: pip install mkdocs-material-extensions
+    - run: pip install mkdocs-exclude
+    - run: pip install mkdocs-abs-rel-plugin
+    - run: pip install mkdocs-roamlinks-plugin
+    - run: pip install mkdocs-redirects
+    - run: pip install pymdown-extensions
+    - run: pip install mkdocs-exclude-search
+    - run: pip install mkdocs-callouts
+    - run: pip install mkdocs-video
+    - run: pip install mkdocs-blogging-plugin
+    - name: Build with Mkdocs
+      run: mkdocs build
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+       # Path of the directory containing the static assets.
+       path: site/
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
