@@ -43,3 +43,11 @@ AirDrop 具有一些便利，因为当接受方的手机与分享方是联系人
 2022年10月20日，盘古石发布了取证工具，根据另一个网站同名的转载内容，[^1361437] 可以看出此工具可能是在本地运行的。不过原文中的示例号码「17317267116」的 Hash 是 08a61…d3118，这跟 SHA-256 后的 Hash 不同，尚不明确原因。
 
 [^1361437]: 《[AirDrop取证、投递设备手机号溯源，现已发布](https://web.archive.org/web/20221020201549/https://cn-sec.com/archives/1361437.html)》, CN-SEC 中文网, 2022-10-20. (参照 2022-10-21).
+
+## 限制
+
+2022年11月10日，iOS 更新到了 iOS 16.1.1，更新日志只显示了修正错误以及安全性，但没有提到大陆版 iPhone 的 AirDrop 功能会被限制。
+
+9to5mac 发现这个更新会对大陆版硬件的 iPhone 调整 AirDrop 的接收所有人的隔空投送有 10 分钟的限制。[^eoad]
+
+[^eoad]: Filipe Espósito, 《[Apple to restrict ‘Everyone’ option in AirDrop to 10 minutes in China with iOS 16.1.1 [U]](https://web.archive.org/web/20221109212240/https://9to5mac.com/2022/11/09/everyone-option-airdrop-10-minutes-china/)》, 9to5Mac, 2022-11-10. (参照 2022-11-10).
