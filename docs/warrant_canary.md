@@ -18,6 +18,32 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年11月11日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年11月11日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   翟少辉, 《[分析｜英伟达针对中国推“特供版”GPU，效果几何？](http://www.caixin.com/2022-11-10/101963279.html)》, 财新, 2022-11-10. (参照 2022-11-11).
++   乃河, 《[时隔2年：NVIDIA终于开源PhysX 5.1物理引擎](https://news.mydrivers.com/1/871/871610.htm)》, 快科技, 2022-11-10. (参照 2022-11-11).
++   《[地球首个星际访客 证实来自太阳系外|中國報](https://www.chinapress.com.my/20221110/地球首个星际访客-证实来自太阳系外/)》, 中國報 China Press, 2022-11-10. (参照 2022-11-11).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCY25wtwAKCRCZXo6bU2oX
+pCxgAP9Dt0Px/KbVIUOMYhsL0PAuNakmvRJzK2Kj9rMJuWjRvAEA6tTwMs/TOesU
+3E5XnND5YqqzYHbr2JUuzLlhnsdfYAU=
+=obmW
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年10月11日
 
 ```markdown
@@ -41,8 +67,6 @@ zpyVeD/67s5FZBE/APCTmZGvvjmbqQ4=
 =u2dW
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年9月10日
 
