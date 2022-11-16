@@ -32,4 +32,4 @@ pixiv 股份有限公司运营了 Pixiv 网站，此网站主要由日本艺术�
 
 [^mf]: Christy, 《[日本成人網 DMM 被 Mastercard 封殺 網民擔心信用卡公司檢閱內容](https://web.archive.org/web/20220723224343/https://unwire.hk/2022/07/23/mastercard-fanza/fun-tech/)》, 香港 unwire.hk 玩生活．樂科技, 2022-07-23. (参照 2022-11-16).
 
-[^6767398]: 啄雞, 《[配合信用卡公司？pixiv新規明禁旗下付費管道亂倫、獸蕉等內容 BOOTH、FANBOX都受影響](https://game.udn.com/game/story/122089/6767398)》, udn遊戲角落, 2022-11-15. (参照 2022-11-16).
+[^6767398]: 啄雞, 《[配合信用卡公司？pixiv新規明禁旗下付費管道亂倫、獸蕉等內容 BOOTH、FANBOX都受影響](https://web.archive.org/web/20221115161814/https://game.udn.com/game/story/122089/6767398)》, udn遊戲角落, 2022-11-15. (参照 2022-11-16).
