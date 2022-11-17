@@ -91,6 +91,14 @@ dateCreated: "2022-08-03T09:18:38"
 [^41]: 感谢 [@无知使我快乐](https://www.zhihu.com/people/1192ddd385940c587792a3c819f69967) 补充
 [^45]: 感谢 [@Leiseya](https://www.zhihu.com/people/5d0dd5ae9e2cc58a6c1a9400e4e62c1b) 提供
 
+## iBooks
+
+iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还有 iBooks Store，可以购买电子书，曾经大陆也支持此功能，但在 2016年4月，iBooks Store 和 iTunes Movies 突然就被关闭了。[^33557]
+
+[^33557]: Paul Mozur、Jane Perlez, 《[Apple Services Shut Down in China in Startling About-Face](https://web.archive.org/web/20221115233557/https://www.nytimes.com/2016/04/22/technology/apple-no-longer-immune-to-chinas-scrutiny-of-us-tech-firms.html)》, The New York Times, 2016-04-22. 参照: 2022-11-17. [Online].
+
+备注：2018年6月4日 的 WWDC18 上面，苹果宣布将 iBooks 更名为 Apple Books。
+
 ## iOS 10 大陆特别功能
 
 2016 年，iOS 10 出现了一个特殊的功能，并且只有大陆版本的设备才有，这就是从「设置」「蜂窝移动网络」「使用无线局域网与蜂窝移动的应用」里面设置的「联网权限」功能，此功能会强制 APP 默认禁止联网，而当 APP 联网时，手机会弹出一个联网请求，询问是否允许 Wi-Fi 网络连接的功能。

@@ -58,3 +58,11 @@ dateCreated: "2022-10-09T11:41:32"
 除了官方的各种健康码之外，还有个人开发者，通过 Android 或者 Web 技术开发了一些第三方模拟器。其中有：[Health Code Demo](/software/电子护照/Health_Code_Demo.md)、[FuckMinZhengTong](/software/电子护照/FuckMinZhengTong.md)、[爱上健康宝](/software/电子护照/爱上健康宝.md) 和 [trip-card](/software/电子护照/trip-card.md)，不过这么做可能会被寻衅滋事罪逮捕。[^88162] 所以 2022 年出现了通过 Telegram 或者 ProtonMail 联系，然后使用 USDT 交易的商业化模拟器。
 
 [^88162]: 马剑, 《[假“健康码”背后藏了什么“鬼”？](https://web.archive.org/web/20220525125004/http://www.xinhuanet.com/2021-01/15/c_1126988162.htm)》, 新华网, 2021-01-15. (参照 2022-10-09).
+
+## ilovexjp/health-code-index
+
+ilovexjp/health-code-index 这个 GitHub 仓库是健康码、行程卡模拟的索引页面，但是在 2022年11月16日 稍早前，项目的 GitHub 账号 ilovexjp 整体遭到封锁，GitHub 官方给出的理由是「a violation of our Terms of Service」。[^gh_ilovexjp][^689723]
+
+[^gh_ilovexjp]: ilovexjp, 「[早些时候，项目的 GitHub 账号 ilovexjp 整体遭到封锁……](https://web.archive.org/web/20221116152328/https://t.me/s/gh_ilovexjp/31)」, Telegram频道, 2022-11-16. (参照 2022-11-17).
+
+[^689723]: 既要又要还要, 《[【立此存照】反抗极端防疫的“健康码模拟”项目遭Github官方封禁](https://web.archive.org/web/20221117100427/https://chinadigitaltimes.net/chinese/689723.html)》, 中国数字时代, 2022-11-16. (参照 2022-11-17).
