@@ -43,10 +43,13 @@ Cloudflare 虽然在过去大部分情况，没有停止暴力纳粹的网站的
 +   `*.pages.dev`
 +   `*.workers.dev`
 
----
+> [!abstract]+ 相关链接
+>
+> +   《[github.laobiao.workers.dev GET测试结果](https://web.archive.org/web/20220509032033/http://17ce.com/site/http/20220509_288e7d90cf4611eca6c6f3822089be12:1.html)》, 17CE, 2022-05-09. (参照 2022-05-09).
+> +   emptysuns, 《[「补图」pages之后workers.dev也被dns污染了](https://web.archive.org/web/20220509031615/https://hostloc.com/thread-1013938-1-1.html)》, 全球主机交流论坛, 2022-05-08. (参照 2022-05-09).
 
-+   相关链接
-    +   《[github.laobiao.workers.dev GET测试结果](https://web.archive.org/web/20220509032033/http://17ce.com/site/http/20220509_288e7d90cf4611eca6c6f3822089be12:1.html)》, 17CE, 2022-05-09. (参照 2022-05-09).
-    +   emptysuns, 《[「补图」pages之后workers.dev也被dns污染了](https://web.archive.org/web/20220509031615/https://hostloc.com/thread-1013938-1-1.html)》, 全球主机交流论坛, 2022-05-08. (参照 2022-05-09).
+## 部分地区屏蔽 IP
 
+2022年11月20日，有人观察到部分地区的移动和联通网络，将香港或者全部的的 Cloudflare IP 给屏蔽了，也有人观察到还能连接，但延迟明显上升了。[^896616]
 
+[^896616]: yaott2020, 《[移动做的真的绝，直接屏蔽到 HK Cloudflare IP](https://web.archive.org/web/20221120232112/https://www.v2ex.com/t/896616)》, V2EX, 2022-11-20. (参照 2022-11-21).
