@@ -5,6 +5,7 @@ mkdocs-exclude
 mkdocs-exclude-search
 mkdocs-material
 mkdocs-material-extensions
+mkdocs-minify-plugin
 mkdocs-redirects
 mkdocs-roamlinks-plugin
 mkdocs-video

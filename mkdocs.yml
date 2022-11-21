@@ -118,11 +118,11 @@ plugins:
       remove_comments: true
   #   js_files:
   #   - my/javascript/dir/file1.js
-      css_files:
-      - css/external_link_icon.css
-      - css/footnotes.css
-      - css/base.css
-      - css/custom_admonitions.css
+  #   css_files:
+  #   - css/external_link_icon.css
+  #   - css/footnotes.css
+  #   - css/base.css
+  #   - css/custom_admonitions.css
 # - search:
 # - exclude-search:
     # exclude:
