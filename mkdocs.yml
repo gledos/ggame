@@ -124,7 +124,7 @@ plugins:
 #       - css/base.css
 #       - css/custom_admonitions.css
 - search:
-    separator: '[\s\u200b\-]'
+    lang: jp
 - exclude-search:
     exclude:
     - CODE_OF_CONDUCT.md
