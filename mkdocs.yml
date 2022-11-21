@@ -124,7 +124,6 @@ plugins:
 #       - css/base.css
 #       - css/custom_admonitions.css
 - search:
-    lang: jp
 - exclude-search:
     exclude:
     - CODE_OF_CONDUCT.md
