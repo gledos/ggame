@@ -123,10 +123,14 @@ plugins:
 #       - css/footnotes.css
 #       - css/base.css
 #       - css/custom_admonitions.css
-# - search:
-#     separator: '[\s\u200b\-]'
+- search:
+    separator: '[\s\u200b\-]'
 - exclude-search:
     exclude:
+    - CODE_OF_CONDUCT.md
+    - tags.md
+    - warrant_canary.md
+    - 待办事项.md
     - rule/*
     - news_archive/*
     - encryption/*
