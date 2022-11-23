@@ -19,9 +19,7 @@ theme:
     logo: material/microsoft-xbox-controller-off
     admonition:
       quote: bootstrap/cblb
-  font:
-    text: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif"     # 跨平台中文字体解决方案 https://zenozeng.github.io/fonts.css/
-    code: "Sarasa Fixed SC, Noto Sans Mono CJK SC"
+  font: false
   palette:
   - media: "(prefers-color-scheme: light)"
     primary: blue
@@ -70,8 +68,8 @@ markdown_extensions:
 - codehilite:
     guess_lang: false
     linenums: false
-- pymdownx.betterem:
-    smart_enable: all
+# - pymdownx.betterem:
+#     smart_enable: all
 - pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
     alternate_style: true
 - meta                    # YAML 元数据
@@ -84,7 +82,7 @@ markdown_extensions:
 - pymdownx.mark
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
-- pymdownx.emoji:         # 支持图标icons和表情渲染，比如:smile:
+- pymdownx.emoji:         # 支持图标 icons 和表情渲染，比如:smile:
     # emoji_index: !!python/name:materialx.emoji.twemoji
     # emoji_generator: !!python/name:materialx.emoji.to_svg
     options:
