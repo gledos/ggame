@@ -10,20 +10,6 @@
   <h1>{{ page.title | d(config.site_name, true)}}</h1>
 {% endif %}
 
-<!-- Edit and view button -->
-{% set view = "https://raw.githubusercontent.com/gledos/ggame" %}
-{% set edit = "https://github.com/gledos/ggame/edit" %}
-<a
-  href="{{ page.edit_url }}"
-  title="{{ lang.t('edit.link.title') }}"
-  class="md-content__button md-icon"
->{% include ".icons/material/file-edit-outline.svg" %}</a>
-<a
-  href="{{ page.edit_url | replace(edit, view) }}"
-  title="查看页面原始的 Markdown"
-  class="md-content__button md-icon"
->{% include ".icons/material/file-eye-outline.svg" %}</a>
-
 <!-- Markdown content -->
 {{ page.content }}
 
