@@ -1,5 +1,5 @@
 ---
-title: book
+title: text
 description:
 published: true
 date: "2021-08-21T19:10:08"
@@ -13,8 +13,8 @@ exclude_from_blog: true
 
 ## 简介
 
-book 即书籍，一些书籍会被收录到此版块（文件夹）。
+text 即文字，一些书籍、文章等文字类型的内容，会被收录到此版块（文件夹）。
 
 > [!note]+ 最近更新
 >
-> {{ blog_content book }}
+> {{ blog_content text }}
