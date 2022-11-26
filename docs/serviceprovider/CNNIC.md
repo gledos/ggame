@@ -13,9 +13,7 @@ dateCreated: "2022-07-12T16:03:18"
 
 CNNIC 的全称是「China Internet Network Information Center，中国互联网络信息中心」。
 
-主要作用是发布《[中国互联网络发展状况统计报告][]》，以及规范域名注册服务，也是 .cn 域名和中文顶级域 (Top-level Domain) 的注册管理机构。
-
-[中国互联网络发展状况统计报告]: /research/中国互联网络发展状况统计报告.md
+主要作用是发布《[中国互联网络发展状况统计报告](/research/中国互联网络发展状况统计报告.md)》，以及规范域名注册服务，也是 .cn 域名和中文顶级域 (Top-level Domain) 的注册管理机构。
 
 ## 回收奥运冠军姓名
 
