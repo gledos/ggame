@@ -178,9 +178,9 @@ plugins:
       - blocklist
       size: 50
       template: overrides/custom-blog.html
-    - name: book
+    - name: text
       dirs:
-      - book
+      - text
       size: 50
       template: overrides/custom-blog.html
     - name: catch_the_wind
@@ -303,6 +303,27 @@ plugins:
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
       "website/新浪微博.md": "company/新浪/新浪微博.md"
       "website/新浪博客.md": "company/新浪/新浪博客.md"
+      "book/~大家学系列口袋书.md": "text/~大家学系列口袋书.md"
+      "book/DaGuoZhanYi.md": "text/DaGuoZhanYi.md"
+      "book/Gate_Where_the_JSDF_Fought.md": "text/Gate_Where_the_JSDF_Fought.md"
+      "book/index.md": "text/index.md"
+      "book/RAIDEN-18.md": "/RAIDENtext-18.md"
+      "book/The_Anarchist_Cookbook.md": "text/The_Anarchist_Cookbook.md"
+      "book/「苏联相关」.md": "text/「苏联相关」.md"
+      "book/东方文化西方语.md": "text/东方文化西方语.md"
+      "book/倒退的帝国：朱元璋的成与败.md": "text/倒退的帝国：朱元璋的成与败.md"
+      "book/农村发展论丛.md": "text/农村发展论丛.md"
+      "book/南方周末.md": "text/南方周末.md"
+      "book/我加载了恋爱游戏.md": "text/我加载了恋爱游戏.md"
+      "book/海贼王.md": "text/海贼王.md"
+      "book/游戏机实用技术.md": "text/游戏机实用技术.md"
+      "book/电人N.md": "text/电人N.md"
+      "book/疫记.md": "text/疫记.md"
+      "book/财经天下周刊.md": "text/财经天下周刊.md"
+      "book/邓小平时代.md": "text/邓小平时代.md"
+      "book/字典词典/新编学生字典.md": "text/字典词典/新编学生字典.md"
+      "book/字典词典/网络字典词典.md": "text/字典词典/网络字典词典.md"
+      "book/字典词典/输入法的音标.md": "text/字典词典/输入法的音标.md"
 
 extra:
   generator: false
