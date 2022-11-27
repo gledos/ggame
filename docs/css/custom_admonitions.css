@@ -22,3 +22,28 @@
 }
 
 /* rule 结束 */
+
+/* calendar 开始 */
+
+:root {
+    --md-admonition-icon--calendar: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V8h14m-3-7v2H8V1H6v2H5c-1.11 0-2 .89-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2h-1V1m-1 11h-5v5h5v-5Z"/></svg>')
+}
+
+.md-typeset .admonition.calendar,
+.md-typeset details.calendar {
+    border-color: rgb(68, 138, 255);
+}
+
+.md-typeset .calendar>.admonition-title,
+.md-typeset .calendar>summary {
+    background-color: rgba(68, 138, 255, 0.1);
+}
+
+.md-typeset .calendar>.admonition-title::before,
+.md-typeset .calendar>summary::before {
+    background-color: rgb(68, 138, 255);
+    -webkit-mask-image: var(--md-admonition-icon--calendar);
+    mask-image: var(--md-admonition-icon--calendar);
+}
+
+/* calendar 结束 */
