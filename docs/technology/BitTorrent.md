@@ -100,7 +100,7 @@ Gnutella 网络是最先使用的，当时 Gnutella 是非常流行的分享文�
 
 ### 磁力链接的结构
 
-一个简单的磁力链接就像下面的样子，
+一个简单的磁力链接就像下面的样子，磁力链接属于 URN（<ruby>统一资源名称<rp>(</rp><rt>Uniform Resource Name</rt><rp>)</rp></ruby>）。
 
 ```text
  magnet:?xt=urn:btih:c7b01623dbc4f58ab0c4bee964a7416538ad4453
