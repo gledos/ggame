@@ -78,7 +78,7 @@ markdown_extensions:
 - pymdownx.highlight      # 代码块相关
 - pymdownx.inlinehilite   # 代码块相关
 - pymdownx.snippets
-- pymdownx.magiclink
+# - pymdownx.magiclink    # 魔法链接，自动把裸露的链接转化成 <a> 标签
 - pymdownx.mark
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
