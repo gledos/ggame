@@ -307,7 +307,7 @@ plugins:
       "book/DaGuoZhanYi.md": "text/DaGuoZhanYi.md"
       "book/Gate_Where_the_JSDF_Fought.md": "text/Gate_Where_the_JSDF_Fought.md"
       "book/index.md": "text/index.md"
-      "book/RAIDEN-18.md": "/RAIDENtext-18.md"
+      "book/RAIDEN-18.md": "text/RAIDEN-18.md"
       "book/The_Anarchist_Cookbook.md": "text/The_Anarchist_Cookbook.md"
       "book/「苏联相关」.md": "text/「苏联相关」.md"
       "book/东方文化西方语.md": "text/东方文化西方语.md"

@@ -1,5 +1,5 @@
 ---
-title: RAIDEN-18
+title: "RAIDEN-18"
 description: 荒川弘的短篇漫画
 published: true
 date: "2022-07-15T12:35:00"
