@@ -121,7 +121,8 @@ plugins:
   #   - css/footnotes.css
   #   - css/base.css
   #   - css/custom_admonitions.css
-# - search:
+- search:
+    separator: '[\s\u200b\-]'
 # - exclude-search:
     # exclude:
     # - CODE_OF_CONDUCT.md
