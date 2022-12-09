@@ -184,3 +184,7 @@ dateCreated: "2021-06-26T19:52:48"
 [^MN6K3FE_3]: 《[41mm Pride Edition Sport Loop](https://web.archive.org/web/20220525162515/https://www.apple.com/shop/product/MN6K3AM/A/41mm-pride-edition-sport-loop)》, Apple. (参照 2022-05-26).
 
 除此之外，还有商品内的海报也被移除了，海报内容有「Apple 為各個維護 LGBTQ+ 權益的團體提供資金支持，並以此為傲」等文字。
+
+## 指南针
+
+详情请阅读 [指南针](/company/Apple/指南针.md) 条目。

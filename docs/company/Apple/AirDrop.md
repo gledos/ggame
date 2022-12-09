@@ -51,3 +51,15 @@ AirDrop 具有一些便利，因为当接受方的手机与分享方是联系人
 9to5mac 发现这个更新会对大陆版硬件的 iPhone 调整 AirDrop 的接收所有人的隔空投送有 10 分钟的限制。[^eoad]
 
 [^eoad]: Filipe Espósito, 《[Apple to restrict ‘Everyone’ option in AirDrop to 10 minutes in China with iOS 16.1.1 [U]](https://web.archive.org/web/20221109212240/https://9to5mac.com/2022/11/09/everyone-option-airdrop-10-minutes-china/)》, 9to5Mac, 2022-11-10. (参照 2022-11-10).
+
+2022年12月7日，iOS 16.2 版本被发现对全地区的 iPhone 更新此功能，[^aeli162][^900954]
+
+[^aeli162]: Juli Clover, 《[Apple Expanding 10-Minute 「Everyone」 AirDrop Limit to All Users With iOS 16.2](https://web.archive.org/web/20221208130750/https://www.macrumors.com/2022/12/07/airdrop-everyone-limit-ios-16-2/)》, MacRumors, 2022-12-07. (参照 2022-12-09).
+
+[^900954]: Aowuwu, 《[中国不再独占"Everyone for 10 mins"的 AirDrop](https://web.archive.org/web/20221209001947/https://v2ex.com/t/900954)》, V2EX, 2022-12-08. (参照 2022-12-09).
+
+这显然与垃圾消息无关，因为 [Cyberflashing][] 早在 2015年8月 就已经出现了，当时有人在火车上收到了陌生人发送的阴茎照片，然后其中一位受害者选择了报警，接着网络犯罪部门介入分析证据，而当时的苹果发言人拒绝置评。[^89225]
+
+[Cyberflashing]: https://en.wikipedia.org/wiki/Cyberflashing
+
+[^89225]: Sarah Bell, 《[Police investigate 「first cyber-flashing」 case](https://web.archive.org/web/20221125173311/https://www.bbc.com/news/technology-33889225)》, BBC News, 2015-08-13. 参照: 2022-12-09. [Online].
