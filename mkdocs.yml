@@ -12,8 +12,9 @@ site_description: >-
 
 repo_name: gledos/ggame
 repo_url: https://github.com/gledos/ggame
+
 use_directory_urls: false   # gledos 不喜欢的 URL 风格，所以要关闭
-# edit_uri: ""                # 隐藏编辑按钮
+edit_uri: ""                # 隐藏编辑按钮
 
 theme:
   favicon: favicon.png
