@@ -42,6 +42,12 @@ did any interceptions or other things for the mirror site of I root serer, CNNIC
 
 [^271]: Robert Edmonds, 《[[dns-operations] Odd behaviour on one node in I root-server (facebook, youtube & twitter)](https://lists.dns-oarc.net/pipermail/dns-operations/2010-March/005271.html)》, 2010-03-24. 参照: 2022-02-22. [Online].
 
+### 研究论文
+
+2012年，一篇以《黑客帝国》角色为化名的论文出现在 DNS 研究的视野中，解释了其他地区的 DNS 主机，也会受到大陆的 DNS 污染。[^qIaVG]
+
+[^qIaVG]: rmrf100, 《[中国DNS污染对世界范围互联网造成的附属破坏](https://archive.vn/qIaVG "https://eyelublog.wordpress.com/2012/07/07/%e4%b8%ad%e5%9b%bddns%e6%b1%a1%e6%9f%93%e5%af%b9%e4%b8%96%e7%95%8c%e8%8c%83%e5%9b%b4%e4%ba%92%e8%81%94%e7%bd%91%e9%80%a0%e6%88%90%e7%9a%84%e9%99%84%e5%b1%9e%e7%a0%b4%e5%9d%8f/")》, EyeLu Blog, 2012-07-07. (参照 2022-12-23).
+
 ### GFW 故障
 
 2014年1月21日 下午，大陆内进行 DNS 查询，就会发现许多除了 .cn 的域名被解析到了 IP 位址 65.49.2.178。[^97867][^wiki_2014]
@@ -52,6 +58,6 @@ did any interceptions or other things for the mirror site of I root serer, CNNIC
 
 而此 IP 所归属的公司，最大的客户是法轮功旗下的破除网络封锁的服务——动态网，所以被认为是 GFW 的操作人员在封禁 IP 时误操作，导致的情况。
 
-「国家互联网应急中心」对此只有一句话的解释：「初步判断此次事件是由于网络攻击导致我国境内互联网用户通过国际顶级域名服务解析时出现异常」，之后就没有消息了。[^02307]
+「国家互联网应急中心」对此只有一句话的解释：「初步判断此次事件是由于网络攻击导致我国境内互联网用户通过国际顶级域名服务解析时出现异常」，[^02307] 之后就没有消息了。
 
 [^02307]: 张意轩, 《[我互联网访问异常系网络攻击所致](https://web.archive.org/web/20221220052442/http://scitech.people.com.cn/n/2014/0123/c1007-24202307.html)》, 人民日报, 2014-01-23. (参照 2022-12-20).

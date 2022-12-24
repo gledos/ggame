@@ -18,6 +18,32 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2022年12月24日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2022年12月24日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   古亭, 《[北京等地传大量新冠死亡 肺部现白色浊斑纤维化](https://www.rfa.org/mandarin/yataibaodao/huanjing/gt2-12222022043705.html)》, Radio Free Asia, 2022-12-22. (参照 2022-12-24).
++   岳怀让, 《[共和国三天内痛失六位两院院士](https://www.thepaper.cn/newsDetail_forward_21281167)》, 澎湃新闻, 2022-12-23. (参照 2022-12-24).
++   MeowNature, 《[Depersonalization](https://store.steampowered.com/app/1477070/Depersonalization/)》, Steam, 2022-12-20. (参照 2022-12-24).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCY6aGvwAKCRCZXo6bU2oX
+pCJpAQDXJ/Vvy2ZVo48lelWJxBAGbJ9TuXkQJAuQedSh47urTwEAmxTleFqdY3gX
+dA7ppxQqchheU/UqhWMUHJ/gFSwISgw=
+=DDTG
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年11月11日
 
 ```markdown
@@ -41,8 +67,6 @@ pCxgAP9Dt0Px/KbVIUOMYhsL0PAuNakmvRJzK2Kj9rMJuWjRvAEA6tTwMs/TOesU
 =obmW
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年10月11日
 
