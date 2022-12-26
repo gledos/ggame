@@ -66,3 +66,15 @@ ilovexjp/health-code-index 这个 GitHub 仓库是健康码、行程卡模拟的
 [^gh_ilovexjp]: ilovexjp, 「[早些时候，项目的 GitHub 账号 ilovexjp 整体遭到封锁……](https://web.archive.org/web/20221116152328/https://t.me/s/gh_ilovexjp/31)」, Telegram频道, 2022-11-16. (参照 2022-11-17).
 
 [^689723]: 既要又要还要, 《[【立此存照】反抗极端防疫的“健康码模拟”项目遭Github官方封禁](https://web.archive.org/web/20221117100427/https://chinadigitaltimes.net/chinese/689723.html)》, 中国数字时代, 2022-11-16. (参照 2022-11-17).
+
+## 通信行程卡关闭
+
+2022年12月11日，「通信行程卡」的官方微信公众号发布了下线公告：
+
+> [!quote]+ 公告[^YVr8g]
+>
+> 为深入贯彻党中央、国务院关于进一步优化新冠肺炎疫情防控措施，科学精准做好防控工作的决策部署，根据国务院联防联控机制综合组有关要求，12月13日0时起，正式下线“通信行程卡”服务。“通信行程卡”短信、网页、微信小程序、支付宝小程序、 APP等查询渠道将同步下线。
+>
+> 特此公告。
+
+[^YVr8g]: 通信行程卡, 《[关于下线“通信行程卡”服务的公告](https://archive.ph/YVr8g "https://mp.weixin.qq.com/s/7F_RwN1Hmx9Rk4im_yNcyA")》, 微信公众号, 2022-12-11. (参照 2022-12-24).
