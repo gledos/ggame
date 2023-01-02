@@ -1,6 +1,8 @@
 ---
 title: 关于侵害用户权益行为的APP（第二批）通报
 description:
+search:
+  exclude: true
 published: true
 date: "2021-10-17T18:29:42"
 特殊标签标记: #无标签

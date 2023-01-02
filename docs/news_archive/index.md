@@ -1,5 +1,7 @@
 ---
 title: news_archive
+search:
+  exclude: true
 description:
 published: true
 date: "2022-02-24T18:16:34"

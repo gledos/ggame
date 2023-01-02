@@ -2,7 +2,7 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: "2022-09-23T14:21:16"
+date: "2023-01-02T21:35:00"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-03-18T10:32:32"
@@ -60,6 +60,14 @@ dateCreated: "2021-03-18T10:32:32"
 [/unclear]: /unclear/index.md
 [/video]: /video/index.md
 [/website]: /website/index.md
+
+## 搜索功能
+
+MkDocs 的搜索功能暂时不太好用，所以 /punish 和 /news_archive 板块的绝大部分内容都被排除了。因为搜索功能的本质是一个包含所有内容的 json 文件，大小为 2 MB 左右，而这些部分的内容只是资料库，并且量大。
+
+
+
+更好的中文搜索预计 Material for MkDocs 更新到 10.0.0 版本时，就能够使用了。
 
 ## 联系方式
 
