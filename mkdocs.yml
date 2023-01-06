@@ -325,6 +325,7 @@ plugins:
       "book/字典词典/新编学生字典.md": "text/字典词典/新编学生字典.md"
       "book/字典词典/网络字典词典.md": "text/字典词典/网络字典词典.md"
       "book/字典词典/输入法的音标.md": "text/字典词典/输入法的音标.md"
+      "game/因为版号而暂时下架_Steam_大陆区.md": "theme/因为版号而暂时下架_Steam_大陆区.md"
 
 extra:
   generator: false
