@@ -80,4 +80,4 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 ### 细节
 
-hmoegirl.info 与 hmoegirl.cyou 在名称、icon 以及界面主题都相同（或者说都与原本的 H萌娘相同），所以区分起来可能不便。
+hmoegirl.info 与 hmoegirl.cyou 在名称、icon 以及界面主题都相同（或者说都与原本的 H萌娘相同），所以区分起来可能不便，主页文字之外主要区别还是 hmoegirl.cyou 有 live2d 看板娘。
