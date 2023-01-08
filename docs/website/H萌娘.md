@@ -60,9 +60,7 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 ### hmoegirl.info
 
-2022年11月15日 左右，redayano 在表示导入备份后，已经完成了新的 H萌娘站点 hmoegirl.info，[^373261] 这个网站基本与原本的 H萌娘相同，包含色情和政治内容，算是萌娘百科的补集。
-
-[^373261]: 同期酱, 《[H萌娘挂了之后的wikidump和恢复](https://web.archive.org/web/20221228061707/https://bangumi.tv/group/topic/373261)》, bangumi, 2022-09-24. (参照 2023-01-08).
+2022年11月15日 左右，redayano 在表示导入备份后，已经完成了新的 H萌娘站点 hmoegirl.info，这个网站基本与原本的 H萌娘相同，包含色情和政治内容，算是萌娘百科的补集。
 
 ### hmoegirl.cyou
 
