@@ -1,5 +1,7 @@
 ---
 title: 崩坏3
+search:
+  exclude: true
 description:
 published: true
 date: "2021-05-07T15:50:50"
