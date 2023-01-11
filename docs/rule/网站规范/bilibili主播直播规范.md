@@ -1,5 +1,7 @@
 ---
 title: bilibili主播直播规范
+search:
+  exclude: true
 description:
 published: true
 date: "2022-09-15T08:42:59"
