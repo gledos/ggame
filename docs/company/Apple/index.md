@@ -91,6 +91,12 @@ dateCreated: "2022-08-03T09:18:38"
 [^41]: 感谢 [@无知使我快乐](https://www.zhihu.com/people/1192ddd385940c587792a3c819f69967) 补充
 [^45]: 感谢 [@Leiseya](https://www.zhihu.com/people/5d0dd5ae9e2cc58a6c1a9400e4e62c1b) 提供
 
+而修改串号可能开启一些服务，比如启用部分 Emoji 旗帜，但还有一些服务可能是激活层面的定义，没法修改。[^907366]
+
+[^907366]: xxmzero, 《[国行 13pro 16.1 修改串号启用 facetime audio 失败](https://web.archive.org/web/20230109044524/https://www.v2ex.com/t/907366)》, V2EX, 2023-01-08. (参照 2023-01-10).
+
+备注：串号是指 `/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/com.apple.MobileGestalt.plist` 文件里的手机硬件区域字符。
+
 ## iBooks
 
 iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还有 iBooks Store，可以购买电子书，曾经大陆也支持此功能，但在 2016年4月，iBooks Store 和 iTunes Movies 突然就被关闭了。[^33557]
@@ -177,6 +183,6 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 
 [^905897]: mensheviks, 《[Apple 苹果偷偷修改了针对香港用户的 Safari 隐私政策，明确声称会将香港用户的数据传送给腾讯](https://web.archive.org/web/20230101093459/https://www.v2ex.com/t/905897)》, V2EX/水深火热, 2023-01-03. (参照 2023-01-03).
 
-虽然 Apple 明确表示实际的网址不会分享，但的确会发送已知恶意网站的 Safari 哈希前缀 (Hash prefixes)，[^artros] 所以当时访问 GitLab 的用户，其网址的哈希前缀也发给了腾讯，并且留下了自己的 IP 地址。
+虽然 Apple 明确表示实际的网址不会分享，但的确会发送已知恶意网站的 Safari 哈希前缀 (Hash prefixes)，[^artros] 具体细节可以查看 [Safe Browsing](/serviceprovider/Safe_Browsing.md) 条目。
 
 [^artros]: Michael Potuck, 《[Apple responds to report on sending users’ browsing data to China-owned Tencent](https://web.archive.org/web/20220813001841/https://9to5mac.com/2019/10/14/apple-responds-to-report-on-sending-users-browsing-data-to-china-owned-tencent/)》, 9to5Mac, 2019-10-14. (参照 2023-01-03).
