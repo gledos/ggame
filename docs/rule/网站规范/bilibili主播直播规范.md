@@ -24,7 +24,7 @@ dateCreated: "2022-09-15T08:42:59"
 
 ## V2.7（鹅鸭杀修订版）
 
-详情请阅读 [Goose Goose Duck](game/Goose_Goose_Duck.md)（鹅鸭杀条目）。
+详情请阅读 [Goose Goose Duck](/game/Goose_Goose_Duck.md)（鹅鸭杀条目）。
 
 ## V2.7
 
