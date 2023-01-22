@@ -18,6 +18,32 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年1月22日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年1月22日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   即時新聞, 《[西藏隧道雪崩罹難者增至28人 悲劇發生原因曝光](https://news.ltn.com.tw/news/world/breakingnews/4191022)》, 自由時報電子報, 2023-01-21. (参照 2023-01-22).
++   財經頻道, 《[中國初一就崩潰？蘋果庫克拜年用「Lunar」非「Chinese 」](https://ec.ltn.com.tw/article/breakingnews/4191739)》, 自由時報電子報, 2023-01-22. (参照 2023-01-22).
++   徐沛琪, 《[美華裔大城爆槍擊案！民眾聚集街頭「賀新年」釀至少10死](https://www.chinatimes.com/realtimenews/20230122001505-260408?chdtv)》, 中時新聞網, 2023-01-22. (参照 2023-01-22).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCY81POwAKCRCZXo6bU2oX
+pM6LAPwPlA02cAnwYMW/VgEDyE5clKkV/YvjWmMHftpcGeF26AEAlFRJ5F3V4frL
+FGcruNyze+D3JmBtTKUVkBXAf9oBEQc=
+=wiHE
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2022年12月24日
 
 ```markdown
@@ -41,8 +67,6 @@ dA7ppxQqchheU/UqhWMUHJ/gFSwISgw=
 =DDTG
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年11月11日
 
