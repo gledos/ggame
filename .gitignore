@@ -1,5 +1,6 @@
 docs/.vault-stats
 docs/.vscode/settings.json
+docs/待办事项.md
 docs/anti-censorship/wuhan-timeline.md
 docs/blocklist/限韩令.md
 docs/catch_the_wind/人民教育出版社.md
@@ -39,14 +40,15 @@ docs/src/rule
 docs/src/serviceprovider
 docs/src/software
 docs/src/ssss_dynazenon
+docs/src/text
 docs/src/unclear
 docs/src/video
 docs/src/website
 docs/templates/*
 docs/unclear/女性相关词语的污名化情况.md
-run.bat
-site/
-docs/待办事项.md
 run_o.bat
 run_o.yml
+run.bat
+script/gg-calendar.rb
 script/mdcal.py
+site/
