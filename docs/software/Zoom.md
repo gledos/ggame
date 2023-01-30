@@ -33,3 +33,13 @@ Zoom Meetings 是一款由 Zoom Video Communications 开发的专有视频对话
 2.  即使所有的会议参与者都在中国之外，Zoom 的加密密钥还是回从中国的服务器分发到其他地区
 
     这令人担忧，因为 Zoom 在 法律上可能有义务向中国当局披露这些密钥，并且不能向外界告知自己的披露行为
+
+## 禁止大陆用户使用
+
+2020年5月，中国政府通知 Zoom 上有大型的公开纪念六四会议。此活动在中国是非法的，并要求 Zoom 终止这些会议和主持人帐户。随后 Zoom 被告知或确定了有四个这种会议。
+
+而 Zoom 通过元数据（比如 IP 地址）发现其中有大陆的参与者，因此，我们决定了结束四个会议中的三个，并暂停或终止了与这三个会议相关的主持人帐户。
+
+之后 Zoom 受到了严厉的调查，之后 Zoom 表示「不允许让中国政府的要求影响中国大陆以外的任何人。」[^iopaw]
+
+[^iopaw]: Zoom, 《[我们将继续支持全球合作，同时我们也要改善政策](https://web.archive.org/web/20200809105730/https://blog.zoom.us/zh/improving-our-policies-as-we-continue-to-enable-global-collaboration/)》, Zoom Blog, 2020-06-11. (参照 2023-01-30).
