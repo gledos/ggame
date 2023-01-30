@@ -14,6 +14,8 @@ dateCreated: "2022-01-14T13:47:44"
 
 > [!summary inline end]+ 元数据
 >
+> ![标志](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_logo1.jpg "https://www.steamgriddb.com/grid/231323")
+>
 > ```yaml
 > 标题: LonaRPG
 > itch链接: https://eccma417.itch.io/lonarpg
@@ -24,7 +26,7 @@ dateCreated: "2022-01-14T13:47:44"
 
 LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分硬核，有人称其为 2D 版的《上古卷轴》，非官方译名叫做「洛娜的世界」。
 
-## 被平台拒绝下架
+## 被平台下架
 
 2020年12月22日，此游戏准备上架至 Steam，[^1507030] 不过没有通过审核，原因可能是儿童色情，[^49993] 目前作者没有上架 Steam 的计划了。[^1815567]
 
@@ -38,7 +40,7 @@ LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分�
 
 [^2313294]: [things u should know - 417-中華民國光束炮 - pixivFANBOX](https://archive.is/sEIKc "https://eccma417.fanbox.cc/posts/2313294")
 
-> [!quote]+ DLsite中文支援 <circle_zh@dlsite.com>
+> [!quote]+ DLsite中文支援
 >
 > ```email
 > 您好
@@ -66,3 +68,27 @@ LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分�
 >
 > +   [[綜合]LonaRPG](https://web.archive.org/web/20220114054132/https://komicolle.org/c/153603)
 > +   iamleo123, [有人知道這款美式高自由度成人RPG？作者附註玩了就台獨＞＜](https://web.archive.org/web/20220114140604/https://home.gamer.com.tw/artwork.php?sn=5244968), 巴哈姆特.
+
+## 梗
+
+游戏启动后会出现一个提示：
+
+=== "ENG"
+
+    ![ENG](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningENG.png)
+
+=== "ESP"
+
+    ![ESP](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningESP.png)
+
+=== "RUS"
+
+    ![RUS](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningRUS.png)
+
+=== "KOR"
+
+    ![KOR](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningKOR.png)
+
+=== "CHT"
+
+    ![CHT](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningCHT.png)
