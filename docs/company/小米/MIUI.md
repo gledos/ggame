@@ -174,3 +174,19 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 > [!abstract]+ 相关条目
 >
 > +   [三星港版手机](/company/Samsung/HK_Phone.md)
+
+## MIUI 14 上传应用列表
+
+2023年2月1日 左右，MinaMichita 发现最新的 MIUI 14 会不断的上传已安装应用列表等信息，小米在他们的代码中将此功能命名为 AntiDefraud，示例如下：[^912395]
+
+[^912395]: ruoyutx, 《[听说国产安卓机全部统一内置了反诈？](https://web.archive.org/web/20230202141303/https://www.v2ex.com/t/912395?p=2#r_12637855)》, V2EX, 2023-02-01. (参照 2023-02-03).
+
+```json
+{"timestamp":"xxx","os":"xxx","biz_id":"virus_scan","uuid":"xxx","content":[]}
+```
+
+数据会被上传到小米的服务器，而这种行为似乎未经过用户同意。于是 MinaMichita 编写了 xposed 模块 [AntiAntiDefraud][]，来关闭这种功能。
+
+[AntiAntiDefraud]: https://github.com/MinaMichita/AntiAntiDefraud
+
+而这些代码也存在于 MIUI 国际版中，不过尚未有人测试国际版是否也有相同的上传情况。
