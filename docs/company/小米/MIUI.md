@@ -24,11 +24,11 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 2020年8月4日，有人发现了小米曾内置了软件黑名单。
 
-> [!quote]+ 小米 10 在 MIUI20.8.3 加入了应用黑名单
+> [!quote]+ 小米 10 在 MIUI20.8.3 加入了应用黑名单[^apkbl]
 >
-> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示「解析软件包时出现问题」，人为的制造 apk 损坏现象。[^apkbl]
+> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示「解析软件包时出现问题」，人为的制造 apk 损坏现象。
 
-[^apkbl]: [小米 10 在 MIUI20.8.3 加入了应用黑名单 - V2EX](https://web.archive.org/web/20210627105718/https://www.v2ex.com/t/695575)
+[^apkbl]: [小米 10 在 MIUI20.8.3 加入了应用黑名单](https://web.archive.org/web/20210627105718/https://www.v2ex.com/t/695575), V2EX.
 
 当时的黑名单列表如下:[^bllt]
 
@@ -56,9 +56,9 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 ## 隐私保护白名单
 
-2021年1月，小米手机的 MIUI 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
+2021年1月，小米手机的 MIUI 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体情况为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
 
-[^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？ - V2EX](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635)
+[^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635), V2EX.
 
 2022年4月 左右，有人使用 hook 的方式解密了「权限使用统计」的白名单，发现了以下包名：
 
@@ -148,11 +148,37 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 ## 没有内置国家监控中心app
 
-2022年1月 月初，因为当时发生了部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」，[^2298720242] 并且 MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈骗中心合作，[^114760] 导致网络上出现了 MIUI 13 内置了国家反诈骗中心的传言。
-
-[^2298720242]: 知乎用户2jT2Ug, 《[如何评价 MIUI 13 可能内置反诈系统，有什么影响？](https://web.archive.org/web/20220816085614/https://www.zhihu.com/question/509458835/answer/2298720242)》, 知乎, 2022-01-05. (参照 2022-08-16).
+MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈骗中心合作。[^114760] 导致网络上出现了 MIUI 13 内置了国家反诈骗中心的传言。
 
 [^114760]: IT之家, 《[小米 MIUI 13 全链路反诈功能与国家反诈中心合作，避免用户损失](https://web.archive.org/web/20220816085636/https://www.sohu.com/a/514045049_114760)》, 2022-01-03. (参照 2022-08-16).
+
+2021年12月28日，新浪微博数码博主「wangzn2016」认为此功能是自己提出的：
+
+> [!quote]+ wangzn2016[^32meu]
+>
+> 酷安上面都看到了吧，隐私保护和gj反诈app联合合作，这个我国庆期间在路上被警察拉去下载反诈app后突然来的想法，就立马提了上去。
+>
+> 没想到这么快就搞定了，还成了13的亮点
+
+[^32meu]: wangzn2016, 「[酷安上面都看到了吧，隐私保护和gj反诈app联合合作……](https://archive.is/32meu "https://weibo.com/6548603699/L87kM6xht")」, 新浪微博, 2021-12-28. (参照 2023-02-03). 备注：页面已被删除
+
+2021年12月30日，有用户在 xiaomi.eu 论坛上咨询了 EU 版本是否移除了反诈功能，波兰的工作人员表示全球版手机均没有启用此功能，[^641945] 并没有直接回答这个问题。
+
+[^641945]: ingbrzy, [MIUI 13 - 21.12.29/30 - First MIUI 13](https://web.archive.org/web/20221006120430/https://xiaomi.eu/community/threads/21-12-29-30-first-miui-13.64404/#post-641945), Xiaomi European Community, 2021-12-30. (参照 2023-02-03).
+
+> [!note]+ MIUI 各版本区别[^ko797]
+>
+> 1.  MIUI CN（大陆版）
+> 2.  MIUI Global（全球版）
+> 3.  MIUI EU（欧洲版）
+>
+> 其中 MIUI EU 版并不是小米官方的，而是由小米欧洲经销商认可的民间团队发布。基于MIUI大陆版修改而来，发布时间和机型与大陆版同步。同步MIUI大陆版的稳定版公测和测试版公测。有谷歌核心套件。无小米全家桶。无广告。
+
+[^ko797]: Koizumi, 《[MIUI 各版本区别及下载地址](https://blog.minamigo.moe/archives/797)》, Koizumi’s Blog, 2022-04-23. (参照 2023-02-03).
+
+2022年1月5日，有人发现部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」。[^2298720242] 
+
+[^2298720242]: 知乎用户2jT2Ug, 《[如何评价 MIUI 13 可能内置反诈系统，有什么影响？](https://web.archive.org/web/20220816085614/https://www.zhihu.com/question/509458835/answer/2298720242)》, 知乎, 2022-01-05. (参照 2022-08-16).
 
 2022年1月6日，因为有人质疑 MIUI 内置国家反诈骗中心，所以 MIUI 官方帐号回复道：「MIUI13没有内置国家监控中心app，请勿传谣」。[^6lKCJ]
 
