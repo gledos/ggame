@@ -10,15 +10,48 @@ editor: markdown
 dateCreated: "2021-06-27T18:56:29"
 ---
 
-<!-- 小米公司的手机系统 -->
+## 简介
 
-## 相机敏感词
+MIUI 是小米公司的手机系统，最初 2010 年是给当时知名手机制作的第三方自定义 ROM，到了 MIUI V3，小米公司才有了自己的预装了 MIUI 的小米手机。
 
-MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机，在其 Apk 文件的 `/assets/sensi/` 里有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
+## 添加防回滚机制
 
-[^PMTUe]: ISU-152酱, 《[这一定是小米bug！！！（今日首蚌）](https://archive.ph/PMTUe "https://www.bilibili.com/video/BV1dR4y1n7EM/")》, 哔哩哔哩, 2021-10-09. (参照 2022-06-01).
+2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rp>(</rp><rt>Anti-Rollback Protection</rt><rp>)</rp></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
 
-[^854685]: MiketsuSmasher, 《[小米工程师向 AOSP 提交了一份禁止用户获取 APK 文件的补丁，后被驳回](https://web.archive.org/web/20220530053613/https://www.v2ex.com/t/854685)》, V2EX, 2022-05-23. (参照 2022-06-01).
+[^10g875]: Adam Conway, 《[[Update: Statement released] MIUI 10 Global Beta 8.7.5 adds anti-rollback protection, downgrading may brick your Redmi Note 5 Pro](https://web.archive.org/web/20221006200220/https://www.xda-developers.com/miui-10-global-beta-8-7-5-anti-rollback-downgrade-brick-redmi-note-5-pro/)》, XDA Developers, 2018-07-12. (参照 2023-02-05).
+
+## 禁止大陆／全球 ROM 互刷
+
+2018年9月 之前，大陆购买的国行小米手机都能刷入国际版的 MIUI ROM。
+
+2018年9月12日，MIUI 论坛管理员贴出通知提示：
+
+> [!note]+  [Others] Important Announcement About Flashing Mi Phones Manufactured by China![^3831680]
+>
+> Dear Mi Fans,
+>
+> Here's something VERY important before you flash or update the ROM.
+>
+> 1. Xiaomi Phones manufactured for Chinese market are not able to run MIUI Global ROM.
+> 2. Xiaomi Phones manufactured for Global markets are not able to run MIUI China ROM.
+>
+> We highly recommend you to buy Xiaomi Phones via official or authorized sales channels and double check the system infomation before flashing or updating.
+>
+> Thank you for understanding.
+>
+> **MIUI Team**
+
+[^3831680]: DinaDuan, [Important Announcement About Flashing Mi Phones Manufactured by China!](https://web.archive.org/web/20180915103715/http://en.miui.com/thread-3831680-1-1.html), Xiaomi MIUI Official Forum, 2018-09-. (参照 2023-02-04).
+
+大致意思是小米公司最近给 MIUI 的更新里添加了新功能，这种功能能阻止大陆版本以及全球版本的手机互刷 ROM。
+
+如果尝试安装，就会出现 "this MIUI version can’t be installed on this device" 的字样，然后手机就变成砖了。[^mgrfot]
+
+[^mgrfot]: Farrukh Ahmad, [MIUI Global ROM Flashing on These Xiaomi Phones May Brick Your Device](https://web.archive.org/web/20210124163828/https://www.igeekphone.com/miui-global-rom-flashing-on-these-xiaomi-phones-may-brick-your-device/), IGeeKphone China Phone, Tablet PC, VR, RC Drone News, Reviews, 2018-09-29. (参照 2023-02-05).
+
+不过有开发者表示：解锁 bootloader 后，使用 TWRP、fastboot 或者 MiFlash 刷机，选择 "Clean All" 而不是 "clean all and lock"，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也能在手机变砖后进行恢复。
+
+[^115904]: xiaopeng, 《[小米封杀行货手机刷国际版ROM：强刷变砖](https://web.archive.org/web/20230204161141/https://www.antutu.com/doc/115904.htm)》, 安兔兔, 2018-09-29. (参照 2023-02-05).
 
 ## 内置软件黑名单
 
@@ -124,6 +157,14 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 > +   com.xiaomi.shop@-1
 
 不过没有给出解密此白名单的方法。
+
+## 相机敏感词
+
+MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机，在其 Apk 文件的 `/assets/sensi/` 里有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
+
+[^PMTUe]: ISU-152酱, 《[这一定是小米bug！！！（今日首蚌）](https://archive.ph/PMTUe "https://www.bilibili.com/video/BV1dR4y1n7EM/")》, 哔哩哔哩, 2021-10-09. (参照 2022-06-01).
+
+[^854685]: MiketsuSmasher, 《[小米工程师向 AOSP 提交了一份禁止用户获取 APK 文件的补丁，后被驳回](https://web.archive.org/web/20220530053613/https://www.v2ex.com/t/854685)》, V2EX, 2022-05-23. (参照 2022-06-01).
 
 ## 内置敏感词审查系统
 
