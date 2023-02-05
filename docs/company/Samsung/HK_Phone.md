@@ -19,7 +19,7 @@ dateCreated: "2021-01-15T14:21:58"
 
 > [!abstract]+ 相关条目
 >
-> +   [MIUI \#自动添加 DNS](/company/小米/MIUI.md#自动添加dns)
+> +   [MIUI \#自动添加 DNS](/company/小米/MIUI.md#自动添加-dns)
 
 > [!abstract]+ 相关链接
 >

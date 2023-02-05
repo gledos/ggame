@@ -6,13 +6,106 @@ date: "2022-08-16T16:36:04"
 tags:
 - operating-system
 - dns
+- 回审
 editor: markdown
 dateCreated: "2021-06-27T18:56:29"
 ---
 
 ## 简介
 
-MIUI 是小米公司的手机系统，最初 2010 年是给当时知名手机制作的第三方自定义 ROM，到了 MIUI V3，小米公司才有了自己的预装了 MIUI 的小米手机。
+MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年是给当时知名手机制作的第三方自定义 ROM，到了 MIUI V3，小米公司才有了自己的预装了 MIUI 的小米手机。
+
+## Bootloader 锁
+
+> [!warning]+ 提示
+>
+> 此章节缺少许多 2015 年之外内容，因为只有初期的资料容易收集。
+
+早期小米手机没有 Bootloader 锁，所以可以直接刷机，不需要向小米官方申请解锁码。
+
+2015年11月19日，MIUI 发布了开发版 6.1.12，这个版本让小米3 (WCDMA/CDMA), 4 (TD/WCDMA) Note Pro, 4c 默认关闭 Root 权限，并且小米4c 和 Note Pro 在更新此版本后，设备的 Bootloader 会被锁定。[^185414]
+
+[^185414]: meredithhan, [About MIUI 7 China Developer Version Root Permissions Adjustment](https://web.archive.org/web/20170514184242/http://en.miui.com/thread-185414-1-1.html), Xiaomi MIUI Official Forum, 2015-11-19. (参照 2023-02-05).
+
+> [!note]+ 备注
+>
+> Bootloader 是引导程序，如果遭到锁定，那么用户就不能刷入新的固件。
+>
+> 尚不明确：由于资料太少，「之前的开发板默认都启用了 Root 功能」，这种说法无法确认。
+
+2015年11月27日，红米Note 3 发售，随后用户发现红米Note 3 无法解锁，因为设备被添加了 Bootloader 锁，在此之前的小米手机首发版均没有 Bootloader。在此期间，没有解锁方法，也没有官方的 Root 方法（安装开发板 ROM 除外），只能通过漏洞来获取 Root 权限。[^it028]
+
+[^it028]: 望山, 《[加锁也不怕，红米Note 3仍可Root](https://www.ithome.com/0/193/028.htm)》, IT之家, 2015-12-07. (参照 2023-02-05).
+
+2015年12月28日，MIUI 论坛的管理员表示小米4c, Note 顶配版, 4S, 5, Max 和 红米Note 3 手机的解锁需要申请解锁权限，操作方法是：[^3367802]
+
+[^3367802]: 风起云落, 《[小米手机解锁 Bootloader 教程以及常见问题](https://web.archive.org/web/20180419213901/http://www.miui.com/forum.php?mod=viewthread&tid=3367802)》, MIUI论坛, 2015-12-28. (参照 2023-02-05).
+
+1.  PC 进入 www.miui.com/unlock/ 解锁页面登录小米帐号后申请解锁权限
+
+    通常需要等待 3 天。
+
+2.  下载 <ruby>小米解锁工具<rp>(</rp><rt>MiUnlock</rt><rp>)</rp></ruby> (miflash unlock) 工具
+
+3.  让需要解锁的小米手机升级到 MIUI V8.1
+
+    因为这个版本之后，开发者选项里才有「设备解锁状态」功能
+
+4.  PC 和手机同时登录获得了解锁资格的帐号，将手机链接到电脑，然后使用下载的小米解锁工具进行解锁
+
+这时的限制是「同一帐户解锁两台设备的间隔大于 30 天」，所以小米手机解锁后需要小心不要无意给手机锁上 BL，因为一些情况下刷机或默认勾选锁上 BL。
+
+2015年12月30日，小米官方在英文论坛发布了公告：
+
+> [!quote]+  [Changelog] About Locking Bootloader for Mi Devices: Announcement & Explanation[^201477]
+>
+> Hi MIUIers,
+>
+> We've locked bootloader for Redmi Note 3 since its launching in order to protect user data safety. As we said before, we'll be making the same change for other Mi devices gradually. Now, the list will include Mi 4c and Mi Note Pro also.
+>
+> If you're not famaliar with the situation, please read the following explanation.
+>
+> Special Note: This situation only applies to MIUI China Developer ROM for now.
+>
+> 后略
+
+[^201477]: meredithhan, [About Locking Bootloader for Mi Devices: Announcement & Explanation](https://web.archive.org/web/20160115082459/http://en.miui.com/thread-201477-1-1.html), Xiaomi MIUI Official Forum, 2015-12-30. (参照 2023-02-05).
+
+表示红米Note 3 上市之后直接锁定了 bootloader，之后新上市的手机逐渐都会锁定 bootloader。后半部分解释了为什么要锁定 bootloader，小米给出了两个理由：
+
+1.  跨境的水货小米手机可能安装的是非官方 ROM，这会给用户以及小米声誉带来不良影响
+2.  手机遭到盗窃后，锁定了 bootloader 能阻碍犯人刷入 ROM 然后出售，相关机制类似于 iPhone
+
+对于解锁，小米也给出了回答：「解锁过程非常简单」，当时解锁虽然稍早前表示是 3 天，但由于申请数量很多，所以 2015年12月30日 的英文解锁教程里有提到等待时间是 10~12 天，并且一个小米账号 30 天内只能解锁一台设备，版本要求是 MIUI 开发版 6.1.12 以及后续版本。[^202290]
+
+[^202290]: meredithhan, [Mi Devices Bootloader Unlocking Tutorial & English Unlocking Tool Download](https://web.archive.org/web/20160831064633/http://en.miui.com/thread-202290-1-1.html), Xiaomi MIUI Official Forum, 2015-12-30. (参照 2023-02-05).
+
+2016年1月13日，MIUI 7 开发版 6.1.14 发布，从日志来看，跟 6.1.12 的 bootloader 规则差不多，[^208492] 但此时外国用户主要把 6.1.14 当作含有新的 bootloader 规则的版本，也许是信息传播的时间差导致的这种情况。
+
+[^208492]: Nanana, [MIUI 7 China Developer ROM 6.1.14 Full Changelog (Released)](https://web.archive.org/web/20170512232421/http://en.miui.com/thread-208492-1-1.html), Xiaomi MIUI Official Forum, 2016-01-13. (参照 2023-02-05).
+
+1.  小米4c, Note Pro 的 Root 权限默认关闭（之前的开发版本自带 Root）
+2.  小米4c, Note Pro 的 Bootloader 将被锁定，需要使用稍早的申请解锁功能，才能解锁
+
+2019 年的未知具体时间，有人认为是老账号可以不等待直接解锁，然后有人出租/租借老账号解锁新机器，所以小米封禁了所有 2019 年 10 月前的老账号的解锁权限，手机解锁工具会提示「解锁失败：账号权限不足或者账号受限」。[^620487]
+
+[^620487]: mouyase, 《[喷一喷小米手机 BL 解锁体验](https://web.archive.org/web/20221102003513/https://www.v2ex.com/t/620487)》, V2EX, 2019-11-17. (参照 2023-02-05).
+
+2019年10月 的解锁规则是：「小米手机第一次解锁是要 15 天才可以解锁，如果是上锁过第二次再解锁的话就是要等 30 天」。[^620487]
+
+2021年8月，MIUI 限制 Bootloader 解锁频率为一年两次。[^56427]
+
+[^56427]: 萧老二, 《[如何看待 MIUI 限制 BL 解锁频率为一年两次？](https://www.zhihu.com/question/482232978/answer/2457556427)》, 知乎, 2021-08-24. (参照 2023-02-05).
+
+> [!note]+ 词汇表
+>
+> +   **开发版**／**中国开发者版**/**China Developer ROM**
+>
+>     这些词语意思基本相同。
+>
+> +   **手机名称**
+>
+>     非转述的描述，以官网手机名称为准：比如「红米Note 3」的 Note 前面没有空格，「小米4c」使用的是小写 "c"。
 
 ## 添加防回滚机制
 
@@ -20,7 +113,7 @@ MIUI 是小米公司的手机系统，最初 2010 年是给当时知名手机制
 
 [^10g875]: Adam Conway, 《[[Update: Statement released] MIUI 10 Global Beta 8.7.5 adds anti-rollback protection, downgrading may brick your Redmi Note 5 Pro](https://web.archive.org/web/20221006200220/https://www.xda-developers.com/miui-10-global-beta-8-7-5-anti-rollback-downgrade-brick-redmi-note-5-pro/)》, XDA Developers, 2018-07-12. (参照 2023-02-05).
 
-## 禁止大陆／全球 ROM 互刷
+## 限制大陆／全球 ROM 互刷
 
 2018年9月 之前，大陆购买的国行小米手机都能刷入国际版的 MIUI ROM。
 
@@ -52,6 +145,90 @@ MIUI 是小米公司的手机系统，最初 2010 年是给当时知名手机制
 不过有开发者表示：解锁 bootloader 后，使用 TWRP、fastboot 或者 MiFlash 刷机，选择 "Clean All" 而不是 "clean all and lock"，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也能在手机变砖后进行恢复。
 
 [^115904]: xiaopeng, 《[小米封杀行货手机刷国际版ROM：强刷变砖](https://web.archive.org/web/20230204161141/https://www.antutu.com/doc/115904.htm)》, 安兔兔, 2018-09-29. (参照 2023-02-05).
+
+## 论坛
+
+2019年6月，小米发出公告，将在稍后的 7月1日 关闭台湾和香港的 MIUI 论坛，同时资料也不再保留。[^it103]
+
+[^it103]: 沧海, 《[MIUI发公告：中国台湾/香港MIUI论坛7月1日起停止运营](https://web.archive.org/web/20200924042706/https://www.ithome.com/0/428/103.htm)》, IT之家, 2019-06-13. (参照 2023-02-05).
+
+2019年8月5日，有人发现 MIUI 论坛 APP 从小米应用商店下架了，原因不明。[^it413]
+
+[^it413]: 沧海, 《[小米应用商店下架MIUI论坛，原因未知](https://web.archive.org/web/20230205112253/https://www.ithome.com/0/437/413.htm)》, IT之家, 2019-08-05. (参照 2023-02-05).
+
+2019年9月，论坛相关人员发布公告（暂未找到原链接）：
+
+> [!quote]+ 论坛相关人员发布的公告[^910385]
+>
+> 首先欢迎大家使用新的小米社区。新小米社区的背景
+>
+> 小米原来有MIUI论坛和原小米社区，两个平台都聚集了很多的忠实的用户。我们也很想继续维护两个平台，继续让原两个平台的用户都在各自平台继续玩。然鹅这样的话，我们的研发资源和运营资源都没办法很好地聚焦，反而导致两个平台可能都做不好，没法更好地为大家服务。
+>
+> 正好“我的小米”也面临着改版的需求，三个团队一拍即合，觉得把大家聚拢到一起，来干件大事情，才是对的。就酱，新的小米社区团队和项目就成立了。
+>
+> 这个项目大概从2019年春节左右开始规划，到今年9月24日我们正式公测。
+>
+> 为什么下了老社区和老论坛
+>
+> 老社区和老论坛本来也是要下的，不过计划中的时间是10月底，11月初。
+>
+> 那为什么9月底就仓促地把两个平台给下了呢？
+>
+> 其实原因也很简单，因为十一要来了，懂的用户应该都知道内容监管方面有很严格的要求，我们如果不关停老社区和老论坛，可能整个团队都会因为满足不了要求而被迫集散（后果很严重）。
+>
+> 而且这半年，我们都有2个工程师基本上全职，为了满足内容监管的需求，在给老社区和老论坛修修补补，最后也满足不了要求，相关小伙伴还去喝了几次茶（背后的辛酸希望大家也体谅一下）。
+>
+> 所以这也是为什么仓促把大家迁移过来，
+>
+> 后果就是很多老用户觉得体验没有很好的过渡。
+>
+> 那为什么不直接用老论坛和老社区改成新社区
+>
+> 其实也是可行的。
+>
+> 而且最开始去年确实有另一个团队是在把老论坛往老社区合并，但是最后碰到了不少的问题，合并也是暂停了。
+>
+> 其实做一个系统，除了大家看到的表面的界面和体验，底下还有很多的东西。
+>
+> 比如内容审核和监管，这块在老论坛和老社区上修修补补，也很容易出问题，还不如重新开始做。
+>
+> 比如大家的数据如何融合，我们既不想让老论坛的用户去适应老社区的数据，也不想老社区的同学，去适应老论坛的数据；而且还有很多数据是根本没法融合的。
+>
+> 比如团队的技术层面，老社区和老论坛都是两套不同的技术班子做的，强行融合在一起，日后只会越做越多问题。
+>
+> 另外，其实老社区和老论坛本身也是有很多的问题的，只是大家已经习惯了这些问题，无视了而已。
+>
+> 目前新社区还有很多问题？
+>
+> 是的，我们还有很多的问题。
+>
+> 不过问题都是可以解的，只要大家一起献策，共建我们的新社区。
+>
+> 我相信没有什么问题是解决不了的。
+>
+> 后面的规划是什么
+>
+> 小的建议和问题，大家都留意到了，我们也都记下来了。
+>
+> 我归纳成几个大的点（有些可能要年底才能做完）
+>
+> 0.  基础的体验问题，包括白屏、卡顿、动画优化等。
+> 1.  会尽量把老论坛和老社区的重要功能和数据都迁移过来，保证大家的使用习惯少受影响。
+> 2.  PC版第一版10月就会上线（不过第一版也是比较简单的），后续还会持续投入。
+> 3.  内容安全方面，大家现在看到的吞贴，删帖，其实都是这块还没做完（只是为了不出问题）。但是这块又很重要，大家也不希望一堆垃圾内容充斥我们大家的社区吧。
+> 4.  视频的体验、话题页等。
+> 5.  项目中心，这块马上就上线了，目的是为了让大家不用一直提重复的问题，同时也让业务组尽量把问题的状态和大家做好同步。
+> 6.  聊天的功能。
+>
+> 还有很多很多的规划，等着我们一点点地实现。
+>
+> 新社区需要大家群策群力，谢谢！
+
+[^910385]: 《[米都社区改成什么(米市街社区在哪里)](https://web.archive.org/web/20230205120058/https://159.75.224.178/fangchan/910385.html)》, 百科知识分享, 2023-01-11. (参照 2023-02-05).
+
+之后虽然能看到 MIUI 论坛旧的帖子标题，但其他楼层的评论基本都是「提示：作者被禁止或删除 内容自动屏蔽」，说明这些内容都还在审查中，无法公开。[^04632]
+
+[^04632]: 匿名用户, 《[为什么MIUI论坛删除（屏蔽）了大量的内容？](https://www.zhihu.com/question/347404632)》, 知乎, 2019-09-23. (参照 2023-02-05).
 
 ## 内置软件黑名单
 
@@ -225,7 +402,7 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 
 [^6lKCJ]: 爱睡觉的乐乐, 《[听说miui13内置国家反诈骗中心app，看上去这是我最后一个小米手机了，而且还是永不升级 😂😂](https://archive.ph/6lKCJ "https://weibo.com/1229559082/L9vKRt6No")》, 新浪微博, 2022-01-05. (参照 2022-08-16).
 
-## 自动添加DNS
+## 自动添加 DNS
 
 2022年3月6日，MIUI 被发现以下代码，会根据系统地区自动添加 114 以及「互联网国家工程中心」或谷歌的 DNS。[^0166]:
 
