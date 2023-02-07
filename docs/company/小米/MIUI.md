@@ -337,32 +337,65 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 ## 相机敏感词
 
-MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机，在其 Apk 文件的 `/assets/sensi/` 里有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685]原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
+MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.004221.0 版本自带的相机，在其 Apk 文件的 `/assets/sensi/` 里有名为 sensi_words.txt 的文件，该文件被 Base64 编码，[^854685] 原文是 253 个敏感词，用来过滤自定义水印。[^PMTUe]
 
 [^PMTUe]: ISU-152酱, 《[这一定是小米bug！！！（今日首蚌）](https://archive.ph/PMTUe "https://www.bilibili.com/video/BV1dR4y1n7EM/")》, 哔哩哔哩, 2021-10-09. (参照 2022-06-01).
 
 [^854685]: MiketsuSmasher, 《[小米工程师向 AOSP 提交了一份禁止用户获取 APK 文件的补丁，后被驳回](https://web.archive.org/web/20220530053613/https://www.v2ex.com/t/854685)》, V2EX, 2022-05-23. (参照 2022-06-01).
 
-## 内置敏感词审查系统
+![这一定是小米bug_00.10.833](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.10.833.webp){ width=45% }
+![这一定是小米bug_00.12.179](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.12.179.webp){ width=45% }
 
-2021年9月，立陶宛的<ruby>国家网络安全中心<rp>(</rp><rt>Nacionalinis kibernetinio saugumo centras</rt><rp>)</rp></ruby>发现了小米手机含有敏感词审查系统：
+## MiAdBlacklistConfig
 
-> [!quote]+ Lithuania says throw away Chinese phones due to censorship concerns
->
-> Lithuania’s Defense Ministry recommended that consumers avoid buying Chinese mobile phones and advised people to throw away the ones they have now after a government report found the devices had built-in censorship capabilities.
->
-> Flagship phones sold in Europe by China’s smartphone giant Xiaomi Corp have a built-in ability to detect and censor terms such as “Free Tibet”, “Long live Taiwan independence” or “democracy movement”, Lithuania’s state-run cybersecurity body said on Tuesday.
->
-> ......
->
-> The report said the list of terms which could be censored by the Xiaomi phone’s system apps, including the default internet browser, currently includes 449 terms in Chinese and is continuously updated.[^52439]
+2021年9月，<ruby>立陶宛国家网络安全中心<rp>(</rp><rt>lietuvos Respublikos krašto apsaugos ministerija</rt><rp>)</rp></ruby>发布了多款手机审计报告，其中就有小米10T 的浏览器、MiAdBlacklistConfig（后文简称名单）和登录帐号时发送短信的风险，其中最引人注目就是名单。[^52439]
 
 [^52439]: Andrius Sytas, 《[Lithuania says throw away Chinese phones due to censorship concerns](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)》, Reuters, 2021-09-21. 参照: 2022-08-16. [Online].
 
+这个名单被多个小米应用下载，存放到应用程序中，报告里发现以下应用含有此名单：
+
+| No.: | Application name       | Application identifier             |
+| ---- | ---------------------- | ---------------------------------- |
+| 1    | Security               | com.miui.securitycenter            |
+| 2    | Mi Browser             | com.mi.globalbrowser               |
+| 3    | Downloads              | com.android.providers.downloads.ui |
+| 4    | Music                  | com.miui.player                    |
+| 5    | Themes                 | com.android.thememanager           |
+| 6    | MIUI Package Installer | com.miui.global.packageinstaller   |
+| 7    | Cleaner                | com.miui.cleanmaster               |
+
+名单里的内容包含政治以及其他共计 449 个词语，然后应用具有使用此名单审查某种内容的功能，报告到这里，所有人都能达成共识，但之后的情况就比较复杂了，因为「审计报告」里认为这是审查系统（的一部分），虽然并未启用。而 Adam Conway 通过 XDA 发布了文章质疑了这这个文件的用途。[^xsbe]
+
+[^xsbe]: Adam Conway, 《[Xiaomi’s secret blacklist of phrases sounds scary, but it may not be what it seems](https://web.archive.org/web/20221023083218/https://www.xda-developers.com/xiaomi-secret-blacklist-explained/)》, XDA Developers, 2021-09-23. (参照 2023-02-07).
+
+Adam 这是对 MIUI 广告的过滤，给出了数个证据：
+
+1.  清单内容包含手机品牌、"download videos" 等与政治无关的关键词，共计 2210 多个
+2.  名单的名称 MiAd 应该指 MIUI 的广告
+3.  从反编译的软件代码判断这个功能仅适用于广告
+
+但不管是 Adam，还是「审计报告」，都没有给出完整的清单，直到 2021年10月3日，推特用户 cda 分享了 8 月份的 MiAdBlacklistConfig，内容应该是完整的，共有 2212 个关键词。[^78312][^collina]
+
+[^78312]: cda, "[It appears that the MiAdBlacklistConfig …](https://web.archive.org/web/20211002224512/https://twitter.com/CDA/status/1444355139310178312)", Twitter, 2021-10-03. (参照 2023-02-07).
+
+[^collina]: collina, 《[MiAdBlacklistConfig](https://web.archive.org/web/20211002224615/https://gist.github.com/collina/70248e2206a25e63cd32ef97b429a6d2)》, GitHub Gist, 2021-10-02. (参照 2023-02-07).
+
+2022年1月6日，<ruby>國家通訊傳播委員會<rp>(</rp><rt>National communications commission</rt><rp>)</rp></ruby>（简称：NCC）发布了一个简单的调查报告，里面提到台湾贩售的小米Mi 10T 5G 手机里面曾经含有清单，共计 2000 余个关键词，并在报告最后的附件中分享了 PDF 格式的清单。（但附件里的 PDF 清单只有 1700 左右个关键词）[^47018]
+
+[^47018]: 國家通訊傳播委員會, 《[NCC檢測在臺灣販售之小米Mi 10T 5G手機發現部分內建軟體的確曾具政治敏感詞彙檢查功能，恐有資訊回傳疑慮，提醒國人重視手機之個資與隱私保護意識](https://web.archive.org/web/20220621003132/https://www.ncc.gov.tw/chinese/news_detail.aspx?site_content_sn=8&sn_f=47018)》, 國家通訊傳播委員會, 2022-01-06. (参照 2023-02-07).
+
+> [!note]+ gledos 的想法
+>
+> Adam 思考的过程有错，但结果应该没错，这确实仅仅是过滤广告的功能的的一部分，但从里面包含 China 就断定这与政治无关，就太天真了。
+>
+> 此功能存在的理由，是广告可以很危险，比如 cnBeta 可能因为广告问题，就被取消解析了。还有一点就是「审查功能不一定有效（但一定要有）」，比如上文提到的小米相机 APP 里有一个 sensi_words.txt 文件，其中含有 253 个敏感词，被用作自定义水印。
+>
+> sensi_words.txt 的敏感词这么少，有用么？当然没有什么用，很可能只是有人要求一切有自定义文字的地方，都要有审查系统，所以开发者随便应付一下，才制作了 MiAdBlacklistConfig 和 sensi_words.txt 这种几乎无用的敏感词名单吧，毕竟广告最应该过滤的是图片……
+
 > [!abstract]+ 相关链接
 >
-> +   [审查报告 PDF 下载](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
-> +   [立陶宛建议消费者不买并扔掉现有中国手机 - 早报](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099)
+> +   [立陶宛国家网络安全中心的审查报告](https://web.archive.org/web/20210922130630/https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf)
+> +   [立陶宛建议消费者不买并扔掉现有中国手机](https://web.archive.org/web/20210922051039/https://www.zaobao.com.sg/realtime/china/story20210922-1196099), 早报.
 
 ## 没有内置国家监控中心app
 
@@ -434,3 +467,51 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 [AntiAntiDefraud]: https://github.com/MinaMichita/AntiAntiDefraud
 
 而这些代码也存在于 MIUI 国际版中，不过尚未有人测试国际版是否也有相同的上传情况。
+
+2023年2月5日，MIUI EU 的首席开发人员 Igor Eisberg 对此做出了回应：
+
+=== "原文"
+
+    ???+ quote "Igor Eisberg 对此事的回应[^68146]"
+    
+        A few facts to point out, and hopefully the few paranoids among our users stop bothering us:
+        
+        1.  The security of MIUI is not our responsibility. We are not security experts and these ROMs are not meant for the paranoids who are afraid of China.
+        2.  Tencent engine exists in GuardProvider (MIUI security components) app.
+        3.  Tencent engine is disabled for international ROMs (that includes ours).
+        4.  Apps list is not sent to Tencent, the "AntiDefraud" component is part of Mi Engine and the apps list is sent to an API on a Xiaomi-owned server: https://flash.sec.miui.com/detect/app
+        
+        If you have a problem with any of that, don't use MIUI, or don't even buy a Chinese phone. Get yourself an iPhone or a Samsung or whatever, and give your information to them instead (you know they'll collect that).
+        
+        ---
+        
+        The difference between Global ROM and China ROM is the URL to which apps list is sent.
+        
+        China ROM: https://flash.sec.miui.com/detect/app
+        
+        Global ROM: https://flash.sec.intl.miui.com/detect/app
+
+=== "中文翻译"
+
+    ???+ quote "Igor Eisberg 对此事的回应[^dns617]"
+        
+        要指出的几个事实，希望我们的用户中的少数偏执狂不再打扰我们。
+        
+        1.  MIUI 的安全不是我们的责任。我们不是安全专家，这些 ROM 不是为那些害怕中国的偏执狂准备的。
+        2.  腾讯引擎存在于 GuardProvider（MIUI 安全组件）应用中。
+        3.  腾讯引擎对国际 ROM（包括我们的）是禁用的。
+        4.  应用程序列表没有发送到腾讯，"反欺诈" 组件是小米引擎的一部分，应用程序列表被发送到小米所属服务器上的一个API：https://flash.sec.miui.com/detect/app
+        
+        如果你对这些有意见，不要使用 MIUI，或者甚至不要买中国的手机。给自己买一部 iPhone 或三星或其他什么，然后把你的信息交给他们（你知道他们会收集这些信息）。
+        
+        ---
+        
+        全球 ROM 和中国 ROM 之间的区别在于应用列表发送到的 URL。
+        
+        中国ROM：https://flash.sec.miui.com/detect/app
+        
+        全局ROM：https://flash.sec.intl.miui.com/detect/app
+
+[^68146]: Cveronica, [Report that MIUI EU sends private data to China](https://web.archive.org/web/20230206043717/https://xiaomi.eu/community/threads/report-that-miui-eu-sends-private-data-to-china.68146/), Xiaomi European Community, 2023-02-04. (参照 2023-02-06).
+
+[^dns617]: LoopDNS资讯播报, 《[Xiaomi.eu 开发人员在社区中回应](https://web.archive.org/web/20230206063317/https://t.me/s/DNSPODT/617)》, Telegram, 2023-02-06. (参照 2023-02-06).
