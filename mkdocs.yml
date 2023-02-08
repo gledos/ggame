@@ -342,10 +342,13 @@ extra:
     cookies:
       github:
         name: GitHub
+        checked: true
       analytics:
         name: Google Analytics
+        checked: true
       custom:
         name: Google AdSense
+        checked: true
     title: Cookie 设置
     description: >-
       ggame 使用 Cookie 实现 Google 广告、分析和 GitHub 连接功能，请根据情况选择允许或拒绝这些 Cookie。<br>
