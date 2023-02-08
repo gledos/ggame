@@ -335,6 +335,25 @@ extra:
     link: https://t.me/gledos_microblogging
   - icon: material/email-outline
     link: mailto:cngledos@gmail.com
+  analytics:
+    provider: google
+    property: G-6NFWGJL748
+  consent:
+    cookies:
+      github:
+        name: GitHub
+      analytics:
+        name: Google Analytics
+      custom:
+        name: Google AdSense
+    title: Cookie 设置
+    description: >-
+      ggame 使用 Cookie 实现 Google 广告、分析和 GitHub 连接功能，请根据情况选择允许或拒绝这些 Cookie。<br>
+      完成设置后，也可以在网站底部的「更改 Cookie 设置」重新调整。
+    actions:
+      - accept
+      - reject
+      - manage
 
 extra_css:
 - "css/external_link_icon.css"
@@ -342,7 +361,10 @@ extra_css:
 - "css/base.css"               # 格式处理
 - "css/custom_admonitions.css" # 自定义 Admonitions
 
-# extra_javascript:
+extra_javascript:
+- js/consent.js
 # - https://unpkg.com/mermaid/dist/mermaid.min.js
 
-copyright: 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
+copyright: >
+  使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
+  <a href="#__consent">更改 Cookie 设置</a>
