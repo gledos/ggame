@@ -1,5 +1,52 @@
-/*
-    行首缩进 */
+/* 移除 cookie overlay 模糊效果 */
+
+.md-consent__overlay {
+    display: none;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 防止标题后的 # 被复制 */
+
+.md-typeset .headerlink {
+	user-select: none;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 数字的有序列表（覆盖原本的英文） */
+
+.md-typeset ul ol,
+.md-typeset ol ol {
+    list-style-type: decimal;
+}
+.md-typeset ul ol ol,
+.md-typeset ol ol ol {
+    list-style-type: decimal;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 字体配置 */
+
+:root {
+    --md-text-font: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif";
+}
+
+:root {
+    --md-code-font: "Sarasa Fixed SC, Noto Sans Mono CJK SC";
+}
+
+rtc,
+rt { font-size: 11px;
+    line-height: 11px
+};
+
+/* 废弃部分 */
+
+/* -------------------- 分割线 -------------------- */
+
+/* 行首缩进 */
 
 /* p {
     text-indent: 2em;
@@ -14,8 +61,7 @@
     text-indent: 0em;
 } */
 
-/*
-    防止将图片也给缩进 */
+/* 防止将图片也给缩进 */
 
 /* p>img,
 html>div>img {
@@ -31,44 +77,3 @@ html>div>img {
 .task-list-item [type="checkbox"] {
     top: .1em;
 } */
-
-/* -------------------- 分割线 -------------------- */
-
-/*
-    防止标题后的 # 被复制 */
-
-.md-typeset .headerlink {
-	user-select: none;
-}
-
-/* -------------------- 分割线 -------------------- */
-
-/*
-    数字的有序列表（覆盖原本的英文） */
-
-.md-typeset ul ol,
-.md-typeset ol ol {
-    list-style-type: decimal;
-}
-.md-typeset ul ol ol,
-.md-typeset ol ol ol {
-    list-style-type: decimal;
-}
-
-/* -------------------- 分割线 -------------------- */
-
-/*
-    字体配置 */
-
-:root {
-    --md-text-font: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif";
-}
-
-:root {
-    --md-code-font: "Sarasa Fixed SC, Noto Sans Mono CJK SC";
-}
-
-rtc,
-rt { font-size: 11px;
-    line-height: 11px
-};

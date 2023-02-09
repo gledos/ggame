@@ -24,10 +24,11 @@ dateCreated: "2022-09-11T21:40:29"
 
 Google 是总部位于美国加州山景城的跨国科技公司，是 Alphabet 的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，开发并提供大量基于互联网的产品与服务，其主要利润来自 Ads 等广告服务。
 
-Google 现在拥有众多产品，包括电子邮箱 [Gmail][]，流媒体平台 [YouTube][] 还有手机系统 Android 等。
+Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gmail.md)，流媒体平台 [YouTube](/company/Google/Youtube.md) 还有手机系统 Android 等。
 
-[Gmail]: /company/Google/Gmail.md
-[YouTube]: /company/Google/Youtube.md
+## 2006 年域名劫持
+
+
 
 ## 重定向
 
