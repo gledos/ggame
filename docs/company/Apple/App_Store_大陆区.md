@@ -10,14 +10,20 @@ dateCreated: "2021-01-01T17:20:07"
 
 ## 移除 VPN
 
-2017年开始，App Store 大陆区 开始移除了许多常见的 VPN APP。[^rva_fml]
+2017 年开始，App Store 大陆区 开始移除了许多常见的 VPN APP，[^rva_fml] 详情可以阅读维基百科的条目：[中国大陆区App Store下架VPN应用事件][]。
 
 [^rva_fml]: [Apple removes VPN apps in China App Store](https://web.archive.org/web/20210815110437/https://www.cnbc.com/2017/07/31/apple-removes-vpn-apps-in-china-app-store.html)
 
-### 被下架的 VPN 们
+[中国大陆区App Store下架VPN应用事件]: https://zh.wikipedia.org/wiki/中国大陆区App_Store下架VPN应用事件
 
-+ [Star VPN](/anti-censorship/VPN/Star_VPN.md)
-+ [ExpressVPN](/anti-censorship/VPN/ExpressVPN.md)
+> [!abstract]+ 被下架的 VPN 们
+>
+> +   [Star VPN](/anti-censorship/VPN/Star_VPN.md)
+> +   [ExpressVPN](/anti-censorship/VPN/ExpressVPN.md)
+
+2023年2月，有人发布推特消息，表示大陆区开放所有 VPN 翻墙软件上架，[^34112] 但本来当时被下架的也是知名软件，比如 Surge, Shadowrocket, Brook, Potatso 2, VyprVPN, ExpressVPN, Star VPN 等，留下了一些不知名的，看起来像蜜罐的软件。除非有证据表明之前被下架的网络工具，在近期突然上架。
+
+[^34112]: 越南大叔, 「[突发：苹果大陆区app store 开放所有VPN翻墙软件上架](https://web.archive.org/web/20230210023221/https://twitter.com/seanzhao518/status/1623608928390234112)」, Twitter, 2023-02-09. (参照 2023-02-10).
 
 ## 一些事件
 
@@ -61,9 +67,9 @@ dateCreated: "2021-01-01T17:20:07"
 
 [^idUSKBN2950P1]: [Apple removes 39,000 game apps from China store to meet deadline - Reuters](https://web.archive.org/web/20210101064852/https://www.reuters.com/article/us-apple-china-games-idUSKBN2950P1)
 
-### 相关报道
-
-+ [Apple’s China App Store Sheds Videogames as Beijing Tightens Internet Control - WSJ](https://web.archive.org/web/20201224044103/https://www.wsj.com/articles/apples-china-app-store-sheds-games-under-pressure-11608719400?mod=djemalertNEWS)
+> [!abstract]+ 相关报道
+>
+> +   [Apple’s China App Store Sheds Videogames as Beijing Tightens Internet Control - WSJ](https://web.archive.org/web/20201224044103/https://www.wsj.com/articles/apples-china-app-store-sheds-games-under-pressure-11608719400?mod=djemalertNEWS)
 
 ## 下架部分阅读软件
 
