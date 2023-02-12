@@ -18,6 +18,31 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年2月12日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年2月12日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   [多名父母對任天堂Joy-Con手把飄移問題提告，卻敗給了最強法務事先安排的這張「免死金牌」](https://www.techbang.com/posts/103755-the-strongest-legal-department-lives-up-to-its-name-nintendo), T客邦.
++   [一周數位爆報／Google全球表演「丟失手機」、奎丁洗泰國泡泡浴羞羞der、《英雄聯盟》鎖VPN挽民心、索尼辱華「贏了」？ | 科技新情報 | 數位](https://udn.com/news/story/7086/6964500), 聯合新聞網.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCY+kCMQAKCRCZXo6bU2oX
+pH83AQD3kLFmom1mB65h7RNuWOJwISsRI7lgxdAEcSgbbx81aAD5AZOTST6yWF04
+iWDrEGiW5ZOoJKfpfBif61GV6FvDdgk=
+=Cujz
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2023年1月22日
 
 ```markdown
@@ -41,8 +66,6 @@ FGcruNyze+D3JmBtTKUVkBXAf9oBEQc=
 =wiHE
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2022年12月24日
 
