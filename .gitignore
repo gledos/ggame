@@ -52,3 +52,4 @@ run.bat
 script/gg-calendar.rb
 script/mdcal.py
 site/
+.stignore
