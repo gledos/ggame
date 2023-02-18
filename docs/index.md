@@ -69,11 +69,11 @@ dateCreated: "2021-03-18T10:32:32"
 
 ## 联系方式
 
-任何问题都可以联系我:
-
-+   邮箱: cngledos@gmail.com
-+   Element: @gledos:matrix.org
-+   Telegram: [@gledos_green](https://t.me/gledos_green)
+> [!abstract] 任何问题都可以联系我：
+> 
+> +   邮箱: cngledos@gmail.com
+> +   Telegram: [@gledos_green](https://t.me/gledos_green)
+> +   GitHub 仓库的 [issues](https://github.com/gledos/ggame/issues)
 
 ## 源文件
 

@@ -26,3 +26,7 @@ dateCreated: "2022-10-26T13:11:31"
 [^674817]: [关于党内政治生活的若干准则](https://web.archive.org/web/20150501135711/http://www.gov.cn/test/2007-07/06/content_674817.htm)
 
 [^ngnl]: [十条盟约](https://ngnl.fandom.com/zh/wiki/十条盟约)
+
+## 来源请求
+
+如果你找到了来源，请联系我，我的联系方式在 [主页](/index.md#联系方式)。
