@@ -25,6 +25,8 @@ dateCreated: "2022-09-23T12:46:22"
 
 2018年5月8日，欧洲歌唱大赛 ([Eurovision Song Contest 2018](/activities/Eurovision_Song_Contest_2018.md)) 涉同性恋内容在「芒果电视」被审查，代表爱尔兰的歌手瑞安·奥肖内西 (Ryan O'Shaughnessy) 演唱了一首伤感的分手情歌《Together》（在一起），节目中，两名男演员牵手跳舞。观众挥舞彩虹旗也被打上了马赛克。
 
+2018年5月17日，武汉大学的学生组织「[WHU性别性向平等研究会](/game/彩虹六号：围攻.md#彩虹议题)」原定于在这天举办活动，包括公开派发象征同性恋权益的彩虹手环、贴纸和旗子等，但受到了武大校方的压力最终取消线下活动。相似的活动主办方还有「松江七校彩虹联盟」。
+
 2019年6月26日，人民网起草并公布了《[游戏适龄提示草案](/censorship/内容分级/游戏/游戏适龄提示.md)》，其中含有这样的文字：「年龄范围：6~11岁；认知能力；性别认知：性别认同初步形成，认识到性别的恒定性，产生异性概念并产生关于不同性别行为刻板印象」。
 
 2020年1月27日，App Store 大陆区下架了 [Grindr](/software/Grindr.md)。
@@ -33,7 +35,7 @@ dateCreated: "2022-09-23T12:46:22"
 
 2021年4月，漫画《[崩坏3rd 绀海篇](/game/Honkai_Impact_3rd.md#漫画百合情节)》里面的百合画面被删除。（条目尚未编写完成，仅有链接清单）
 
-2021年5月，乐高公司推出了「[Everyone is Awesome](/company/LEGO/Everyone%20is%20Awesome.md)」这款「彩虹」主题的 18+ 年龄限制的积木，但大陆部分商店将此下架了。
+2021年5月，乐高公司推出了「[Everyone is Awesome](</company/LEGO/Everyone is Awesome.md>)」这款「彩虹」主题的 18+ 年龄限制的积木，但大陆部分商店将此下架了。
 
 2021年7月，「[同志平等权益促进会](/company/NGO/同志平等权益促进会.md)」改名为<ruby>同促在线<rp>(</rp><rt>Queer Advocacy Online</rt><rp>)</rp></ruby>，最后在 2021年11月4日 宣布关闭。
 
@@ -45,7 +47,7 @@ dateCreated: "2022-09-23T12:46:22"
 
 2022年6月，这是 [骄傲月][]，加拿大和美国的使领馆在新浪微博发送了骄傲骑行的活动介绍和图片，但随后被新浪微博屏蔽。[^87969][^85632][^TjgPf][^57V1V]
 
-[骄傲月]: https://zh.wikipedia.org/wiki/%E5%90%8C%E6%80%A7%E6%88%80%E8%87%AA%E8%B1%AA%E6%97%A5
+[骄傲月]: https://zh.wikipedia.org/wiki/同性戀自豪日
 
 [^87969]: Canada en Chine, 「[Nous avons partagé notre esprit……](https://web.archive.org/web/20220620092611/https://twitter.com/CanadaChine/status/1538815360475987969)」, Twitter, 2022-06-20. (参照 2022-10-25).
 
