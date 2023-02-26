@@ -12,7 +12,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 > [!summary inline end]+ 元数据
 >
-> ![标志](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_logo.svg)[^logo]
+> ![标志](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_logo.svg){ style="background-color: white" }[^logo]
 >
 > ```yaml
 > 标题:
