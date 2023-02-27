@@ -1,5 +1,7 @@
 ---
 title: 令状金丝雀
+search:
+  exclude: true
 description:
 published: true
 date: "2022-07-14T22:24:44"
