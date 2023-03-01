@@ -57,3 +57,7 @@ ChatGPT 是 OpenAI 公司创造的，基于 GPT-3.5 模型的聊天机器人，�
 > [!note]+ 市场传言有关部门加强 ChatGPT 及相似产品的监测评估和违规行为处置工作
 >
 > 要求坚决关闭从境内访问境外 ChatGPT 的代理服务。抓紧摸排旗下各类网站、应用程序、公众号、小程序等，不得通过代理、插件、用户自行部署等方式向公众提供境外 ChatGPT 产品的访问服务。如存在访问渠道，迅速整改下线。
+
+2023年2月22日，有蚂蚁集团的从业者表示已被指示，不得直接或通过第三方在其平台上提供 ChatGPT 服务。并且科技公司在推出自己的类似 ChatGPT 的服务之前，还需要向监管机构报告。[^1630214]
+
+[^1630214]: msmash, 《[China Tells Big Tech Companies Not To Offer ChatGPT Services](https://web.archive.org/web/20230223125553/https://tech.slashdot.org/story/23/02/22/1630214/china-tells-big-tech-companies-not-to-offer-chatgpt-services)》, Slashdot, 2023-02-22. (参照 2023-02-27).
