@@ -53,3 +53,4 @@ script/gg-calendar.rb
 script/mdcal.py
 site/
 .stignore
+rm0.bat
