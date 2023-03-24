@@ -303,10 +303,16 @@ dateCreated: "2021-09-28T23:09:13"
 
 [^678144017188257801]: RushB中文网, 《[新箱子唯一一件和谐皮肤，区别是枪身的骷髅有无。](https://archive.ph/y6hcE "https://t.bilibili.com/678144017188257801")》, 哔哩哔哩, 2022-07-02. (参照 2022-07-02).
 
-=== "未审查 R8 Revolver | Crazy 8"
+<script
+  defer
+  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
+/>
 
-    ![未审查](https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp)
-
-=== "已审查 R8 Revolver | Crazy 8"
-
-    ![已审查](https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp)
+<img-comparison-slider>
+  <img slot="first" src="https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp" />
+  <img slot="second" src="https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp" />
+</img-comparison-slider>
