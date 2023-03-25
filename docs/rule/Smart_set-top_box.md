@@ -42,8 +42,6 @@ dateCreated: "2021-04-18T04:28:30"
 
 <!--
 [广电总局是否拖了中国影视行业的后腿？ - 电影 - 知乎](https://web.archive.org/web/20170307070827/https://www.zhihu.com/question/24743365)
-[如何看待广电发文禁止「人艰不拆」等网络热词？ - 文化 - 知乎](https://web.archive.org/web/20150215095059/http://www.zhihu.com/question/26818047)
-[如何看待广电发文禁止电视节目使用「人艰不拆」等网络热词？ - 知乎用户的回答 - 知乎](https://web.archive.org/web/20150715200745/http://www.zhihu.com/question/26818047/answer/34335169)
 -->
 
 ## 酷开荣耀A55

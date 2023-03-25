@@ -346,6 +346,28 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 ![这一定是小米bug_00.10.833](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.10.833.webp){ width=45% }
 ![这一定是小米bug_00.12.179](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.12.179.webp){ width=45% }
 
+## 限制 ADB
+
+未知具体限制时间，至少在 MIUI 12 的时候就已经开始限制 ADB (Android Debug Bridge) 这个调试功能了，默认不登陆以及不插卡的情况下，就会导致下面等命令无法使用：[^xoxXq]
+
+[^xoxXq]: Remik1r3n, 《[不登陆小米账号启用 MIUI 的 ADB 调试（安全设置）和 ADB 应用安装](https://archive.is/xoxXq "http://www.bilibili.com/read/cv21517358")》, 哔哩哔哩, 2023-01-31. (参照 2023-03-25).
+
+```shell
+adb shell input
+adb shell monkey
+adb shell appops
+adb shell pm grant
+adb shell pm revoke
+adb shell pm reset-permissions
+adb shell pm clear
+adb shell settings
+adb shell getevent
+adb shell sendevent
+adb shell uiautomator
+```
+
+需要插入 SIM 手机卡并登录小米帐号，然后在联网的情况下才能启用完整的 ADB 功能。
+
 ## MiAdBlacklistConfig
 
 2021年9月，<ruby>立陶宛国家网络安全中心<rp>(</rp><rt>lietuvos Respublikos krašto apsaugos ministerija</rt><rp>)</rp></ruby>发布了多款手机审计报告，其中就有小米10T 的浏览器、MiAdBlacklistConfig（后文简称名单）和登录帐号时发送短信的风险，其中最引人注目就是名单。[^52439]
