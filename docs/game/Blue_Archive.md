@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2023-03-03T16:21:06"
+date: "2023-04-02T01:35:11"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -72,38 +72,215 @@ dateCreated: "2022-11-14T21:57:06"
 +   <ruby>天雨亚子<rp>(</rp><rt>아코 메모리얼</rt><rp>)</rp></ruby>图像部分修改
 +   <ruby>角楯花凛<rp>(</rp><rt>카쿠다테 카린</rt><rp>)</rp></ruby>的部分台词
 
-???+ note "狮子堂泉（泳装）"
+<script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"/>
 
-    === "上下对照"
-
-        ![狮子堂泉（泳装） 18](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp)
-        ![狮子堂泉（泳装） 15](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp)
-
-    === "修改前[^00l2d]"
-
-        ![狮子堂泉（泳装） 18](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp)
-
-    === "修改后[^bakc]"
-
-        ![狮子堂泉（泳装） 15](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp)
+> [!abstract]+ 狮子堂泉（泳装）对照[^00l2d][^bakc]
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp" />
+> </img-comparison-slider>
 
 [^00l2d]: star hope, [\[블루 아카이브\] 인연 스토리(이즈미/수영복) / 메모리얼](https://www.youtube.com/watch?v=1mF81T5fbNo), YouTube.
 
 [^bakc]:  종말맨, [\[블루아카\] 결국...](https://www.youtube.com/watch?v=Ile1bt2St2Q), YouTube.
 
-???+ note "天雨亚子"
-
-    === "上下对照"
-
-        ![天雨亚子 18](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_18.webp)
-        ![天雨亚子 15](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_15.webp)
-
-    === "修改前[^01l2d]"
-
-        ![天雨亚子 18](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_18.webp)
-
-    === "修改后[^bakc]"
-
-        ![天雨亚子 15](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_15.webp)
+> [!abstract]+ 天雨亚子对照[^01l2d][^bakc]
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_18.webp" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_15.webp" />
+> </img-comparison-slider>
 
 [^01l2d]: やわなかチェルノ, [블루 아카이브 아코 메모리얼](https://www.youtube.com/watch?v=ctGquW81S58), YouTube.
+
+## 大陆服的和谐
+
+2023年3月20日，国家新闻出版署公示了《蔚蓝档案》获取到版号的情况。
+
+[^106487]: 国家新闻出版署, 《[2023年进口网络游戏审批信息](https://web.archive.org/web/20230328035746/https://www.nppa.gov.cn/nppa/contents/318/106487.shtml)》, 国家新闻出版署, 2023-03-20. (参照 2023-04-02).
+
+2023年3月31日，大陆服发布了首个宣传视频 (PV1)，官网和预约功能也同步上线。
+
+### 官网差异
+
+大陆服官网与国际服繁中的故事介绍/世界观内容相似，但还是有许多差异：[^6f7CM][^bagtc]
+
+[^6f7CM]: 《[〈蔚蓝档案〉手游官方网站](https://archive.ph/6f7CM "
+https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
+
+[^bagtc]: <https://bluearchive.nexon.com/home>
+
+> [!quote]+ 大陆服故事介绍
+>
+> 基沃托斯 ，一片神秘而辽阔的土地，头上有着奇异光环的少女们生活在这里。<br>
+> 然而，联邦理事会管理下的平静生活随着会长的不辞而别被打破，<br>
+> 在群龙无首的基沃托斯，<br>
+> 危机一触即发！
+>
+> 在这样的混乱之中，会长留下的搜查社 “沙勒” 将扮演怎样的角色？<br>
+> 从外面的世界来到基沃托斯的老师又将与少女们发生怎样的邂逅？<br>
+> 巨额债务、废部危机、两大对立势力间的条约签订……<br>
+> 各种各样的难题，等待着老师去解决。<br>
+> 友情、青春和爱的故事即将展开。
+
+> [!quote]+ 国际服世界觀
+>
+> 分佈在學園城市各個地區的<學園><br>
+> 基本上被認定爲獨立的行政自治區域。
+>
+> 由總管理奇普托斯的<br>
+> 一種聯邦政府的總學生會<br>
+> 管理並控制<學園>的構造。<br>
+> 但是由於總學生會長突然地失蹤，<br>
+> 總學生會陷入癱瘓的狀態，<br>
+> 倚靠總學生會長超乎常人的行政能力而<br>
+> 制止住一時的奇普托斯<br>
+> 各種問題開始浮出檯面。
+>
+> 為了阻止這一切，總學生會請求<br>
+> 聯邦搜查社團 <夏萊><br>
+> 協助解決奇普托斯的各項問題。<br>
+> <夏萊>為總學生會長失蹤前<br>
+> 認可的最後一個組織，<br>
+> 是成立不久的新生社團。
+>
+> 現在<夏萊>需要和學生們<br>
+> 一起解決奇普托斯各種事件的導師。
+>
+> \[個人武器和智慧型手機為學生們的必要道具!<br>
+> 學園城市少女們的友情和愛情，<br>
+> 感動的軍事行動!\]
+
+可以看出移除了学校、自治区和军事行动这些词语，爱情变成了爱，「失踪」一词被换成没有那么强烈的「不辞而别」。
+
+机构和职务也有些变化：
+
+| 国际服       | 大陆服       |
+| ------------ | ------------ |
+| 聯邦搜查社團 | 联邦搜查社   |
+| 總學生會長   | 联邦理事会长 |
+
+---
+
+大陆服官网还有对学校有介绍，全部介绍如下：
+
+> [!quote]+ 阿拜多斯
+>
+> 阿拜多斯经佣有开阔领过、众多人囗，<br>
+> 但随着缘由不明的沙尘暴在自管区内席卷，<br>
+> 大部分土地变成了沙漠，<br>
+> 居民逐渐搬出，繁华之地走向荒芜。
+>
+> 现在，<br>
+> 阿拜多斯只剩下五名注册在案的成员了。
+
+> [!quote]+ 歌赫娜
+>
+> 基沃托斯三大自管组织之一，其理事会名为「万魔殿」。
+>
+> 纪律部负责维持自管区秩序，<br>
+> 与崔尼蒂存在微妙的竞争关系。
+>
+> 歌赫娜崇尚武力，汇聚了一批热爱自由随心所的狂徒，<br>
+> 其成员的言谈举止往往过于奔放，让纪律部头疼不已。
+
+> [!quote]+ 崔尼蒂
+>
+> 基沃托斯三大自管组织之一，其理事会名为「茶话会」。
+>
+> 正义实现部负责维持自管区秩序，与歌赫存在微妙的竞争关系。
+>
+> 崔尼蒂历史悠久，凤格典雅，<br>
+> 成员中有许多不谙世事的天真大小姐，<br>
+> 但即使是淑女，被惹急了也是会发火的，<br>
+> 所以不耍以为大小姐们很好欺负哦？
+
+> [!quote]+ 千禧年
+>
+> 基沃托斯三大自管组织之一，其理事会名为「研讨会」。
+>
+> C&C 女仆部负责维持自管区秩序，工程部也名声在外。
+>
+> 正迦名字所示，千禧年最关注技术，
+> 基沃托斯的前沿发明几乎都出自他们之手。
+>
+> 成员以理科生居多，不乏醉心学朩对现实生活反而不太关心的怪异天才。
+
+> [!quote]+ 百鬼夜行
+>
+> 以和风为特色的自管区，有庆典运营管理部、
+> 忍术研究部、修行部、阴阳部等社团。
+>
+> 其成员身上往往有浓厚的和凤特色，
+> 不过，也有爱好和风文化却学得乱七八糟的外国人乱入其中哦。
+
+> [!quote]+ 山海经
+>
+> 以中华风为特色的自管区，有梅花园、炼丹研究会等社团。
+>
+> 山海经成员通常有一眼可见的中华文化元素，比如美丽的旗袍、文绉绉的言语风格，还有那位年纪不大却仙风道骨的大师对道家文化的了如指掌……
+
+这里将原本的自治区修改成了自管区，也没有提到学校。不过也因为没有提学校，所以游戏里的角色之间似乎就没法称呼同学了：
+
+> 花江妹妹，工作适应得怎么样？
+>
+> 非常顺利，前辈！病人们都很友好呢~
+>
+> 不过，为什么一提到打针，大家就都会从我身边溜走呢？~
+
+不过还有最重要的「三一学院」被和谐为了「崔尼蒂」，是原英文的英译，原文指的是三位一体，是基督教的重要内容。
+
+---
+
+而在官网的预约界面，对玩家给出的称呼是「教职员」，而不是「老师」这个原游戏的称呼。
+
+### PV1 差异
+
+大陆服的 PV1（首个宣传视频）并没有照搬国际服或者日服，而是混合了，并且背景音乐也混合了多首，下面是相同部分的差异：
+
+> [!abstract]+ 大陆服 PV1 00.15.933
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.15.933.jpg" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.09.566.jpg" />
+> </img-comparison-slider>
+
+左边的差异可以看出飞艇的归属 CRONOS SCHOOL OF JOURNALISM 被翻译为了「克罗诺斯新闻部」，这首先表示不重要的装饰性文字也许要翻译，而这是为了游戏过审需要遵守的 [必要条件](/theme/语言规范主题.md#游戏外语历史)，然后是隐去了理应翻译的 SCHOOL，使用「部」来隐藏学校这一概念。
+
+在右边大屏幕上，左上角红色的 LIVE 字样被翻译为「直播」。
+
+> [!abstract]+ 大陆服 PV1 00.26.097
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.26.097.jpg" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.24.849.jpg" />
+> </img-comparison-slider>
+
+车厢顶部的广告牌被修改，从原本的「百鬼夜行聯合學院」「夏日慶典」广告被修改为「基沃托斯」「智能生活+! MomoTalk 邀您感受全新社交体验」「智能社交新体验！」，清晰大图如下：
+
+![00.16.166](https://s3.tebi.io/ggame/ShareX/new_pv.e9782579.mp4_snapshot_00.16.166.jpg)
+
+这可能是规避 [夏日祭事件](/activities/漫展/index.md#夏日祭事件)。
+
+> [!abstract]+ 大陆服 PV1 01.16.474
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_01.16.474.jpg" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.15.182.jpg" />
+> </img-comparison-slider>
+
+左侧学生信息里，大陆服没有填写年龄，而国际服和日服都有。
+
+右侧的手机未解锁，但国际服和日服都是聊天软件的界面，所以可能是故意不展示这个类似于 LINE 的聊天软件界面，考虑到国际服和日服的 PV1 里都有类推特的画面，而大陆服没有的情况，所以似乎确实存在不展示境外流行软件的倾向性。
+
+---
+
+除此之外还有一些国际服和日服都有的画面，而大陆服没有的，比如：
+
++   巨大的文字：「少女們的」「軍事」「青春」「FANTASY」
++   地铁的站点图
++   自动贩卖机前，刷学生卡购买商品
+
+等等。
