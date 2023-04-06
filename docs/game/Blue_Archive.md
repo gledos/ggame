@@ -253,7 +253,7 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 
 大陆服的 PV1（首个宣传视频）并没有照搬国际服或者日服，而是混合了，并且背景音乐也混合了多首，下面是相同部分的差异：
 
-> [!abstract]+ 大陆服 PV1 00.15.933
+> [!abstract]+ 大陆服 PV1 00:15.933
 >
 > <img-comparison-slider>
 > <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.15.933.jpg" />
@@ -264,7 +264,7 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 
 在右边大屏幕上，左上角红色的 LIVE 字样被翻译为「直播」。
 
-> [!abstract]+ 大陆服 PV1 00.26.097
+> [!abstract]+ 大陆服 PV1 00:26.097
 >
 > <img-comparison-slider>
 > <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.26.097.jpg" />
@@ -277,7 +277,7 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 
 这可能是规避 [夏日祭事件](/activities/漫展/index.md#夏日祭事件)。
 
-> [!abstract]+ 大陆服 PV1 01.16.474
+> [!abstract]+ 大陆服 PV1 01:16.474
 >
 > <img-comparison-slider>
 > <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_01.16.474.jpg" />
