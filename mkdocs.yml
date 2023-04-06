@@ -40,6 +40,7 @@ theme:
   custom_dir: overrides
   language: zh              # 中文，解决中文搜索问题
   features:
+  - content.tabs.link     # 同步内容选项卡（点击 A 选项卡后，其他的 A 选项卡也会自动被选择） https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#open-me-in-a-new-tab-
   - navigation.indexes    # 文件夹下的 index.md 自动「连接」
   - header.autohide
   - navigation.top        # 回到顶部的按钮

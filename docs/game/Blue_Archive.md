@@ -109,12 +109,21 @@ dateCreated: "2022-11-14T21:57:06"
 
 [^BV1XP411d7zb]: 玉玉藻藻, [【整活】太好力，碧蓝档案有国服力](https://www.bilibili.com/video/BV1XP411d7zb), 哔哩哔哩.
 
-> [!abstract]+ 优香（体操服）对照（整活）
->
-> <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp" />
-> </img-comparison-slider>
+???+ abstract "优香（体操服）对照（整活）"
+
+    === "左右滑动"
+
+        <img-comparison-slider>
+        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp" />
+        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp" />
+        </img-comparison-slider>
+
+    === "上下滑动"
+
+        <img-comparison-slider direction="vertical">
+        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp" />
+        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp" />
+        </img-comparison-slider>
 
 ### 官网差异
 
