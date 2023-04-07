@@ -109,12 +109,12 @@ plugins:
     css_style:
       width: "100%"
       height: "100%"
-- minify:                 # 将文件 minify 的插件   https://github.com/byrnereese/mkdocs-minify-plugin
-    minify_html: true     # html 过多，导致生成时间变成了三倍……
-    minify_js: true       # 只压缩 js 和 css 效果又不明显，所以不打算使用……
-    minify_css: true
-    htmlmin_opts:
-      remove_comments: true
+# - minify:                 # 将文件 minify 的插件   https://github.com/byrnereese/mkdocs-minify-plugin
+#     minify_html: true     # html 过多，导致生成时间变成了三倍……
+#     minify_js: true       # 只压缩 js 和 css 效果又不明显，所以不打算使用……
+#     minify_css: true
+#     htmlmin_opts:
+#       remove_comments: true
   #   js_files:
   #   - my/javascript/dir/file1.js
   #   css_files:

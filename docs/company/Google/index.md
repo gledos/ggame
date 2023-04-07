@@ -28,6 +28,25 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
 ## 2006 年域名劫持
 
+2006年6月23日 深夜，Google 的 `google.cn` 以及微软的 `msn.com.cn` 域名，均被解析到了买麦网的域名 `www.com.cn`，直到数天后的 27 日，托管域名的公司中国万网，才表示这是黑客所为，并已上报至北京市公安局，[^09465] 然后此事没有后续消息了。
+
+[^09465]: ChinaByte, 《[公安局立案调查Google、MSN域名篡改事件](https://web.archive.org/web/20230407122641/http://tech.sina.com.cn/i/2006-06-27/10221009465.shtml)》, 新浪网, 2006-06-27. (参照 2023-04-07).
+
+> [!note]+ 隐瞒数据泄露
+> 
+> 假设万网说的是实话，这确实是黑客攻击，那么此事可能涉及数据泄露。
+>
+> 「如果不披露没有责任、披露却需要承担代价，那么具备『理性决策』能力的相关方一定会选择不披露、或者少披露。」—— [赵粮](http://www.xinhuanet.com/politics/2014-11/27/c_127255174.htm)
+>
+>  可惜的是隐瞒数据泄露的现象非常普遍，甚至知道内情的员工也会被 [保密协议](https://www.businessinsider.com/cybersecurity-insiders-reveal-nda-hide-data-breach-2019) 所限制，好在公司没法控制媒体，如果有其他的消息源，比如数据库已经在论坛上出售了，那么媒体还是会以第四权介入，然后等待法律来制裁公司就好。（笑）
+
+> [!abstract]+ 相关链接
+>
+> +   新浪科技, 《[谷歌MSN中国域名今晨遭劫持 均指向买麦网](https://web.archive.org/web/20111123201920/http://tech.sina.com.cn/i/2006-06-24/11431006402.shtml)》, 新浪网, 2006-06-24. (参照 2023-04-07).
+> +   新浪科技, 《[DNS解析错误引发谷歌MSN中国域名指向买麦网](https://web.archive.org/web/20060711123420/http://tech.sina.com.cn/i/2006-06-24/13521006438.shtml)》, 新浪网, 2006-06-24. (参照 2023-04-07).
+> +   williamlong, 《[Google.CN遭域名劫持](https://web.archive.org/web/20101228150816/http://www.williamlong.info/archives/542.html)》, 月光博客, 2006-06-24. (参照 2023-04-07).
+> +   williamlong, 《[万网回应Google域名劫持事件](https://web.archive.org/web/20120108003847/http://www.williamlong.info/archives/545.html)》, 月光博客, 2006-06-27. (参照 2023-04-07).
+
 
 
 ## 重定向
