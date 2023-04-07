@@ -1,3 +1,4 @@
+.stignore
 docs/.vault-stats
 docs/.vscode/settings.json
 docs/待办事项.md
@@ -6,6 +7,7 @@ docs/blocklist/限韩令.md
 docs/catch_the_wind/人民教育出版社.md
 docs/censorship/技术/DNS污染.md
 docs/censorship/已购的书.md
+docs/encryption/
 docs/game/三色绘恋.md
 docs/game/战地4.md
 docs/game/Stellaris.md
@@ -46,11 +48,11 @@ docs/src/video
 docs/src/website
 docs/templates/*
 docs/unclear/女性相关词语的污名化情况.md
+rm0.bat
 run_o.bat
 run_o.yml
 run.bat
 script/gg-calendar.rb
 script/mdcal.py
 site/
-.stignore
-rm0.bat
+docs/encryption/
