@@ -50,7 +50,7 @@ dateCreated: "2022-04-18T21:59:02"
 
 [知乎]: /website/知乎.md#展示账号ip归属地
 [百度贴吧]: /company/百度/贴吧.md#展示账号ip归属地
-[微信公众号]: /company/腾讯/微信公众号.md#展示账号ip归属地
+[微信公众号]: /company/腾讯/微信.md#展示账号ip归属地
 [新浪微博]: /company/新浪/新浪微博.md#展示账号ip归属地
 [哔哩哔哩]: /website/哔哩哔哩弹幕网.md#展示账号ip归属地
 [Keylol]: /website/其乐.md#展示账号ip归属地
