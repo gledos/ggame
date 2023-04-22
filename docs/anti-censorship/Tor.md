@@ -26,7 +26,7 @@ Tor 是实现匿名通信的自由软件。其名源于<ruby>洋葱路由器<rp>
 
 [^ubcc]: 《[Bridge users by transport from China](https://web.archive.org/web/20230419143731/https://metrics.torproject.org/userstats-bridge-combined.html?start=2023-03-19&end=2023-04-19&country=cn)》, Tor Metrics, 2023-04-19. (参照 2023-04-19).
 
-<object data="https://s3.tebi.io/ggame/ShareX/userstats-bridge-combined-cn-2023-03-19-2023-04-19.pdf" type="application/pdf" width="100%" height="100%" markdown="1">
+<object data="https://s3.tebi.io/ggame/ShareX/userstats-bridge-combined-cn-2023-03-19-2023-04-19.pdf" type="application/pdf" width="100%" height="400px" markdown="1">
 
 Unable to display PDF file. [Download](https://s3.tebi.io/ggame/ShareX/userstats-bridge-combined-cn-2023-03-19-2023-04-19.pdf) instead.
 

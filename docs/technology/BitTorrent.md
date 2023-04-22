@@ -133,7 +133,7 @@ Gnutella 网络是最先使用的，当时 Gnutella 是非常流行的分享文�
 2.  xt 表示 Exact Topic，这是磁力链接必要的参数，它的后方通常是 URN
 3.  使用 URN 表示的文件哈希，关于 URN 的介绍〔待续〕
 
-〔待续〕
+    〔待续〕
 
 ### 磁力链接的图标
 
@@ -158,7 +158,6 @@ Gnutella 网络是最先使用的，当时 Gnutella 是非常流行的分享文�
 [fig5_2]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAtElEQVQ4T7WTyxHEIAiG4ZYSPNuFtmNdtmMZni0hNzcwwSFRM5tkl5vI/8lDMKVU4YUhAZxzjxCICA1AhztWa4UOkHM+MKy1fB75/wsopYAxBs4ZaP8wgzaOZQFc10M5dfOJ0d0cQIFbALU0hMCaGCN8DyDFLzIgjgxWv87+yxKk0L0UyuZsUwAF8mvSwAFEmts1kVNTv5EnogB6KiSW+OEuzL61CNs49S7c2YMO4L1/omfNB3MRp1MI9nwyAAAAAElFTkSuQmCC
 [fig6]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAJCAYAAADpeqZqAAAAo0lEQVQYV42RMRICIQxFPx1chU6PYOtRLD3Hlh7D0lLKtdOOEkuPAF38cWAdHHeGzGQgIY/kg5GXCJ4YtzNgZCbEjTs5lFJgrV29IB8ywnT7QmYySCktgPceMcYu/guJlrCT43IpAXu7Q66Y5tYhHjqC45Dqoa4HwS39Tt9UjYZ5OUqvSadQXVJBHbNZAzTuHmIpIPhr2qHZB7piloAw/k+sfANYBGsGFtW0pQAAAABJRU5ErkJggg==
 [fig7]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAOCAYAAADNGCeJAAAA0klEQVQ4T62SMRKDIBBFPx1exaultJRSS8ocI0cIpbmBJSlzBOkIm4izItEkujPOOH/hsX93hX94jzv2xwUQvguw8LM3jL4tYcW5gHMOUsqJP5wGkJ4G6TE+wvq+nw6VZYkIy+mrMKEFrLXHwTyhgk0yVjmFpqqhdAstG0RjlNu0SZVxGL9AffsPFl4W4avRHFDZ2LWCT5WN8yub1JsW6m117F26EryXq9Ok5AzIKqNcDkR6ds/iSxHIl5dycbpptauwxbpvCC/YFZ03ML/ezZ5/AhymrpUVYLuOAAAAAElFTkSuQmCC
-
 
 ## Private Tracker BT
 
@@ -203,3 +202,31 @@ magnet:?xt=urn:btih:631a31dd0a46257d5078c0dee4e66e26f73e42ac
 magnet:?xt=urn:btmh:1220caf1e1c30e81cb361b9ee167c4aa64228a7fa4fa9f6105232b28ad099f3a302e
 magnet:?xt=urn:btih:631a31dd0a46257d5078c0dee4e66e26f73e42ac&xt=urn:btmh:1220d8dd32ac93357c368556af3ac1d95c9d76bd0dff6fa9833ecdac3d53134efabb
 ```
+
+## 追动画
+
+因为 BitTorrent 的开放性，所以 BitTorrent 的订阅功能直接使用 RSS 实现，通常还支持字符匹配等功能，比如 qBittorrent 的「RSS 智能剧集过滤器」功能，然后就能自动下载需要的最新一集的动画。
+
+2023年4月 上旬，哔哩哔哩知名动画区 UP 主「范式」在直播中分享了使用 BitTorrent 以及 RSS 订阅动画的技巧，主要是播放了十年怎么走的《qBittorrent 如何自动追番》这期视频，[^1V7M4] 随后 4月9日《【泛式】范式教你全自动下载新番！！！》的切片上传，之后因为不明原因更名为《【泛式】新番引进大大减少了！？以后应该如何看番？？》。[^1F7Xn]
+
+[^1V7M4]: 十年怎么走, 《[qBittorrent 如何自动追番](https://www.bilibili.com/video/BV1Bx4y1V7M4/)》, 哔哩哔哩, 2023-02-19. (参照 2023-04-22).
+
+[^1F7Xn]: 夜空无界, 《[【泛式】新番引进大大减少了！？以后应该如何看番？？](https://archive.md/OQRgP "https://www.bilibili.com/video/BV1554y1F7Xn/")》, 哔哩哔哩, 2023-04-09. (参照 2023-04-22).
+
+2023年4月20日 开始，多个中文 BitTorrent 网站被 [GFW](/censorship/技术/GFW.md) 封锁：[^rynif]
+
+[^rynif]: &’a ::rynco::UntitledChannel, 「[今天刚被屏蔽的应该包括……](https://web.archive.org/web/20230422122922/https://t.me/s/rynif/30486)」, Telegram, 2023-04-22. (参照 2023-04-22).
+
++   2023年4月20日
+    +   蜜柑计划 - Mikan Project, [https://mikanani.me](https://blocky.greatfire.org/detail/374582/https%3A%2F%2Fmikanani.me), BLOCKY.
++   2023年4月21日
+    +   [https://acg.rip](https://blocky.greatfire.org/detail/434531/https%3A%2F%2Facg.rip), BLOCKY.
+    +   [https://bangumi.moe](https://blocky.greatfire.org/detail/181594/https%3A%2F%2Fbangumi.moe), BLOCKY.
++   2023年4月22日
+    +   [https://miobt.com](https://blocky.greatfire.org/detail/534057/https%3A%2F%2Fmiobt.com), BLOCKY.
+
+（上述时间仅仅是可被查证的、被观察到的封禁时间，可能比起真正的封锁时间更晚。）
+
+对此，有人认为范式的宣传和 BT 站被封锁是相关的。[^80680]
+
+[^80680]: 邦古型工机, 《[蜜柑、大马哈鱼等bt站被ban的原因猜测](https://web.archive.org/web/20230422124910/https://bangumi.tv/group/topic/380680)》, bangumi, 2023-04-21. (参照 2023-04-22).
