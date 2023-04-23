@@ -10,7 +10,7 @@ dateCreated: "2021-12-17T23:11:34"
 
 ## 简介
 
-〔待续〕
+App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 发行平台，也是这些平台唯一的 App 发行平台。
 
 ## 封禁开发者账号
 
@@ -47,7 +47,25 @@ dateCreated: "2021-12-17T23:11:34"
 
 〔简介待续〕
 
+### 版号要求
 
+2016年6月30日，苹果官方今日针对大陆游戏开发者发布了一则公告，表示因为 2016年5月24日 国家新闻出版广电总局颁布的《[关于移动游戏出版服务管理的通知](/rule/国家新闻出版广电总局/关于移动游戏出版服务管理的通知.md)》，移动游戏需要通过国家新闻出版广电总局的审批才可发布。
+
+不过最后这件事被推迟了。
+
+2020年6月22日，知情人士称，中国的开发商和发行商已被告知，其iOS游戏从7月开始需要许可证才能继续运营。利用「进口游戏」较容易上架的漏洞也将会被新的规则限制。[^iirczymk8387164][^20201119085815]
+
+[^20201119085815]: [Apple to Remove IPhone Games Not Approved by China Government - Bloomberg](https://web.archive.org/web/20201119085815/https://www.bloomberg.com/news/articles/2020-06-22/apple-set-to-nix-thousands-of-unlicensed-iphone-games-in-china)
+
+[^iirczymk8387164]: [苹果将在中国下架数千款未获批准的iPhone游戏 - 新浪网](https://web.archive.org/web/20201026053039/https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8387164.shtml)
+
+2020年8月1日，App Store 大陆区下架应用数量超过 3 万款，其中游戏类 2.7 万款。[^95964]
+
+[^95964]: GameLook, 《[苹果版号新政成“纸老虎”？马甲包正威胁IAA游戏生存权](https://web.archive.org/web/20220630233942/http://www.gamelook.com.cn/2020/09/395964)》, 游戏大观 | GameLook.com.cn, 2020-09-04. (参照 2023-04-23).
+
+2020年12月2日，有许多游戏开发者表示收到了苹果官方邮件，信中称：12月31日之后未按要求提交游戏版号的付费、内购游戏，将无法在 App Store 上架。[^21021]
+
+[^21021]: [苹果整治力度加大：12月31日起，无版号游戏将无法上架 - 游戏葡萄](https://web.archive.org/web/20210101164033/http://youxiputao.com/articles/21021)
 
 ### 移除 VPN
 
@@ -72,16 +90,6 @@ dateCreated: "2021-12-17T23:11:34"
 
 [^iircuyvi7014036]: [国区 App Store 谷歌 Gmail 或已下架|谷歌|Gmail_新浪科技_新浪网](https://web.archive.org/web/20210101114449/https://tech.sina.com.cn/digi/2020-06-06/doc-iircuyvi7014036.shtml)
 
-2020年6月22日，知情人士称，中国的开发商和发行商已被告知，其iOS游戏从7月开始需要许可证才能继续运营。利用「进口游戏」较容易上架的漏洞也将会被新的规则限制。[^iirczymk8387164][^20201119085815]
-
-[^20201119085815]: [Apple to Remove IPhone Games Not Approved by China Government - Bloomberg](https://web.archive.org/web/20201119085815/https://www.bloomberg.com/news/articles/2020-06-22/apple-set-to-nix-thousands-of-unlicensed-iphone-games-in-china)
-
-[^iirczymk8387164]: [苹果将在中国下架数千款未获批准的iPhone游戏 - 新浪网](https://web.archive.org/web/20201026053039/https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8387164.shtml)
-
-2020年12月2日，有许多游戏开发者表示收到了苹果官方邮件，信中称：12月31日之后未按要求提交游戏版号的付费、内购游戏，将无法在 App Store 上架。[^21021]
-
-[^21021]: [苹果整治力度加大：12月31日起，无版号游戏将无法上架 - 游戏葡萄](https://web.archive.org/web/20210101164033/http://youxiputao.com/articles/21021)
-
 2020年12月23日，非营利监督组织“问责运动”(CfA)下属的“科技透明项目”(TTP)12月23日发布了一份调查报告，[^5712479]报告指出苹果对于中华人民共和国政府对于 App Store 大陆区的 APP 删除申请几乎无阻拦，[^mdPCH]且删除的软件大部分都是政治敏感，并非苹果公司所声称的色情赌博违法内容。[^20201231123904][^20201231094050]
 
 [^5712479]: [“问责运动”调查报告：苹果公司主动下架其中国应用商城中的政治敏感APP](https://web.archive.org/web/20201224222209/https://www.voachinese.com/a/cfa-ttp-investigation-apple-is-censoring-political-apps-in-its-china-app-store-20201224/5712479.html)
@@ -92,7 +100,7 @@ dateCreated: "2021-12-17T23:11:34"
 
 [^20201231094050]: [Apple Is Censoring its App Store for China - Tech Transparency Project](https://web.archive.org/web/20201231094050/https://www.techtransparencyproject.org/articles/apple-censoring-its-app-store-china)
 
-2020年 的最后一天《NBA 2K20》《刺客信条：本色》《饥荒：口袋版》《地狱边境》《GTA系列》《仙剑奇侠传》《水果忍者》《鳄鱼小顽皮爱洗澡》《涂鸦跳跃》《QQ梦想城》《迷失岛系列》《南瓜先生系列》《黑暗料理王》《最终幻想系列》开罗公司的像素经营游戏 等47692款应用均已在 App Store 大陆区下架，大多下架的都是无版号的游戏应用，[^71Y73][^313745][^21188]目前付费游戏排行榜仅剩下84个付费游戏。[^ce5JD]
+2020年 的最后一天《NBA 2K20》《刺客信条：本色》《饥荒：口袋版》《地狱边境》《GTA系列》《仙剑奇侠传》《水果忍者》《鳄鱼小顽皮爱洗澡》《涂鸦跳跃》《QQ梦想城》《迷失岛系列》《南瓜先生系列》《黑暗料理王》《最终幻想系列》开罗公司的像素经营游戏 等47692款应用均已在 App Store 大陆区下架，大多下架的都是无版号的游戏应用，[^71Y73][^313745][^21188] 目前付费游戏排行榜仅剩下84个付费游戏。[^ce5JD]
 
 [^71Y73]: [苹果 App Store 中国区今日下架 4 万余款游戏：包括《NBA 2K20》《刺客信条：本色》等](https://archive.is/71Y73 "https://www.ithome.com/0/527/655.htm"), IT之家.
 

@@ -262,6 +262,21 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 
 大陆服的 PV1（首个宣传视频）并没有照搬国际服或者日服，而是混合了，并且背景音乐也混合了多首，下面是相同部分的差异：
 
+> [!abstract]+ 大陆服 PV1 00:05.876
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.05.876.jpg" />
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【ブルーアーカイブ%20-Blue%20Archive-】ティザーPV%20[0KFPtliRn_4].mkv_snapshot_00.54.138.jpg" />
+> </img-comparison-slider>
+
+公路地面上的日语「止まれ」变成了汉字「停车」，即使这是装饰性文字。
+
+> [!note]+ 「れ」的另一种写法
+>
+> 日本公路上会有停止线，表示停车让行，上面会写「止まれ」或者其他相似的内容，但有的「れ」字写得像左右镜像的 N 加上一条竖线。
+>
+> 但单独存在时没有法律效果，因为存在效果的是红色的交通指示牌。
+
 > [!abstract]+ 大陆服 PV1 00:15.933
 >
 > <img-comparison-slider>
