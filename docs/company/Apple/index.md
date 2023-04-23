@@ -20,7 +20,6 @@ dateCreated: "2022-08-03T09:18:38"
 +   [为万物，齐创造 系列活动](/company/Apple/为万物，齐创造_系列活动.md)
 +   [指南针](/company/Apple/指南针.md)
 +   [App Store](/company/Apple/App_Store.md)
-+   [App Store 大陆区](/company/Apple/App_Store_大陆区.md)
 +   [Apple Watch](/company/Apple/Apple_Watch.md)
 +   [Designed by Apple in California](/company/Apple/Designed_by_Apple_in_California.md)
 +   [flag emoji](/company/Apple/flag_emoji.md)
