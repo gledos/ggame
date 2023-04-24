@@ -120,6 +120,10 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 >
 > +   [Apple’s China App Store Sheds Videogames as Beijing Tightens Internet Control - WSJ](https://web.archive.org/web/20201224044103/https://www.wsj.com/articles/apples-china-app-store-sheds-games-under-pressure-11608719400?mod=djemalertNEWS)
 
+2023年4月23日，虎牙直播遭到下架，对此客服表示：「4 月 21 日起，虎牙为了提供更好的直播体验，针对 iOS 系统会进行产品升级优化，目前 App Store 无法下载虎牙直播，在升级优化完成后，会第一时间进行上架」。[^it_318]
+
+[^it_318]: 远洋, 《[虎牙直播 App 在苹果应用商店下架，客服回应称进行产品升级优化](https://web.archive.org/web/20230423151723/https://www.ithome.com/0/688/318.htm)》, IT之家, 2023-04-23. (参照 2023-04-23).
+
 ### 下架部分阅读软件
 
 2021年10月 中旬，《古兰经》以及《圣经》从 App Store 大陆区被下架，亚马逊的有声读物软件 Audible 也一同下架，理由是缺少许可证。[^813][^229]
