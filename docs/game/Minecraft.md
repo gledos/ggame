@@ -12,7 +12,7 @@ dateCreated: "2020-10-10T09:00:29"
 
 ## 语言选项
 
-+ [[MC-133873] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
++ [\[MC-133873\] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
 
 ## 国际版的消失
 
@@ -82,14 +82,24 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 
 ### 19w13a
 
-2019年3月27日的 MC Java 版本快照 19w13a，悄悄的移除了关于 Notch 的闪烁标语，[^19w13a_MW]官网的更新笔记里没有提及这件事。[^19w13a_MP]
+2019年3月27日的 MC Java 版本快照 19w13a，悄悄的移除了关于 Notch 的闪烁标语，[^19w13a_MW] 官网的更新笔记里没有提及这件事。[^19w13a_MP]
 
 [^19w13a_MW]: [Java Edition 19w13a – Official Minecraft Wiki](https://web.archive.org/web/20210812175036/https://minecraft.fandom.com/wiki/Java_Edition_19w13a)
 
 [^19w13a_MP]: [Minecraft Snapshot 19w13a - Minecraft](https://archive.is/DeS0f "https://www.minecraft.net/nb-no/article/minecraft-snapshot-19w13a")
 
-+ Made by Notch![^19w13a_dwm]
-+ The Work of Notch!
-+ 110813!
++   Made by Notch![^19w13a_dwm]
++   The Work of Notch!
++   110813!
 
-[^19w13a_dwm]: [Notch成历史《我的世界》最新版快照删除Notch信息 - 电玩迷](https://web.archive.org/web/20190502054349/http://www.dianwanmi.com/game/2746.html)
+[^19w13a_dwm]: [Notch成历史《我的世界》最新版快照删除Notch信息](https://web.archive.org/web/20190502054349/http://www.dianwanmi.com/game/2746.html), 电玩迷.
+
+## 大陆锁区
+
+2023年4月24日，「蛮KK」发现官网无法购买 Mineraft，原因不明。[^tdCY3][^02085]
+
+[^tdCY3]: 蛮KK, 《[我的世界国际官网已锁区，我们又该如何购买国际正版](https://archive.is/tdCY3 "https://www.bilibili.com/video/BV1vo4y1b7J2/")》, 哔哩哔哩, 2023-04-24. (参照 2023-05-01).
+
+[^02085]: 我的世界永远的神, 《[各位怎么评价这次minecraft锁国区](https://web.archive.org/web/20230430160437/https://tieba.baidu.com/p/8388302085)》, 百度贴吧/minecraft, 2023-04-30. (参照 2023-05-01).
+
+截至 2023年5月1日，微软的 Xbox 页面还能购买 Minecraft PC 版本，目前尚未锁区，尚不明确未来会不会锁区。
