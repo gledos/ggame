@@ -54,7 +54,7 @@ dateCreated: "2023-05-05T23:12:08"
 
 〔待续〕
 
-### 蜂拥（未知技术）
+### 蜂拥
 
 这句话最早能追溯到：
 
@@ -89,6 +89,10 @@ dateCreated: "2023-05-05T23:12:08"
 [^94503]: CK, 《[黄艾伦谈“全球网络自由联盟”](https://web.archive.org/web/20220309160517/https://www.rfa.org/mandarin/yataibaodao/wangluo-03042011094503.html)》, RFA, 2011-03-04. (参照 2023-05-05).
 
 [^05154]: John Pomfret, [U.S. risks China’s ire with decision to fund software maker tied to Falun Gong](https://web.archive.org/web/20100831053654/http://www.washingtonpost.com/wp-dyn/content/article/2010/05/11/AR2010051105154.html), Washington Post, 2010-05-12. 参照: 2023-05-05. [Online].
+
+之后的 2013 年到 2020 年，开发无界浏览的公司从美国政府获得了至少 840 万美元的资金，相对受到的支持变多了。[^ernet]
+
+[^ernet]: Verma Pranshu、黄安伟, 《[法轮功翻墙软件寻求联邦资助引发争议](https://web.archive.org/web/20230519222732/https://cn.nytimes.com/usa/20200707/michael-pack-china-internet/)》, 纽约时报中文网, 2020-07-07. (参照 2023-05-25).
 
 ## 来源
 

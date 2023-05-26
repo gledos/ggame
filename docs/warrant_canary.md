@@ -20,6 +20,33 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年5月25日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年5月26日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   餅乾, 《[韓漫《某天成為公主》中國動畫版製作確定，但作品名和劇情像是被魔改👀](https://www.4gamers.com.tw/news/detail/58015/princessnasi-animation)》, 4Gamers 官方網站, 2023-05-11. (参照 2023-05-25).
++   王月眉, 《[中国加强文化控制，多地脱口秀、音乐演出被取消](https://web.archive.org/web/20230525053107/https://cn.nytimes.com/china/20230525/china-comedy-music-crackdown/)》, 纽约时报中文网, 2023-05-25. (参照 2023-05-25).
++   Vona Soft, 《[伪信号](https://store.steampowered.com/app/2161430/_/)》, Steam, 2023-05-25. (参照 2023-05-25).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZHBGnAAKCRCZXo6bU2oX
+pKBrAQDLna7n7NPLzhGoIP6zndSanVzwrh6suHzpYuZDcgOy1wEAj+ehlZ1PZSb8
+cmDIDMPJHMRr/oYVLRVUceqTPIRTCwo=
+=/O8V
+-----END PGP SIGNATURE-----
+
+```
+
+## 过去的令状金丝雀
+
 ### 2023年4月18日
 
 ```markdown
@@ -43,8 +70,6 @@ d1iMph2eHJNfBROPRl3cAlbDrwg/kwU=
 =yNXu
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年2月12日
 
