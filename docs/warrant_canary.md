@@ -20,6 +20,32 @@ dateCreated: "2021-08-14T23:43:59"
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年6月11日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年6月11日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Warren P. StrobelとGordon Lubold, 《[WSJ News Exclusive | Cuba to Host Secret Chinese Spy Base Focusing on U.S.](https://web.archive.org/web/20230610155823/https://www.wsj.com/articles/cuba-to-host-secret-chinese-spy-base-focusing-on-u-s-b2fed0e0)》, Wall Street Journal, 2023-06-08. 参照: 2023-06-11. [Online].
++   chareice, 《[离谱，昨天两个手机号同时被运营商封号](https://web.archive.org/web/20230610093943/https://www.v2ex.com/t/947499)》, V2EX, 2023-06-10. (参照 2023-06-11).
++   Lightspeed Studios, 《[Undawn](https://store.steampowered.com/app/1881700/Undawn/)》, Steam, 2023-06-15. (参照 2023-06-11).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZIVyuAAKCRCZXo6bU2oX
+pPBTAP4v2TxpOSPEhEvMIdUg1CvIISOrx5Fo/htUkqEOy6NBpAEAyBGTm2lopbf9
++eJYVADKvirlEtNH+UtNGzvn6KVdFwA=
+=66D0
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2023年5月25日
 
 ```markdown
@@ -42,10 +68,7 @@ pKBrAQDLna7n7NPLzhGoIP6zndSanVzwrh6suHzpYuZDcgOy1wEAj+ehlZ1PZSb8
 cmDIDMPJHMRr/oYVLRVUceqTPIRTCwo=
 =/O8V
 -----END PGP SIGNATURE-----
-
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年4月18日
 
