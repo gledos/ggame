@@ -39,6 +39,14 @@ dateCreated: "2022-09-23T12:46:22"
 
 2021年7月，「[同志平等权益促进会](/company/NGO/同志平等权益促进会.md)」改名为<ruby>同促在线<rp>(</rp><rt>Queer Advocacy Online</rt><rp>)</rp></ruby>，最后在 2021年11月4日 宣布关闭。
 
+2021年8月 下旬，有人泄漏了上海大学开始要求学院统计并报告 LGBT 学生名单的要求，[^79744][^34697] 有一些侧面印证的资料，能给这个流言提供可信度。[^40832]
+
+[^79744]: Yaling Jiang, [Shanghai University is ordering its colleges to report whether they have any students who identify as #LGBT……](https://web.archive.org/web/20210826104336/https://twitter.com/yaling_jiang/status/1430843294213279744), Twitter, 2021-08-26. (参照 2023-06-13).
+
+[^34697]: 甯义声, 《[上海大学传搜集LGBT学生名单　恐掀起恐慌](https://web.archive.org/web/20220322105724/https://www.orientaldaily.com.my/news/international/2021/08/30/434697)》, 馬來西亞東方日報, 2021-08-30. (参照 2023-06-13).
+
+[^40832]: Darius Longarino 龙大瑞, 《[「Relevant reqs」 part esp concerning……](https://web.archive.org/web/20210826115742/https://twitter.com/DariusLongarino/status/1430861604606840832)》, Twitter, 2021-08-26. (参照 2023-06-13).
+
 2021年9月8日，「[网络游戏内容管理培训班开班动员讲话](/research/网络游戏内容管理培训班开班动员讲话内容整理.md)」提及了耽美、耽改元素需要克制，而娘炮与娘化需要关注，禁止将熟知的角色进行娘化，如娘化三国、娘化西游。
 
 2022年5~7月，[扫黄打非行动方案](/rule/尚不明确/扫黄打非行动方案.md#2022年) 将 LGBT（包括耽美）主题的书籍定义为非法出版物，进行下架。
@@ -64,3 +72,7 @@ dateCreated: "2022-09-23T12:46:22"
 2023年5月15日，北同文化（同志公益自媒体）表示因为不可抗力，即刻终止运营。[^SePph]
 
 [^SePph]: 北同文化AllForQueer, 《[停运公告](https://archive.md/SePph "https://mp.weixin.qq.com/s/5PZw5t3lqlIECS49wgmF2w")》, archive.md, 2023-05-15. (参照 2023-05-15).
+
+2023年6月7日，西南大学要求各班团委统计班级里的性少数群体，[^30722] 不过截图缺少细节，也没有其他消息源确认，时间和地点的准确性比较难说。[^30722]
+
+[^30722]: 李老师不是你老师, 《[网友投稿 6月7日，西南大学要求各班团委统计班级里的性少数群体。](https://web.archive.org/web/20230613093335/https://twitter.com/whyyoutouzhele/status/1666391150419230722)》, Twitter, 2023-06-07. (参照 2023-06-13).
