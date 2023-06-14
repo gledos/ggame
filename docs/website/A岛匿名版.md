@@ -10,7 +10,7 @@ dateCreated: "2022-02-28T17:13:16"
 
 ## 简介
 
-2011年，AcFun 建立了类似于 2ch 的贴图讨论版 ([Imageboard][])，名为「AC匿名版」或者「AcFun匿名版」。
+2011年，[AcFun](/website/AcFun.md) 建立了类似于 2ch 的贴图讨论版 ([Imageboard][])，名为「AC匿名版」或者「AcFun匿名版」。
 
 [Imageboard]: https://en.wikipedia.org/wiki/Imageboard
 
