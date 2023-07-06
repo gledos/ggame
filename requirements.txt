@@ -1,3 +1,4 @@
+jieba
 mkdocs-abs-rel-plugin
 mkdocs-blogging-plugin
 mkdocs-callouts
