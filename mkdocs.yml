@@ -85,8 +85,8 @@ markdown_extensions:
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
 - pymdownx.emoji:         # 支持图标 icons 和表情渲染，比如:smile:
-    # emoji_index: !!python/name:materialx.emoji.twemoji
-    # emoji_generator: !!python/name:materialx.emoji.to_svg
+    emoji_index: !!python/name:materialx.emoji.twemoji
+    emoji_generator: !!python/name:materialx.emoji.to_svg
     options:
       custom_icons:
         - overrides/.icons
@@ -104,6 +104,7 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+# - typeset                 # 排版插件    https://squidfunk.github.io/mkdocs-material/reference/#configuration
 # - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
     is_video: True
