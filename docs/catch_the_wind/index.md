@@ -7,6 +7,7 @@ date: "2021-08-21T19:09:54"
 editor: markdown
 dateCreated: "2021-08-21T19:09:54"
 exclude_from_blog: true
+icon: material/wind-power
 ---
 
 请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。

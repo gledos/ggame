@@ -6,6 +6,7 @@ date: "2023-01-02T21:35:00"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-03-18T10:32:32"
+icon: material/home
 ---
 
 ## 和谐游戏
@@ -22,20 +23,20 @@ dateCreated: "2021-03-18T10:32:32"
 
 ## 板块分类
 
-| 板块     | 文件夹                  | 板块     | 文件夹               |
-| -------- | ----------------------- | -------- | -------------------- |
-| 活动     | [/activities][]         | 处罚     | [/punish][]          |
-| 反审查   | [/anti-censorship][/ac] | 研究     | [/research][]        |
-| 允许列表 | [/allowlist][]          | 规则     | [/rule][]            |
-| 限制列表 | [/blocklist][]          | 服务     | [/serviceprovider][] |
-| 文字     | [/text][]               | 软件     | [/software][]        |
-| 捕风捉影 | [/catch_the_wind][]     | 技术     | [/technology][]      |
-| 审查     | [/censorship][]         | 声音     | [/sound][]           |
-| 公司     | [/company][]            | 主题     | [/theme][]           |
-| 游戏     | [/game][]               | 尚不明确 | [/unclear][]         |
-| 梗       | [/meme][]               | 视频     | [/video][]           |
-| 新闻存档 | [/news_archive][]       | 网站     | [/website][]         |
-| 人物     | [/people][]             |          |                      |
+| 板块     | 文件夹                                       | 板块     | 文件夹                                          |
+| -------- | -------------------------------------------- | -------- | ----------------------------------------------- |
+| 活动     | :material-run: [/activities][]               | 处罚     | :material-podium-bronze: [/punish][]            |
+| 反审查   | :material-book-lock: [/anti-censorship][/ac] | 研究     | :material-archive-search-outline: [/research][] |
+| 允许列表 | :material-eye-check: [/allowlist][]          | 规则     | :material-ruler-square-compass: [/rule][]       |
+| 限制列表 | :material-eye-off: [/blocklist][]            | 服务     | :material-room-service: [/serviceprovider][]    |
+| 文字     | :material-text: [/text][]                    | 软件     | :material-apps: [/software][]                   |
+| 捕风捉影 | :material-wind-power: [/catch_the_wind][]    | 技术     | :material-beaker: [/technology][]               |
+| 审查     | :material-book-lock: [/censorship][]         | 声音     | :material-voicemail: [/sound][]                 |
+| 公司     | :material-office-building: [/company][]      | 主题     | :material-tag-text: [/theme][]                  |
+| 游戏     | :material-gamepad: [/game][]                 | 尚不明确 | :material-file-question: [/unclear][]           |
+| 梗       | :material-human-female-dance: [/meme][]      | 视频     | :material-file-video: [/video][]                |
+| 新闻存档 | :material-newspaper: [/news_archive][]       | 网站     | :material-web: [/website][]                     |
+| 人物     | :material-human: [/people][]                 |          |                                                 |
 
 [/ac]: /anti-censorship/index.md
 [/activities]: /activities/index.md

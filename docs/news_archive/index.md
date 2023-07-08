@@ -9,6 +9,7 @@ date: "2022-02-24T18:16:34"
 editor: markdown
 dateCreated: "2022-02-24T18:16:34"
 exclude_from_blog: true
+icon: material/newspaper
 ---
 
 请到下方查看最近更新的页面，或者到左边的树状列表，进行查看条目。

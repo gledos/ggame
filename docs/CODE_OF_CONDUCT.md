@@ -6,6 +6,7 @@ date: "2022-10-26T13:11:31"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-10-26T13:11:31"
+icon: material/hand-heart
 ---
 
 ## 十条盟约
