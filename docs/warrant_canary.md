@@ -21,6 +21,33 @@ icon: material/pen-lock
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年7月25日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年7月25日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   袁莉, 《[北京提振民企信心，但企业家们并不买账](https://cn.nytimes.com/business/20230724/china-private-enterprise/)》, 纽约时报中文网, 2023-07-24. (参照 2023-07-25).
++   《[日本加强尖端半导体制造设备的出口管制](https://www3.nhk.or.jp/nhkworld/zh/news/20230724_ML07/)》, NHK WORLD, 2023-07-24. (参照 2023-07-25).
++   《[西安中考“回流生”引争议 “高考移民”低龄化挑战户籍改革](https://www.bbc.com/zhongwen/simp/chinese-news-66291281)》, BBC News 中文, 2023-07-24. 参照: 2023-07-25. [Online].
++   《[日本讨论建设展示动漫原稿等的国立美术馆](https://cn.nikkei.com/trend/cool-japan/53034-2023-07-25-10-33-09.html)》, 日经中文网, 2023-07-25. (参照 2023-07-25).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZL+lOgAKCRCZXo6bU2oX
+pChfAP94cqL/S5Hm0oEbaug+K15Zo8ww+Zx7+D81Atm06Mr6LQD+Lu9Z5iIS8PFl
+9AckmaPau/qN6pUyVtc4lebhuCI0wgU=
+=Xape
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2023年6月11日
 
 ```markdown
@@ -44,8 +71,6 @@ pPBTAP4v2TxpOSPEhEvMIdUg1CvIISOrx5Fo/htUkqEOy6NBpAEAyBGTm2lopbf9
 =66D0
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年5月25日
 
