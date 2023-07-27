@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: 3.x
     - run: pip install jieba
-    - run: pip install mkdocs-material==9.2.0b0
+    - run: pip install mkdocs-material==9.2.0b2
     - run: pip install mkdocs-material-extensions
     - run: pip install mkdocs-abs-rel-plugin
     - run: pip install mkdocs-blogging-plugin

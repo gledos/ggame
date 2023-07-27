@@ -19,6 +19,6 @@ Grindr 是男性同性社交软件，初始版本在 2009年 诞生，随后登�
 
 2020年1月27日，App Store 大陆区下架了 Grindr。[^theverge]
 
-[^g_b]: [Grindr Unwrapped: a Snapshot of Sex & Dating on Grindr in 2020]([https://blog.grindr.com/blog/grindr-unwrapped-2020](https://blog.grindr.com/blog/grindr-unwrapped-2020)), _Grindr Blog_. (n.d.)
+[^g_b]: [Grindr Unwrapped: a Snapshot of Sex & Dating on Grindr in 2020](https://blog.grindr.com/blog/grindr-unwrapped-2020), _Grindr Blog_. (n.d.)
 
-[^theverge]: Porter, Jon (2022) [Grindr reportedly disappears from app stores in China]([https://www.theverge.com/2022/1/31/22910129/grindr-china-app-store-removal-ios-android](https://www.theverge.com/2022/1/31/22910129/grindr-china-app-store-removal-ios-android)), _The Verge_, January 31.
+[^theverge]: Porter, Jon (2022) [Grindr reportedly disappears from app stores in China](https://www.theverge.com/2022/1/31/22910129/grindr-china-app-store-removal-ios-android), _The Verge_, January 31.

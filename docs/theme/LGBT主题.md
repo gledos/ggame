@@ -35,7 +35,7 @@ dateCreated: "2022-09-23T12:46:22"
 
 2021年4月，漫画《[崩坏3rd 绀海篇](/game/Honkai_Impact_3rd.md#漫画百合情节)》里面的百合画面被删除。（条目尚未编写完成，仅有链接清单）
 
-2021年5月，乐高公司推出了「[Everyone is Awesome](</company/LEGO/Everyone is Awesome.md>)」这款「彩虹」主题的 18+ 年龄限制的积木，但大陆部分商店将此下架了。
+2021年5月，乐高公司推出了「[Everyone is Awesome](/company/LEGO/Everyone%20is%20Awesome.md)」这款「彩虹」主题的 18+ 年龄限制的积木，但大陆部分商店将此下架了。
 
 2021年7月，「[同志平等权益促进会](/company/NGO/同志平等权益促进会.md)」改名为<ruby>同促在线<rp>(</rp><rt>Queer Advocacy Online</rt><rp>)</rp></ruby>，最后在 2021年11月4日 宣布关闭。
 
