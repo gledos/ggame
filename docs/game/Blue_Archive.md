@@ -385,3 +385,15 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko_cn.webp">
 > </img-comparison-slider>
+
+可以看到多种修改方式，分别是：
+
++   遮挡：添加和拉扯布料。
++   肉改：肉体改造。
++   移除：徽章、饰品。
+
+其中的遮挡和肉改都属于降低性感元素，然后是移除了 Hina 的勋章，Hina 的勋章原型可能是红鹰勋章 ([Roter Adlerorden][]) 和圣大额我略教宗骑士团勋章 ([Gregoriusorden][])，最下面的某种盾形勋章尚不明确（或者也不是勋章）。最后是白子书包上面的十字架挂饰被移除。
+
+[Roter Adlerorden]: https://de.wikipedia.org/wiki/Roter_Adlerorden
+
+[Gregoriusorden]: https://de.wikipedia.org/wiki/Gregoriusorden
