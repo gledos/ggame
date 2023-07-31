@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2023-04-02T01:35:11"
+date: "2023-07-31T17:03:00"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -78,8 +78,8 @@ dateCreated: "2022-11-14T21:57:06"
 > [!abstract]+ 狮子堂泉（泳装）对照[^00l2d][^bakc]
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp">
 > </img-comparison-slider>
 
 [^00l2d]: star hope, [\[블루 아카이브\] 인연 스토리(이즈미/수영복) / 메모리얼](https://www.youtube.com/watch?v=1mF81T5fbNo), YouTube.
@@ -89,8 +89,8 @@ dateCreated: "2022-11-14T21:57:06"
 > [!abstract]+ 天雨亚子对照[^01l2d][^bakc]
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_18.webp" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_15.webp" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_18.webp">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_天雨亚子_15.webp">
 > </img-comparison-slider>
 
 [^01l2d]: やわなかチェルノ, [블루 아카이브 아코 메모리얼](https://www.youtube.com/watch?v=ctGquW81S58), YouTube.
@@ -114,15 +114,15 @@ dateCreated: "2022-11-14T21:57:06"
     === "左右滑动"
 
         <img-comparison-slider>
-        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp" />
-        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp" />
+        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp">
+        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp">
         </img-comparison-slider>
 
     === "上下滑动"
 
         <img-comparison-slider direction="vertical">
-        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp" />
-        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp" />
+        <img slot="first" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro.webp">
+        <img slot="second" src="https://s3.tebi.io/ggame/ShareX/Blue_Archive_整活_Yuuka_Gym_Intro_玉玉藻藻.webp">
         </img-comparison-slider>
 
 ### 官网差异
@@ -265,8 +265,8 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > [!abstract]+ 大陆服 PV1 00:05.876
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.05.876.jpg" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【ブルーアーカイブ%20-Blue%20Archive-】ティザーPV%20[0KFPtliRn_4].mkv_snapshot_00.54.138.jpg" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.05.876.jpg">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【ブルーアーカイブ%20-Blue%20Archive-】ティザーPV%20[0KFPtliRn_4].mkv_snapshot_00.54.138.jpg">
 > </img-comparison-slider>
 
 公路地面上的日语「止まれ」变成了汉字「停车」，即使这是装饰性文字。
@@ -280,8 +280,8 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > [!abstract]+ 大陆服 PV1 00:15.933
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.15.933.jpg" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.09.566.jpg" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.15.933.jpg">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.09.566.jpg">
 > </img-comparison-slider>
 
 左边的差异可以看出飞艇的归属 CRONOS SCHOOL OF JOURNALISM 被翻译为了「克罗诺斯新闻部」，这首先表示不重要的装饰性文字也许要翻译，而这是为了游戏过审需要遵守的 [必要条件](/theme/语言规范主题.md#游戏外语历史)，然后是隐去了理应翻译的 SCHOOL，使用「部」来隐藏学校这一概念。
@@ -291,8 +291,8 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > [!abstract]+ 大陆服 PV1 00:26.097
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.26.097.jpg" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.24.849.jpg" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_00.26.097.jpg">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.24.849.jpg">
 > </img-comparison-slider>
 
 车厢顶部的广告牌被修改，从原本的「百鬼夜行聯合學院」「夏日慶典」广告被修改为「基沃托斯」「智能生活+! MomoTalk 邀您感受全新社交体验」「智能社交新体验！」，清晰大图如下：
@@ -304,8 +304,8 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > [!abstract]+ 大陆服 PV1 01:16.474
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_01.16.474.jpg" />
-> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.15.182.jpg" />
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/【蔚蓝档案】首曝PV——欢迎来到基沃托斯！.mp4_snapshot_01.16.474.jpg">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/【蔚藍檔案】首支PV搶先曝光%20[Y0Dm7AF36-k].mkv_snapshot_00.15.182.jpg">
 > </img-comparison-slider>
 
 左侧学生信息里，大陆服没有填写年龄，而国际服和日服都有。
@@ -321,3 +321,67 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 +   自动贩卖机前，刷学生卡购买商品
 
 等等。
+
+### 部分美术资源调整说明
+
+2023年7月31日 14:00，《蔚蓝档案》在哔哩哔哩专栏和新浪微博发布了公告《〈蔚蓝档案〉美术资源调整说明》，[^DOpba] 调整了多个立绘，给出了补偿方案，但是没有给出原因。
+
+下面是 8 个立绘修改对比，左边是国际服立绘，右边是大陆服：
+
+[^DOpba]: 蔚蓝档案, 《[〈蔚蓝档案〉美术资源调整说明](https://archive.is/DOpba "http://www.bilibili.com/read/cv25407765")》, 哔哩哔哩, 2023-07-31. (参照 2023-07-31).
+
+> [!abstract]+ 春日椿 Kasuga Tsubaki
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Tsubaki.webp" style="width: 482px; margin-left: 15px; margin-top: 4px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Tsubaki_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 一之瀨明日奈／一之濑明日奈 Ichinose Asuna
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Asuna.webp" style="width: 445px; margin-left: 22px; margin-top: 7px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Asuna_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 羽川蓮實／羽川莲见 Hanekawa Hasumi
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hasumi.webp" style="margin-left: 0px; margin-top: 38px; width: 484px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hasumi_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 貓塚響／猫冢响 Nekozuka Hibiki
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hibiki.webp" style="width: 417px; margin-top: 22px; margin-left: 52px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hibiki_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 空崎陽奈／空崎日奈 Sorasaki Hina
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hina.webp" style="margin-top: 48px; width: 495px; margin-left: 2px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hina_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 砂狼白子 Sunaookami Shiroko
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shiroko.webp" style="width: 289.7px; margin-left: 94px; margin-top: 53px">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shiroko_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 豐見亞都梨／琴里 Toyomi Kotori
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Kotori.webp" style="width: 385px; margin-top: 14px; margin-left: 40px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Kotori_cn.webp">
+> </img-comparison-slider>
+
+> [!abstract]+ 圓堂志美子／圆堂志美子 Endo Shimiko
+>
+> <img-comparison-slider>
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko.webp" style="margin-top: 8px; width: 449px; margin-left: 41px;">
+> <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko_cn.webp">
+> </img-comparison-slider>
