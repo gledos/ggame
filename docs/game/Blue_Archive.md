@@ -333,55 +333,55 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 > [!abstract]+ 春日椿 Kasuga Tsubaki
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Tsubaki.webp" style="width: 482px; margin-left: 15px; margin-top: 4px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Tsubaki.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Tsubaki_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 一之瀨明日奈／一之濑明日奈 Ichinose Asuna
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Asuna.webp" style="width: 445px; margin-left: 22px; margin-top: 7px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Asuna.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Asuna_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 羽川蓮實／羽川莲见 Hanekawa Hasumi
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hasumi.webp" style="margin-left: 0px; margin-top: 38px; width: 484px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hasumi.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hasumi_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 貓塚響／猫冢响 Nekozuka Hibiki
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hibiki.webp" style="width: 417px; margin-top: 22px; margin-left: 52px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hibiki.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hibiki_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 空崎陽奈／空崎日奈 Sorasaki Hina
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hina.webp" style="margin-top: 48px; width: 495px; margin-left: 2px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hina.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Hina_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 砂狼白子 Sunaookami Shiroko
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shiroko.webp" style="width: 289.7px; margin-left: 94px; margin-top: 53px">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shiroko.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shiroko_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 豐見亞都梨／琴里 Toyomi Kotori
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Kotori.webp" style="width: 385px; margin-top: 14px; margin-left: 40px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Kotori.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Kotori_cn.webp">
 > </img-comparison-slider>
 
 > [!abstract]+ 圓堂志美子／圆堂志美子 Endo Shimiko
 >
 > <img-comparison-slider>
-> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko.webp" style="margin-top: 8px; width: 449px; margin-left: 41px;">
+> <img slot="first" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko.webp">
 > <img slot="second" src="https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_cv25407765_Shimiko_cn.webp">
 > </img-comparison-slider>
