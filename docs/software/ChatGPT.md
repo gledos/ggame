@@ -61,3 +61,7 @@ ChatGPT 是 OpenAI 公司创造的，基于 GPT-3.5 模型的聊天机器人，�
 2023年2月22日，有蚂蚁集团的从业者表示已被指示，不得直接或通过第三方在其平台上提供 ChatGPT 服务。并且科技公司在推出自己的类似 ChatGPT 的服务之前，还需要向监管机构报告。[^1630214]
 
 [^1630214]: msmash, 《[China Tells Big Tech Companies Not To Offer ChatGPT Services](https://web.archive.org/web/20230223125553/https://tech.slashdot.org/story/23/02/22/1630214/china-tells-big-tech-companies-not-to-offer-chatgpt-services)》, Slashdot, 2023-02-22. (参照 2023-02-27).
+
+## App Store 大陆区下架含有 ChatGPT 的 App
+
+详情请阅读 [App Store](/company/Apple/App_Store.md#下架-aigc-app) 条目的〈下架 AIGC App〉章节。

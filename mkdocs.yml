@@ -21,7 +21,7 @@ theme:
   icon:
     logo: material/microsoft-xbox-controller-off
     admonition:
-      quote: bootstrap/cblb
+      quote: custom/cblb
   font: false
   palette:
   - media: "(prefers-color-scheme: light)"

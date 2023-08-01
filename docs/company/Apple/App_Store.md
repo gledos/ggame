@@ -18,6 +18,8 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 
 [^31137]: [自由门iOS 版开发帐号被苹果公司关闭，ios版无法再下载使用](https://web.archive.org/web/20211217151847/https://forums.internetfreedom.org/index.php?topic=31137.0)
 
+> [!email]+ 邮件全文
+>
 > Subject: Notice of Termination\
 > Date: Sun, 12 Dec 2021 01:52:56 +0000 (GMT)\
 > From: Apple Developer <developer@email.apple.com>\
@@ -135,3 +137,81 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 被下架的《古兰经》软件名为「Quran Majeed」，是巴基斯坦的开发商所制作的软件，该开发商表示中国有 100 万用户使用这款软件。[^10-16]
 
 [^10-16]: [中国App Store下架亚马逊有声书和古兰经等应用 - DW](https://web.archive.org/web/20211021134614/https://www.dw.com/zh/中国app-store下架亚马逊有声书和古兰经等应用/a-59525667)
+
+### 下架 AIGC App
+
+2023年7月31日，新浪微博用户「互联网的那点事」表示：「消息称，苹果官方通知，中国区APP商店所有应用不允许提供 ChatGPT 相关的服务，有提供的应用需要下架整改，整改完毕上架，原因不详！」[^ScsAo][^cnml]
+
+[^ScsAo]: 互联网的那点事, 「[消息称，苹果官方通知，中国区APP商店所有应用不允许提供 ChatGPT 相关的服务……](https://archive.is/ScsAo "https://weibo.com/1627825392/NcrTNmKkc")」, 新浪微博, 2023-07-31. (参照 2023-08-01).
+
+[^cnml]: 文中的「中国区 App 商店」指的是大陆区，并不包含港台区。
+
+随后在 2023年8月1日 大量的大型语言模型软件被下架，互联网的那点事提供的截图有以下软件：[^Hs7o6]
+
+[^Hs7o6]: 互联网的那点事, 「[证实了我昨天的消息，全部下架了😓 一个不留 ​​ 可能是涉及到数据安全问题](https://archive.is/Hs7o6 "https://weibo.com/1627825392/Ncxcg68Sm")」, 新浪微博, 2023-08-01. (参照 2023-08-01).
+
+> [!abstract]- 被下架的软件清单
+>
+> ![被下架的软件1](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d1.jpg){ loading=lazy }
+> ![被下架的软件2](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d2.jpg){ loading=lazy }
+> ![被下架的软件3](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d3.jpg){ loading=lazy }
+> ![被下架的软件4](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d4.jpg){ loading=lazy }
+>
+> 可以看出下架时间集中在 02:00 ~ 06:00。
+
+其中 OpenCat 的作者 Baye 在推特上发布了苹果公司发来的下架通知邮件：[^38144]
+
+[^38144]: Baye aka 威力狈, 「[很抱歉的通知大家，因政策问题 OpenCat 已无法在国区下载……](https://web.archive.org/web/20230801031146/https://twitter.com/waylybaye/status/1686210506418438144)」, Twitter, 2023-08-01. (参照 2023-08-01).
+
+> [!email]+ App 审核
+>
+> hello,
+>
+> We are writing to notify you that, pursuant to
+> orders by the Chinese government, your app
+> will be made unavailable on the China App
+> Store because it includes content that is illegal
+> in China. As you may know, the government
+> has been tightening regulations associated
+> with deep synthesis technologies (DST) and
+> generative AI services, including ChatGPT. DST
+> must fulfill permitting requirements to operate
+> in China, including securing a license from the
+> Ministry of Industry and Information
+> Technology (MIIT). Based on our review, your
+> app is associated with ChatGPT, which does
+> not have requisite permits to operate in China.
+>
+> Although your app is unavailable in the China
+> App Store, this will not change the availability
+> of your app in any other stores you selected in
+> App Store Connect. To offer your app in China,
+> please seek professional advice on compliance
+> with the **Administrative Provisions on Deep
+> Synthesis of Internet-based Information
+> Services**.
+>
+> Even if you have selected China as a salable
+> storefront in App Store Connect, your app will
+> still be made unavailable on the App Store in
+> China. The TestFlight version of this app will
+> also be unavailable for external and internal
+> ……
+
+简单来说信件提到了要遵守《[互联网信息服务深度合成管理规定](/rule/多部门/互联网信息服务深度合成管理规定.md)》，而 ChatGPT 没有在中国运营所需的许可证，所以使用了 ChatGPT 的软件 OpenCat 将从 App Store 大陆区下架。
+
+而在此之前的 2023年7月28日，含有 ChatGPT 等功能的软件，<ruby>沉浸式翻译<rp>(</rp><rt>immersive translate</rt><rp>)</rp></ruby>（沉浸式双语网页翻译扩展）就被下架，相关讨论里有一张苹果公司的 App 审核消息，尚不明确是否属于沉浸式翻译。[^it772][^960656]
+
+[^it772]: Jagerx, 《[MAC AppStore下架啦？？？ · Issue #772 · immersive-translate/immersive-translate](https://web.archive.org/web/20230801064132/https://github.com/immersive-translate/immersive-translate/issues/772)》, GitHub, 2023-07-28. (参照 2023-08-01).
+
+[^960656]: ArrogantGentry, 《[浏览器插件”沉浸式翻译”在 App Store 国区下架](https://web.archive.org/web/20230729165213/https://www.v2ex.com/t/960656)》, V2EX, 2023-07-28. (参照 2023-08-01).
+
+科创板日报的记者监管部门的权威人士处了解到，相关 App 下架主因是 8月15日 即将施行的《[生成式人工智能服务管理暂行办法](/rule/多部门/生成式人工智能服务管理暂行办法.md)》。[^20513]
+
+[^20513]: 张洋洋, 《[独家|多个AIGC应用在苹果应用商店下架 接近监管人士：包含数据采集和使用不够规范等问题](https://web.archive.org/web/20230801073540/https://www.chinastarmarket.cn/detail/1420513)》, 科创板日报, 2023-08-01. (参照 2023-08-01).
+
+除了因为 ChatGPT 服务而下架的 App，科大讯飞旗下的讯飞星火也在 2023年8月1日 遭到了 App Store 大陆区下架，记者以投资者的身份咨询讯飞星火下架情况，工作人员的回答是尚不明确。[^40936] 而 Android 应用商店中的讯飞星火似乎没有遭到下架。[^ispark]
+
+[^40936]: 第一财经, 《[苹果应用商店下架讯飞星火APP 科大讯飞回应：不清楚下架原因 其他APP情况都正常](https://web.archive.org/web/20230801081436/https://www.nbd.com.cn/articles/2023-08-01/2940936.html)》, 每经网, 2023-08-01. (参照 2023-08-01).
+
+[^ispark]: 科大讯飞, 《[讯飞星火官方新版本](https://web.archive.org/web/20230801081638/https://sj.qq.com/appdetail/com.iflytek.spark)》, 腾讯应用宝. (参照 2023-08-01).
