@@ -63,9 +63,7 @@ dateCreated: "2023-08-02T17:05:24"
 
 [^18863]: 五分Five, 《[震惊！群叔的《王VS猪-穿越时空的对决》居然被删了？](https://web.archive.org/web/20230803070325/https://www.bilibili.com/video/av35218863/)》, 哔哩哔哩, 2018-11-03. (参照 2023-08-03).
 
-巧合的是，《王司徒VS诸葛亮——穿越时空的对决》和《【补档】【白金disco】大王叫我来巡山》都出现了不能投稿到鬼畜区，需要投稿到其他区的情况。[^65155][^1c7AY]
-
-[^65155]: 《[女孩为何穿短裙](https://web.archive.org/web/20230803065155/https://bilibili.fandom.com/zh/wiki/女孩为何穿短裙)》, 哔哩哔哩 Wiki. (参照 2023-08-03).
+《【补档】【白金disco】大王叫我来巡山》都出现了不能投稿到鬼畜区，需要投稿到其他区的情况。[^65155][^1c7AY]
 
 [^1c7AY]: C2_Channel, 《[【补档】【白金disco】大王叫我来巡山](https://web.archive.org/web/20230803071049/https://www.bilibili.com/video/BV1Ct411c7AY/)》, 哔哩哔哩, 2019-07-30. (参照 2023-08-03).
 
