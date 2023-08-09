@@ -61,9 +61,13 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 
 [^iirczymk8387164]: [苹果将在中国下架数千款未获批准的iPhone游戏 - 新浪网](https://web.archive.org/web/20201026053039/https://tech.sina.com.cn/i/2020-06-22/doc-iirczymk8387164.shtml)
 
-2020年8月1日，App Store 大陆区下架应用数量超过 3 万款，其中游戏类 2.7 万款。[^95964]
+2020年8月1日，App Store 大陆区下架应用数量超过 3 万款，其中游戏类 2.7 万款。[^95964][^3xxol][^oRp9g]
 
 [^95964]: GameLook, 《[苹果版号新政成“纸老虎”？马甲包正威胁IAA游戏生存权](https://web.archive.org/web/20220630233942/http://www.gamelook.com.cn/2020/09/395964)》, 游戏大观 | GameLook.com.cn, 2020-09-04. (参照 2023-04-23).
+
+[^3xxol]: 陈宇曦, 《[苹果应用商店被曝一天下架App超3万款，游戏类占比近九成](https://archive.is/3xxol "https://www.thepaper.cn/newsDetail_forward_8541839")》, 澎湃新闻, 2020-08-01. (参照 2023-08-09).
+
+[^oRp9g]: 法律犀牛, 《[游戏行业巨震：苹果中国为何突然下架2.6万款游戏？](https://archive.is/oRp9g "https://www.thepaper.cn/newsDetail_forward_8579088")》, 澎湃新闻·澎湃号, 2020-08-05. (参照 2023-08-09).
 
 2020年12月2日，有许多游戏开发者表示收到了苹果官方邮件，信中称：12月31日之后未按要求提交游戏版号的付费、内购游戏，将无法在 App Store 上架。[^21021]
 

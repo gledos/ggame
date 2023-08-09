@@ -492,48 +492,68 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 
 2023年2月5日，MIUI EU 的首席开发人员 Igor Eisberg 对此做出了回应：
 
-=== "原文"
+> [!quote]- Igor Eisberg 对此事的回应（原文）[^68146]
+>
+> A few facts to point out, and hopefully the few paranoids among our users stop bothering us:
+>
+> 1.  The security of MIUI is not our responsibility. We are not security experts and these ROMs are not meant for the paranoids who are afraid of China.
+> 2.  Tencent engine exists in GuardProvider (MIUI security components) app.
+> 3.  Tencent engine is disabled for international ROMs (that includes ours).
+> 4.  Apps list is not sent to Tencent, the "AntiDefraud" component is part of Mi Engine and the apps list is sent to an API on a Xiaomi-owned server: https://flash.sec.miui.com/detect/app
+>
+> If you have a problem with any of that, don't use MIUI, or don't even buy a Chinese phone. Get yourself an iPhone or a Samsung or whatever, and give your information to them instead (you know they'll collect that).
+>
+> ---
+>
+> The difference between Global ROM and China ROM is the URL to which apps list is sent.
+>
+> China ROM: https://flash.sec.miui.com/detect/app
+>
+> Global ROM: https://flash.sec.intl.miui.com/detect/app
 
-    ???+ quote "Igor Eisberg 对此事的回应[^68146]"
-    
-        A few facts to point out, and hopefully the few paranoids among our users stop bothering us:
-        
-        1.  The security of MIUI is not our responsibility. We are not security experts and these ROMs are not meant for the paranoids who are afraid of China.
-        2.  Tencent engine exists in GuardProvider (MIUI security components) app.
-        3.  Tencent engine is disabled for international ROMs (that includes ours).
-        4.  Apps list is not sent to Tencent, the "AntiDefraud" component is part of Mi Engine and the apps list is sent to an API on a Xiaomi-owned server: https://flash.sec.miui.com/detect/app
-        
-        If you have a problem with any of that, don't use MIUI, or don't even buy a Chinese phone. Get yourself an iPhone or a Samsung or whatever, and give your information to them instead (you know they'll collect that).
-        
-        ---
-        
-        The difference between Global ROM and China ROM is the URL to which apps list is sent.
-        
-        China ROM: https://flash.sec.miui.com/detect/app
-        
-        Global ROM: https://flash.sec.intl.miui.com/detect/app
-
-=== "中文翻译"
-
-    ???+ quote "Igor Eisberg 对此事的回应[^dns617]"
-        
-        要指出的几个事实，希望我们的用户中的少数偏执狂不再打扰我们。
-        
-        1.  MIUI 的安全不是我们的责任。我们不是安全专家，这些 ROM 不是为那些害怕中国的偏执狂准备的。
-        2.  腾讯引擎存在于 GuardProvider（MIUI 安全组件）应用中。
-        3.  腾讯引擎对国际 ROM（包括我们的）是禁用的。
-        4.  应用程序列表没有发送到腾讯，"反欺诈" 组件是小米引擎的一部分，应用程序列表被发送到小米所属服务器上的一个API：https://flash.sec.miui.com/detect/app
-        
-        如果你对这些有意见，不要使用 MIUI，或者甚至不要买中国的手机。给自己买一部 iPhone 或三星或其他什么，然后把你的信息交给他们（你知道他们会收集这些信息）。
-        
-        ---
-        
-        全球 ROM 和中国 ROM 之间的区别在于应用列表发送到的 URL。
-        
-        中国ROM：https://flash.sec.miui.com/detect/app
-        
-        全局ROM：https://flash.sec.intl.miui.com/detect/app
+> [!quote]+ Igor Eisberg 对此事的回应（翻译版）[^dns617]"
+>
+> 要指出的几个事实，希望我们的用户中的少数偏执狂不再打扰我们。
+>
+> 1.  MIUI 的安全不是我们的责任。我们不是安全专家，这些 ROM 不是为那些害怕中国的偏执狂准备的。
+> 2.  腾讯引擎存在于 GuardProvider（MIUI 安全组件）应用中。
+> 3.  腾讯引擎对国际 ROM（包括我们的）是禁用的。
+> 4.  应用程序列表没有发送到腾讯，"反欺诈" 组件是小米引擎的一部分，应用程序列表被发送到小米所属服务器上的一个API：https://flash.sec.miui.com/detect/app
+>
+> 如果你对这些有意见，不要使用 MIUI，或者甚至不要买中国的手机。给自己买一部 iPhone 或三星或其他什么，然后把你的信息交给他们（你知道他们会收集这些信息）。
+>
+> ---
+>
+> 全球 ROM 和中国 ROM 之间的区别在于应用列表发送到的 URL。
+>
+> 中国ROM：https://flash.sec.miui.com/detect/app
+>
+> 全局ROM：https://flash.sec.intl.miui.com/detect/app
 
 [^68146]: Cveronica, [Report that MIUI EU sends private data to China](https://web.archive.org/web/20230206043717/https://xiaomi.eu/community/threads/report-that-miui-eu-sends-private-data-to-china.68146/), Xiaomi European Community, 2023-02-04. (参照 2023-02-06).
 
 [^dns617]: LoopDNS资讯播报, 《[Xiaomi.eu 开发人员在社区中回应](https://web.archive.org/web/20230206063317/https://t.me/s/DNSPODT/617)》, Telegram, 2023-02-06. (参照 2023-02-06).
+
+## 禁止安装应用
+
+2023年8月9日，有用户发现部分软件无法通过 MIUI 的应用包管理组件禁止 Telegram 更新，更新时会显示以下文字：[^63610]
+
+[^63610]: unshiliu, 《[小米手机无法更新 telegram 了](https://web.archive.org/web/20230809064733/https://v2ex.com/t/963610)》, V2EX, 2023-08-09. (参照 2023-08-09).
+
+> [!danger]+ 发现恶意应用
+>
+> 根据[相关法律](/censorship/相关法律.md)法规及监管要求，禁止安装该应用！
+>
+> 风险详情：
+>
+> 该应用为诈骗 APP，存在欺诈性内容、欺诈扣费或恶意诱导消费等行为，使用将带来较大风险。
+
+然后底部仅有「取消更新」按钮，如果关闭安全守护功能，那么会显示：
+
+> [!danger]+ 该应用未通过小米安全审核
+>
+> 该应用为诈骗 APP，存在欺诈性内容、欺诈扣费或恶意诱导消费等行为，使用将带来较大风险。
+
+该用户最后是通过断网，让应用包管理组件无法联网验证 App 才能安装。
+
+此限制可能是响应数日前的《[工业和信息化部关于开展移动互联网应用程序备案工作的通知](/rule/工业和信息化部/工业和信息化部关于开展移动互联网应用程序备案工作的通知.md)》。
