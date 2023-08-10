@@ -104,6 +104,7 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+# - offline                 # 离线使用    https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/
 # - typeset                 # 排版插件    https://squidfunk.github.io/mkdocs-material/reference/#configuration
 # - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
 - mkdocs-video:           # 支持内嵌本地视频    https://pypi.org/project/mkdocs-video/
