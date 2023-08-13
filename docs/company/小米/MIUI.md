@@ -457,6 +457,31 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 
 [^6lKCJ]: 爱睡觉的乐乐, 《[听说miui13内置国家反诈骗中心app，看上去这是我最后一个小米手机了，而且还是永不升级 😂😂](https://archive.ph/6lKCJ "https://weibo.com/1229559082/L9vKRt6No")》, 新浪微博, 2022-01-05. (参照 2022-08-16).
 
+## 应用包管理组件上传包名等信息
+
+2022年1月26日，有人发现 MIUI 13 的应用包管理组件会上传包名等信息，包括 以下信息：[^30712]
+
+[^30712]: preach, 《[MIUI 13 抓包，安装上传 经纬度+包名 小米用户来看看 fromtw](https://web.archive.org/web/20220924053537/https://www.v2ex.com/t/830712)》, V2EX, 2022-01-26. (参照 2023-08-13).
+
+| 键               | 值                                   | 含义猜测                    |
+| ---------------- | ------------------------------------ | --------------------------- |
+| apkSignature     | 10f66a6c3fd6efab4e51f54ea50e25b8     | APK 的签名                  |
+| localVersionCode | 54                                   | APK 的版本号                |
+| cpuArchitecture  | arm64-v8a,armeabi-v7a,armeabi        | APK 支持的 CPU 架构         |
+| sign             | 3D36B8CFCA13AB41E135393382F2035F     |                             |
+| client_uuid      | b2f70c78-ab7d-4d4c-b2fa-d574ccccc1ca | 可能是应用包管理组件的 uuid |
+| device_type      | unknown                              |                             |
+| source           | com.android.fileexplorer             | 通过什么 App 打开的 APK     |
+| versionName      | null                                 |                             |
+| web_version      | null                                 |                             |
+| installationMode | 2                                    |                             |
+| screen_size      | 1080x1876                            | 屏幕分辨率                  |
+| apkMd5           | 71681791388ff2c6d5f8ddae8953079b     | APK 的 MD5 值               |
+| mo               | MI+6                                 | 机型                        |
+| ……               | ……                                   | 截图后续可能还有内容        |
+
+而标题中提到了经纬度，可能说明未被给出的截图中有经纬度（地理位置）的信息，不过没有其他人研究这些隐私问题，所以尚不明确消息可靠性。
+
 ## 自动添加 DNS
 
 2022年3月6日，MIUI 被发现以下代码，会根据系统地区自动添加 114 以及「互联网国家工程中心」或谷歌的 DNS。[^0166]:
