@@ -41,7 +41,7 @@ dateCreated: "2022-08-03T09:18:38"
 > 4.  FaceTime 群组 **俄罗斯支持**
 > 5.  FaceTime 通话链接 **俄罗斯支持**
 > 6.  Apple Arcade
-> 7.  Apple News
+> 7.  [Apple News](/company/Apple/index.md#apple-news)
 > 8.  Apple News+
 > 9.  Apple News Audio
 > 10. Apple TV+ **俄罗斯支持**
@@ -135,6 +135,12 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 2020年3月，一位来自北京纪检监察系统的官员告诉经济观察报记者「这是我们经常遇到的问题，其他的手机没有密码，都可以有软件解锁，包括来自俄罗斯的软件，只有苹果手机，目前还是解不了。所以，这也是出台公职人员不能使用苹果手机规定的原因之一」。[^03987]
 
 [^03987]: 经济观察报, 《[长城资管桑自国案背后：被查官员与未能解锁的iphone](https://web.archive.org/web/20221101071011/https://finance.sina.com.cn/am/2020-03-17/doc-iimxxstf9803987.shtml)》, 新浪网, 2020-03-17. (参照 2022-11-01).
+
+## Apple News
+
+Apple News 具有严格的地区认证，回从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]
+
+[^211]: Bates, 《[在中国如何使用 Apple News？](https://web.archive.org/web/20230330170948/https://blog.shuziyimin.org/211)》, 数字移民, 2018-10-27. (参照 2023-08-12).
 
 ## 供应商产地问题
 
