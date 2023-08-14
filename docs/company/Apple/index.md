@@ -138,7 +138,7 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 
 ## Apple News
 
-Apple News 具有严格的地区认证，回从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]
+Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]
 
 [^211]: Bates, 《[在中国如何使用 Apple News？](https://web.archive.org/web/20230330170948/https://blog.shuziyimin.org/211)》, 数字移民, 2018-10-27. (参照 2023-08-12).
 
