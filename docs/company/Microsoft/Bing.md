@@ -2,7 +2,7 @@
 title: Microsoft Bing
 description:
 published: true
-date: "2022-08-10T10:58:46"
+date: "2023-08-20T12:35:02"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-12-17T23:44:06"
@@ -42,6 +42,8 @@ dateCreated: "2021-12-17T23:44:06"
 
 2014年，Bing 会显示该搜索是否删除了因法律法规而删除的条目，所以 GreatFire 制作了个一个在不同的网络情况下使用必应搜索敏感词的测试，以下的测试数据：
 
+> [!quote]+ 测试表格
+>
 > | 搜索词汇                         | 在美国访问 Bing 国际版                   | 在美国访问 必应                        | 在中国访问 Bing 国际版                 | 在中国访问 必应                        |
 > | -------------------------------- | ---------------------------------------- | -------------------------------------- | -------------------------------------- | -------------------------------------- |
 > | 自由微博 ※                      | 严重的审查<br>通用删除提示               | 严重的审查<br>部分审查提示             | 严重的审查<br>通用删除提示             | 严重的审查<br>部分审查提示             |
@@ -117,8 +119,9 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 2021年6月4日，所有地区的必应搜索都审查了一张图片，这个问题数小时之后才修好，微软称这是意外的认为差错。这件事导致了必应被全球性的一些抵制，文本编辑器软件 [Notepad++](/software/notepad_plus_plus.md) 因此删除了必应这个内置的搜索引擎。
 
 > [!abstract]+ 相关链接
-> + [Microsoft says 'tank man' image blocking due to human error - ABC News](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)
-> + [Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’ | Reuters](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)
+>
+> +   [Microsoft says 'tank man' image blocking due to human error - ABC News](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)
+> +   [Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’ | Reuters](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)
 
 <!--
     + [“坦克人”照片搜不到 微软Bing被质疑屏蔽六四敏感内容 - DW](https://web.archive.org/web/20210620000617/https://www.dw.com/zh/坦克人照片搜不到-微软bing被质疑屏蔽六四敏感内容/a-57786620)
@@ -134,11 +137,13 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 
 未知时间，必应大陆版在网页的右下角添加了一个名为「搜索建议暂时关闭」的链接，点击会跳转至 <cn.bing.com/cnlegal> 但仅限大陆 IP 访问，其他地区的 IP 访问会出现熊猫错误。进入后的页面是一段英文提示，全文如下：
 
-> Bing China has been required by the relevant government agency to suspend the search auto suggestion feature in mainland China for 30 days under PRC laws. Bing is a global search platform and remains committed to respect the rule of law and users’ right to access information and to help users find information to the greatest extent feasible under applicable laws.[^bcng]
+> [!quote] Bing 无法访问临时解决方案[^bcng]
+>
+> Bing China has been required by the relevant government agency to suspend the search auto suggestion feature in mainland China for 30 days under PRC laws. Bing is a global search platform and remains committed to respect the rule of law and users’ right to access information and to help users find information to the greatest extent feasible under applicable laws.
 
-[^bcng]: [Bing 无法访问临时解决方案 - NucomBlog](https://web.archive.org/web/20211218124110/https://www.nucomblog.com/bing-无法访问临时解决方案/)
+[^bcng]: [Bing 无法访问临时解决方案](https://web.archive.org/web/20211218124110/https://www.nucomblog.com/bing-无法访问临时解决方案/), NucomBlog.
 
-2021年12月18日 上午，备用链接 www2.bing.com 与 www4.bing.com 也出现了访问故障。
+2021年12月18日 上午，备用链接 `www2.bing.com` 与 `www4.bing.com` 也出现了访问故障。
 
 2021年12月18日 12:30 左右，必应的大陆网络基本完全恢复。[^213]
 
@@ -159,3 +164,11 @@ GreatFire 将这个「错误」报告给了微软，并要求解释，但微软�
 [^nZ1]: 《[微软必应在内地“搜索建议”暂时关闭7天](https://web.archive.org/web/20220319234845/https://i.ifeng.com/c/8EVnZ1E62aX)》, 凤凰网科技, 2022-03-19. 参照: 2022-03-20. [Online].
 
 [^841505]: linshiyouxiang, 《[各位 Bing 最近搜索质量感觉有下降吗? (不排除是个人网络配置问题)](https://www.v2ex.com/t/841505)》, V2EX/问与答, 2022-03-19. (参照 2022-03-20).
+
+## 网络故障
+
+2023年8月19日，Bing 被发现多省份出现网络故障，移动和广电的网络均受到不同程度的问题，有 Microsoft 论坛的社区版主发文称这是因为护网行动导致的问题，[^hwxd] 而解决方案是更换运营商、使用代理服务器、使用 Hosts 以及使用镜像网站 `s.cn.bing.net`。[^e99a3]
+
+[^e99a3]: LiCaoZ, 《[关于中国移动网络下部分 Microsoft 服务无法正常访问的解决方案](https://web.archive.org/web/20230819092657/https://answers.microsoft.com/zh-hans/microsoftedge/forum/msedge_issue-msedge_win11/关于中国移/e0f15624-0873-4a88-9c06-e077b61e99a3)》, Microsoft 论坛, 2023-08-19. (参照 2023-08-20).
+
+[^hwxd]: 护网行动是以公安部牵头的，用以评估企事业单位的网络安全的活动。具体实践中，公安部会组织攻防两方，进攻方会在一个月内对防守方发动网络攻击，检测出防守方（企事业单位）存在的安全漏洞。通过与进攻方的对抗，企事业单位网络、系统以及设备等的安全能力会大大提高。
