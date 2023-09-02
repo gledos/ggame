@@ -21,6 +21,32 @@ icon: material/pen-lock
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2023年9月2日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年9月2日，由于忘记……所以未更新 8 月的 Warrant Canary……
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   黄瑞黎, 《[柬埔寨电信诈骗为何猖獗？权势人物和警方成“保护伞”](https://web.archive.org/web/20230902052216/https://cn.nytimes.com/asia-pacific/20230831/cambodia-cyber-scam/)》, 纽约时报中文网, 2023-08-31. (参照 2023-09-02).
++   日经中文网, 《[不惑的红白机（3）海外玩家抢购二手游戏](https://web.archive.org/web/20230902154209/https://cn.nikkei.com/industry/itelectric-appliance/53332-2023-09-01-05-00-50.html)》, 日经中文网, 2023-09-01. (参照 2023-09-02).
++   格里戈·阿塔尼西安, 《[俄罗斯网红如何帮助宣传普京的战争并从中获利？](https://web.archive.org/web/20230902154213/https://www.bbc.com/zhongwen/simp/world-66694048)》, BBC News 中文, 2023-09-02. 参照: 2023-09-02.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZPNYmwAKCRCZXo6bU2oX
+pCEtAQCyvy7aUY9V1rjcuP5LmI46dApyrmFfM1o2z/c/qDQTEgD+JleCJLkCV4hx
+T36mTvjMxon5gG/LB5BfYA3MrzjJAA0=
+=6bwR
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2023年7月25日
 
 ```markdown
@@ -45,8 +71,6 @@ pChfAP94cqL/S5Hm0oEbaug+K15Zo8ww+Zx7+D81Atm06Mr6LQD+Lu9Z5iIS8PFl
 =Xape
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年6月11日
 
