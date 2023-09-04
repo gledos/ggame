@@ -136,6 +136,10 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 
 [^03987]: 经济观察报, 《[长城资管桑自国案背后：被查官员与未能解锁的iphone](https://web.archive.org/web/20221101071011/https://finance.sina.com.cn/am/2020-03-17/doc-iimxxstf9803987.shtml)》, 新浪网, 2020-03-17. (参照 2022-11-01).
 
+2023年9月3日，一个 V2EX 讨论贴中提到了「最近出了新规定，单位里不能用苹果手机」。[^70495]
+
+[^70495]: bingheath, 《[不让带 iPhone 去单位了，求推荐一台能用的高性价比的智能手机](https://web.archive.org/web/20230903232545/https://www.v2ex.com/t/970495)》, V2EX, 2023-09-03. (参照 2023-09-04).
+
 ## Apple News
 
 Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]

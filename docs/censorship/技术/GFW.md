@@ -37,3 +37,11 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 [^i2229]: toyo2333, 《[reality里client-fingerprint可以不同端用一套么？ · Issue #2229 · XTLS/Xray-core](https://web.archive.org/web/20230812225350/https://github.com/XTLS/Xray-core/issues/2229)》, GitHub, 2023-06-20. (参照 2023-08-13).
 
 [^i2426]: 5e2t, 《[河南新上的SNI/HOST黑名单墙 · Issue #2426 · XTLS/Xray-core](https://web.archive.org/web/20230813032548/https://github.com/XTLS/Xray-core/issues/2426)》, GitHub, 2023-08-10. (参照 2023-08-13).
+
+2023年8月14日，有博主表示自己没有备案的博客，被河南的新型 GFW 审查模式给阻断了。[^asbt]
+
+[^asbt]: MisakaNo, 《[启用 TCP timestamps 以解决 SNI 阻断问题](https://web.archive.org/web/20230828102030/https://blog.misaka.rest/2023/08/14/anti-sni-block-timestamps/)》, MisakaNo の 小破站, 2023-08-14. (参照 2023-09-04).
+
+2023年9月2日，V2EX 上有讨论贴讨论了家宽自建非常规端口的 HTTP 服务器遇到的问题，大致表示河南的新型 GFW 审查模式会阻断没有备案的域名。[^70368]
+
+[^70368]: lanwairen123, 《[在河南郑州除了 vpn 还有访问自建 http/https 服务的途径吗，杀疯了](https://web.archive.org/web/20230904025320/https://www.v2ex.com/t/970368)》, V2EX, 2023-09-02. (参照 2023-09-04).
