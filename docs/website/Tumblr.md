@@ -10,9 +10,7 @@ dateCreated: "2022-06-30T17:03:20"
 
 ## 被 GFW 封锁
 
-2013年9月5日，Tumblr 首次被 GFW 封锁。[^FACT]
-
-[^FACT]: [来源请求]
+2013年9月5日，Tumblr 首次被 GFW 封锁，持续时间与相关细节均不明确。<sup class="footnote-ref" markdown="1">\[[来源请求](/CODE_OF_CONDUCT.md#来源请求 "（补充情况【如果有】）2023-09-04T08:25:07+0800")\]</sup>
 
 2016年5月25日，因上海陆家嘴不雅视频事件流出链接指向 Tumblr，故再次 GFW 封锁，[^huanghai143][^2623]
 
