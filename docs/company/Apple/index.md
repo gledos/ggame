@@ -2,7 +2,7 @@
 title: Apple
 description:
 published: true
-date: "2022-08-08T21:22:06"
+date: "2023-09-14T14:20:22"
 tags:
 - roc_flag
 editor: markdown
@@ -145,6 +145,20 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 [^81500]: Baranjot Kaur, [_China bans govt officials from using iPhone for work_](https://web.archive.org/web/20230906081500/https://www.reuters.com/world/china/china-bans-govt-officials-using-iphone-work-wsj-2023-09-06/), Reuters, 2023-09-06. 参照: 2023-09-06. [Online].
 
 [^fe2f8]: Yoko Kubota, [_China Bans iPhone Use for Government Officials at Work_](https://web.archive.org/web/20230906090348/https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8), WSJ, 2023-09-06. (参照 2023-09-06).
+
+2023年9月13日，外交部发言人毛宁主持例行记者会上，出现了以下问答：[^42325]
+
+[^42325]: 毛宁, 《[2023年9月13日外交部发言人毛宁主持例行记者会](https://web.archive.org/web/20230914001817/https://www.fmprc.gov.cn/fyrbt_673021/jzhsl_673025/202309/t20230913_11142325.shtml)》, 中华人民共和国外交部, 2023-09-13. (参照 2023-09-14).
+
+> [!question]+ 日本朝日电视台记者
+>
+> 有媒体报道，部分中国政府机关禁止使用苹果手机，消息是否属实？外交部也禁止使用苹果手机吗？
+
+> [!info]+ 毛宁
+>
+> 中国坚持推进高水平对外开放，依法保护外商投资权益，营造市场化、法治化、国际化一流营商环境，对于外资企业，我们始终持开放态度。欢迎外资企业把握中国发展机遇，共享中国经济发展成果。
+>
+> 中国没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。但我们近期确实注意到，有媒体曝出苹果手机有关安全事件。中国政府高度重视网络和信息安全，对内外资企业一视同仁、平等对待。我们希望在华经营的所有手机企业都能够严格遵守《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律法规，加强信息安全管理，保护消费者存储在手机中的数据不被任何个人、任何组织窃取，确保信息安全。
 
 ## Apple News
 
