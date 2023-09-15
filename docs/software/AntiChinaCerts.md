@@ -46,4 +46,4 @@ dateCreated: "2022-05-07T16:18:13"
 
 [^135921]: chengr28, 《[AntiChinaCerts 小工具，全自动吊销天朝证书](https://web.archive.org/web/20220507082619/https://www.v2ex.com/t/135921)》, V2EX, 2014-09-26. (参照 2022-05-07).
 
-[^7130]: vpxuz, 《[【Github项目备份】全自动可疑证书吊销工具（chengr28）](https://pincong.rocks/article/7130)》, 新·品葱, 2019-10-27. (参照 2022-05-07).
+[^7130]: vpxuz, 《[【Github项目备份】全自动可疑证书吊销工具（chengr28）](https://web.archive.org/web/20200323022252/https://pincong.rocks/article/7130)》, 新·品葱, 2019-10-27. (参照 2022-05-07).

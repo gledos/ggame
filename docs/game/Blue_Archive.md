@@ -42,7 +42,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 [^58242]: BlueArchive, 《[Here is a letter from PD Kim Yong-ha regarding the revision of the Aris scenario production.](https://web.archive.org/web/20220811170434/https://twitter.com/EN_BlueArchive/status/1471366983534858242)》, Twitter, 2021-12-16. (参照 2022-11-14).
 
-[^38898]: 八咫鴉, 《[【情報】蔚藍檔案 國際服 CG被和諧 (新增總監回應)](https://forum.gamer.com.tw/C.php?page=1&bsn=38898&snA=1421)》, 巴哈姆特電玩資訊站, 2021-12-14. (参照 2022-11-14).
+[^38898]: 八咫鴉, 《[【情報】蔚藍檔案 國際服 CG被和諧 (新增總監回應)](https://web.archive.org/web/20230915050823/https://forum.gamer.com.tw/C.php?page=1&bsn=38898&snA=1421)》, 巴哈姆特電玩資訊站, 2021-12-14. (参照 2022-11-14).
 
 [^rg4dsp]: synergeticbeans, 《[Volume 2 Chapter 1 Episode 4 is CENSORED](https://web.archive.org/web/20220506185649/https://www.reddit.com/r/BlueArchive/comments/rg4dsp/volume_2_chapter_1_episode_4_is_censored/)》, r/BlueArchive, 2021-12-14. (参照 2022-11-14).
 
@@ -52,7 +52,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 2022年10月4日，游戏官方表示在 9 月收到了韩国的「游戏物管理委员会」的要求，必须修改游戏内容或者提高游戏的分级（目前韩服的分级是 15+），所以游戏官方打算制作双版本，一个是修改了游戏内容符合分级的版本，另一个是提高了游戏分级的版本。[^101347][^HtVTK]
 
-[^101347]: STAFF, 《[A Letter from PD Kim YongHa (2022-10-04)](http://m.nexon.com/forum/thread/101347)》, Nexon, 2022-10-04. (参照 2022-11-14).
+[^101347]: STAFF, 《[A Letter from PD Kim YongHa (2022-10-04)](https://web.archive.org/web/20230707163103/https://m.nexon.com/forum/thread/101347)》, Nexon, 2022-10-04. (参照 2022-11-14).
 
 [^HtVTK]: 歪力, 《[《蔚藍檔案》韓國將分「18+」成人版與「Teen」和諧版，原因疑為「泉泳裝」章魚瑟瑟](https://archive.ph/HtVTK "https://www.4gamers.com.tw/news/detail/55437/blue-archive-is-releasing-a-new-family-friendly-version-of-the-game")》, 4Gamers 官方網站, 2022-10-07. (参照 2022-11-14).
 

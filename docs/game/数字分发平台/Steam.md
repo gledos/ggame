@@ -83,7 +83,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 > [!quote]+ Valve 禁止区块链游戏和 NFT
 >
-> Valve 禁止在 Steam 平台上架区块链游戏和交易 NFT（非同质化代币）或加密货币。Valve 在“登记筹备”——“规则及指引”——“您不应在 Steam 上发布的内容如下”中加入了[第 13 条款](https://web.archive.org/web/20211016005737/https://partner.steamgames.com/doc/gettingstarted/onboarding)，“Applications built on blockchain technology that issue or allow exchange of cryptocurrencies or NFTs.”NFT 游戏《Age of Rust》的开发商 SpacePirate 在 Twitter 上称，因为新增条款，包括《Age of Rust》在内的区块链游戏都被下架了。Valve 此举可能是[为了避免争议](https://games.slashdot.org/story/21/10/15/2027254/valve-bans-blockchain-games-and-nfts-on-steam)。在 Twitter 上，许多用户称赞了 Valve 的举动而不是同情开发商。NFT 领域和加密货币世界类似，也存在很多骗局，比如有 NFT 开发商携款跑路。[^s13r]
+> Valve 禁止在 Steam 平台上架区块链游戏和交易 NFT（非同质化代币）或加密货币。Valve 在“登记筹备”——“规则及指引”——“您不应在 Steam 上发布的内容如下”中加入了[第 13 条款](https://web.archive.org/web/20211016005737/https://partner.steamgames.com/doc/gettingstarted/onboarding)，“Applications built on blockchain technology that issue or allow exchange of cryptocurrencies or NFTs.”NFT 游戏《Age of Rust》的开发商 SpacePirate 在 Twitter 上称，因为新增条款，包括《Age of Rust》在内的区块链游戏都被下架了。Valve 此举可能是[为了避免争议](https://web.archive.org/web/20211015224432/https://games.slashdot.org/story/21/10/15/2027254/valve-bans-blockchain-games-and-nfts-on-steam)。在 Twitter 上，许多用户称赞了 Valve 的举动而不是同情开发商。NFT 领域和加密货币世界类似，也存在很多骗局，比如有 NFT 开发商携款跑路。[^s13r]
 
 [^s13r]: [Valve 禁止区块链游戏和 NFT - 奇客Solidot](https://web.archive.org/web/20211016093336/https://www.solidot.org/story?sid=69261)
 
@@ -96,7 +96,7 @@ Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，  
 
 Steam 大陆区有严格的色情游戏锁区政策，直接将账号设置偏好中的「仅限承认的色情内容」选项移除了，所以以色情为主题的游戏，比如拔作，会直接被锁区。[^1938089011]
 
-[^1938089011]: [Steam 社群 :: 指南 :: 在STEAM购买锁偏好&锁区游戏的心得](https://steamcommunity.com/sharedfiles/filedetails/?id=1938089011)
+[^1938089011]: [Steam 社群 :: 指南 :: 在STEAM购买锁偏好&锁区游戏的心得](https://web.archive.org/web/20230915025954/https://steamcommunity.com/sharedfiles/filedetails/?id=1938089011)
 
 ## 版号下架相关
 

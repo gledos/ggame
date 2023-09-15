@@ -69,7 +69,7 @@ dateCreated: "2021-05-07T15:42:36"
 + [男子持刀要刺杀米哈游创始人，想事成后跳楼自杀，行刺原因竟是... - 每日经济新闻 - 新浪网](https://web.archive.org/web/20210427022500/https://finance.sina.com.cn/chanjing/gsnews/2021-04-26/doc-ikmxzfmk8945169.shtml)
 + [在近一个月后，米哈游终于就兔女郎事件道歉 - DoNews](https://web.archive.org/web/20210427190320/https://www.donews.com/news/detail/3/3147316.html)
 + [米哈游创始人险遭刺杀，祸起“兔女郎事件”，何以至此 - 投资界](https://web.archive.org/web/20210427023502/https://news.pedaily.cn/202104/470472.shtml)
-+ 已删除 米哈游创始人险遭刺杀？什么仇什么怨 - 华尔街见闻 https://wallstreetcn.com/articles/3628953
++ [米哈游创始人险遭刺杀？什么仇什么怨 - 华尔街见闻](http://web.archive.org/web/20220703054450/https://wallstreetcn.com/articles/3628953)
 + [憤怒玩家持刀直衝米哈遊，《崩壞3》海外服兔女郎活動疑似OOC - 4Gamers](https://web.archive.org/web/20210427124922if_/https://www.4gamers.com.tw/news/detail/47656/mihoyo-founder-assassinate)
 + [Angry Honkai Impact Fan Attack on miHoYo Thwarted - GamerBraves](https://web.archive.org/web/20210427083244/https://www.gamerbraves.com/angry-honkai-impact-fan-attack-on-mihoyo-thwarted/)
 + [Jogador preso por alegada tentativa de assassinar CEO da MiHoYo](https://web.archive.org/web/20210427130156/https://pt.ign.com/genshin-impact/97997/news/jogador-preso-por-alegada-tentativa-de-assassinar-ceo-da-mihoyo)

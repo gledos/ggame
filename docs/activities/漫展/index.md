@@ -33,7 +33,7 @@ dateCreated: "2022-07-26T12:36:11"
 
 [^63012]: 《[南京·CPDD动漫展（取消）](https://web.archive.org/web/20220726014337/https://show.bilibili.com/platform/detail.html?id=63012)》, bilibili会员购漫展票务. (参照 2022-07-26).
 
-[^8047]: 《[南京·CPDD动漫展取消公告](https://show.bilibili.com/platform/announcement.html?id=8047&projectId=63012)》, bilibili会员购漫展票务. (参照 2022-07-26).
+[^8047]: 《[南京·CPDD动漫展取消公告](https://web.archive.org/web/20220726050150/https://show.bilibili.com/platform/announcement.html?id=8047&projectId=63012)》, bilibili会员购漫展票务. (参照 2022-07-26).
 
 [^2463349]: 《[第二届ND国风动漫节活动取消公告](https://web.archive.org/web/20220726013051/https://www.nyato.com/forum/2463349)》, 喵特社区, 2022-07-20. (参照 2022-07-26).
 

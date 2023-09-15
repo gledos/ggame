@@ -16,6 +16,6 @@ dateCreated: "2022-03-30T00:03:59"
 
 2022年3月29日，三星在部分地区移除了「Galaxy Z」系列，将「Samsung Galaxy Z Fold2/Flip3」修改为了「Samsung Galaxy Fold2/Flip3」，部分网站已经更换新名称，包装盒也在重新生产。[^212668]目前已更换了立陶宛、拉脱维亚和爱沙尼亚的手机名称。[^44831]
 
-[^212668]: 《[Samsung remove 「Z」 dos Galaxy Z Fold 3 e Z Flip 3 em países da Europa](https://canaltech.com.br/smartphone/samsung-remove-z-dos-galaxy-z-fold-e-z-flip-em-paises-da-europa-212668/)》, Canaltech, 2022-03-29. (参照 2022-03-30).
+[^212668]: 《[Samsung remove 「Z」 dos Galaxy Z Fold 3 e Z Flip 3 em países da Europa](https://web.archive.org/web/20220329133223/https://canaltech.com.br/smartphone/samsung-remove-z-dos-galaxy-z-fold-e-z-flip-em-paises-da-europa-212668/)》, Canaltech, 2022-03-29. (参照 2022-03-30).
 
 [^44831]: Anthony, 《[In Lithuania, Latvia, and Estonia Samsung has removed the Z branding from their foldables](https://web.archive.org/web/20220329165534/https://twitter.com/TheGalox_/status/1508604944831631362)》, Twitter, 2022-03-29. (参照 2022-03-30).
