@@ -52,6 +52,6 @@ Dirty Chinese Restaurant 是 Big-O-Tree Games 打算于 2017 年推出的手机�
 
 > [!abstract]+ 相关链接
 >
-> +   Curtis Stone, 《[「Racist」 and 「offensive」 videogame 「Dirty Chinese Restaurant」 harmful, should be banned: US congresswoman](http://en.people.cn/n3/2017/0927/c90000-9274286.html)》, People’s Daily Online, 2017-09-27. (参照 2022-10-17).
+> +   Curtis Stone, 《[「Racist」 and 「offensive」 videogame 「Dirty Chinese Restaurant」 harmful, should be banned: US congresswoman](https://web.archive.org/web/20221013165312/http://en.people.cn/n3/2017/0927/c90000-9274286.html)》, People’s Daily Online, 2017-09-27. (参照 2022-10-17).
 > +   Editorial Staff·, 《[Asian American Congresswoman Calls Out Game Studio for Racist 「Dirty Chinese Restaurant」 Game](https://web.archive.org/web/20210925131555/https://nextshark.com/asian-american-congresswoman-calls-game-studio-racist-dirty-chinese-restaurant-game/)》, NextShark, 2017-09-27. (参照 2022-10-17).
 

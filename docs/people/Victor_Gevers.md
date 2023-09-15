@@ -45,7 +45,7 @@ Victor Gevers 是荷兰黑客、安全研究人员，擅长披露漏洞，是隶
 
 2022年3月10日，Victor Gevers 在推特上表示自己发现了一个奇怪的数据库，其中含有超过 180 万名女性，包括电话号码、地址、教育、位置、身份证号码、婚姻状况、少量 URL 是 fbcdn.net 的图片或者视频，以及一个名为 BreedReady 的信息。[^51616]
 
-[^51616]: Victor Gevers, 「[In China, they have a shortage of women……](https://twitter.com/0xDUDE/status/1104482014202351616)」, Twitter, 2019-03-10. (参照 2022-11-04).
+[^51616]: Victor Gevers, 「[In China, they have a shortage of women……](https://web.archive.org/web/20190311042142/https://twitter.com/0xDUDE/status/1104482014202351616)」, Twitter, 2019-03-10. (参照 2022-11-04).
 
 之后 Victor Gevers 透露的截图显示了「镇登记」的字样。BreedReady = 1 的年龄是 18 ~ 39 岁，尚不明确其含义，而数据库被托管在山东一所大学。
 

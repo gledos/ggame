@@ -11,7 +11,7 @@ dateCreated: "2021-08-09T09:49:34"
 
 ## 关闭网站
 
-> HKLC [2021年6月2日](http://web.archive.org/web/20230810155557/https://www.facebook.com/HKLiberationCoalition/photos/a.120537356852613/123329963240019/)
+> HKLC [2021年6月2日](https://archive.is/AGZ46 "https://www.facebook.com/HKLiberationCoalition/photos/a.120537356852613/123329963240019/")
 >
 > 我哋個網站俾人強行落咗架，原因不明。<br>
 > 我們將尋求其他方案，並暫時在社交媒體發佈我們的最新訊息。
@@ -24,7 +24,7 @@ dateCreated: "2021-08-09T09:49:34"
 
 ---
 
-> HKLC [2021年6月5日](http://web.archive.org/web/20230810160309/https://www.facebook.com/HKLiberationCoalition/posts/124289936477355)
+> HKLC [2021年6月5日](https://archive.is/K5Csp "https://www.facebook.com/HKLiberationCoalition/posts/124289936477355")
 >
 > [https://hongkongfp.com/…/pro-democrat-exile-group-claims-p…/](https://archive.is/qKa2a "https://hongkongfp.com/2021/06/05/pro-democrat-exile-group-claims-pressure-from-hong-kong-police-forced-wordpress-to-censor-website/")
 >

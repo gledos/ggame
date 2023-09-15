@@ -33,4 +33,4 @@ dateCreated: "2020-09-21T12:30:20"
 
 [^5]: [关于网站备案的 - 〖公告意见区〗 - 爆棚小组 PlayGM论坛 - Powered by Discuz!](https://archive.is/bJGp1 "http://www.playgm.cc/thread-718322-1-1.html")
 
-[^6]: [[突发事件]国内历史最悠久的FM社区Playgm.cn今天关站(最新消息：境外开站) NGA玩家社区](https://archive.is/WwX7B)
+[^6]: [突发事件]国内历史最悠久的FM社区Playgm.cn今天关站(最新消息：境外开站) NGA玩家社区](https://archive.is/WwX7B)

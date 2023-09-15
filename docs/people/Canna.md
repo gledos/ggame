@@ -15,4 +15,4 @@ dateCreated: "2021-09-11T10:07:55"
 + [《英雄聯盟》小心易碎！T1緊急澄清Canna選老鼠絕無辱華目的 - 新頭殼 Newtalk](https://web.archive.org/web/20201127204203/https://newtalk.tw/news/view/2020-05-30/414282)
 + [《英雄聯盟》比賽爆出疑似辱華事件？中國玩家：為什麼選瘟疫之源](https://web.archive.org/web/20210718014542/https://www.hk01.com/數碼生活/479444/英雄聯盟-比賽爆出疑似辱華事件-中國玩家-為什麼選瘟疫之源)
 + 你没有权限访问这个页面 请登录后重试。 [说T1战队上单canna辱华有点无妄之灾了吧(你们都不看图片就硬开团呗) - 豆瓣](https://archive.is/StnIV "https://www.douban.com/group/topic/177821551")
-+ [《英雄聯盟》T1官方回應瘟疫事件，中國網友不買單要求交出B/P語音 - 4Gamers](https://www.4gamers.com.tw/news/detail/43320/t1-ceo-joe-marsh-explained-why-canna-chose-twitch)
++ [《英雄聯盟》T1官方回應瘟疫事件，中國網友不買單要求交出B/P語音 - 4Gamers](https://web.archive.org/web/20220706031752/https://www.4gamers.com.tw/news/detail/43320/t1-ceo-joe-marsh-explained-why-canna-chose-twitch)

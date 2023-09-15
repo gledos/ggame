@@ -58,7 +58,7 @@ BitTorrent 知名的功能之一是 DHT，而 DHT 知名的实例也是 BitTorre
 
 其中的 btih 是指 BitTorrent info hash，这是 SHA-1 哈希，部分情况会是被 Base32 编码后的，区别二者的方法可以简单的看看长度，SHA-1 有 40 个字符，而被 Base32 编码后只有 32 个字符，[^bep_0009][^1bmus] 所以 btih 与 sha1 几乎是等价的。
 
-[^bep_0009]: Greg Hazel、Arvid Norberg, 《[Extension for Peers to Send Metadata Files](https://www.bittorrent.org/beps/bep_0009.html)》, BitTorrent.org, 2017-03-26. (参照 2022-11-29).
+[^bep_0009]: Greg Hazel、Arvid Norberg, 《[Extension for Peers to Send Metadata Files](https://web.archive.org/web/20230902095048/https://www.bittorrent.org/beps/bep_0009.html)》, BitTorrent.org, 2017-03-26. (参照 2022-11-29).
 
 [^1bmus]: Xilon, 《[BTIH Magnet URI support](https://web.archive.org/web/20220121215407/https://forum.utorrent.com/topic/1923-btih-magnet-uri-support/)》, µTorrent Community Forums, 2005-11-11. (参照 2022-11-29).
 

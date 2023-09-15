@@ -24,5 +24,5 @@ dateCreated: "2021-09-16T10:03:40"
 
 ### 相关链接
 
-+ [有没有知道为什么清qingcctv全网都没了的吗（包括外网），是阿共控制力度蔓延出来了还是直接把作者给控制了作者让删的？ : chonglangTV](https://old.reddit.com/r/chonglangTV/comments/homyad/有没有知道为什么清qingcctv全网都没了的吗包括外网是阿共控制力度蔓延出来了还是直接把作者给控制/)
++ [有没有知道为什么清qingcctv全网都没了的吗（包括外网），是阿共控制力度蔓延出来了还是直接把作者给控制了作者让删的？ : chonglangTV](https://old.reddit.com/r/chonglangTV/comments/homyad/有没有知道为什么清qingcctv全网都没了的吗包括外网是阿共控制力度蔓延出来了还是直接把作者给控制/) 备注：永久失效链接
 + [清 QING CCTV on Behance](https://www.behance.net/gallery/99592873/-QING-CCTV)

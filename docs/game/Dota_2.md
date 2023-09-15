@@ -54,7 +54,7 @@ dateCreated: "2021-01-29T11:00:39"
 +   同一个账户不能拥有多个 Dota 2 License，会依照 License 的优先级进行覆盖[^t139116]
 +   同一个账户可以拥有多个 Dota 2 License，启动游戏会加载最高优先级适配的文件，而和谐码的优先级并非最高[^50334]
 
-[^50334]: 知乎用户fUvr5k, 《[请问DOTA2中反和谐账号原理是什么？](https://www.zhihu.com/question/38050334)》, 知乎, 2016-11-23. (参照 2022-10-15).
+[^50334]: 知乎用户fUvr5k, 《[请问DOTA2中反和谐账号原理是什么？](https://archive.is/Uzl3n "https://www.zhihu.com/question/38050334")》, 知乎, 2016-11-23. (参照 2022-10-15).
 
 [^t139116]: 、pikachu, 《[[科普]Dota2反和谐的究极研究和方法](https://web.archive.org/web/20150904003339/http://steamcn.com/t139116-1-1)》, SteamCN 蒸汽动力, 2015-08-31. (参照 2022-10-15).
 

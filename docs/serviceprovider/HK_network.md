@@ -25,7 +25,7 @@ dateCreated: "2021-01-09T14:39:44"
 
 ### 相关链接
 
-+ [【網禁來臨】警據報首引國安法封網　IT 界憂鋪路封更多資訊　大律師恐下一步禁傳媒網站 - 立場報道 - 立場新聞](https://www.thestandnews.com/politics/網禁來臨-警據報首引國安法封網-it-界憂鋪路封更多資訊-大律師恐下一步禁傳媒網站/)
++ [【網禁來臨】警據報首引國安法封網　IT 界憂鋪路封更多資訊　大律師恐下一步禁傳媒網站 - 立場報道 - 立場新聞](https://web.archive.org/web/20211229132629/https://www.thestandnews.com/politics/網禁來臨-警據報首引國安法封網-it-界憂鋪路封更多資訊-大律師恐下一步禁傳媒網站/)
 + [網站「香港編年史」無法連接　總編：疑政府要網絡商封網　據報國安處首用國安法封網 - 立場報道 - 立場新聞](https://web.archive.org/web/20210109100120/https://www.thestandnews.com/politics/網站-香港編年史-無法連接-總編-疑政府要網絡商封網-明報引消息-國安處首用國安法封網/)
 + [特稿：香港用國安法加大陸防火牆封網？　　擊破傳言與IT人的睇法 - winandmac.com](https://web.archive.org/web/20210109134539/https://www.winandmac.com/2021/01/hk-gfw-firewall-in-depth-review/)
 + [香港編年史開始無法在香港瀏覽？　　鄺頌晴透露指政府開始要求封鎖指定網站？ - winandmac.com](https://web.archive.org/web/20210108082714/https://www.winandmac.com/2021/01/hkchronicles-hkleaksinfo-got-blocked-by-isp/)

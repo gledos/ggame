@@ -36,9 +36,9 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 > 
 > 假设万网说的是实话，这确实是黑客攻击，那么此事可能涉及数据泄露。
 >
-> 「如果不披露没有责任、披露却需要承担代价，那么具备『理性决策』能力的相关方一定会选择不披露、或者少披露。」—— [赵粮](http://www.xinhuanet.com/politics/2014-11/27/c_127255174.htm)
+> 「如果不披露没有责任、披露却需要承担代价，那么具备『理性决策』能力的相关方一定会选择不披露、或者少披露。」—— [赵粮](https://web.archive.org/web/20230407134343/http://www.xinhuanet.com/politics/2014-11/27/c_127255174.htm)
 >
->  可惜的是隐瞒数据泄露的现象非常普遍，甚至知道内情的员工也会被 [保密协议](https://www.businessinsider.com/cybersecurity-insiders-reveal-nda-hide-data-breach-2019) 所限制，好在公司没法控制媒体，如果有其他的消息源，比如数据库已经在论坛上出售了，那么媒体还是会以第四权介入，然后等待法律来制裁公司就好。（笑）
+>  可惜的是隐瞒数据泄露的现象非常普遍，甚至知道内情的员工也会被 [保密协议](https://web.archive.org/web/20191207095850/https://www.businessinsider.com/cybersecurity-insiders-reveal-nda-hide-data-breach-2019) 所限制，好在公司没法控制媒体，如果有其他的消息源，比如数据库已经在论坛上出售了，那么媒体还是会以第四权介入，然后等待法律来制裁公司就好。（笑）
 
 > [!abstract]+ 相关链接
 >
@@ -76,7 +76,7 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
 2015年2月20日，长沙杨飞发布了文章《[深度分析|为什么我们不能访问谷歌？][]》，详细研究了大量的 Google 无法访问的原因。
 
-[深度分析|为什么我们不能访问谷歌？]: http://www.midphoto.com/chinese/whatsnew/2016/2.htm
+[深度分析|为什么我们不能访问谷歌？]: https://web.archive.org/web/20160805142656/http://www.midphoto.com/chinese/whatsnew/2016/2.htm
 
 但此文存在一个小问题，其中引用了被认为是陈云说的话：
 

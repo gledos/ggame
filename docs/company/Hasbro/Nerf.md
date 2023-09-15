@@ -14,7 +14,7 @@ Nerf 的部分产品有橙色与灰色扳机外观差异，新西兰、德国和
 
 根据 UK Nerf 博客的测试，Nerf N-STRIKE Elite Mega Magnus Blaster 这款玩具的橙色与灰色扳机的弹簧有微妙的差异，两者的弹簧仅有 0.1 毫米直径的差异，不过导致了许多性能差异：[^nmmotvg]
 
-[^nmmotvg]: Uk Nerf War, 《[UK Nerf: NERF MEGA Magnus - Orange Trigger vs. Grey](https://uknerf.blogspot.com/2015/01/nerf-mega-magnus-orange-trigger-vs-grey.html)》, UK Nerf, 2015-01-24. (参照 2022-05-25).
+[^nmmotvg]: Uk Nerf War, 《[UK Nerf: NERF MEGA Magnus - Orange Trigger vs. Grey](https://web.archive.org/web/20150207025217/https://uknerf.blogspot.com/2015/01/nerf-mega-magnus-orange-trigger-vs-grey.html)》, UK Nerf, 2015-01-24. (参照 2022-05-25).
 
 |                  | 橙色扳机 | 灰色扳机 |
 | ---------------- | -------- | -------- |

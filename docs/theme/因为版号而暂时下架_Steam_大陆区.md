@@ -29,13 +29,13 @@ dateCreated: "2021-10-30T10:48:25"
 
 [^t770595]: 万狐飞仙, 《[《泡沫冬景》及其DLC“樱色零落&景色萧然”和“和平默示录”再次锁国区下架](https://keylol.com/t770595-1-1)》, 其乐 Keylol, 2021-12-07. (参照 2022-05-03).
 
-[^65441]: 《[离别，是为了更好的重逢](https://steamcommunity.com/games/1049100/announcements/detail/3030339834982865441)》, Steam :: Christmas Tina -泡沫冬景-, 2021-06-03. (参照 2022-05-03).
+[^65441]: 《[离别，是为了更好的重逢](https://web.archive.org/web/20230915115623/https://steamcommunity.com/games/1049100/announcements/detail/3030339834982865441)》, Steam :: Christmas Tina -泡沫冬景-, 2021-06-03. (参照 2022-05-03).
 
 [^t765751]: 万狐飞仙, 《[《往事 - When the Past Was Around》在国区下架并锁国区](https://keylol.com/t765751-1-1)》, 其乐 Keylol, 2021-11-18. (参照 2022-05-03).
 
-[^1089630]: 《[奇迹一刻 Surmount - 奇迹一刻恢复上架，舒言线更新](https://store.steampowered.com/news/app/1089630/view/2993187041065290965)》, Steam 新闻, 2021-06-29. (参照 2022-05-03).
+[^1089630]: 《[奇迹一刻 Surmount - 奇迹一刻恢复上架，舒言线更新](https://archive.is/wSBxo "https://store.steampowered.com/news/app/1089630/view/2993187041065290965")》, Steam 新闻, 2021-06-29. (参照 2022-05-03).
 
-[^1093320]: 《[恶魔秘境暂时关闭商店，2022年3月重新上架](https://store.steampowered.com/news/app/1093320/view/3145198100871802222)》, Steam 新闻, 2021-12-01. (参照 2022-05-03).
+[^1093320]: 《[恶魔秘境暂时关闭商店，2022年3月重新上架](https://archive.is/dFusV "https://store.steampowered.com/news/app/1093320/view/3145198100871802222")》, Steam 新闻, 2021-12-01. (参照 2022-05-03).
 
 [^749267]: 万狐飞仙, 《[腾讯旗下“NExT Studios”开发发行的《死神来了》《幽林怪谈》在国区下架并锁国区](https://keylol.com/t749267-1-1)》, 其乐 Keylol, 2021-09-16. (参照 2022-05-03).
 

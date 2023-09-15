@@ -126,7 +126,7 @@ QQ邮箱是腾讯运营的邮箱服务，在 2002 年推出。
 
 从源码来看，跟 Cookie 有关，所以这是追踪用户的手段，hiraishinNoJutsuShiki 这个函数名比较有意思，应该是火影忍者里的忍术：飛雷神の術式 (Hiraishin No Jutsu-Shiki)。[^bossxie1995]
 
-[^bossxie1995]: 火影忍者忍术的说法来自 reddit 用户 [bossxie1995](https://www.reddit.com/r/real_China_irl/comments/12zy1dn/comment/jhux8a5/?context=3)
+[^bossxie1995]: 火影忍者忍术的说法来自 reddit 用户 [bossxie1995](https://archive.ph/tAOFT "https://www.reddit.com/r/real_China_irl/comments/12zy1dn/comment/jhux8a5/?context=3")
 
 但是这种水印一般会被放置到 UGC 平台的内容页面，比如文章和视频之类的位置，放置在登录界面看起来没有明显作用，有说法认为这是「打击覆盖二维码并盗号的恶意程序」，但手机摄像头几乎不可能分辨出这个内容，并且「扫码登录」理论上不会上传拍摄的图片，仅会调用本地的图片识别工具获取 QR 码的内容。
 
