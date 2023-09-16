@@ -18,7 +18,7 @@ dateCreated: "2021-08-09T09:49:34"
 
 ---
 
-> HKLC [2021年6月2日](http://web.archive.org/web/20230810160341/https://www.facebook.com/HKLiberationCoalition/photos/a.120697460169936/123512289888453/)
+> HKLC [2021年6月2日](https://archive.is/eq9sy "https://www.facebook.com/HKLiberationCoalition/posts/pfbid035DXEU7LjXZZHx4sXNdLe9ts26Uq7HnbCc2WXWyyDztfHDxXsdcBdyDxjNbVaZTuPl")
 >
 > 我們啟用不足兩星期的網站 hk liberation.com被 Wordpress 強行下架，現在正和Wordpress 交涉中。
 

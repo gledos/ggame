@@ -38,7 +38,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 2021年12月15日 左右，玩家国际版更新的第二章内容与日版不同，爱丽丝的全身像被裁剪成了头像，导致了玩家的反感，导致 Google Play 的评分曾经被刷到 1.9 的低分（满分是 5 分），随后游戏官方发布了公告，表示这是不得不调整的情况，未来会尽量避免这种情况。[^EtHbl][^58242][^38898][^rg4dsp]
 
-[^EtHbl]: 蔚藍檔案, 《[開發者的信 #1](http://web.archive.org/web/20230810161237/https://www.facebook.com/TW.BlueArchive/posts/136565035438305/)》, 2021-12-15. (参照 2022-11-14).
+[^EtHbl]: 蔚藍檔案, 《[開發者的信 #1](https://archive.is/8FVcz "https://www.facebook.com/102459995515476/posts/136565035438305/")》, 2021-12-15. (参照 2022-11-14).
 
 [^58242]: BlueArchive, 《[Here is a letter from PD Kim Yong-ha regarding the revision of the Aris scenario production.](https://web.archive.org/web/20220811170434/https://twitter.com/EN_BlueArchive/status/1471366983534858242)》, Twitter, 2021-12-16. (参照 2022-11-14).
 
