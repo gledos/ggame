@@ -54,11 +54,11 @@ dateCreated: "2021-10-16T09:42:30"
 
 [^blpg]: [吃鸡行动 哔哩哔哩直播](https://web.archive.org/web/20211016022645/https://live.bilibili.com/area/pubg)
 
-[^tgpg]: [吃鸡游戏 腾讯游戏官方直播平台 企鹅电竞](http://web.archive.org/web/20211016025020/https://egame.qq.com/livelist?layoutid=2000000133)
+[^tgpg]: [吃鸡游戏 腾讯游戏官方直播平台 企鹅电竞](https://web.archive.org/web/20211016025020/https://egame.qq.com/livelist?layoutid=2000000133)
 
 [^dypg]: [吃鸡游戏直播 - 吃鸡游戏视频解说攻略 - 斗鱼直播](https://web.archive.org/web/20211014043336/https://www.douyu.com/g_cjyx)
 
-[^hypg]: [天天吃鸡直播_吃鸡游戏视频攻略解说_吃鸡直播专区_虎牙直播](http://web.archive.org/web/20211016025619/https://www.huya.com/g/2793)
+[^hypg]: [天天吃鸡直播_吃鸡游戏视频攻略解说_吃鸡直播专区_虎牙直播](https://web.archive.org/web/20211016025619/https://www.huya.com/g/2793)
 
 [^yypg]: [绝地求生 - 绝地求生视频直播 - YY](https://web.archive.org/web/20211016030621/https://www.yy.com/chicken/jdqs)
 
