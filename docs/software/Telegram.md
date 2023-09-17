@@ -2,16 +2,20 @@
 title: Telegram
 description:
 published: true
-date: "2021-09-10T16:23:13"
+date: "2023-09-17T18:44:43"
 tags:
 - 即时通讯
 editor: markdown
 dateCreated: "2021-09-10T16:23:13"
 ---
 
+## 简介
+
+Telegram 是一款商业 IM 软件，在商业 IM 软件中具有较高的安全、匿名和隐私性。
+
 ## 即时封锁部分频道的图片
 
-详情请跳转至 [QQ#Telegram频道](/company/腾讯/QQ.md#Telegram频道) 条目。
+详情请跳转至 QQ 条目的《[Telegram频道](/company/腾讯/QQ.md#Telegram频道)》章节。
 
 ## 移除部分贴纸
 
@@ -115,3 +119,7 @@ dateCreated: "2021-09-10T16:23:13"
 随后 Telegram 回复道，这些改变仅会影响从 HUAWEI App Gallery 以及华为设备在官网下载的版本。[^1550242842076856320]
 
 [^1550242842076856320]: Telegram Messenger, 《[This code will only be present in builds installed from the Huawei store……](https://web.archive.org/web/20220722044612/https://twitter.com/telegram/status/1550242842076856320)》, Twitter, 2022-07-22. (参照 2022-07-22).
+
+## 被限制
+
+2023年8月，安装了 Telegram 的手机可能会被停机，详情请参考〈[直接限制 VPN 使用者](/censorship/技术/GFW.md#直接限制-vpn-使用者)〉章节。
