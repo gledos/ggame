@@ -2,7 +2,7 @@
 title: eSIM
 description:
 published: true
-date: "2022-09-10T08:25:44"
+date: "2023-09-20T22:11:58"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-09-10T08:25:44"
@@ -32,9 +32,17 @@ eSIM，又名<ruby>嵌入式SIM<rp>(</rp><rt>embedded-SIM</rt><rp>)</rp></ruby>�
 
 [^74142]: 第一财经, 《[手机厂商要“消灭SIM卡”？](https://web.archive.org/web/20221014021231/https://finance.sina.com.cn/jjxw/2022-09-29/doc-imqqsmrp0933136.shtml "https://www.toutiao.com/article/7148665324018074142/")》, 今日头条, 2022-09-29. (参照 2022-10-14).
 
-## eSIM一号双终端业务
+## eSIM 一号双终端业务
 
 eSIM 一号双终端业务最初是在数个地区的试点，之后在 2020 年在全地区开展，是给智能手表提供 eSIM 的服务，仅有白名单中的设备可以被支持。
+
+2023年5月～7月，电信、移动和联通陆续停止了 eSIM  一号双终端业务的新用户办理，理由是「业务维护升级」「系统升级」之类的说法，[^94232][^06102] 而网信江门在新闻的最后给出了理由：eSIM 在信息安全方面管控风险更大，比如无法保证实名认证。[^NKU9O]
+
+[^94232]: 问舟, 《[中国移动暂停开通 eSIM 一号双终端业务，已办理用户可正常使用](https://web.archive.org/web/20230614043020/https://www.ithome.com/0/694/232.htm)》, IT之家, 2023-05-22. (参照 2023-09-20).
+
+[^06102]: 泽泷, 《[中国电信 App 暂停办理 eSIM 手表一号双终端与独立 eSIM 业务](https://web.archive.org/web/20230716120145/https://www.ithome.com/0/706/102.htm)》, IT之家, 2023-07-16. (参照 2023-09-20).
+
+[^NKU9O]: 网信江门, 《[三大运营商暂停办理eSIM业务，网友：刚买的手表就废了？](http://archive.today/2023.09.20-140319/https://mp.weixin.qq.com/s?__biz=Mzg2ODA4MDIwNg==&mid=2247705265&idx=1&sn=7d580eef857e39a2b6740e14b97c3f4a "https://web.archive.org/web/20230920140018/https://www.thepaper.cn/newsDetail_forward_23905849")》, 微信公众号, 2023-07-18. (参照 2023-09-20). 备注：网信江门的微信公众号简介是「聚焦江门网信工作，发布政务信息、传递行业资讯、弘扬先进文化，传播江门好声音。」
 
 ## 5G通信壳
 
