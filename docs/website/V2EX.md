@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: "2022-07-09T23:15:14"
+date: "2023-09-21T22:38:49"
 tags:
 - 论坛
 - 腾讯
@@ -75,11 +75,28 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 痕迹很少，有未经确认的消息认为 V2EX 的站长将发帖人的 IP 等数据上交给警方，造成有人被喝茶警告。
 
-<!--
-详情请查看 [serviceprovider/Self-built_DNS](/serviceprovider/Self-built_DNS.md)
--->
+> [!abstract]+ 可能相关链接
+>
+> +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
+> +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://web.archive.org/web/20201018005242/https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
+> +   [V2EX 怎样影响了你？](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971), 知乎.
+> +   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062), 新·品葱.
+> +   [v2ex的站长也是个心眼小的人](https://archive.is/2614A "https://2049bbs.xyz/t/1313"), 2049BBS.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389), 2049BBS.
+> +   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1), V2EX. [百度取证](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
+> +   [这是专门针对 V2 的机器人出现了？](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077), V2EX.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013), Solidot. 备注：评论已移除
+> +   [问一下有那些和 V2EX 相似用户群的论坛？](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 ), V2EX. [百度取证](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
+> +   [V2EX 未经允许公布用户邮箱和手机号？](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559), V2EX.
+> +   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541), 知乎.
+> +   [[IT新闻\] V2EX 站长被指非法公开用户隐私信息](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948"), NGA玩家社区.
+> +   [以后上网，不想再谈什么隐私！](https://archive.is/aSeFs "https://www.v2ex.com/t/712403"), V2EX. 备注：需登录
 
 ## 「危险网址」
+
+<!-- 演示截图
+[Screenshot_2021-01-30-13-52-33-942_com.android.... - SM.MS - Simple Free Image Hosting](https://web.archive.org/web/20210130124451/https://sm.ms/image/SvCalXqObsEkNhF)
+-->
 
 2021年1月19日，由 Tencent 提供的安全监测服务的浏览器，[^V2EX_mlb] 比如国行 iOS 系统的 safari 浏览器默认设置，微信内置浏览器与腾讯浏览器等浏览器，将讨论 QQ 读取浏览器记录的讨论添加到了黑名单，提示为危险网站或者被多人举报。[^V2EX_qqq][^V2EX_wx]
 
@@ -89,7 +106,7 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 [^V2EX_wx]: [V2EX 危险网站，千万别访问](https://web.archive.org/web/20210131032045/https://tva1.sinaimg.cn/large/008eGmZEgy1gmsvszl9z2j30jq06474j.jpg)
 
-2021年1月30日左右，上述的浏览器把 V2EX 全站添加到了黑名单，[^V2EX_pcb] 楼主的截图与 MIUI 自带的浏览器警告一样，[^V2EX_miui] 大概 MIUI 也使用了 Tencent 提供的安全监测服务。现在「安全联盟」已经将 V2EX 标记为危险与博彩网站了。[^V2EX_anquan]
+2021年1月30日 左右，上述的浏览器把 V2EX 全站添加到了黑名单，[^V2EX_pcb] 楼主的截图与 MIUI 自带的浏览器警告一样，[^V2EX_miui] 大概 MIUI 也使用了 Tencent 提供的安全监测服务。现在「安全联盟」已经将 V2EX 标记为危险与博彩网站了。[^V2EX_anquan]
 
 [^V2EX_anquan]: [搜索 V2EX](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com), 安全联盟.
 
@@ -111,27 +128,9 @@ V2EX 是大陆一个信息技术交流论坛，不过要在大环境下存活，
 
 [^V2EX_mk]: [v 站看点东西，有门槛是好，可真的节约时间吗 - V2EX](https://web.archive.org/web/20210131025816/https://v2ex.com/t/618036)
 
-<!--
-+ [Screenshot_2021-01-30-13-52-33-942_com.android.... - SM.MS - Simple Free Image Hosting](https://web.archive.org/web/20210130124451/https://sm.ms/image/SvCalXqObsEkNhF)
-+ 
--->
+2023年9月21日，360 安全卫士似乎开始影响 V2EX 的解析，在运行 360 安全卫士时，V2EX 链接会被重定向到 `info.warning.360.cn/warn/?…` 这样的链接，关闭 360 安全卫士后就能正常打开 V2EX。[^NGdWM]
 
-> [!abstract]+ 相关链接
->
-> +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
-> +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://web.archive.org/web/20201018005242/https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
-> +   [V2EX 怎样影响了你？](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971), 知乎.
-> +   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062), 新·品葱.
-> +   [v2ex的站长也是个心眼小的人](https://archive.is/2614A "https://2049bbs.xyz/t/1313"), 2049BBS.
-> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389), 2049BBS.
-> +   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1), V2EX. [百度取证](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
-> +   [这是专门针对 V2 的机器人出现了？](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077), V2EX.
-> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013), Solidot. 备注：评论已移除
-> +   [问一下有那些和 V2EX 相似用户群的论坛？](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 ), V2EX. [百度取证](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
-> +   [V2EX 未经允许公布用户邮箱和手机号？](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559), V2EX.
-> +   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541), 知乎.
-> +   [[IT新闻\] V2EX 站长被指非法公开用户隐私信息](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948"), NGA玩家社区.
-> +   [以后上网，不想再谈什么隐私！](https://archive.is/aSeFs "https://www.v2ex.com/t/712403"), V2EX. 备注：需登录
+[^NGdWM]: efcndi, 《[360 安全卫士已经开始封锁 V 站了](http://archive.today/2023.09.21-022336/https://www.v2ex.com/t/975771)》, V2EX, 2023-09-21. (参照 2023-09-21).
 
 ## 2021年4月 V2EX 被封锁
 

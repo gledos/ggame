@@ -35,7 +35,7 @@ dateCreated: "2022-08-03T09:18:38"
 
 > [!quote]+ Apple在中国大陆已知不支持功能列表【不完全统计共44项】截至2022/7/24[^z2][^z3]
 >
-> 1.  eSIM（Apple watch提供、iPhone不支持） **俄罗斯支持**
+> 1.  [eSIM](/technology/eSIM.md)（Apple watch提供、iPhone不支持） **俄罗斯支持**
 > 2.  Callkit
 > 3.  FaceTime audio
 > 4.  FaceTime 群组 **俄罗斯支持**

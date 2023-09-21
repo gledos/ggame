@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2023-07-31T17:03:00"
+date: "2023-09-21T12:43:49"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -20,8 +20,8 @@ dateCreated: "2022-11-14T21:57:06"
 > - 英文: Blue Archive
 > - 韩文: 블루 아카이브
 > - 繁体中文: 蔚藍檔案
+> - 简体中文: 蔚蓝档案
 > - 非官方简体中文:
->   - 蔚蓝档案
 >   - 碧蓝档案
 > 发布时间:
 > - 日本: 2021年2月4日
@@ -397,3 +397,11 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 [Roter Adlerorden]: https://de.wikipedia.org/wiki/Roter_Adlerorden
 
 [Gregoriusorden]: https://de.wikipedia.org/wiki/Gregoriusorden
+
+2023年9月21日，「蔚蓝档案」官方在哔哩哔哩专栏发布了公告《〈蔚蓝档案〉09月21日在线更新说明》：[^sUAcp]
+
+[^sUAcp]: 蔚蓝档案, 《[〈蔚蓝档案〉09月21日在线更新说明](https://web.archive.org/web/20230921032128/https://www.bilibili.com/read/cv26646399/ "http://archive.today/2023.09.21-032047/https://www.bilibili.com/read/cv26646399/")》, 哔哩哔哩, 2023-09-21. (参照 2023-09-21).
+
+1.  调整部分界面的文本内容和部分主线剧情的台词文本
+2.  调整「鹤城（3★）」的模型/技能特效
+3.  调整部分成员的立绘资源（艾米、亚子、明日奈、菲娜、鹤城），调整后的立绘资源下方可见
