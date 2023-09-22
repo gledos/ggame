@@ -9,5 +9,6 @@ mkdocs-material-extensions
 mkdocs-minify-plugin
 mkdocs-redirects
 mkdocs-roamlinks-plugin
+mkdocs-rss-plugin
 mkdocs-video
 pymdown-extensions

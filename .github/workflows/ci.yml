@@ -25,6 +25,7 @@ jobs:
     - run: pip install mkdocs-minify-plugin
     - run: pip install mkdocs-redirects
     - run: pip install mkdocs-roamlinks-plugin
+    - run: pip install mkdocs-rss-plugin
     - run: pip install mkdocs-video
     - run: pip install pymdown-extensions
     - run: mkdocs gh-deploy --force

@@ -104,6 +104,20 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+- rss:
+    locale: zh-hans
+    abstract_delimiter: "-1"
+    date_from_meta:
+      as_creation: dateCreated
+      as_update: date
+      datetime_format: "%Y-%m-%dT%H:%M:%S"
+    categories:
+    - tags
+    match_path: ".*"
+    url_parameters:
+      utm_source: "documentation"
+      utm_medium: "RSS"
+      utm_campaign: "feed-syndication"
 # - offline                 # 离线使用    https://squidfunk.github.io/mkdocs-material/setup/building-for-offline-usage/
 # - typeset                 # 排版插件    https://squidfunk.github.io/mkdocs-material/reference/#configuration
 # - progress                # 显示构建状态，方便除错？    https://github.com/obuya/mkdocs-new-features-notifier
@@ -151,6 +165,8 @@ plugins:
     - "*.gz"
     - "encryption/*"
     - "liquid/*"
+    - ".trash/*"
+    - "templates/*"
     # regex:
     # - '.*\.(tmp|bin|tar)$'
 - blogging:
