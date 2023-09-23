@@ -63,3 +63,9 @@ AirDrop 具有一些便利，因为当接受方的手机与分享方是联系人
 [Cyberflashing]: https://en.wikipedia.org/wiki/Cyberflashing
 
 [^89225]: Sarah Bell, 《[Police investigate 「first cyber-flashing」 case](https://web.archive.org/web/20221125173311/https://www.bbc.com/news/technology-33889225)》, BBC News, 2015-08-13. 参照: 2022-12-09. [Online].
+
+2023年6月7日，这天被公开的《[近距离自组网信息服务管理规定（意见征求稿）](/rule/国家互联网信息办公室/近距离自组网信息服务管理规定.md)》，被《华尔街日报》认为是针对 AirDrop 以及类似技术的限制。[^2bda3][^02907]
+
+[^2bda3]: Yoko Kubota, 《[中国国家安全整治行动盯上苹果AirDrop类服务](https://web.archive.org/web/20230610185345/https://cn.wsj.com/articles/中国国家安全整治行动瞄准苹果公司airdrop文件共享程序-d232bda3)》, 华尔街日报中文网, 2023-06-10. (参照 2023-09-23).
+
+[^02907]: 早报, 《[美媒：中国国家安全整治行动盯上苹果AirDrop类服务](https://web.archive.org/web/20230610065006/https://www.zaobao.com.sg/realtime/china/story20230610-1402907)》, 早报, 2023-06-10. (参照 2023-09-23).
