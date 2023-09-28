@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2023-09-21T12:43:49"
+date: "2023-09-28T23:47:02"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -405,3 +405,21 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 1.  调整部分界面的文本内容和部分主线剧情的台词文本
 2.  调整「鹤城（3★）」的模型/技能特效
 3.  调整部分成员的立绘资源（艾米、亚子、明日奈、菲娜、鹤城），调整后的立绘资源下方可见
+
+### 官方反和谐
+
+2023年9月 下旬，网络上出现了《蔚蓝档案》简中服的反和谐方法，方法是修改游戏的一行配置文件，位于游戏目录中的 LocalizeConfig.txt 第三航，原始文件内容如下：
+
+```txt
+Env=dev
+IsLocalize=false
+ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-cn.com/prodm39;https://static-hs.bluearchive-cn.com/prodm39
+```
+
+将第三行的 URL 修改为：`http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf`，然后重启游戏，就会自动下载 52 MB 左右的更新包。
+
+随后在  2023年9月28日，《蔚蓝档案》的官方帐号「蔚蓝档案小助理」在哔哩哔哩动态评论到「感谢老师参加红冬活动！🍮补习部的梓、花子将在今天更新后和大家见面哦！」[^OgUfT]
+
+[^OgUfT]: 蔚蓝档案, 《[老师！维护更新已经结束，主线故事VOL.3【伊甸园条约篇】现已更新！](http://archive.today/2023.09.28-103341/https://t.bilibili.com/846338084677091333)》, 哔哩哔哩, 2023-09-28. (参照 2023-09-28).
+
+其中的布丁 Emoji「🍮」暗示「补丁」，所以这理应是官方流出的反和谐方案。但是有用户表示，使用了布丁的简中版，剧情台词还是比繁中版收敛。其他的被和谐内容有恢复，比如立绘、部分外语和老师称呼。
