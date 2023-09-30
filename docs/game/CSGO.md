@@ -2,7 +2,7 @@
 title: CSGO
 description:
 published: true
-date: "2022-08-03T09:07:01"
+date: "2023-09-30T10:50:19"
 tags:
 - steam
 editor: markdown
@@ -316,3 +316,30 @@ dateCreated: "2021-09-28T23:09:13"
   <img slot="first" src="https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp" />
   <img slot="second" src="https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp" />
 </img-comparison-slider>
+
+## 健康游戏公告问题
+
+2023年9月28日，_CS2_ 正式取代 _CS:GO_ 后，有人发现完美世界版的 _CS2_ 的《健康游戏公告》存在问题，游戏中的《健康游戏公告》出现了拼写错误：[^OfGvp]
+
+[^OfGvp]: 清梦Seward, 《[【CS2】完美内鬼或导致CS2停止出版？严查！](http://archive.today/2023.09.28-234625/https://www.bilibili.com/video/BV1Qw411Y77M/)》, 哔哩哔哩, 2023-09-28. (参照 2023-09-30).
+
+```diff
+- 抵制不良游戏，拒绝盗版游戏。
++ 抵制不恨游戏，拒绝盗版游戏。
+  注意自我保护，谨防受骗上当。
+  适度游戏益脑，沉迷游戏伤身。
+  合理安排时间，享受健康生活。
+```
+
+「抵制不良游戏」变成了「抵制不恨游戏」，不过很快就被修复了。评论中有人推测是 OCR 时没校对，所导致的问题。
+
+这种情况也能在「北京微笑科技有限公司」的网站中发现，微笑科技的《健康游戏公告》也存在明显问题：[^jljop]
+
+[^jljop]: 北京微笑科技有限公司, 《[隐私条款](https://web.archive.org/web/20230605093307/http://www.jinglingzhijing.com/operation/privacy/)》, 精灵之境, 2023-06-05. (参照 2023-09-30).
+
+```diff
+- 抵制不良游戏 · 拒绝盗版游戏 · 注意自我保护 · 谨防受骗上当
++ 抵制不恨游戏 · 拒绝盗版游戏 · 主意咱我保户 · 谨坊受骗上当
+- 适度游戏益脑 · 沉迷游戏伤身 · 合理安排时间 · 享受健康生活
++ 适度游戏益脑 · 冗迷游戏伤身 · 合理安排时简 · 享受健康生活
+```

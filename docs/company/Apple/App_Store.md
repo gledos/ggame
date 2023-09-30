@@ -2,7 +2,7 @@
 title: App Store
 description:
 published: true
-date: "2021-12-17T23:11:34"
+date: "2023-09-30T09:09:49"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-12-17T23:11:34"
@@ -219,3 +219,21 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 [^40936]: 第一财经, 《[苹果应用商店下架讯飞星火APP 科大讯飞回应：不清楚下架原因 其他APP情况都正常](https://web.archive.org/web/20230801081436/https://www.nbd.com.cn/articles/2023-08-01/2940936.html)》, 每经网, 2023-08-01. (参照 2023-08-01).
 
 [^ispark]: 科大讯飞, 《[讯飞星火官方新版本](https://web.archive.org/web/20230801081638/https://sj.qq.com/appdetail/com.iflytek.spark)》, 腾讯应用宝. (参照 2023-08-01).
+
+### 强制要求 ICP 许可证
+
+2023年9月29日，Apple 的开发者页面中，〈App 信息〉被发现添加了一段文字（加号后被高亮显示的文字）：[^91036][^03146]
+
+[^91036]: 《[帮助 - App 信息 - 参考 - App Store Connect](https://web.archive.org/web/20230511091036/https://developer.apple.com/cn/help/app-store-connect/reference/app-information/)》, Apple Developer, 2023-05-11. (参照 2023-09-30).
+
+[^03146]: 《[帮助 - App 信息 - 参考 - App Store Connect](https://web.archive.org/web/20230930003146/https://developer.apple.com/cn/help/app-store-connect/reference/app-information/)》, Apple Developer, 2023-09-30. (参照 2023-09-30).
+
+```diff
+  根据中国法律，特定类型的 App 需要提供额外的信息和文件，才能在中国大陆的 App Store 中上架。
+
++ 中国工业和信息化部（MIIT）要求 App 必须具备有效的互联网信息服务提供者（ICP）备案号。此外，
+  游戏 App 必须取得网络游戏出版物号。图书和报刊杂志 App 必须持有中国国家新闻出版署（NPPA）颁发的《网络出版服务许可证》。包含宗教内容的 App 必须持有中国国家宗教事务局（NRAA）颁发的《互联网宗教信息服务许可证》。新闻 App 必须持有中国国家互联网信息办公室（CAC）颁发的《互联网新闻信息服务许可证》。如果你已经或计划在中国大陆的 App Store 中提供上述类型的 App，则必须提供相关信息和证明文件。
+
++ 如果 App 符合上述情况，请在“App 信息”页面的相应位置填写 ICP 备案信息。
+  为方便 Apple 验证你的网络游戏出版物号，请上传游戏的 ISBN（国际标准书号）核发单或批复文件，以及最新营业执照的副本。此外，你还可以上传相应运营单位的授权协议。为方便 Apple 验证你的出版许可，请上传《网络出版服务许可证》或中国国家新闻出版署颁发的其他相关许可、授权方提供的出版许可授权书、营业执照、ICP 许可证或类似的证明文件。为方便 Apple 验证你的互联网宗教信息服务许可，请上传《互联网宗教信息服务许可证》、授权方提供的许可授权书、营业执照、ICP 许可证或类似的证明文件。为方便 Apple 验证你的互联网新闻信息服务许可，请上传《互联网新闻信息服务许可证》、授权方提供的许可授权书、营业执照、ICP 许可证或类似的证明文件。
+```
