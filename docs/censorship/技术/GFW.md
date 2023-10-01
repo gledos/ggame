@@ -94,3 +94,16 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 > 谢谢大家！
 
 备注：「〇」表示被遮挡的文字。
+
+## 2023年10月1日 多域名被封锁
+
+2023年10月1日，多个域名被封锁，包括 Minecraft、Visual Studio Code 和 Vercel，原理是 DNS 污染。
+
+> [!abstract]+ 清单
+>
+> +   [https://api.minecraftservices.com](https://web.archive.org/web/20231001024856/https://www.17ce.com/site/http/20231001_ba8ef210600411eeac17e316c626d952:1.html), 17CE.
+> +   [https://api.mojang.com](https://web.archive.org/web/20231001025239/https://www.17ce.com/site/http/20231001_142c61e0600511ee9594d1b290c5208d:1.html), 17CE.
+> +   [https://code.visualstudio.com/](https://web.archive.org/web/20231001064755/https://www.17ce.com/site/http/20231001_0b1fc800602611eeac17e316c626d952:1.html), 17CE.
+> +   [https://vercel.com/](https://web.archive.org/web/20231001064730/https://www.17ce.com/site/http/20231001_d1a7b6f0602511ee9594d1b290c5208d:1.html), 17CE.
+> +   [https://www.minecraft.net](https://web.archive.org/web/20231001025634/https://www.17ce.com/site/http/20231001_e4567b80600511ee9594d1b290c5208d:1.html#s304437), 17CE.
+
