@@ -97,13 +97,18 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 
 ## 2023年10月1日 多域名被封锁
 
-2023年10月1日，多个域名被封锁，包括 Minecraft、Visual Studio Code 和 Vercel，原理是 DNS 污染。
+2023年10月1日，多个域名被封锁，包括 Minecraft、Visual Studio Code，原理是 DNS 污染，访问这些域名会被重定向到「[国家反诈中心](/censorship/国家反诈中心.md)」页面。[^08371]
 
-> [!abstract]+ 清单
+[^08371]: 林小槐, 《[部分地区（主要是移动）把 mojang 的正版验证 API 给屏蔽掉了 xs](https://web.archive.org/web/20231002015758/https://twitter.com/Stapx_Happy/status/1708305027293708371)》, X（Twitter）, 2023-10-01. (参照 2023-10-02).
+
+[Cloudflare](/serviceprovider/Cloudflare.md) 的 `https://1.1.1.1` 也被发现遭到干扰。
+
+> [!abstract]+ 找到影响的域名清单
 >
 > +   [https://api.minecraftservices.com](https://web.archive.org/web/20231001024856/https://www.17ce.com/site/http/20231001_ba8ef210600411eeac17e316c626d952:1.html), 17CE.
 > +   [https://api.mojang.com](https://web.archive.org/web/20231001025239/https://www.17ce.com/site/http/20231001_142c61e0600511ee9594d1b290c5208d:1.html), 17CE.
 > +   [https://code.visualstudio.com/](https://web.archive.org/web/20231001064755/https://www.17ce.com/site/http/20231001_0b1fc800602611eeac17e316c626d952:1.html), 17CE.
 > +   [https://vercel.com/](https://web.archive.org/web/20231001064730/https://www.17ce.com/site/http/20231001_d1a7b6f0602511ee9594d1b290c5208d:1.html), 17CE.
 > +   [https://www.minecraft.net](https://web.archive.org/web/20231001025634/https://www.17ce.com/site/http/20231001_e4567b80600511ee9594d1b290c5208d:1.html#s304437), 17CE.
+> +   [https://1.1.1.1](https://web.archive.org/web/20231002015338/https://17ce.com/site/http/20231002_a5ed427060b911ee9594d1b290c5208d:1.html)》, 17CE.
 
