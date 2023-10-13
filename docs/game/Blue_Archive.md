@@ -184,6 +184,12 @@ https://bluearchive-cn.com/world")》, 2023-03-31. (参照 2023-03-31).
 | 聯邦搜查社團 | 联邦搜查社   |
 | 總學生會長   | 联邦理事会长 |
 
+角色「奥空绫音」袖章上面的文字也有变化，从日式的「<span lang="ja">委員</span>」变成了简中式的「委员」。[^45918][^275a2] 这可能与《[关于规范使用汉字的倡议](/rule/行业协会/关于规范使用汉字的倡议.md)》有关。
+
+[^45918]: [Ayane_Portrait.png](https://web.archive.org/web/20231013045918/https://static.wikia.nocookie.net/blue-archive/images/0/06/Ayane_Portrait.png), static.wikia.nocookie.net, 2023-10-13. (参照 2023-10-13).
+
+[^275a2]: [ayane.9be275a2.png](https://web.archive.org/web/20231013045759/https://webcnstatic.yostar.net/ba_cn_web/prod/web/assets/ayane.9be275a2.png), webcnstatic.yostar.net, 2023-10-13. (参照 2023-10-13).
+
 ---
 
 大陆服官网还有对学校有介绍，全部介绍如下：
