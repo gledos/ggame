@@ -10,7 +10,9 @@ exclude_from_blog: true
 icon: material/book-lock
 ---
 
-可以在 [下方](#简介) 查看最近更新的页面，或者到左边的树状列表，进行查看条目。
+## 前言
+
+可以在 [下方](#清单) 查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 反审查概述
 
@@ -73,7 +75,7 @@ icon: material/book-lock
 
 [NitroRCr/Words-away]: https://github.com/NitroRCr/Words-away
 
-## 简介
+## 清单
 
 anti-censorship 即反审查，一些破除网络审查的工具就会被收录到此版块（文件夹）。
 

@@ -1,11 +1,12 @@
 ---
 title: Niconico動畫
-description:
+description: 
 published: true
-date: "2022-08-01T23:11:05"
-特殊标签标记: #无标签
+date: 2022-08-01T23:11:05
+tags:
+- gfw
 editor: markdown
-dateCreated: "2022-08-01T23:11:05"
+dateCreated: 2022-08-01T23:11:05
 ---
 
 ## 简介
@@ -25,13 +26,13 @@ dateCreated: "2022-08-01T23:11:05"
 
 [^logo]: <https://zh.wikipedia.org/wiki/File:Niconico(Re).svg>
 
-Niconico 动画是日本多玩国公司营运的线上弹幕影片分享网站，在 2006年12月12日 推出。与 YouTube 等影片共享网站相似，但 Niconico 动画是首个提供观看者可在影片上留言并以弹幕的形式出现在影片上的功能。[^wiki_nico] 
+Niconico 动画是日本多玩国公司营运的线上弹幕影片分享网站，在 2006年12月12日 推出。与 YouTube 等影片共享网站相似，但 Niconico 动画是首个提供观看者可在影片上留言并以弹幕的形式出现在影片上的功能。[^wiki_nico]
 
 [^wiki_nico]: 《[Niconico動畫](https://web.archive.org/web/20220709150319/https://zh.wikipedia.org/wiki/Niconico動畫)》, 维基百科，自由的百科全书. 2022-06-27. 参照: 2022-08-01. [Online].
 
 ## 被 YouTube 停止引用
 
-原本 Niconico 动画使用的是 YouTube 的视频，[^20363081] 而 Niconico 只是一个外壳，用来同步加载弹幕，但在被 DoS 攻击之后，YouTube 方面就不再支持 Niconico 了。[^MMITba]
+2007 年，原本 Niconico 动画使用的是 YouTube 的视频，[^20363081] 而 Niconico 只是一个外壳，用来同步加载弹幕，但在被 DDoS 攻击之后，YouTube 方面就不再支持 Niconico 了。[^MMITba]
 
 [^20363081]: 永井美智子, 《[ニコニコ動画に学ぶ、人気サービス開発の極意](https://web.archive.org/web/20210517204245/https://japan.cnet.com/article/20363081/)》, CNET Japan, 2007-12-12. (参照 2022-08-01).
 
@@ -63,3 +64,29 @@ Niconico 动画是日本多玩国公司营运的线上弹幕影片分享网站�
 [^term_patch]: 《[パッチ - ゲーム用語集](https://web.archive.org/web/20210302110839/http://emu.web-g-p.com/info/term/term_patch.html)》, エミュレータ情報局. (参照 2022-08-01).
 
 [^03]: 《[マリオ系一斉削除事件とは (マリオケイイッセイサクジョジケンとは) [単語記事]](https://dic.nicovideo.jp/id/3880095)》, ニコニコ大百科, 2019-12-08. (参照 2022-08-01).
+
+## 被 GFW 封禁
+
+2010年12月9日，Niconico 被 GFW 封锁，[^42232] 封锁方法是 IP 地址、域名与域名关键词过滤，时间恰好是 [2010 年诺贝尔和平奖][] 颁布时间 2010年12月10日 的前一天，所以有人认为存在相关性。
+
+[^42232]: KAMUI, 『[中国、ニコニコ動画へのアクセスを遮断](https://web.archive.org/web/20181229075654/https://www.excite.co.jp/news/article/Slashdot_10_12_11_0342232/)』, エキサイトニュース, 2010-12-11. (参照 2023-10-13).
+
+[2010 年诺贝尔和平奖]: https://zh.wikipedia.org/wiki/2010年诺贝尔和平奖
+
+2013年2月7日，Niconico 动画逐渐被 GFW 解封，史称「二七拆墙」，不过造成了 Niconico 的混乱，大量中文弹幕出现在网站中，影响了网站的正常秩序。[^65438]
+
+[^65438]: 4O74Y7, 《[二七拆墙](https://web.archive.org/web/20230902065438/https://moegirl.uk/二七拆墙)》, 萌娘百科（镜像站）, 2023-08-01. (参照 2023-10-14).
+
+2013年2月8日，Niconico 动画方面临时限制了简中用户，使其不能进入 Niconico 英文站。[^80293]
+
+[^80293]: Niconico, [You've probably noticed that China has officially lifted their ban on nicovideo.jp…](https://web.archive.org/web/20190217101226/https://www.facebook.com/niconicocom/posts/452875894780293), Facebook, 2013-02-07. (参照 2023-10-14).
+
+2013年9月18日，Niconico 再次被 GFW 封锁。[^84483]
+
+[^84483]: 《[Niconico動畫](https://zh.wikipedia.org/w/index.php?title=Niconico動畫&oldid=78484483#中国大陆的屏蔽)》, 维基百科，自由的百科全书. 2023-08-12. 参照: 2023-10-14. [Online].
+
+期间的某时，也许能正常使用部分功能。
+
+2018年10月，Niconico 动画开启了全站 HTTPS，所以能够正常使用。
+
+2019年3月27日，Niconico 再次被 GFW 封锁。
