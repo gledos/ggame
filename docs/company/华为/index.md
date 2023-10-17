@@ -10,7 +10,7 @@ dateCreated: "2023-01-25T23:57:38"
 
 ## 简介
 
-华为是一下科技公司。
+华为是家科技公司。
 
 ## 祝贺双十国庆
 
@@ -27,6 +27,14 @@ dateCreated: "2023-01-25T23:57:38"
 ![2012](https://web.archive.org/web/20220930140439im_/https://cdn2.ettoday.net/images/1548/d1548751.jpg)
 
 ![2015](https://web.archive.org/web/20220930140439im_/https://cdn2.ettoday.net/images/1548/d1548750.jpg)
+
+## 下架 Androbench
+
+2017年4月，华为推出了 P10 机型，结果被发现混用了 UFS 2.1 和 eMMc 5.1，于是许多用户使用 Androbench 测试，但是发现华为商店中没有 Androbench。
+
+这时出现了华为商店下架 Androbench 的流言，流言产生的原因可能是之前发布会中，华为使用了 Androbench 的分数演示性能，所以有用户以为华为商店应该有 Androbench。
+
+事实是一开始，华为就没有上架 Androbench 到华为商店，然后出现了误解。（也就是说这个流言并非恶意谣言，而是误解）
 
 ## 时区
 
