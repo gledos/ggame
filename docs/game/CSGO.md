@@ -36,6 +36,8 @@ dateCreated: "2021-09-28T23:09:13"
 
 <ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。
 
+《反恐精英：全球攻势》（Counter-Strike: Global Offensive）已在 2023 年更新为了《反恐精英 2》（CS2）。
+
 ## 反和谐
 
 2017年9月15日，完美世界代理了 CSGO，随后玩家发现反和谐的操作比起完美世界之前代理的 DOTA2 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
@@ -343,3 +345,17 @@ dateCreated: "2021-09-28T23:09:13"
 - 适度游戏益脑 · 沉迷游戏伤身 · 合理安排时间 · 享受健康生活
 + 适度游戏益脑 · 冗迷游戏伤身 · 合理安排时简 · 享受健康生活
 ```
+
+## 二代名称问题
+
+2023 年，《反恐精英：全球攻势》（Counter-Strike: Global Offensive）更新为了《反恐精英 2》（CS2）。
+
+但是简中版本的运营方「完美世界」，继续使用《反恐精英：全球攻势》或者没有副标题的《反恐精英》字样，官网、游戏本体和主要第二方的新闻均是如此，[^24918][^21845] 甚至是宣传片也将「Counter-Strike 2」修改为了「Counter-Strike」。[^1G7sS]
+
+[^24918]: 《[反恐精英:全球攻势](https://web.archive.org/web/20230929024918/https://www.csgo.com.cn/)》, CSGO官方网站. (参照 2023-10-18).
+
+[^21845]: Andrew Burnes, 《[通过 NVIDIA Reflex 和 GeForce RTX 40 系列 GPU 畅玩新版本“反恐精英：全球攻势”——更低系统延迟和更高 FPS](https://web.archive.org/web/20231007121845/https://www.nvidia.cn/geforce/news/counter-strike-2-released-featuring-nvidia-reflex/)》, NVIDIA, 2023-09-27. (参照 2023-10-18).
+
+[^1G7sS]: 姓面名包君, 《[Counter Strike 2（CS2）发售宣传片 国服与国际对比](https://www.bilibili.com/video/BV1jz4y1G7sS/)》, 哔哩哔哩, 2023-09-28. (参照 2023-10-18).
+
+这可能是规避审查，因为如果是新游戏，就需要重新获取版号。这样的操作类似于《[守望先锋：归来](/game/守望先锋.md)》（国际版叫做《守望先锋 2》），同样是在名称上耍花招。
