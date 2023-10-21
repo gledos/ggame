@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2022-07-14T22:24:44"
+date: "2023-10-21T23:20:19"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,33 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2023年10月21日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年10月21日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Wakabayashi Daisuke, Sharma Bhadra, Fu Claire, 《[中企承建尼泊尔机场背后：债务、霸王条款和地缘政治](https://cn.nytimes.com/business/20231020/nepal-pokhara-airport-china/)》, 纽约时报中文网, 2023-10-20. (参照 2023-10-21).
++   《[拜登拟千亿美元军援以色列与乌克兰 称“决不让哈马斯与普京胜利”](https://www.bbc.com/zhongwen/simp/world-67166368)》, BBC News 中文, 2023-10-20. (参照 2023-10-21).
++   星岛日报, 《[男子进口羊村绘本被判刑 港海关关长：仍有别有用心人士软对抗](https://www.zaobao.com.sg/realtime/china/story20231021-1444743)》, 联合早报, 2023-10-21. (参照 2023-10-21).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZTPsIwAKCRCZXo6bU2oX
+pIo0AQDIudaobdyZ3R5o0Z/L/AurNjoh/unmEyiCzC7pX5HkzAEAkNIkPTMWT747
+MzjlsgiEiwzldwJ5F7b4PTiysCxjGwk=
+=20Bl
+-----END PGP SIGNATURE-----
+
+```
+
+## 过去的令状金丝雀
 
 ### 2023年9月2日
 
@@ -44,8 +71,6 @@ T36mTvjMxon5gG/LB5BfYA3MrzjJAA0=
 =6bwR
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年7月25日
 
