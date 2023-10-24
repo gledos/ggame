@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2023-10-23T09:29:53"
+date: "2023-10-24T22:49:51"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -25,6 +25,7 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 关键词：
 
 +   [SNI](#sni)
++   [依附的自由](/anti-censorship/GoAgent.md#依附的自由)
 
 ### 网络数据包
 
@@ -52,15 +53,13 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 | 传输层   | TCP  | 浅度包检测     |
 | 应用层   | HTTP | 深度包检测     |
 
-时间来到 HTTPS（HTTP over TLS）的时代，由于 TLS 是加密的算法，所以数据包不再是明文，对于 GFW 而言是一种打击，不过这种情况没有持续太久，因为 GFW 开始大规模实施了 SNI 封锁。
+时间来到 HTTPS（HTTP over TLS）的时代，由于 TLS 是加密的算法，所以数据包不再是明文，对于 GFW 而言是一种打击，比如 Steam 在启用全站 HTTPS 之前，经常会遭受打不开网站的情况。[^11470][^55413]
 
-> [!note]+ 依附的自由
->
-> 最初的 GFW 没有明显打击各种 Proxy（代理）工具，可能是考虑到使用 Proxy 的用户，需要从事外贸等。这算是依附的自由。
->
-> 之后常见的 Socks、PPTP、L2TP 等烂大街协议，开始被限制，不过 Cisco AnyConnect 被刻意忽略了较长时间。可能是因为 Cisco AnyConnect 用户的价值更高，所以这段时间，第三方开发者编写的兼容端 OpenConnect 能够获得不错的效果。这也算是依附的自由。
->
-> （从特殊时间〔比如开会〕，大多数工具难以连接来看，GFW 有能力禁止大多工具，只是考虑到影响，没有这么做）
+[^11470]: 店长, 《[一个困难的请愿：请 Steam 启用全站 SSL 加密。](https://web.archive.org/web/20230813184514/https://bitinn.net/11470/)》, 比特客栈的文艺复兴, 2017-07-20. (参照 2023-10-24).
+
+[^55413]: 辰一丶, 《[Steam社区已强制使用https协议 轻松访问再无压力](https://web.archive.org/web/20211212045615/https://www.gamersky.com/news/201806/1055413.shtml)》, 游民星空, 2018-06-03. (参照 2023-10-24).
+
+不过这种情况没有持续太久，因为 GFW 开始大规模实施了 SNI 封锁。
 
 SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 TLS 握手时明文传输，目的是让共用 IP 地址和 TCP 端口号的网站能被区别，但也因为 SNI 会明文传输，所以 Cloudflare 的联合创始人兼首席执行官 Matthew Prince 表示：传统 SNI 绝对是加密装甲中的最后缝隙之一。
 { id=sni }
@@ -82,6 +81,28 @@ SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 
 ### DNS 污染
 
 详情请阅读 [DNS 污染](/censorship/技术/DNS污染.md) 条目。
+
+### 限制 QUIC
+
+QUIC 是 Google 设计的传输层网络协议，基于 UDP，目的是解决 TCP 性能较低的问题。
+
+2017 年，Google 开始在 YouTube 上少量测试 QUIC（HTTP/3）传输视频流，而在当时只要解决 DNS 污染问题，就可以直连 YouTube 服务器观看视频。[^70189]
+
+[^70189]: alect, 《[谷歌给我们省钱呢……y2b 走 quic 协议不经过代理……直连了](https://web.archive.org/web/20210114065857/https://www.v2ex.com/t/370189)》, V2EX, 2017-06-21. (参照 2023-10-24).
+
+不过很快 QUIC 就被 GFW 限制或封锁了，无法再直连观看 YouTube。以至于需要关闭浏览器的 QUIC 功能，避免被 QoS（运营商针对 UDP 干扰）影响。[^nh2-3]
+
+[^nh2-3]: Toyo, 《[Chrome浏览器关闭 QUIC，避免部分地区运营商UDP QOS对速度的影响](https://web.archive.org/web/20220512074451/https://doubibackup.com/zly21nh2-3.html)》, 逗比根据地（备份）, 2017-08-30. (参照 2023-10-24).
+
+因为 QoS 被认为是 GFW 干扰 UDP/QUIC 的手段，[^30080] 并且早期的 Proxy 工具，比如 Shadowsocks 不会让 UDP Over TCP，所以出现 QUIC 连接时，SS 客户端会以 UDP 与服务端通讯，[^s1127] 结果 UDP 连接可能会因为 QoS 而非常不稳定，或是直接中断。
+
+[^30080]: Anthr@X, 「[最近发现GFW在UDP无差别丢包上给QQ开了后门，目测丢包手段用的是路由器的QoS功能,大部分端口丢包率在8%-10%左右，ovpn最多能承受2%的丢包率，所以UDP服务要么换端口，要么改进算法加入冗](https://web.archive.org/web/20231024143855/https://twitter.com/anthrax0/status/481318169882030080)」, X（Twitter）, 2014-06-24. (参照 2023-10-24).
+
+[^s1127]: ArchGuyWu, 《[能支持udp over tcp吗？ · Issue #1127 · shadowsocks/shadowsocks-rust](https://web.archive.org/web/20231024143113/https://github.com/shadowsocks/shadowsocks-rust/issues/1127)》, GitHub, 2023-03-03. (参照 2023-10-24).
+
+<!--
+    然而，GFW 以能封尽封为哲学基础，罔顾历史发展规律，堂而皇之地做出一系列荒唐行为。
+-->
 
 ## 历史
 
@@ -107,6 +128,14 @@ SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 
 2021年3月，[GitHub 遭到了网络劣化](/website/GitHub.md#网络劣化)。但在 2023年2月17日，被发现相关劣化解除了，并且 Steam 的网络劣化也消失了（仅指 store.steampowered.com）。[^916909]
 
 [^916909]: XIU2, 《[Steam、Github 域名疑似已解除 SNI 干扰（已无法复现），可以正常链接了？](https://web.archive.org/web/20230217093733/https://www.v2ex.com/t/916909)》, V2EX, 2023-02-17. (参照 2023-02-17).
+
+## 没有使出全力的 GFW
+
+最初的 GFW 没有打击各种 Proxy（代理）工具并没有用尽全力，可能是考虑到使用 Proxy 的用户，需要从事外贸等。这算是依附的自由。
+
+之后常见的 Socks、PPTP、L2TP 等烂大街协议，开始被限制，不过 Cisco AnyConnect 被刻意忽略了较长时间。可能是因为 Cisco AnyConnect 用户的价值更高，所以这段时间，第三方开发者编写的兼容端 OpenConnect 能够获得不错的效果。这也算是依附的自由。
+
+（从特殊时间〔比如开会〕，大多数工具难以连接来看，GFW 有能力禁止大多工具，只是考虑到影响，没有这么做）
 
 ## 河南审查加强
 

@@ -11,7 +11,7 @@ dateCreated: "2021-01-30T12:14:52"
 
 ## 作者被捕
 
-枫叶香蕉是一个基于 GoAgent 的翻墙服务，[^mb_agent_op]类似于现在流行的机场，只不过可能每个人只能选择一条线路。
+枫叶香蕉是一个基于 GoAgent 的翻墙服务，[^mb_agent_op] 类似于现在流行的机场，只不过可能每个人只能选择一条线路。
 
 [^mb_agent_op]: [枫叶香蕉一键翻墙 - 官方网站](https://web.archive.org/web/20140417094119/http://onionhacker.github.io/)
 
