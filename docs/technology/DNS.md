@@ -14,7 +14,7 @@ DNS 是<ruby>域名系统<rp>(</rp><rt>Domain Name System</rt><rp>)</rp></ruby>�
 
 ## 安全性
 
-最初的 DNS 使用端口 53 的 UDP 或者进行查询（DNS-over-UDP/53），但是缺乏传输层加密、身份验证和可靠传递和消息长度，导致容易被中间人攻击。这也是早期 GFW 主要使用的方法，被叫做 [DNS污染](/censorship/技术/DNS污染.md)。
+最初的 DNS 使用端口 53 的 UDP 或者进行查询（DNS-over-UDP/53），但是缺乏传输层加密、身份验证和可靠传递和消息长度，导致容易被中间人攻击。这也是早期 GFW 主要使用的方法，被叫做 [DNS污染](/censorship/技术/DNS_污染.md)。
 
 之后换成了使用端口 53 的 TCP 查询（DNS-over-TCP/53），改进了可靠传递和消息长度，不过安全性没有改进。
 

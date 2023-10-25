@@ -16,8 +16,8 @@ Great Firewall 简称 GFW，被用来描述大陆的网络封锁，因为这种�
 
 GFW 有许多手段阻止网络连接，其中包括但不限于：
 
-+   [DNS 污染](/censorship/技术/DNS污染.md)
-+   [TCP 重置攻击](/censorship/技术/TCP重置攻击.md)
++   [DNS 污染](/censorship/技术/DNS_污染.md)
++   [TCP 重置攻击](/censorship/技术/TCP_重置攻击.md)
 +   深度包检测
 +   SNI 干扰机制（网络劣化）
 +   中间人攻击
@@ -25,7 +25,7 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 关键词：
 
 +   [SNI](#sni)
-+   [依附的自由](/anti-censorship/GoAgent.md#依附的自由)
++   [依附的自由](/anti-censorship/依附的自由.md)
 
 ### 网络数据包
 
@@ -76,11 +76,7 @@ SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 
 
 [^df]: <https://en.wikipedia.org/wiki/Domain_fronting>
 
-除了域前置这种绕过 GFW 的方案，还有升级 TLS 协议这种手段，但是升级协议会有较长的缓冲期，
-
-### DNS 污染
-
-详情请阅读 [DNS 污染](/censorship/技术/DNS污染.md) 条目。
+除了域前置这种绕过 GFW 的方案，还有升级 TLS 协议这种手段，使 SNI 被加密，但是升级协议会有较长的缓冲期……
 
 ### 限制 QUIC
 
@@ -104,9 +100,19 @@ QUIC 是 Google 设计的传输层网络协议，基于 UDP，目的是解决 TC
     然而，GFW 以能封尽封为哲学基础，罔顾历史发展规律，堂而皇之地做出一系列荒唐行为。
 -->
 
+### DNS 污染
+
+详情请阅读 [DNS 污染](/censorship/技术/DNS_污染.md) 条目。
+
+### 限制干净的 DNS
+
+DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果导致网络存在许多安全隐患，加强 DNS 的安全性就，成了重要的工作。但 GFW 也不会坐视不管。
+
+〔待续〕
+
 ## 历史
 
-2018年8月 底，一则 Steam 动态开始流传，内容如下：
+2018年8月 月底，一则 Steam 动态开始流传，内容如下：
 
 > [!quote]+ 未知细节的 Steam 动态[^67073]
 >
