@@ -330,6 +330,8 @@ plugins:
       "book/The_Anarchist_Cookbook.md": "text/The_Anarchist_Cookbook.md"
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
+      "censorship/技术/DNS污染.md": "censorship/技术/DNS_污染.md"
+      "censorship/技术/TCP重置攻击.md": "censorship/技术/TCP_重置攻击.md"
       "game/因为版号而暂时下架_Steam_大陆区.md": "theme/因为版号而暂时下架_Steam_大陆区.md"
       "game/Richman_8.md": "game/大富翁.md"
       "hardware/宝塔面板.md": "software/宝塔面板.md"
