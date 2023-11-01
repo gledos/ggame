@@ -87,3 +87,7 @@ SARS-CoV-2 病毒所带来的 2019 冠状病毒病疫情，新闻媒体以及通
 主要词语都来自：《疫情期间的「新词」越来越多了》这篇文章。[^VC4CA]
 
 [^VC4CA]: 小涂, 《[疫情期间的“新词”越来越多了](https://web.archive.org/web/20220520125107/https://mp.weixin.qq.com/s/4RXYoFhgQ22QeHaRTVC4CA)》, 微信公众号/为你写一个故事, 2022-05-20.
+
+并且「封城」一词，逐渐被减少使用。[^91759]
+
+[^91759]: 史靼旺, 《[淡化科普、強調懲戒與道德污名，三年來中國媒體如何報導疫情](https://web.archive.org/web/20230801191759/https://theinitium.com/article/20221124-mainland-covid19-3years-propaganda/)》, 端傳媒 Initium Media, 2022-11-24. (参照 2023-11-01).
