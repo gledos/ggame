@@ -21,7 +21,7 @@ dateCreated: "2021-11-17T14:15:58"
 
 2021年11月14日 23:31 GMT+8 之前，[^22]Netch 的主要作者一直都在 netchx 这个 Github 组织里，不过在这个时间之后，隐藏了组织显示，目前 netchx 组织已经只剩下 netch-org 这个帐号了。[^23]
 
-[^22]: [cutecr (Connection Refused) · GitHub](https://archive.md/A28zX "https://github.com/cutecr")
+[^22]: [cutecr \(Connection Refused\) · GitHub](https://archive.md/A28zX "https://github.com/cutecr")
 
 [^23]: [Netch · GitHub](https://web.archive.org/web/20211117071209/https://github.com/netchx)
 

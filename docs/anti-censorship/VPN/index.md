@@ -10,7 +10,9 @@ dateCreated: "2022-10-04T16:23:38"
 
 ## 简介
 
-技术简介可以查看 [VPN](/technology/VPN.md) 条目。
+VPN 的全称是<ruby>虚拟专用网<rp>(</rp><rt>virtual private network</rt><rp>)</rp></ruby>，最初的用途是在外部的公共网络上访问专有的资源，比如连上公司、学校的内网等。
+
+现在广义上任何<ruby>代理<rp>(</rp><rt>Proxy</rt><rp>)</rp></ruby>都可能被称作 VPN。
 
 ## VPN归属地
 
