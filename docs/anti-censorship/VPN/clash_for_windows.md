@@ -10,9 +10,9 @@ dateCreated: "2023-11-03T08:19:45"
 
 ## 简介
 
-Clash for Windows 是 Fndroid 开发的 Windows 与 macOS 双平台的 GUI，基于 Clash 核心和 Electron 框架。（后文简称为 CFW）
+Clash for Windows 是 Fndroid 开发的 Windows、Linux 与 macOS 全桌面平台的 GUI，基于 Clash 核心和 Electron 框架。（后文简称为 CFW）
 
-不过 CFW 并没有开源，存在违反 GPL 的风险，不过 clash 的终身仁慈独裁者 Dreamacro，没有对此有异议。[^cl541]
+不过 CFW 并没有开源，存在违反 GPL 的风险，好在 clash 的终身仁慈独裁者 Dreamacro，没有对此有异议。[^cl541]
 
 [^cl541]: ghost, 《[Clash For Windows是否违反了Clash的GPL协议？ · Issue #541 · Dreamacro/clash](https://web.archive.org/web/20231025223859/https://github.com/Dreamacro/clash/issues/541)》, GitHub, 2020-02-27. (参照 2023-11-03).
 

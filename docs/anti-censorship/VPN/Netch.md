@@ -15,7 +15,7 @@ dateCreated: "2021-11-17T14:15:58"
 
 [^194]: [Release 1.9.4 · netchx/netch · GitHub](https://web.archive.org/web/20211117062625/https://github.com/netchx/netch/releases/tag/1.9.4)
 
-2021年11月15日 00:46 GMT+8，Netch 的 Telegram 频道发布了新消息:「目前 Netch 已停更，明年见」，并在群组中开启了全员禁言，Github 仓库也因被存档，所以开启了只读模式。[^36]
+2021年11月15日 00:46 GMT+8，Netch 的 Telegram 频道发布了新消息:「目前 Netch 已停更，明年见」，并在群组中开启了全员禁言，Github 仓库也被存档，所以开启了只读模式。[^36]
 
 [^36]: [Netch Channel – Telegram](https://web.archive.org/web/20211117062642/https://t.me/s/netch_channel/36)
 
