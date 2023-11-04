@@ -2,7 +2,7 @@
 title: "V2Ray"
 description:
 published: true
-date: "2023-11-04T23:55:23"
+date: "2023-11-05T24:01:31"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-11-04T20:55:44"
@@ -36,6 +36,8 @@ V2Ray 在发布 3.0 时，设定了 Project V 概念，Project V 包含所有 V2
 
 从维护者的一些行为来看，V2Fly 只是组织名，其维护的软件依然名为是 V2Ray，只是这种情况相当于弄丢了传国玉玺，所以许多人使用 V2Fly 代称 V2Ray，也就很正常了。
 
-2023年11月4日，因为受到 [Clash](/anti-censorship/VPN/clash_for_windows.md#删库) 相关软件删库、存档，以及 GitHub 出现故障的影响，有用户在遇到 V2Ray 仓库发生 404 现象时，有些惊慌。随后 V2Fly 团队发布公告，表示这个问题是 GitHub 临时的网络问题，以及「我们不屈不渝，与你同在！」[^fly99]
+2023年11月4日，因为受到 [Clash](/anti-censorship/VPN/clash_for_windows.md#删库) 相关软件删库、存档，以及 GitHub 出现故障的影响，所以有用户在遇到 V2Ray 仓库发生 404 现象时，[^9fs5x] 有些惊慌。随后 V2Fly 团队发布公告，表示这个问题是 GitHub 临时的网络问题，以及「我们不屈不渝，与你同在！」[^fly99]
+
+[^9fs5x]: GitHub, [Incident with Git Operations, Issues, Pull Requests, Actions, API Requests, Codespaces, Packages, Pages and Webhooks](https://web.archive.org/web/20231104033954/https://www.githubstatus.com/incidents/xb30mby9fs5x), GitHub’s Status Page, 2023-11-03. (参照 2023-11-04).
 
 [^fly99]: V2Fly - Notification and Updates, V2Ray the second new, 《[目前GitHub出现了一些临时(但愿) 的异常以至于V2的仓库出现404无法访问异常。不要惊慌，因为我们不屈不渝，与你同在！](https://web.archive.org/web/20231104154557/https://t.me/s/v2fly/99)》, Telegram, 2023-11-04. (参照 2023-11-04).
