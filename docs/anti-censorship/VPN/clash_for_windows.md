@@ -1,5 +1,5 @@
 ---
-title: "Clash For Windows"
+title: "Clash for Windows"
 description:
 published: true
 date: "2023-11-03T09:36:08"
@@ -52,6 +52,8 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 +   16:50 immortalwrt/homebridger（存）[^c_11]
 +   17:18 openrhc/GUI.for.Clash（删）[^c_12]
 +   18:00 Fclash/Fclash（删）[^c_14]
++   18:42 mritd/tpclash（删）[^c_17]
++   19:57 yichengchen/clashX（删）[^c_18]
 
 [^c_0]:  https://t.me/gledos_science/16545
 [^c_1]:  https://t.me/open_source_community/370986
@@ -70,5 +72,11 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 [^c_11]: https://t.me/c/1731060325/9547
 [^c_12]: https://t.me/gledos_science/16584
 [^c_14]: https://t.me/gledos_science/16615
+[^c_17]: https://t.me/BDovo_Channel/2672
+[^c_18]: 删除时间晚于 [16:19](https://web.archive.org/web/20231103120124/https://hostloc.com/thread-1225812-1-1.html)，19:57 检查时就被删除了。
 
 括号中的（删）表示删除公开库，（存）表示存档仓库，意味着停止开发。
+
+其中，TUIC 的作者编写了博文，阐述了删库的原因，大致是放下责任／摆脱枷锁的时候到了，因为 Clash 删库成为了导火索，最后表达了暂停开发的声明，并保留了恢复开发的可能性。[^opboh]
+
+[^opboh]: EAimTY, 《[基于荷尔蒙开发的开源项目](https://web.archive.org/web/20231103102043/https://www.eaimty.com/2023/opensource-project-based-on-hormone/)》, EAimTY’s Blog, 2023-11-03. (参照 2023-11-04).

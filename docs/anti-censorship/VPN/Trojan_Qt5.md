@@ -11,7 +11,7 @@ dateCreated: "2021-09-16T09:40:16"
 
 ## 作者删库
 
-2020年7月29日 01:46，Trojan-Qt5 的仓库的 README.md 文件，被修改为 due to regulationn」这样的信息，并删除了全部的内容。
+2020年7月29日 01:46，Trojan-Qt5 的仓库的 README.md 文件，被修改为 「Removed due to regulationn」这样的信息，并删除了全部的内容。
 
 > Trojan-Qt5 作者在他的 Telegram 群里发了一个“喝茶”的 Emoji，之后便没有消息了。  
 >
