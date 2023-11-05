@@ -2,7 +2,7 @@
 title: text
 description:
 published: true
-date: "2021-08-21T19:10:08"
+date: "2023-11-05T22:34:58"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-21T19:10:08"
@@ -49,6 +49,10 @@ icon: material/text
 [^kyTxZ]: 陆浑戎, 「[《崇祯：勤政的亡国君》陈梧桐教授著，读客新出……](http://archive.today/2023.10.15-123341/https://weibo.com/1617242303/NnWl9A7zs)」, 新浪微博, 2023-10-15. (参照 2023-10-16).
 
 [^14860]: 李老师不是你老师, 「[禁止影射 10月16日，近日很火的《崇祯：勤政的亡国君》被通知因印刷问题而全部下架召回](https://web.archive.org/web/20231016101850/https://twitter.com/whyyoutouzhele/status/1713830014171414860)」, X（Twitter）, 2023-10-16. (参照 2023-10-16).
+
+2023年11月3日，有消息称，清史项目产出的完整稿子没过政审，导致出版工作被搁置，原因与「受国外新清史影响过大」有关。[^71934]
+
+[^71934]: Taisu Zhang, [Academic news of the day: the Qing History Project at Renmin University and CASS (this is the govern……](https://twitter.com/ZhangTaisu/status/1720433121428971934), X（Twitter）, 2023-11-03. (参照 2023-11-05).
 
 ## 条目清单
 
