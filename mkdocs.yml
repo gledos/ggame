@@ -315,7 +315,7 @@ plugins:
       "anti-censorship/SocksCap64.md": "anti-censorship/VPN/SocksCap64.md"
       "anti-censorship/TCPioneer.md": "anti-censorship/VPN/TCPioneer.md"
       "anti-censorship/Tor.md": "anti-censorship/VPN/Tor.md"
-      "anti-censorship/Trojan-Qt5.md": "anti-censorship/VPN/Trojan_Qt5"
+      "anti-censorship/Trojan-Qt5.md": "anti-censorship/VPN/Trojan_Qt5.md"
       "book/「苏联相关」.md": "text/「苏联相关」.md"
       "book/~大家学系列口袋书.md": "text/~大家学系列口袋书.md"
       "book/财经天下周刊.md": "text/财经天下周刊.md"

@@ -1,19 +1,23 @@
 ---
-title: Trojan-Qt5
-description: 一款 Trojan 的 GUI 软件
+title: "Trojan-Qt5"
+description:
 published: true
-date: "2022-07-03T19:03:15"
+date: "2023-11-06T12:55:34"
 tags:
 - proxy
 editor: markdown
 dateCreated: "2021-09-16T09:40:16"
 ---
 
+## 简介
+
+一款基于 Trojan 和 Qt5 的 GUI 软件。
+
 ## 作者删库
 
 2020年7月29日 01:46，Trojan-Qt5 的仓库的 README.md 文件，被修改为 「Removed due to regulationn」这样的信息，并删除了全部的内容。
 
-> Trojan-Qt5 作者在他的 Telegram 群里发了一个“喝茶”的 Emoji，之后便没有消息了。  
+> Trojan-Qt5 作者在他的 Telegram 群里发了一个“喝茶”的 Emoji，之后便没有消息了。
 >
 > 猜测是喝了茶。[^651076]
 
