@@ -77,3 +77,19 @@ html>div>img {
 .task-list-item [type="checkbox"] {
     top: .1em;
 } */
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    黑幕 CSS
+    来源自 无限UCW 的 [CSS+JS轻松实现自定义黑幕效果](https://ucw.moe/archives/js-with-css-implements-heimu.html)
+    萌娘百科 https://web.archive.org/web/20220427162917/https://zh.moegirl.org.cn/MediaWiki:Mobile.css
+*/
+
+/*
+--md-default-fg-color    文字颜色
+--md-default-bg-color    背景颜色
+--md-typeset-a-color     链接颜色
+*/
+
+/* 似乎优先级存在问题，运行会出错，所以 CSS 被移动到了 /overrides/main.html 下。 */

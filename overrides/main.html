@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block styles %}
+    {{ super() }}
+<!-- 下面的「黑幕（刮刮乐）」CSS 来自：-->
+<!-- 萌娘百科 https://web.archive.org/web/20220427162917/https://zh.moegirl.org.cn/MediaWiki:Mobile.css -->
+<!-- 无限UCW [CSS+JS轻松实现自定义黑幕效果](https://ucw.moe/archives/js-with-css-implements-heimu.html) -->
+<!-- 有经过一些修改，增加了选中也能显现，以及适配 Material for MkDocs 的明暗色调。 -->
+<style>
+.heimu, .heimu.a, .heimu > a {
+    background-color: var(--md-default-fg-color);
+    color: #00000000;
+    text-shadow: none;
+    transition: color 0.2s;
+}
+
+.heimu:hover, .heimu:active {
+    color: var(--md-default-bg-color);
+}
+
+.heimu:hover.a, .heimu:active.a,
+.heimu:hover > a, .heimu:active > a {
+    color: var(--md-typeset-a-color);
+}
+
+.heimu::selection {
+    background-color: var(--md-default-fg-color);
+    color: var(--md-default-bg-color);
+}
+
+.heimu::selection.a, .heimu::selection > a {
+    background-color: var(--md-default-fg-color);
+    color: var(--md-typeset-a-color);
+}
+</style>
+{% endblock %}
