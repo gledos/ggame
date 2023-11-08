@@ -18,7 +18,9 @@ dateCreated: "2023-11-04T20:55:44"
 
 V2Ray 是一系列代理工具的核心，具有服务端与客户端，支持多种协议，并原创了 VMess 以及后续衍生协议。
 
-V2Ray 在发布 3.0 时，设定了 Project V 概念，Project V 包含所有 V2Ray 的周边产品，包括客户端、配置工具等。
+V2Ray 在发布 3.0 时，设定了 Project V 概念，Project V 包含所有 V2Ray 的周边产品，包括客户端、配置工具等。[^sccvv]
+
+[^sccvv]: V2ray, 《[V2Ray 项目升级为 Project V](https://web.archive.org/web/20230213165759/https://steemit.com/cn/@v2ray/v2ray-project-v)》, Steemit, 2017-12-04. (参照 2023-11-04).
 
 ## 作者失踪
 
@@ -59,4 +61,3 @@ V2Ray 在发布 3.0 时，设定了 Project V 概念，Project V 包含所有 V2
 > 以上内容，整理自 XTLS/Go issues _License issue \#9_。[^35317]
 
 [^35317]: rogers0, [License issue · Issue #9 · XTLS/Go](https://web.archive.org/web/20230715035317/https://github.com/XTLS/Go/issues/9#issuecomment-731588021), GitHub, 2020-11-07. (参照 2023-11-05).
-
