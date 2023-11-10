@@ -113,6 +113,16 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 [^m1540]: 不靠谱的喵(>^ω^<) \#CatGPT, 《[维护基本可以确定是要收紧 BootLoader 解锁了……](https://web.archive.org/web/20231109033203/https://t.me/s/MlgmXyysd_bibilailai/1540)》, Telegram, 2023-11-02. (参照 2023-11-09).
 
+一周后，规则基本明确，小米公司仅允许开发者和发烧友解锁。而成为发烧友的条件是：[^m1554]
+
+[^m1554]: 不靠谱的喵(>^ω^<) \#CatGPT, 《[后续：有公告了，新政策实装。](https://web.archive.org/web/20231109110528/https://t.me/s/MlgmXyysd_bibilailai/1554)》, Telegram, 2023-11-08. (参照 2023-11-09).
+
+1.  社区账号达到 5 级。
+2.  完成实名认证。
+3.  通过《解锁资格答题测试》。
+
+比之前的要求，还要苛刻一些。
+
 ## 添加防回滚机制
 
 2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rp>(</rp><rt>Anti-Rollback Protection</rt><rp>)</rp></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]

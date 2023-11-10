@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2023-10-25T15:57:08"
+date: "2023-11-10T12:50:11"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -244,6 +244,16 @@ DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果�
 > +   [https://vercel.com/](https://web.archive.org/web/20231001064730/https://www.17ce.com/site/http/20231001_d1a7b6f0602511ee9594d1b290c5208d:1.html), 17CE.
 > +   [https://www.minecraft.net](https://web.archive.org/web/20231001025634/https://www.17ce.com/site/http/20231001_e4567b80600511ee9594d1b290c5208d:1.html#s304437), 17CE.
 > +   [https://1.1.1.1](https://web.archive.org/web/20231002015338/https://17ce.com/site/http/20231002_a5ed427060b911ee9594d1b290c5208d:1.html)》, 17CE.
+
+## 2023年11月9日 波动
+
+2023年11月9日，许多 BandwagonHost VPS（搬瓦工）用户发现，自己购买的搬瓦工 VPS，被 GFW 封禁了。[^29188][^90329] 之后逐渐恢复，同时被封禁的还有新加坡腾讯云。[^17312] 可能是 GFW 在调试某些功能。
+
+[^29188]: Ronin, 《[震惊！瓦工大规模被墙](https://web.archive.org/web/20231109073619/https://hostloc.com/thread-1229188-1-1.html)》, 全球主机交流论坛, 2023-11-09. (参照 2023-11-10).
+
+[^90329]: jcfkccp, 《[大墙又发威了？](https://web.archive.org/web/20231109105753/https://www.v2ex.com/t/990329)》, V2EX, 2023-11-09. (参照 2023-11-10).
+
+[^17312]: https://t.me/c/1362299370/7312
 
 ## 相关研究
 

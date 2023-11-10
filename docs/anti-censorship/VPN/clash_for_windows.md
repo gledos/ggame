@@ -47,7 +47,7 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 +   11-03 15:54 juewuy/ShellClash（更名为 ShellCrash，删）[^c_4]
 +   11-03 16:02 Kr328/ClashForAndroid（删）[^c_5]
 +   11-03 16:11 Clash Multiplatform（解散群组）[^c_6]
-+   11-03 16:16 MetaCubeX/ClashMetaForAndroid（踢群员）[^c_7]
++   11-03 16:16 MetaCubeX/ClashMetaForAndroid（删、踢群员）[^c_7]
 +   11-03 16:32 ModuleList/ClashF（存）[^c_8]
 +   11-03 16:32 CHIZI-0618/box4magisk（存）[^c_8]
 +   11-03 16:42 zzzgydi/clash-verge（存）[^c_9]
@@ -88,7 +88,7 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 
 括号中的（删）表示不再公开库，也包括创建空白分支，然后默认显示此空白分支，（存）表示存档仓库，意味着停止开发。
 
-其中，TUIC 的作者编写了博文，阐述了删库的原因，大致是放下责任／摆脱枷锁的时候到了，因为 Clash 删库成为了导火索，
+其中，TUIC 的作者编写了博文，阐述了删库的原因，大致是放下责任／卸下枷锁的时候到了，因为 Clash 删库成为了导火索，
 最后表达了暂停开发的声明，并保留了恢复开发的可能性。[^opboh]
 
 [^opboh]: EAimTY, 《[基于荷尔蒙开发的开源项目](https://web.archive.org/web/20231103102043/https://www.eaimty.com/2023/opensource-project-based-on-hormone/)》, EAimTY’s Blog, 2023-11-03. (参照 2023-11-04).
