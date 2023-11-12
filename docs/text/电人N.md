@@ -13,7 +13,7 @@ dateCreated: "2022-07-29T08:56:17"
 > [!summary inline end]+ 电人N
 >
 > ![电人N封面](https://s3.tebi.io/ggame/book/电人N/封面.webp)
-> { align=center }
+> {: align=center }
 >
 > ```yaml
 > 标题:

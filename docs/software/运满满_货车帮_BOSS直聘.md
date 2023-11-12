@@ -19,10 +19,10 @@ dateCreated: "2021-07-05T10:50:06"
 > 特此公告。
 >
 > 网络安全审查办公室
-> { align=right }
+> {: align=right }
 >
 > 2021年7月5日
-> { align=right }
+> {: align=right }
 
 [^2021_07_05]: [网络安全审查办公室关于对“运满满”“货车帮”“BOSS直聘”启动网络安全审查的公告-中共中央网络安全和信息化委员会办公室](https://web.archive.org/web/20210705021151/http://www.cac.gov.cn/2021-07/05/c_1627071328950274.htm)
 

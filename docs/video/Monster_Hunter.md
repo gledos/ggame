@@ -42,7 +42,7 @@ dateCreated: "2020-12-04T17:46:38"
 > 最后，感谢每一位包容和鼓励我们的玩家，WeGame 会永葆初心，努力成长，与您一起发现更大的游戏世界。
 >
 > WeGame 运营团队
-> { align=right }
+> {: align=right }
 
 [^87196]: 陈静, 《[中国游戏举报大事件](https://web.archive.org/web/20210916163248/http://www.chuapp.com/?c=Article&a=index&id=287196)》, 触乐, 2020-05-11. (参照 2023-09-09).
 
@@ -61,13 +61,13 @@ dateCreated: "2020-12-04T17:46:38"
 > 特此答复。
 >
 > 文化和旅游部文化市场司
-> { align=right }
+> {: align=right }
 >
 > （代章）
-> { align=right }
+> {: align=right }
 >
 > 2018年8月30日
-> { align=right }
+> {: align=right }
 
 [^20394]: 搞趣网, 《[《怪物猎人世界》WeGame版被下架内幕：看来是腾讯游戏自己作死？](https://web.archive.org/web/20230909020152/https://www.sohu.com/a/253247772_220394)》, 搜狐号, 2018-09-11. (参照 2023-09-09).
 

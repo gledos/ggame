@@ -14,7 +14,7 @@ dateCreated: "2022-11-15T23:56:37"
 > [!summary inline end]+ 元数据
 >
 > ![Pixiv 标志](https://s3.tebi.io/ggame/ShareX/company_Pixiv_logo.svg)
-> { align=center }
+> {: align=center }
 >
 > ```yaml
 > 名称: Pixiv
@@ -51,7 +51,7 @@ pixiv 股份有限公司运营了 Pixiv 网站，此网站主要由日本艺术�
 > [!summary inline end]+ 元数据
 >
 > ![vpixiv 标志](https://s3.tebi.io/ggame/website/vpixiv/logo.png)
-> { align=center }
+> {: align=center }
 >
 > ```yaml
 > 名称: vpixiv
