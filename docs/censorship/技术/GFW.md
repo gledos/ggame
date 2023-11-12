@@ -61,8 +61,10 @@ GFW 有许多手段阻止网络连接，其中包括但不限于：
 
 不过这种情况没有持续太久，因为 GFW 开始大规模实施了 SNI 封锁。
 
-SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 TLS 握手时明文传输，目的是让共用 IP 地址和 TCP 端口号的网站能被区别，但也因为 SNI 会明文传输，所以 Cloudflare 的联合创始人兼首席执行官 Matthew Prince 表示：传统 SNI 绝对是加密装甲中的最后缝隙之一。
-{ id=sni }
+SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 TLS 握手时明文传输，
+目的是让共用 IP 地址和 TCP 端口号的网站能被区别，但也因为 SNI 会明文传输，
+所以 Cloudflare 的联合创始人兼首席执行官 Matthew Prince 表示：传统 SNI 绝对是加密装甲中的最后缝隙之一。
+{: #sni }
 
 所以 GFW 能通过深度包检测，检测到应用层的 SNI 握手明文，然后丢包或者发送 TCP 重置，从而封禁特定网站。
 

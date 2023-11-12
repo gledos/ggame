@@ -70,45 +70,45 @@ dateCreated: "2021-09-28T23:09:13"
 
 | 名称 | 修改前    | 修改后                   | 名称  | 修改前    | 修改后                    |
 | ---- | --------- | ------------------------ | ----- | --------- | ------------------------- |
-| ae   | ![ae_f][] | ![ae_r][]{ width=50% }   | us    | ![us_f][] | ![us_r][]{ width=50% }    |
-| ar   | ![ar_f][] | ![ar_r][]{ width=50% }   | ve    | ![ve_f][] | ![ve_r][]{ width=50% }    |
-| asia | 无        | ![asia_r][]{ width=50% } | vn    | ![vn_f][] | ![vn_r][]{ width=50% }    |
-| at   | ![at_f][] | ![at_r][]{ width=50% }   | world | 无        | ![world_r][]{ width=50% } |
-| au   | ![au_f][] | ![au_r][]{ width=50% }   | za    | ![za_f][] | ![za_r][]{ width=50% }    |
-| be   | ![be_f][] | ![be_r][]{ width=50% }   | ir    | ![ir_f][] | ![ir_r][]{ width=50% }    |
-| bg   | ![bg_f][] | ![bg_r][]{ width=50% }   | is    | ![is_f][] | ![is_r][]{ width=50% }    |
-| br   | ![br_f][] | ![br_r][]{ width=50% }   | it    | ![it_f][] | ![it_r][]{ width=50% }    |
-| by   | ![by_f][] | ![by_r][]{ width=50% }   | jp    | ![jp_f][] | ![jp_r][]{ width=50% }    |
-| ca   | ![ca_f][] | ![ca_r][]{ width=50% }   | kr    | ![kr_f][] | ![kr_r][]{ width=50% }    |
-| cc   | ![cc_f][] | ![cc_r][]{ width=50% }   | kz    | ![kz_f][] | ![kz_r][]{ width=50% }    |
-| ch   | ![ch_f][] | ![ch_r][]{ width=50% }   | lt    | ![lt_f][] | ![lt_r][]{ width=50% }    |
-| cl   | ![cl_f][] | ![cl_r][]{ width=50% }   | lu    | ![lu_f][] | ![lu_r][]{ width=50% }    |
-| cn   | ![cn_f][] | ![cn_r][]{ width=50% }   | lv    | ![lv_f][] | ![lv_r][]{ width=50% }    |
-| cz   | ![cz_f][] | ![cz_r][]{ width=50% }   | ly    | ![ly_f][] | ![ly_r][]{ width=50% }    |
-| de   | ![de_f][] | ![de_r][]{ width=50% }   | mk    | ![mk_f][] | ![mk_r][]{ width=50% }    |
-| dk   | ![dk_f][] | ![dk_r][]{ width=50% }   | mo    | ![mo_f][] | ![mo_r][]{ width=50% }    |
-| dz   | ![dz_f][] | ![dz_r][]{ width=50% }   | mx    | ![mx_f][] | ![mx_r][]{ width=50% }    |
-| ee   | ![ee_f][] | ![ee_r][]{ width=50% }   | my    | ![my_f][] | ![my_r][]{ width=50% }    |
-| es   | ![es_f][] | ![es_r][]{ width=50% }   | nam   | 无        | ![nam_r][]{ width=50% }   |
-| eu   | ![eu_f][] | ![eu_r][]{ width=50% }   | nl    | ![nl_f][] | ![nl_r][]{ width=50% }    |
-| fi   | ![fi_f][] | ![fi_r][]{ width=50% }   | no    | ![no_f][] | ![no_r][]{ width=50% }    |
-| fr   | ![fr_f][] | ![fr_r][]{ width=50% }   | nz    | ![nz_f][] | ![nz_r][]{ width=50% }    |
-| gb   | ![gb_f][] | ![gb_r][]{ width=50% }   | oce   | 无        | ![oce_r][]{ width=50% }   |
-| gp   | ![gp_f][] | ![gp_r][]{ width=50% }   | pe    | ![pe_f][] | ![pe_r][]{ width=50% }    |
-| gr   | ![gr_f][] | ![gr_r][]{ width=50% }   | ph    | ![ph_f][] | ![ph_r][]{ width=50% }    |
-| hk   | ![hk_f][] | ![hk_r][]{ width=50% }   | pk    | ![pk_f][] | ![pk_r][]{ width=50% }    |
-| hr   | ![hr_f][] | ![hr_r][]{ width=50% }   | pl    | ![pl_f][] | ![pl_r][]{ width=50% }    |
-| hu   | ![hu_f][] | ![hu_r][]{ width=50% }   | pt    | ![pt_f][] | ![pt_r][]{ width=50% }    |
-| id   | ![id_f][] | ![id_r][]{ width=50% }   | re    | ![re_f][] | ![re_r][]{ width=50% }    |
-| ie   | ![ie_f][] | ![ie_r][]{ width=50% }   | ro    | ![ro_f][] | ![ro_r][]{ width=50% }    |
-| il   | ![il_f][] | ![il_r][]{ width=50% }   | rs    | ![rs_f][] | ![rs_r][]{ width=50% }    |
-| in   | ![in_f][] | ![in_r][]{ width=50% }   | ru    | ![ru_f][] | ![ru_r][]{ width=50% }    |
-| sk   | ![sk_f][] | ![sk_r][]{ width=50% }   | sa    | ![sa_f][] | ![sa_r][]{ width=50% }    |
-| sq   | ![sq_f][] | ![sq_r][]{ width=50% }   | sam   | 无        | ![sam_r][]{ width=50% }   |
-| th   | ![th_f][] | ![th_r][]{ width=50% }   | se    | ![se_f][] | ![se_r][]{ width=50% }    |
-| tr   | ![tr_f][] | ![tr_r][]{ width=50% }   | sg    | ![sg_f][] | ![sg_r][]{ width=50% }    |
-| tw   | ![tw_f][] | ![tw_r][]{ width=50% }   | si    | ![si_f][] | ![si_r][]{ width=50% }    |
-| ua   | ![ua_f][] | ![ua_r][]{ width=50% }   |       |           |                           |
+| ae   | ![ae_f][] | ![ae_r][]{: width=50% }   | us    | ![us_f][] | ![us_r][]{: width=50% }    |
+| ar   | ![ar_f][] | ![ar_r][]{: width=50% }   | ve    | ![ve_f][] | ![ve_r][]{: width=50% }    |
+| asia | 无        | ![asia_r][]{: width=50% } | vn    | ![vn_f][] | ![vn_r][]{: width=50% }    |
+| at   | ![at_f][] | ![at_r][]{: width=50% }   | world | 无        | ![world_r][]{: width=50% } |
+| au   | ![au_f][] | ![au_r][]{: width=50% }   | za    | ![za_f][] | ![za_r][]{: width=50% }    |
+| be   | ![be_f][] | ![be_r][]{: width=50% }   | ir    | ![ir_f][] | ![ir_r][]{: width=50% }    |
+| bg   | ![bg_f][] | ![bg_r][]{: width=50% }   | is    | ![is_f][] | ![is_r][]{: width=50% }    |
+| br   | ![br_f][] | ![br_r][]{: width=50% }   | it    | ![it_f][] | ![it_r][]{: width=50% }    |
+| by   | ![by_f][] | ![by_r][]{: width=50% }   | jp    | ![jp_f][] | ![jp_r][]{: width=50% }    |
+| ca   | ![ca_f][] | ![ca_r][]{: width=50% }   | kr    | ![kr_f][] | ![kr_r][]{: width=50% }    |
+| cc   | ![cc_f][] | ![cc_r][]{: width=50% }   | kz    | ![kz_f][] | ![kz_r][]{: width=50% }    |
+| ch   | ![ch_f][] | ![ch_r][]{: width=50% }   | lt    | ![lt_f][] | ![lt_r][]{: width=50% }    |
+| cl   | ![cl_f][] | ![cl_r][]{: width=50% }   | lu    | ![lu_f][] | ![lu_r][]{: width=50% }    |
+| cn   | ![cn_f][] | ![cn_r][]{: width=50% }   | lv    | ![lv_f][] | ![lv_r][]{: width=50% }    |
+| cz   | ![cz_f][] | ![cz_r][]{: width=50% }   | ly    | ![ly_f][] | ![ly_r][]{: width=50% }    |
+| de   | ![de_f][] | ![de_r][]{: width=50% }   | mk    | ![mk_f][] | ![mk_r][]{: width=50% }    |
+| dk   | ![dk_f][] | ![dk_r][]{: width=50% }   | mo    | ![mo_f][] | ![mo_r][]{: width=50% }    |
+| dz   | ![dz_f][] | ![dz_r][]{: width=50% }   | mx    | ![mx_f][] | ![mx_r][]{: width=50% }    |
+| ee   | ![ee_f][] | ![ee_r][]{: width=50% }   | my    | ![my_f][] | ![my_r][]{: width=50% }    |
+| es   | ![es_f][] | ![es_r][]{: width=50% }   | nam   | 无        | ![nam_r][]{: width=50% }   |
+| eu   | ![eu_f][] | ![eu_r][]{: width=50% }   | nl    | ![nl_f][] | ![nl_r][]{: width=50% }    |
+| fi   | ![fi_f][] | ![fi_r][]{: width=50% }   | no    | ![no_f][] | ![no_r][]{: width=50% }    |
+| fr   | ![fr_f][] | ![fr_r][]{: width=50% }   | nz    | ![nz_f][] | ![nz_r][]{: width=50% }    |
+| gb   | ![gb_f][] | ![gb_r][]{: width=50% }   | oce   | 无        | ![oce_r][]{: width=50% }   |
+| gp   | ![gp_f][] | ![gp_r][]{: width=50% }   | pe    | ![pe_f][] | ![pe_r][]{: width=50% }    |
+| gr   | ![gr_f][] | ![gr_r][]{: width=50% }   | ph    | ![ph_f][] | ![ph_r][]{: width=50% }    |
+| hk   | ![hk_f][] | ![hk_r][]{: width=50% }   | pk    | ![pk_f][] | ![pk_r][]{: width=50% }    |
+| hr   | ![hr_f][] | ![hr_r][]{: width=50% }   | pl    | ![pl_f][] | ![pl_r][]{: width=50% }    |
+| hu   | ![hu_f][] | ![hu_r][]{: width=50% }   | pt    | ![pt_f][] | ![pt_r][]{: width=50% }    |
+| id   | ![id_f][] | ![id_r][]{: width=50% }   | re    | ![re_f][] | ![re_r][]{: width=50% }    |
+| ie   | ![ie_f][] | ![ie_r][]{: width=50% }   | ro    | ![ro_f][] | ![ro_r][]{: width=50% }    |
+| il   | ![il_f][] | ![il_r][]{: width=50% }   | rs    | ![rs_f][] | ![rs_r][]{: width=50% }    |
+| in   | ![in_f][] | ![in_r][]{: width=50% }   | ru    | ![ru_f][] | ![ru_r][]{: width=50% }    |
+| sk   | ![sk_f][] | ![sk_r][]{: width=50% }   | sa    | ![sa_f][] | ![sa_r][]{: width=50% }    |
+| sq   | ![sq_f][] | ![sq_r][]{: width=50% }   | sam   | 无        | ![sam_r][]{: width=50% }   |
+| th   | ![th_f][] | ![th_r][]{: width=50% }   | se    | ![se_f][] | ![se_r][]{: width=50% }    |
+| tr   | ![tr_f][] | ![tr_r][]{: width=50% }   | sg    | ![sg_f][] | ![sg_r][]{: width=50% }    |
+| tw   | ![tw_f][] | ![tw_r][]{: width=50% }   | si    | ![si_f][] | ![si_r][]{: width=50% }    |
+| ua   | ![ua_f][] | ![ua_r][]{: width=50% }   |       |           |                           |
 
 [ae_f]: https://s3.tebi.io/ggame/game/csgo/旗帜/flags/ae.png
 [ar_f]: https://s3.tebi.io/ggame/game/csgo/旗帜/flags/ar.png

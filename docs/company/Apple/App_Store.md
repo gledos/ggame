@@ -156,10 +156,10 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 
 > [!abstract]- 被下架的软件清单
 >
-> ![被下架的软件1](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d1.jpg){ loading=lazy }
-> ![被下架的软件2](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d2.jpg){ loading=lazy }
-> ![被下架的软件3](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d3.jpg){ loading=lazy }
-> ![被下架的软件4](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d4.jpg){ loading=lazy }
+> ![被下架的软件1](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d1.jpg){: loading=lazy }
+> ![被下架的软件2](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d2.jpg){: loading=lazy }
+> ![被下架的软件3](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d3.jpg){: loading=lazy }
+> ![被下架的软件4](https://s3.tebi.io/ggame/ShareX/company_Apple_App_Store_LLM_d4.jpg){: loading=lazy }
 >
 > 可以看出下架时间集中在 02:00 ~ 06:00。
 
