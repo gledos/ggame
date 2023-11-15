@@ -2,7 +2,7 @@
 title: MIUI
 description:
 published: true
-date: "2023-02-08T00:46:06"
+date: "2023-11-15T15:22:02"
 tags:
 - operating-system
 - dns
@@ -121,7 +121,9 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 2.  完成实名认证。
 3.  通过《解锁资格答题测试》。
 
-比之前的要求，还要苛刻一些。
+比之前的要求更苛刻，小米社区每天签到和任务给 5 点经验左右，从 0 级升到 5 级，需要 1000 点经验。[^89944]
+
+[^89944]: mouyase, 《[小米公布新的 BL 解锁规则了，要求社区等级 5 级以上，申请后 72 小时后可以解锁。](https://web.archive.org/web/20231109081429/https://v2ex.com/t/989944)》, V2EX, 2023-11-08. (参照 2023-11-15).
 
 ## 添加防回滚机制
 
@@ -359,8 +361,8 @@ MIUI 从 API Level 26 的 3.0 版本，到目前最新的 API Level 29 的 4.3.0
 
 [^854685]: MiketsuSmasher, 《[小米工程师向 AOSP 提交了一份禁止用户获取 APK 文件的补丁，后被驳回](https://web.archive.org/web/20220530053613/https://www.v2ex.com/t/854685)》, V2EX, 2022-05-23. (参照 2022-06-01).
 
-![这一定是小米bug_00.10.833](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.10.833.webp){ width=45% }
-![这一定是小米bug_00.12.179](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.12.179.webp){ width=45% }
+![这一定是小米bug_00.10.833](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.10.833.webp){: width=45% }
+![这一定是小米bug_00.12.179](https://s3.tebi.io/ggame/ShareX/company_小米_MIUI_相机敏感词_这一定是小米bug_00.12.179.webp){: width=45% }
 
 ## 限制 ADB
 
@@ -652,3 +654,9 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 [^73478]: 星島網, 《[小米「小愛同學」疑故障 問什麼都答：「中國是當之無愧的民主國家」](https://web.archive.org/web/20230914160017/https://www.singtao.ca/6373478/2023-09-13/news-小米「小愛同學」疑故障++問什麼都答：「中國是當之無愧的民主國家」/?variant=zh-hk)》, Sing Tao Daily 星島日報加拿大, 2023-09-13. (参照 2023-09-15).
 
 [^00201]: 既要又要还要, 《[【立此存照】小爱同学“党性发作”重复声明“中国是民主国家”](https://web.archive.org/web/20230914160019/https://chinadigitaltimes.net/chinese/700201.html)》, 中国数字时代, 2023-09-14. (参照 2023-09-14).
+
+## 禁止停用系统 App
+
+2023年11月，HyperOS 更新了新功能，无法通过 ADB 停用系统应用。通过 ADB 临时进入维修模式，能够停用部分系统应用，不过一些系统核心组件仍无法停用。[^b3059]
+
+[^b3059]: 这是你叠的频道, 《[经证实，HyperOS从11月的更新开始，无法停用系统应用](https://web.archive.org/web/20231115071805/https://t.me/s/BDovo_Channel/3059)》, Telegram, 2023-11-10. (参照 2023-11-15).

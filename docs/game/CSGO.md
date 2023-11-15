@@ -2,7 +2,7 @@
 title: CSGO
 description:
 published: true
-date: "2023-09-30T10:50:19"
+date: "2023-11-15T15:22:10"
 tags:
 - steam
 editor: markdown
@@ -38,9 +38,31 @@ dateCreated: "2021-09-28T23:09:13"
 
 《反恐精英：全球攻势》（Counter-Strike: Global Offensive）已在 2023 年更新为了《反恐精英 2》（CS2）。
 
-## 反和谐
+## 移除部分阵营
 
-2017年9月15日，完美世界代理了 CSGO，随后玩家发现反和谐的操作比起完美世界之前代理的 DOTA2 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
+CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营）的概念艺术设计，测试版中还存在 [宪兵特勤队][]（CT 阵营）的模型。
+
+[红卫兵]: https://counterstrike.fandom.com/wiki/Cultural_Revolutionaries
+[PLA]: https://counterstrike.fandom.com/wiki/PLA
+[宪兵特勤队]: https://counterstrike.fandom.com/wiki/MPSSC
+
+> [!note]+ 附言
+>
+> 毕竟标题是《反恐精英：全球攻势》，就需要寻找世界上各地的破坏与保卫的情况。
+>
+> 然后注意到红卫兵拆古建筑，然后士兵防卫，应该是很合理的玩法。
+>
+> 宪兵特勤队是台湾的特种部队。
+>
+> 可惜没找到其他内容，关于开发者是如何注意到红卫兵，以及停止添加的细节，也不得而知了。
+
+## 完美世界和谐与反和谐
+
+2017年9月15日，完美世界代理了 CSGO，并调整了大量地图、饰品细节。比如替换红色血液为黑色，将地图中的共产主义标志，以及阿拉伯文移除，将饰品的骷髅图案移除。[^hclic]
+
+[^hclic]: Dennis Loudmouth, [_What does CS:GO look like in China? Stickers, music, models, maps_](https://web.archive.org/web/20231115065556/https://cs.money/blog/games/how-csgo-looks-in-china-version-differences/), CS.MONEY Blog, 2023-06-22. (参照 2023-11-15).
+
+但是玩家发现反和谐的操作，比起完美世界之前代理的 [Dota 2](/game/Dota_2.md) 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
 
 ## 台湾战队被取消资格
 
