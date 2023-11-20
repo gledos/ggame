@@ -36,7 +36,7 @@ icon: material/voicemail
 
 [^bv14q]: 视频的 BV 号为 BV14Q4y1n7MX。
 
-[^9bjsl]: [搜索「是他们还没到家」](http://archive.today/2023.11.06-131659/https://search.bilibili.com/all?keyword=是他们还没到家), 哔哩哔哩, 2023-11-06. (参照 2023-11-06).  
+[^9bjsl]: [搜索「是他们还没到家」](http://archive.today/2023.11.06-131659/https://search.bilibili.com/all?keyword=是他们还没到家), 哔哩哔哩, 2023-11-06. (参照 2023-11-06).
 
 > [!quote]+ 《是他们还没到家》视频简介[^WCbVG]
 >
@@ -44,9 +44,11 @@ icon: material/voicemail
 
 [^WCbVG]: 卦者那啥子靈風, 《[是他们还没到家](http://archive.today/2023.11.06-125525/https://xbeibeix.com/video/BV14Q4y1n7MX)》, 哔哩哔哩镜像, 2023-11-06. (参照 2023-11-06).
 
-2023年11月20日，「卦者灵风」的哔哩哔哩帐号被发现处于封禁状态，可能是对稍早前作品《是他们还没到家》的处罚。[^p8TPX]
+2023年11月20日，「卦者灵风」的哔哩哔哩帐号被发现处于封禁状态，可能是对稍早前作品《是他们还没到家》的处罚。[^p8TPX]「卦者灵风」的朋友表示，明天就会解封。[^eq9pH]
 
 [^p8TPX]: 李老师不是你老师, 《[后续，11月20日，作者B站账号被封禁](http://archive.today/2023.11.20-120425/https://twitter.com/whyyoutouzhele/status/1726551726659137633)》, X（Twitter）, 2023-11-20. (参照 2023-11-20).
+
+[^eq9pH]: 直言trigger, 「[卦者灵风号给封了几天，然后好多人开始阴谋论说大风给封杀了……](http://archive.today/2023.11.20-132947/https://t.bilibili.com/865978600754511892)」, 哔哩哔哩, 2023-11-20. (参照 2023-11-20).
 
 ## 条目清单
 
