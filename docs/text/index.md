@@ -18,6 +18,20 @@ icon: material/text
 
 书籍审查主题收集整理各种关于书籍的审查，自我审查的情况不会记录在这里。
 
+2004年，<ruby>菲利普·肖特<rt>Philip Short</rt></ruby>编写的 _Mao a life_ 被翻译为简中书籍《毛泽东传》并出版，但是读者发现有内容审查，部分翻译出现了明显错译：[^ZRU3t]
+
+[^ZRU3t]: 悲观谜语人, 《[文字审查一直没有消失过，哪怕是社会最开明的那几年……](http://archive.today/2023.11.20-030251/https://twitter.com/whi93833334/status/1726160333742702655)》, X（Twitter）, 2023-11-19. (参照 2023-11-20).
+
+> [!quote]+ _Mao a life_ 原文
+>
+> In China they are all narrowed down to one, and it is the one that leads from the schoolhouse … It may be confidently asserted that every schoolboy cames in his satchel a possible viceroyship when … untrammelled by parliaments, he may rule over twenty or thirty millions of people.
+
+> [!quote]+ 《毛泽东传》译文
+>
+> 在中国，对一个人来说，这些路很窄，他仅有一条，就是从学堂里走出来……每一个小男生都可以自负地宣称，装进他书包里的可能是一个总督的职位……当他无拘无束地到达国会的时候，他可以统治二三千万人。
+
+最后一句话出现了翻译问题，真正的含义，是「不受国会束缚，他可以统治二三千万人。」
+
 未知时间，陈忠实的《白鹿原》似乎在出版时遭遇了阻碍，修改后得以出版发行。[^5B9G0]（电视剧和电影版也有些受阻）[^01034]
 
 [^5B9G0]: 星尘故事会, 《[当代4大禁书，莫言占了俩，陈忠实最深刻，贾平凹笔下西安太腐朽](https://web.archive.org/web/20231008151139/https://c.m.163.com/news/a/GJCJL1CI0545B9G0.html)》, 网易新闻, 2021-09-08. (参照 2023-10-08).

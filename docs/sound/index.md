@@ -44,6 +44,10 @@ icon: material/voicemail
 
 [^WCbVG]: 卦者那啥子靈風, 《[是他们还没到家](http://archive.today/2023.11.06-125525/https://xbeibeix.com/video/BV14Q4y1n7MX)》, 哔哩哔哩镜像, 2023-11-06. (参照 2023-11-06).
 
+2023年11月20日，「卦者灵风」的哔哩哔哩帐号被发现处于封禁状态，可能是对稍早前作品《是他们还没到家》的处罚。[^p8TPX]
+
+[^p8TPX]: 李老师不是你老师, 《[后续，11月20日，作者B站账号被封禁](http://archive.today/2023.11.20-120425/https://twitter.com/whyyoutouzhele/status/1726551726659137633)》, X（Twitter）, 2023-11-20. (参照 2023-11-20).
+
 ## 条目清单
 
 sound 即声音，一些音乐会被收录到此版块（文件夹），其中也包括 <ruby>播客<rp>(</rp><rt>Podcast</rt><rp>)</rp></ruby>
