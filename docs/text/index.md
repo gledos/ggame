@@ -68,6 +68,10 @@ icon: material/text
 
 [^71934]: Taisu Zhang, [Academic news of the day: the Qing History Project at Renmin University and CASS (this is the govern……](https://twitter.com/ZhangTaisu/status/1720433121428971934), X（Twitter）, 2023-11-03. (参照 2023-11-05).
 
+2023年11月30日，有消息称易中天编写的《易中天中华史》全系列书籍，共计 25 个产品被全平台下架，[^lqtLm] 不过一日后，京东上仍有此书籍的售卖，尚不明确事件细节。
+
+[^lqtLm]: 蔡慎坤, 「[易中天先生耗时数年心血撰写的24卷本巨著《易中天中华史》被下架……](http://archive.today/2023.12.01-053444/https://twitter.com/cskun1989/status/1729920602214166853)」, X（Twitter）, 2023-11-30. (参照 2023-12-01).
+
 ## 条目清单
 
 text 即文字，一些书籍、文章等文字类型的内容，会被收录到此版块（文件夹）。
