@@ -210,7 +210,7 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 
 [^06083]: Chu Ka-cheong, 「[Safari blocked @gitlab  http://gitlab.com with a safe browsing warning……](https://web.archive.org/web/20230102100301/https://twitter.com/kachuxyz/status/1608804763097006083)」, Twitter, 2022-12-30. (参照 2023-01-03).
 
-[^905897]: mensheviks, 《[Apple 苹果偷偷修改了针对香港用户的 Safari 隐私政策，明确声称会将香港用户的数据传送给腾讯](https://web.archive.org/web/20230101093459/https://www.v2ex.com/t/905897)》, V2EX/水深火热, 2023-01-03. (参照 2023-01-03).
+[^905897]: mensheviks, 《[Apple 苹果偷偷修改了针对香港用户的 Safari 隐私政策，明确声称会将香港用户的数据传送给腾讯](https://web.archive.org/web/20230101093459/https://www.v2ex.com/t/905897)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2023-01-03. (参照 2023-01-03).
 
 虽然 Apple 明确表示实际的网址不会分享，但的确会发送已知恶意网站的 Safari 哈希前缀 (Hash prefixes)，[^artros] 具体细节可以查看 [Safe Browsing](/serviceprovider/Safe_Browsing.md) 条目。
 

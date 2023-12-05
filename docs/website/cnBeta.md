@@ -96,7 +96,7 @@ cnBeta 从 2006 年开始连续多年，发布新年献词，下面是各年份�
 
 2022年10月24日，cnBeta 被发现 ICP 备案已注销，而在国内是空解析，只有境外能够进入网站。[^889487]
 
-[^889487]: simon633, 《[cnbeta 疑似国内备案被取消 停止国内解析](https://web.archive.org/web/20221024123112/https://www.v2ex.com/t/889487)》, V2EX/水深火热, 2022-10-24. (参照 2023-02-08).
+[^889487]: simon633, 《[cnbeta 疑似国内备案被取消 停止国内解析](https://web.archive.org/web/20221024123112/https://www.v2ex.com/t/889487)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2022-10-24. (参照 2023-02-08).
 
 2022年10月27日，cnBeta 域名在境外也无法解析了，有人检查了域名的 whois，发现域名被添加了 clientUpdateProhibited, clientTransferProhibited 等状态，意味着 cnBeta.com 域名的拥有者无法转出或者修改解析。[^889946] 但在此期间，还可以修改 hosts，来进入网站。
 

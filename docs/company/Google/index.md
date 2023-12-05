@@ -116,7 +116,7 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
 [^1080360]: hellochrome, 《[[更新：部分污染已解除] dl.google.com 等域名被污染](https://web.archive.org/web/20221003041210/https://hostloc.com/thread-1080360-1-1.html)》, 全球主机交流论坛, 2022-09-30. (参照 2022-10-03).
 
-[^884153]: 872517414, 《[google.com 已被 DNS 污染](https://web.archive.org/web/20221001013459/https://www.v2ex.com/t/884153)》, V2EX/水深火热, 2022-09-30. (参照 2022-10-03).
+[^884153]: 872517414, 《[google.com 已被 DNS 污染](https://web.archive.org/web/20221001013459/https://www.v2ex.com/t/884153)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2022-09-30. (参照 2022-10-03).
 
 ## 内容过滤问题
 

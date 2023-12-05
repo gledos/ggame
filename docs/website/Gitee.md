@@ -96,7 +96,7 @@ Gitee（码云）是开源中国于 2013年 推出的基于 Git 的代码托管�
 
 [^I5F3YL]: Think, 《[index.html包含敏感词](https://web.archive.org/web/20220704194506/https://gitee.com/oschina/git-osc/issues/I5F3YL)》, Gitee, 开源中国/Gitee Feedback, Issue \#I5F3YL, 2022-07-01. (参照 2022-07-05).
 
-[^864017]: realpg, 《[在 gitee，你的代码里不能包含 SAVE。。。](https://web.archive.org/web/20220705000050/https://www.v2ex.com/t/864017)》, V2EX/水深火热, 2022-07-04. (参照 2022-07-05).
+[^864017]: realpg, 《[在 gitee，你的代码里不能包含 SAVE。。。](https://web.archive.org/web/20220705000050/https://www.v2ex.com/t/864017)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2022-07-04. (参照 2022-07-05).
 
 这些针对 Gitee Pages 的审查，能追溯到 2022年5月：
 

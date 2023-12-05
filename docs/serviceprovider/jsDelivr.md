@@ -62,7 +62,7 @@ jsDelivr 是免费的公共 CDN，它可以直接从 npm 和 GitHub 存储库提
 
 2022年4月29日，jsDelivr 在绝大部分地区的 DNS 污染已经被撤销。[^850128]
 
-[^850128]: Silently, 《[jsDelivr 被 GFW 释放了](https://www.v2ex.com/t/850128)》, V2EX/水深火热, 2022-04-29. (参照 2022-05-29).
+[^850128]: Silently, 《[jsDelivr 被 GFW 释放了](https://www.v2ex.com/t/850128)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2022-04-29. (参照 2022-05-29).
 
 ## 再次被污染
 
