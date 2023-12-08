@@ -88,8 +88,8 @@ markdown_extensions:
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
 - pymdownx.emoji:         # 支持图标 icons 和表情渲染，比如:smile:
-    emoji_index: !!python/name:materialx.emoji.twemoji
-    emoji_generator: !!python/name:materialx.emoji.to_svg
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
     options:
       custom_icons:
         - overrides/.icons
