@@ -27,5 +27,6 @@ jobs:
     - run: pip install mkdocs-roamlinks-plugin
     - run: pip install mkdocs-rss-plugin
     - run: pip install mkdocs-video
+    - run: pip install mkdocs-glightbox
     - run: pip install pymdown-extensions
     - run: mkdocs gh-deploy --force

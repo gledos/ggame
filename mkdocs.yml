@@ -74,6 +74,9 @@ markdown_extensions:
 #     smart_enable: all
 - pymdownx.tabbed:        # 标签页 https://squidfunk.github.io/mkdocs-material/reference/content-tabs/ # C++/python 代码例子切换
     alternate_style: true
+    # slugify: !!python/object/apply:pymdownx.slugs.slugify
+    #   kwds:
+    #     case: lower
 - meta                    # YAML 元数据
 - pymdownx.tasklist
 - pymdownx.details
@@ -104,6 +107,7 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
+- glightbox               # 添加灯箱功能    https://squidfunk.github.io/mkdocs-material/reference/images/#lightbox
 - rss:
     locale: zh-hans
     abstract_delimiter: "-1"
