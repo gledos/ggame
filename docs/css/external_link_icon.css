@@ -17,7 +17,7 @@ article [href*="/"]::after {
     -ms-interpolation-mode: nearest-neighbor;
 }
 
-article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/gledos/ggame"]):not([href^="https://s3.tebi.io/ggame"]):not([href$=".webp"]):not([href$=".png"]):not([href$=".jpg"]):not([href$=".jpeg"]):not([href$=".webm"]):not([href$=".mp4"]):not([href$=".flv"]):not([href$=".docs"]):not([href$=".doc"]):not([href$=".odt"]):not([href$=".pdf"])::after {
+article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/gledos/ggame"]):not([href$=".webp"]):not([href$=".png"]):not([href$=".jpg"]):not([href$=".jpeg"]):not([href$=".webm"]):not([href$=".mp4"]):not([href$=".flv"]):not([href$=".docs"]):not([href$=".doc"]):not([href$=".odt"]):not([href$=".pdf"])::after {
     content: '(external link)';
     background-image: url("../src/external-links/out_link.png");
     width: 1em;
@@ -39,7 +39,10 @@ article [href$=".docs"]::after, [href$=".doc"]::after, [href$=".docs"]::after {
 
 /* 图像图标 */
 
-article [href$=".png"]::after, [href$=".webp"]::after, [href$=".jpg"]::after, [href$=".jpeg"]::after {
+article [href$=".png"]:not(.glightbox)::after,
+    [href$=".webp"]:not(.glightbox)::after,
+    [href$=".jpg"]:not(.glightbox)::after,
+    [href$=".jpeg"]:not(.glightbox)::after {
     content: '(image icon)';
     background-image: url("../src/external-links/blue-document-image.png");
     width: 1em;
@@ -48,7 +51,9 @@ article [href$=".png"]::after, [href$=".webp"]::after, [href$=".jpg"]::after, [h
 
 /* 视频图标 */
 
-article [href$=".mp4"]::after, [href$=".webm"]::after, [href$=".flv"]::after {
+article [href$=".mp4"]:not(.glightbox)::after,
+    [href$=".webm"]:not(.glightbox)::after,
+    [href$=".flv"]:not(.glightbox)::after {
     content: '(video icon)';
     background-image: url("../src/external-links/blue-document-film.png");
     width: 1em;
