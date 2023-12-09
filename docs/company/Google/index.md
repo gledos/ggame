@@ -47,21 +47,35 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 > +   williamlong, 《[Google.CN遭域名劫持](https://web.archive.org/web/20101228150816/http://www.williamlong.info/archives/542.html)》, 月光博客, 2006-06-24. (参照 2023-04-07).
 > +   williamlong, 《[万网回应Google域名劫持事件](https://web.archive.org/web/20120108003847/http://www.williamlong.info/archives/545.html)》, 月光博客, 2006-06-27. (参照 2023-04-07).
 
-
-
 ## 重定向
 
 2010年3月23日，因为被网络攻击以及不断遭到审查的原因，Google 将 cn 域名跳转到了 com.hk 的 Google 香港，希望这样合法的操作能得到大陆政府的尊重。[^g100323]
 
 [^g100323]: 《[关于谷歌中国的最新声明](https://web.archive.org/web/20220726032957/https://www.google.com/press/new-approach-to-china/update.html)》, Google, 2010-03-23. (参照 2022-09-18).
 
+## 乌龙事件
+
+2010年7月30日，Google 的自动报告系统，声称所有的 Google 服务在大陆都被屏蔽。不过有用户发现仍然可以在一定程度上，
+连上 Google 的服务，所以 Google 随后解释自动报告系统高估了阻塞情况。[^21249]
+
+[^21249]: eldavojohn, [_China’s Firewall Stymies Google; Users Confused_](https://web.archive.org/web/20230918224952/https://yro.slashdot.org/story/10/07/30/1421249/chinas-firewall-stymies-google-users-confused), Slashdot, 2010-07-30. (参照 2023-12-09).
+
+但是新华网随后发布文章《谷歌服务「被屏蔽」的「乌龙事件」说明了什么？》，内容大意是：Google 的技术故障，
+导致了无法访问。[^90073][^29504]
+
+[^90073]: 新华网, 《[新华网：谷歌服务被屏蔽乌龙事件说明了什么](https://web.archive.org/web/20100804055334/http://tech.sina.com.cn/i/2010-07-30/17314490073.shtml)》, 新浪网, 2010-07-30. (参照 2023-12-09).
+
+[^29504]: 新华网, 《[谷歌服务“被屏蔽”的“乌龙事件”说明了什么？](https://web.archive.org/web/20221028123449/http://www.scio.gov.cn/ztk/hlwxx/03/4/Document/729504/729504.htm)》, 国务院新闻办公室网站, 2022-08-10. (参照 2023-12-09).
+
 ## 敏感词提醒功能
 
-2012年5月31日，Google 上线了「敏感词提醒功能」，此功能没有正式的名称，但可以告知即将导致 TCP 重置的敏感词。并且使用拼音搜索能够实现和汉字词语接近的体验，比如使用 changjiang 代替「长江」。[^bsimc]
+2012年5月31日，Google 上线了「敏感词提醒功能」，此功能没有正式的名称，但可以告知即将导致 TCP 重置的敏感词。
+并且使用拼音搜索能够实现和汉字词语接近的体验，比如使用 changjiang 代替「长江」。[^bsimc]
 
 [^bsimc]: Alan Eustace, Senior Vice President 与 Knowledge, 《[Inside Search: Better search in mainland China](https://web.archive.org/web/20150328030011/http://insidesearch.blogspot.hk/2012/05/better-search-in-mainland-china.html?hl=zh-Hans&rd=1)》, The official Google Search blog, 2012-05-31. (参照 2022-09-11).
 
-原理是 JavaScript 脚本里含有被编码后的正则式，所以有人提取除了 Google 整理的敏感词。[^ggb] 发现了敏感词超过 400 条，并且单字的敏感词有 16 个，分别是王、江、周、胡、刘、李、吴、毛、温、习、贺、贾、彭、潭、轭和馿。
+原理是 JavaScript 脚本里含有被编码后的正则式，所以有人提取除了 Google 整理的敏感词。[^ggb] 发现了敏感词超过 400 条，
+并且单字的敏感词有 16 个，分别是王、江、周、胡、刘、李、吴、毛、温、习、贺、贾、彭、潭、轭和馿。
 
 [^ggb]: caiguanhao, 《[Google收集的GFW屏蔽关键词（敏感词）](https://web.archive.org/web/20201109231800/https://caiguanhao.wordpress.com/2012/06/01/google-gfw-blacklist/)》, 天天都是一样, 2012-06-01. (参照 2022-09-11).
 
@@ -71,6 +85,64 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 [^gbdcgc_e]: percy, 《[Google Bows Down To Chinese Government On Censorship](https://web.archive.org/web/20130104112055/https://en.greatfire.org/blog/2013/jan/google-bows-down-chinese-government-censorship)》, GreatFire.org, 2013-01-04. (参照 2022-09-11).
 
 2012年12月5日 到 8日 期间，谷歌将此功能移除了，并且删除了相关的帮助文档。
+
+## 申请信息公开
+
+2014年7月14日，有人向工信部发布了信息公开申请表，内容是要求公开工信部是否中断 Google 域名的公文。[^27685][^19027]
+
+[^27685]: mailunion, 《[因屏蔽谷歌向工信部申请信息公开一事，工信部答复了](https://web.archive.org/web/20160511141040/https://www.v2ex.com/t/127685?p=1)》, V2EX, 2014-08-13. (参照 2023-12-09).
+[^19027]: xingpaul, 《[屏蔽google这事谁干的？](https://web.archive.org/web/20140816221010/http://www.guokr.com/post/619027)》, 果壳网, 2014-08-14. (参照 2023-12-09).
+
+> [!quote]+ 公开申请表
+>
+> 申请目的：为查明中国互联网接入服务提供者中断与 www.google.com 等 7 个网站
+> 互联互通的行为是否合法。申请人向你机关申请公开如下政府信息。依
+> 照《中华人民共和国电信条例》第 21 条、《政府信息公开条例》第 9 条
+> 第 1 项和《工业和信息化部政府信息公开工作办法》第 7 条第 8 须、第 15 项
+> 的規定，申请人申请公开的信息属于主动公开的政府信息。
+>
+> 标题：申请工业和信息化部公开其批准互联网接入服务提供者中断与
+> www.google.com 等等 7 个网站互联互通的公文
+>
+> 所需信息的内容描述：
+>
+> 1.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     www.google.com 的 Google 搜索网站互联互通的公文。
+>
+> 2.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     www.google.com.hk 的 Google 香港网站互联互通的公文。
+>
+> 3.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     www.google.com.tw 的 Google 台湾网站互联互通的公文。
+>
+> 4.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     www.google.com.sg 的 Google 习近平网站互联互通的公文。
+>
+> 5.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     mail.google.com 的 Gmail 网站互联互通的公文。
+>
+> 6.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     plus.google.com 的 Google+ 网站互联互通的公文。
+>
+> 7.  工业和信息化部批准互联网接入服务提供者中断与域名为
+>     www.youtube.com 的 YouTube 香港网站互联互通的公文。
+
+随后工信部回复了此公开申请表：
+
+> [!rule]+ 工业和信息化部 政府信息公开申请答复告知书
+>
+> 工信公开〔2014〕101 号
+> {: align=right }
+>
+> 申请人〇〇：
+>
+> 我部政务公开领导小组办公室于 2014年7月21日 受到您提交的政府信息公开申请。根据《中华人民共和国政府信息公开条例》
+> （国务院令第 492 号）相关规定，现答复如下：
+>
+> 我部无另说申请公开的政府信息。
+>
+> 2014年8月6日
+> {: align=right }
 
 ## 长沙杨飞的研究
 
