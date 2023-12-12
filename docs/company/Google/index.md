@@ -225,8 +225,36 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
     搜索「共产党」一词，现在往往主要显示 .cn 的网站以及官媒，[^TJFZe] 但之前还会显示大量外媒的报导。[^WfVz3]
 
-[^WfVz3]: 《[共产党](https://archive.ph/WfVz3)》, Google Suche, 2020-10-21. (参照 2022-10-06).
+[^WfVz3]: 「[共产党](https://archive.ph/WfVz3)」, Google Search, 2020-10-21. (参照 2022-10-06).
 
-[^TJFZe]: 《[共产党](https://archive.ph/TJFZe)》, Google Search, 2022-10-06. (参照 2022-10-06).
+[^TJFZe]: 「[共产党](https://archive.ph/TJFZe)」, Google Search, 2022-10-06. (参照 2022-10-06).
 
 目前可以给网页添加 `filter=0` 的参数来显示全部内容。
+
+## Gmail
+
+〔此章节仍在编写中〕
+
+2011年2月，第一次茉莉花活动集会开始前夕，Gmail 和 Google Reader 遭到了 DNS 污染。[^79573][^79557]
+
+[^79573]: 陆杨, 《[谷歌Gmail疑遭中国当局干扰](https://web.archive.org/web/20160414141440/http://www.voachinese.com/content/article-20110321-china-gmail-118362074/779573.html)》, 美国之音, 2011-03-21. (参照 2023-12-12).
+
+[^79557]: 《[谷歌指责中国干扰Gmail服务](https://web.archive.org/web/20231212031206/https://www.voachinese.com/a/article-20110321-china-google-118346989/779557.html)》, 美国之音, 2011-03-21. (参照 2023-12-12).
+
+2014年12月29日，Gmail 被封锁。[^41230][^81514] 随后有记者向例行记者会上的华春莹提问，得到了对此事不了解的答案。
+
+[^41230]: 《[Gmail邮箱中断影响中国学生申请美国大学](https://web.archive.org/web/20150702064306/http://www.bbc.com/zhongwen/simp/china/2014/12/141230_china_us_gmail_students)》, BBC News 中文, 2014-12-30. (参照 2023-12-11).
+
+[^81514]: 《[大陸封鎖資訊平台令科技創新領域受重創](https://web.archive.org/web/20221206190607/http://www.rfa.org/cantonese/news/gmail-12312014081514.html)》, Radio Free Asia, 2014-12-31. (参照 2023-12-11).
+
+> [!quote]+ 外交部例行记者会[^40920]
+
+> 问：谷歌的Gmail邮件系统从上周末开始在中国无法使用，你是否了解原因？有在华外国商人依靠这个邮件系统进行交流，
+> 这一状况是否会影响他们在华经营环境？
+>
+> 答：我不了解你提到的情况，建议你直接向中方主管部门询问。
+>
+> 我想强调的是，中方对外国投资者在华合法经营一贯持欢迎和支持态度，我们也将一如既往地为外国企业在华开展合作提供公开、
+> 透明、公平的环境。
+
+[^40920]: 中国新闻网, 《[外交部回应谷歌邮件系统在中国无法使用](https://web.archive.org/web/20141229123218/http://news.sina.com.cn/c/2014-12-29/184331340920.shtml)》, 新浪新闻, 2014-12-29. (参照 2023-12-12).

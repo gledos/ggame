@@ -62,19 +62,19 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 +   11-04 12:27 missuo/XrayR-V2Board（删）[^c_21]
 +   11-05 11:44 AntiNeko/CatBoxForAndroid（删）[^c_20]
 
-[^c_0]:  https://t.me/gledos_science/16545
-[^c_1]:  https://t.me/open_source_community/370986
-[^c_2]:  https://web.archive.org/web/20231103090655/https://hostloc.com/thread-1225733-1-1.html
+[^c_0]: https://t.me/gledos_science/16545
+[^c_1]: https://t.me/open_source_community/370986
+[^c_2]: https://web.archive.org/web/20231103090655/https://hostloc.com/thread-1225733-1-1.html
 [^c_13]: https://t.me/gledos_science/16617
 [^c_16]: https://web.archive.org/web/20231103095724/https://github.com/lotusnetwork/lotusboard
 [^c_15]: https://web.archive.org/web/20231103102751/https://github.com/Z-Siqi/Clash-for-Windows_Chinese/commits/main
-[^c_3]:  https://t.me/wtmsd/61789
-[^c_6]:  https://t.me/BDovo_Channel/2610
-[^c_7]:  https://t.me/BDovo_Channel/2613
-[^c_8]:  https://t.me/acgdaily/22989
-[^c_9]:  https://t.me/BDovo_Channel/2629
-[^c_4]:  https://t.me/BDovo_Channel/2602
-[^c_5]:  https://t.me/acgdaily/22984
+[^c_3]: https://t.me/wtmsd/61789
+[^c_6]: https://t.me/BDovo_Channel/2610
+[^c_7]: https://t.me/BDovo_Channel/2613
+[^c_8]: https://t.me/acgdaily/22989
+[^c_9]: https://t.me/BDovo_Channel/2629
+[^c_4]: https://t.me/BDovo_Channel/2602
+[^c_5]: https://t.me/acgdaily/22984
 [^c_10]: https://t.me/c/1731060325/9545
 [^c_11]: https://t.me/c/1731060325/9547
 [^c_12]: https://t.me/gledos_science/16584

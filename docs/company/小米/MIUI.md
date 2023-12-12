@@ -2,7 +2,7 @@
 title: MIUI
 description:
 published: true
-date: "2023-11-15T15:22:02"
+date: "2023-12-12T12:11:50"
 tags:
 - operating-system
 - dns
@@ -101,17 +101,20 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 > [!note]+ 词汇表
 >
-> +   **开发版**／**中国开发者版**/**China Developer ROM**
+> +   **开发版**／**中国开发者版**／**China Developer ROM**
 >
 >     这些词语意思基本相同。
 >
 > +   **手机名称**
 >
->     非转述的描述，以官网手机名称为准：比如「红米Note 3」的 Note 前面没有空格，「小米4c」使用的是小写 "c"。
+>     非转述的描述，以官网手机名称为准：比如「红米Note 3」的 Note 前面没有空格，「小米4c」使用的是小写「c」。
 
-2023年11月1日，使用小米手机的开发者，确认了无法通过小米开发者帐号解除 BL 锁，相关解锁操作会提示「系统升级维护中」或「验证失败」。[^m1540]
+2023年11月1日，使用小米手机的开发者，确认了暂时无法通过现有途径解开 Bootloader 锁（通过登录小米开发者帐号），
+相关解锁操作会提示「系统升级维护中」或「验证失败」。[^m1540] 有流言称：小米即将收紧解开 Bootloader 锁的要求。[^87964]
 
 [^m1540]: 不靠谱的喵(>^ω^<) \#CatGPT, 《[维护基本可以确定是要收紧 BootLoader 解锁了……](https://web.archive.org/web/20231109033203/https://t.me/s/MlgmXyysd_bibilailai/1540)》, Telegram, 2023-11-02. (参照 2023-11-09).
+
+[^87964]: FirefoxChrome, 《[小米即将收紧 BootLoader 解锁](https://web.archive.org/web/20231102145138/https://www.v2ex.com/t/987964)》, V2EX, 2023-11-02. (参照 2023-12-12).
 
 一周后，规则基本明确，小米公司仅允许开发者和发烧友解锁。而成为发烧友的条件是：[^m1554]
 
@@ -125,6 +128,28 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 [^89944]: mouyase, 《[小米公布新的 BL 解锁规则了，要求社区等级 5 级以上，申请后 72 小时后可以解锁。](https://web.archive.org/web/20231109081429/https://v2ex.com/t/989944)》, V2EX, 2023-11-08. (参照 2023-11-15).
 
+2023年12月 月初，有 MIUI 用户参与《解锁资格答题测试》，结果发现里面的题库十分专业：[^NbBwC]
+
+[^NbBwC]: mouyase, 《[目前基本可以认为小米已经禁止 BL 解锁了](http://archive.today/2023.12.07-031726/https://www.v2ex.com/t/998253)》, V2EX, 2023-12-07. (参照 2023-12-12).
+
+> [!quote]+ 下列说法正确的有【多选题】
+>
+> + [ ] Android 7 或更高版本的设备中，使用 JIT/AOT 混合编译模式
+> + [ ] Android 8 或更高版本的设备中，同以 APK 文件不可以安装到所有 Android 系统的设备上
+> + [ ] Android 8 或更高版本的设备中，用户必须授予权限，系统才能从应用商店意外的来源安装系应用
+> + [ ] Android 8 或更高版本的设备中，APK 文件中包含运行所需全部资源，运行应用实际上是在运行 APK
+
+> [!quote]+ 下列关于 JVM 垃圾回收机制的说法正确的有【多选题】
+>
+> + [ ] Serial Collector 回收速度快
+> + [ ] G1 垃圾回收器将堆内存划分为多个大小不等的 Region
+> + [ ] Serial Collector 适合内存有限的情况
+> + [ ] Parallel COllector 效率高
+> + [ ] G1 垃圾回收器采用的是区域化、分布式的垃圾收集器
+> + [ ] Concurrent Mark Sweep COllector 在 Old 区回收暂停时间长
+
+大概只有专业的 Android 开发者，才有能通过这些苛刻的题目。所以有人认为小米已经事实上禁止解开 Bootloader 锁了。
+
 ## 添加防回滚机制
 
 2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rp>(</rp><rt>Anti-Rollback Protection</rt><rp>)</rp></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
@@ -137,7 +162,7 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 2018年9月12日，MIUI 论坛管理员贴出通知提示：
 
-> [!note]+  [Others] Important Announcement About Flashing Mi Phones Manufactured by China![^3831680]
+> [!note]+ Important Announcement About Flashing Mi Phones Manufactured by China![^3831680]
 >
 > Dear Mi Fans,
 >
@@ -156,11 +181,12 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 大致意思是小米公司最近给 MIUI 的更新里添加了新功能，这种功能能阻止大陆版本以及全球版本的手机互刷 ROM。
 
-如果尝试安装，就会出现 "this MIUI version can’t be installed on this device" 的字样，然后手机就变成砖了。[^mgrfot]
+如果尝试安装，就会出现「this MIUI version can’t be installed on this device」的字样，然后手机就变成砖了。[^mgrfot]
 
 [^mgrfot]: Farrukh Ahmad, [MIUI Global ROM Flashing on These Xiaomi Phones May Brick Your Device](https://web.archive.org/web/20210124163828/https://www.igeekphone.com/miui-global-rom-flashing-on-these-xiaomi-phones-may-brick-your-device/), IGeeKphone China Phone, Tablet PC, VR, RC Drone News, Reviews, 2018-09-29. (参照 2023-02-05).
 
-不过有开发者表示：解锁 bootloader 后，使用 TWRP、fastboot 或者 MiFlash 刷机，选择 "Clean All" 而不是 "clean all and lock"，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也能在手机变砖后进行恢复。
+不过有开发者表示：解锁 bootloader 后，使用 TWRP、fastboot 或者 MiFlash 刷机，选择「Clean All」而不是「clean all and
+lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也能在手机变砖后进行恢复。
 
 [^115904]: xiaopeng, 《[小米封杀行货手机刷国际版ROM：强刷变砖](https://web.archive.org/web/20230204161141/https://www.antutu.com/doc/115904.htm)》, 安兔兔, 2018-09-29. (参照 2023-02-05).
 
@@ -410,7 +436,7 @@ adb shell uiautomator
 
 Adam 这是对 MIUI 广告的过滤，给出了数个证据：
 
-1.  清单内容包含手机品牌、"download videos" 等与政治无关的关键词，共计 2210 多个
+1.  清单内容包含手机品牌、「download videos」等与政治无关的关键词，共计 2210 多个
 2.  名单的名称 MiAd 应该指 MIUI 的广告
 3.  从反编译的软件代码判断这个功能仅适用于广告
 
@@ -561,7 +587,8 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 > 1.  MIUI 的安全不是我们的责任。我们不是安全专家，这些 ROM 不是为那些害怕中国的偏执狂准备的。
 > 2.  腾讯引擎存在于 GuardProvider（MIUI 安全组件）应用中。
 > 3.  腾讯引擎对国际 ROM（包括我们的）是禁用的。
-> 4.  应用程序列表没有发送到腾讯，"反欺诈" 组件是小米引擎的一部分，应用程序列表被发送到小米所属服务器上的一个API：https://flash.sec.miui.com/detect/app
+> 4.  应用程序列表没有发送到腾讯，「反欺诈」组件是小米引擎的一部分，应用程序列表被发送到小米所属服务器上的一个 API：
+>     <https://flash.sec.miui.com/detect/app>
 >
 > 如果你对这些有意见，不要使用 MIUI，或者甚至不要买中国的手机。给自己买一部 iPhone 或三星或其他什么，然后把你的信息交给他们（你知道他们会收集这些信息）。
 >

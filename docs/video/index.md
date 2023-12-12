@@ -40,7 +40,7 @@ icon: material/file-video
 
 [^33574]: 新华社, 《[王毅同以色列外长科恩通电话](https://web.archive.org/web/20231023200335/http://www.news.cn/politics/leaders/2023-10/24/c_1129933574.htm)》, 新华网, 2023-10-24. (参照 2023-10-25).
 
-[^41029]:  《[辛德勒的名单](https://web.archive.org/web/20231025141811/https://www.bilibili.com/bangumi/media/md28341029)》, 哔哩哔哩, 2023-10-25. (参照 2023-10-25).
+[^41029]: 《[辛德勒的名单](https://web.archive.org/web/20231025141811/https://www.bilibili.com/bangumi/media/md28341029)》, 哔哩哔哩, 2023-10-25. (参照 2023-10-25).
 
 [^12914]: 多伦多方脸, 「[今天王毅对话以色列外长，表示支持自卫权。B站也把辛德勒名单的评分强行调了回来了。这把小粉红整不会了。哎，都是资本，都是犹太集团](https://twitter.com/torontobigface/status/1716611045064912914)」, X（Twitter）, 2023-10-24. (参照 2023-10-25).
 

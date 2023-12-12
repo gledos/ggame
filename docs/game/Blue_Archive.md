@@ -84,7 +84,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 [^00l2d]: star hope, [\[블루 아카이브\] 인연 스토리(이즈미/수영복) / 메모리얼](https://www.youtube.com/watch?v=1mF81T5fbNo), YouTube.
 
-[^bakc]:  종말맨, [\[블루아카\] 결국...](https://www.youtube.com/watch?v=Ile1bt2St2Q), YouTube.
+[^bakc]: 종말맨, [\[블루아카\] 결국...](https://www.youtube.com/watch?v=Ile1bt2St2Q), YouTube.
 
 > [!abstract]+ 天雨亚子对照[^01l2d][^bakc]
 >

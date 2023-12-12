@@ -12,7 +12,7 @@ dateCreated: "2023-05-06T14:22:16"
 
 Haystack 是 2009 年发行的程序，旨在为伊朗人民提供未经过滤的互联网访问。兼容 Windows、Mac 和 Unix 系统，专门针对伊朗政府的网页过滤机制。[^apfi]
 
-[^apfi]:  《[haystack: a project for iran](https://web.archive.org/web/20100105225725/http://www.haystacknetwork.com/)》, 2010-01-05. (参照 2023-05-06).
+[^apfi]: 《[haystack: a project for iran](https://web.archive.org/web/20100105225725/http://www.haystacknetwork.com/)》, 2010-01-05. (参照 2023-05-06).
 
 官方宣传语如下：
 
