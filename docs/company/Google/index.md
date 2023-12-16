@@ -22,23 +22,50 @@ dateCreated: "2022-09-11T21:40:29"
 
 [^logo]: [谷歌徽标](https://commons.wikimedia.org/wiki/File:Google_2015_logo.svg), wikimedia commons.
 
-Google 是总部位于美国加州山景城的跨国科技公司，是 Alphabet 的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，开发并提供大量基于互联网的产品与服务，其主要利润来自 Ads 等广告服务。
+Google 是总部位于美国加州山景城的跨国科技公司，是 Alphabet 的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，
+开发并提供大量基于互联网的产品与服务，其主要利润来自 Ads 等广告服务。
 
-Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gmail.md)，流媒体平台 [YouTube](/company/Google/Youtube.md) 还有手机系统 Android 等。
+Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gmail.md)，
+流媒体平台 [YouTube](/company/Google/Youtube.md) 还有手机系统 Android 等。
+
+## 2002 年封锁
+
+2000 年，Google 开始提供中文版。但该网站大约有 10 % 的时间无法访问，速度缓慢且不可靠，这显然是因为 GFW 的过滤。[^abdc0]
+
+[^abdc0]: Justine Lau, [_A history of Google in China_](https://web.archive.org/web/20171102155453/http://ig-legacy.ft.com/content/faf86fbc-0009-11df-8626-00144feabdc0), Financial Times, 2010-07-09. (参照 2023-12-14).
+
+2002年8月 月底左右，google.com 在大陆被封锁，[^13853] 然后在两周后解封，[^93277] 但是快照系统被继续封禁，
+原因可能是用户能依靠快照阅读被 GFW 封禁的网站。[^abdc0]（这属于 [依附的自由](/theme/突破网络审查主题.md#依附的自由)）
+
+[^13853]: AP, [_China blocks Google as congress looms_](https://web.archive.org/web/20230608113853/https://www.theguardian.com/technology/2002/sep/04/internetnews.china), The Guardian, 2002-09-04. 参照: 2023-12-14. [Online].
+
+[^93277]: 《[Google同中国商讨解除封锁](https://web.archive.org/web/20210622130748/https://www.voachinese.com/a/a-21-a-2002-09-05-5-1-63384032/993277.html)》, 美国之音, 2002-09-05. (参照 2023-12-14).
+
+> [!note]+ 谷歌快照
+>
+> Google Cache 是早期搜索引擎的标配功能，能力是备份网页文字内容。
+>
+> 因为早期网络不稳定，许多网站时常会因维护或意外导致的离线。此时只要访问快照也能查看文字内容，防止刚找到的内容，
+> 第二天就打不开的意外。
 
 ## 2006 年域名劫持
 
-2006年6月23日 深夜，Google 的 `google.cn` 以及微软的 `msn.com.cn` 域名，均被解析到了买麦网的域名 `www.com.cn`，直到数天后的 27 日，托管域名的公司中国万网，才表示这是黑客所为，并已上报至北京市公安局，[^09465] 然后此事没有后续消息了。
+2006年6月23日 深夜，Google 的 `google.cn` 以及微软的 `msn.com.cn` 域名，均被解析到了买麦网的域名 `www.com.cn`，
+直到数天后的 27 日，托管域名的公司中国万网，才表示这是黑客所为，并已上报至北京市公安局，[^09465] 然后此事没有后续消息了。
 
 [^09465]: ChinaByte, 《[公安局立案调查Google、MSN域名篡改事件](https://web.archive.org/web/20230407122641/http://tech.sina.com.cn/i/2006-06-27/10221009465.shtml)》, 新浪网, 2006-06-27. (参照 2023-04-07).
 
 > [!note]+ 隐瞒数据泄露
-> 
+>
 > 假设万网说的是实话，这确实是黑客攻击，那么此事可能涉及数据泄露。
 >
-> 「如果不披露没有责任、披露却需要承担代价，那么具备『理性决策』能力的相关方一定会选择不披露、或者少披露。」—— [赵粮](https://web.archive.org/web/20230407134343/http://www.xinhuanet.com/politics/2014-11/27/c_127255174.htm)
+> 「如果不披露没有责任、披露却需要承担代价，那么具备『理性决策』能力的相关方一定会选择不披露、或者少披露。」——[赵粮][]
 >
->  可惜的是隐瞒数据泄露的现象非常普遍，甚至知道内情的员工也会被 [保密协议](https://web.archive.org/web/20191207095850/https://www.businessinsider.com/cybersecurity-insiders-reveal-nda-hide-data-breach-2019) 所限制，好在公司没法控制媒体，如果有其他的消息源，比如数据库已经在论坛上出售了，那么媒体还是会以第四权介入，然后等待法律来制裁公司就好。（笑）
+> 可惜的是隐瞒数据泄露的现象非常普遍，甚至知道内情的员工也会被 [保密协议][] 所限制，好在公司没法控制媒体，
+> 如果有其他的消息源，比如数据库已经在论坛上出售了，那么媒体还是会以第四权介入，然后等待法律来制裁公司就好。（笑）
+
+[赵粮]: https://web.archive.org/web/20230407134343/http://www.xinhuanet.com/politics/2014-11/27/c_127255174.htm
+[保密协议]: https://web.archive.org/web/20191207095850/https://www.businessinsider.com/cybersecurity-insiders-reveal-nda-hide-data-breach-2019
 
 > [!abstract]+ 相关链接
 >
@@ -49,7 +76,8 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
 ## 重定向
 
-2010年3月23日，因为被网络攻击以及不断遭到审查的原因，Google 将 cn 域名跳转到了 com.hk 的 Google 香港，希望这样合法的操作能得到大陆政府的尊重。[^g100323]
+2010年3月23日，因为被网络攻击以及不断遭到审查的原因，Google 将 cn 域名跳转到了 com.hk 的 Google 香港，
+希望这样合法的操作能得到大陆政府的尊重。[^g100323]
 
 [^g100323]: 《[关于谷歌中国的最新声明](https://web.archive.org/web/20220726032957/https://www.google.com/press/new-approach-to-china/update.html)》, Google, 2010-03-23. (参照 2022-09-18).
 
@@ -154,25 +182,30 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 
 > [!quote]+ 被认为是陈云说的话
 >
-> 在国民党统治时期，制定了一个新闻法，我们共产党人仔细研究它的字句，抓它的辫子，钻它的空子。现在我们当权，我看还是不要新闻法好，免得人家钻我们空子。没有法，我们主动，想怎样控制就怎样控制。
+> 在国民党统治时期，制定了一个新闻法，我们共产党人仔细研究它的字句，抓它的辫子，钻它的空子。现在我们当权，
+> 我看还是不要新闻法好，免得人家钻我们空子。没有法，我们主动，想怎样控制就怎样控制。
 
 这句话找不到明确的出处，但也未被辟谣。
 
-备注：文章的最后，预告了第二片分析文章《为什么我们不能访问Facebook和Twitter》，但作者没有时间写，所以一直没有发布。[^03729]
+备注：文章的最后，预告了第二片分析文章《为什么我们不能访问Facebook和Twitter》，但作者没有时间写，
+所以一直没有发布。[^03729]
 
 [^03729]: 杨飞, 「[后文一直没写，没时间。如果要写，大致会和谷歌那篇差不多。](https://web.archive.org/web/20220911143608/http://users.smartgb.com/g/g.php?a=s&i=g17-03729-65&m=all&p=1)」, 杨飞的留言板, 2020-04-07. (参照 2022-09-11).
 
 ## AlphaGo
 
-2017年5月，世界围棋排名第一的选手，柯洁与 AlphaGo 比赛围棋，但是 AlphaGo 所属的 Deepmind 公司，与 Google 有很大的联系，而 Google 在被封锁后，讨论 Google 几乎成了一定程度的禁忌。[^93054]
+2017年5月，世界围棋排名第一的选手，柯洁与 AlphaGo 比赛围棋，但是 AlphaGo 所属的 Deepmind 公司，与 Google 有很大的联系，
+而 Google 在被封锁后，讨论 Google 几乎成了一定程度的禁忌。[^93054]
 
 [^93054]: 黃小山、程文, 《[封殺谷歌致人機圍棋大賽成敏感事件](https://web.archive.org/web/20210117225019/https://www.rfa.org/cantonese/features/hottopic/Alphago-05242017093054.html)》, Radio Free Asia, 2017-05-24. (参照 2023-12-10).
 
-所以一些媒体被 [有关部门](/censorship/有关部门.md) 要求，禁止提及、讨论 Google 或展示标志，结果是这次比赛，似乎直播受到一些阻碍，只能谈论棋谱相关的话题。原因可能是防止更多人注意到大陆无法使用 Google，从而不增加「翻墙」用户。
+所以一些媒体被 [有关部门](/censorship/有关部门.md) 要求，禁止提及、讨论 Google 或展示标志，结果是这次比赛，
+似乎直播受到一些阻碍，只能谈论棋谱相关的话题。原因可能是防止更多人注意到大陆无法使用 Google，从而不增加「翻墙」用户。
 
 ## 2022年大规模封锁
 
-2022年9月22日，`google.com` 和 `*.google.com` 域名被加入到 GFW 的 SNI 黑名单中，2022年9月30日 上述域名遭到了 DNS 污染。[^nb128] 受到影响的服务包括但不限于：
+2022年9月22日，`google.com` 和 `*.google.com` 域名被加入到 GFW 的 SNI 黑名单中，
+2022年9月30日 上述域名遭到了 DNS 污染。[^nb128] 受到影响的服务包括但不限于：
 
 [^nb128]: gfw-report, 《[The Great Firewall of China has blocked google.com and all its subdomains](https://web.archive.org/web/20221002155034/https://github.com/net4people/bbs/issues/128)》, GitHub Issue/net4people/bbs#128, 2022-10-01. (参照 2022-10-03).
 
@@ -180,9 +213,13 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 +   Google 软件下载以及更新：`dl.google.com`，主要影响：
     +   Google Chrome
     +   Android Studio
-+   `ocsp.pki.goog` 和 `crls.pki.goog` 的 CNAME 指向 `*.google.com`，导致 Google Trust Services 签发的证书 OCSP 和 CRL 不可用。
++   `ocsp.pki.goog` 和 `crls.pki.goog` 的 CNAME 指向 `*.google.com`，导致 Google Trust Services 签发的证书 OCSP 和 CRL
+    不可用。
 
-2022年9月29日，[Google 翻译](/company/Google/Google翻译.md) 在大陆部分地区被谷歌关闭，随后 Google 表示由于使用率低，所以停止了大陆的 Google 翻译。[^3c9Ht] 据 Telegram「呐!cn 频道」的消息：「据内部人士透露, 由于大会临近, 上级部门要求 Google 中国区部分业务下线整改, 恢复时间未知」「据 Google 中国区消费者业务部门内部人士透露, Google 中国区部分业务因为备案合规性问题下线整改」。[^tgn]
+2022年9月29日，[Google 翻译](/company/Google/Google翻译.md) 在大陆部分地区被谷歌关闭，随后 Google 表示由于使用率低，
+所以停止了大陆的 Google 翻译。[^3c9Ht] 据 Telegram「呐!cn 频道」的消息：「据内部人士透露, 由于大会临近, 上级部门要求
+Google 中国区部分业务下线整改, 恢复时间未知」「据 Google 中国区消费者业务部门内部人士透露, Google
+中国区部分业务因为备案合规性问题下线整改」。[^tgn]
 
 [^3c9Ht]: Kyle Wiggers, 《[Google appears to have disabled Google Translate in parts of China](https://archive.ph/3c9Ht "https://techcrunch.com/2022/09/30/google-appears-to-have-disabled-google-translate-in-parts-of-china/")》, TechCrunch, 2022-09-30. (参照 2022-10-03).
 
@@ -210,14 +247,15 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gma
 +   翻阅到 10 页左右时，就会到底
 +   然后显示以下内容：
 
-    In order to show you the most relevant results, we have omitted some entries very similar to the 〇〇 already displayed.
-    
+    In order to show you the most relevant results, we have omitted some entries very similar to the 〇〇 already
+    displayed.
+
     If you like, you can repeat the search with the omitted results included.
-    
+
     ---
-    
+
     为了提供关联性最高的搜寻结果，我们省略了部分与先前〇〇笔已经显示过的结果非常类似的项目。
-    
+
     如有需要，您可以重新执行搜寻并显示所有结果。
 
 +   点击后才能看到完整的搜索结果
