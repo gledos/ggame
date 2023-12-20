@@ -154,6 +154,12 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 大概只有专业的 Android 开发者，才有能通过这些苛刻的题目。所以有人认为小米已经事实上禁止解开 Bootloader 锁了。
 
+2023年12月2日，有人收集整理了各种题目和答案解析，以 [Xiaomi-BootLoader-Questionnaire][] 名称发布到 GitHub 上。[^mlgxb]
+
+[Xiaomi-BootLoader-Questionnaire]: https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire
+
+[^mlgxb]: Jaida Wu, [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire),. 2023-12-18. 参照: 2023-12-18. [Online].
+
 ## 添加防回滚机制
 
 2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rp>(</rp><rt>Anti-Rollback Protection</rt><rp>)</rp></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
