@@ -139,15 +139,17 @@ Gnutella 网络是最先使用的，当时 Gnutella 是非常流行的分享文�
 
 在 MAGNET-URI Project 的官网里，给出了一些磁力链接图片，用来推广，方便用户快速理解。
 
-+   ![magnet_logo][]
-+   ![fig1][] magnet-icon-9w-9h.gif
-+   ![fig2][] magnet-icon-9w-10h.gif
-+   ![fig3][] magnet-icon-12w-12h.gif
-+   ![fig4][] magnet-icon-14w-14h.gif
-+   ![fig5][] magnet-tile-16w-16h.gif
-+   ![fig5_2][] magnet-tile2-16w-16h.gif
-+   ![fig6][] magnet-tile-purple-13w-9h.gif
-+   ![fig7][] magnet-tile-purple-19w-14h.gif
+| 名称                           | 图片             |
+| ------------------------------ | ---------------- |
+| 标志                           | ![magnet_logo][] |
+| magnet-icon-9w-9h.gif          | ![fig1][]        |
+| magnet-icon-9w-10h.gif         | ![fig2][]        |
+| magnet-icon-12w-12h.gif        | ![fig3][]        |
+| magnet-icon-14w-14h.gif        | ![fig4][]        |
+| magnet-tile-16w-16h.gif        | ![fig5][]        |
+| magnet-tile2-16w-16h.gif       | ![fig5_2][]      |
+| magnet-tile-purple-13w-9h.gif  | ![fig6][]        |
+| magnet-tile-purple-19w-14h.gif | ![fig7][]        |
 
 [magnet_logo]: data:image/png;base64,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
 [fig1]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAJCAYAAADgkQYQAAAAc0lEQVQYV4WQsQ0AIQwDkw5WYS5GomQuStZ4Oj6OMEIvoU8TQg7bQkMIc4wh1uVWCqi1tvcpJfnOatvZe/+HJhCzi4ffs864cyWH1sBsVwhgNEUCPuNxrXXmnIVqsGUBKKW4HcoZZqMCun2PEtrMkZ0x5QXYfyhnEuv/+AAAAABJRU5ErkJggg==
