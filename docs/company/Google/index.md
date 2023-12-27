@@ -2,10 +2,11 @@
 title: Google
 description:
 published: true
-date: "2022-10-03T14:16:55"
+date: "2023-12-27T14:27:52"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-09-11T21:40:29"
+icon: material/google
 ---
 
 ## 简介
@@ -25,7 +26,7 @@ dateCreated: "2022-09-11T21:40:29"
 Google 是总部位于美国加州山景城的跨国科技公司，是 Alphabet 的子公司，业务范围涵盖互联网广告、互联网搜索、云计算等领域，
 开发并提供大量基于互联网的产品与服务，其主要利润来自 Ads 等广告服务。
 
-Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/Gmail.md)，
+Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/index.md#Gmail)，
 流媒体平台 [YouTube](/company/Google/Youtube.md) 还有手机系统 Android 等。
 
 ## 2002 年封锁

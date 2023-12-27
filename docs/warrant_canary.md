@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2023-10-21T23:20:19"
+date: "2023-12-27T14:27:33"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,32 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2023年12月27日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻与游戏页面。本次更新时间为: 2023年12月27日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   加里·J·贝斯, 《[东京审判75年后，亚洲“二战”历史仍余音回荡](https://web.archive.org/web/20231226015435/https://cn.nytimes.com/opinion/20231222/tokyo-war-crimes-75-anniversary/)》, 纽约时报中文网, 2023-12-23. (参照 2023-12-27).
++   黄晖, 《[纪念改革开放45周年，《财新》社论“重温实事求是”被删](https://web.archive.org/web/20231227062337/https://theinitium.com/article/20231227-whatsnew-mainland-caixin)》, 端传媒 Initium Media, 2023-12-26. (参照 2023-12-27).
++   《[人工智能在2023年如何改变科技世界](https://web.archive.org/web/20231227054851/https://www.bbc.com/zhongwen/simp/science-67825807)》, BBC News 中文, 2023-12-27. (参照 2023-12-27).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZYvDEwAKCRCZXo6bU2oX
+pEkbAQCP1ihqjlaF+IxMr/j9cLsxS3Nbf7dZtMt+k2+zKZK51QEAxJYO0us3W4ND
+OHC9/NfJYzyhaacq0bWR+uBdC8Fw1AU=
+=YsdT
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2023年11月28日
 
@@ -44,8 +70,6 @@ fWGiHIYujGrBSHH/yVICdPMOQE7qtwQ=
 =RIMl
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年10月21日
 
