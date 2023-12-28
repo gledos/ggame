@@ -2,7 +2,7 @@
 title: LGBT主题
 description:
 published: true
-date: "2023-01-12T22:49:43"
+date: "2023-12-28T22:58:19"
 tags:
 - lgbt
 editor: markdown
@@ -70,6 +70,8 @@ dateCreated: "2022-09-23T12:46:22"
 2023年5月15日，北同文化（同志公益自媒体）表示因为不可抗力，即刻终止运营。[^SePph]
 
 [^SePph]: 北同文化AllForQueer, 《[停运公告](https://archive.md/SePph "https://mp.weixin.qq.com/s/5PZw5t3lqlIECS49wgmF2w")》, archive.md, 2023-05-15. (参照 2023-05-15).
+
+2023年5月23日，[丁香医生](/company/丁香园.md#2023-年被禁言) 发布了篇关于 MtF 的文章，叫做《我决定陪儿子重新长成一名女性》，两天后丁香医生自己删除了此文章，原因可能是不可抗力。
 
 2023年6月7日，西南大学要求各班团委统计班级里的性少数群体，[^30722] 不过截图缺少细节，也没有其他消息源确认，时间和地点的准确性比较难说。
 
