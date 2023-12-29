@@ -16,7 +16,7 @@ icon: simple/xiaomi
 
 MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年是给当时知名手机制作的第三方自定义 ROM，到了 MIUI V3，小米公司才有了自己的预装了 MIUI 的小米手机。
 
-2023年10月26日，小米手机改用<ruby>澎湃OS<rp>(</rp><rt>HyperOS</rt><rp>)</rp></ruby>，大致相当于改名。所以之后澎湃OS 相关的内容，也会收录到 MIUI 中。
+2023年10月26日，小米手机改用<ruby>澎湃OS<rt>HyperOS</rt></ruby>，大致相当于改名。所以之后澎湃OS 相关的内容，也会收录到 MIUI 中。
 
 ## Bootloader 锁
 
@@ -48,7 +48,7 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
     通常需要等待 3 天。
 
-2.  下载 <ruby>小米解锁工具<rp>(</rp><rt>MiUnlock</rt><rp>)</rp></ruby> (miflash unlock) 工具。
+2.  下载 <ruby>小米解锁工具<rt>MiUnlock</rt></ruby> (miflash unlock) 工具。
 
 3.  让需要解锁的小米手机升级到 MIUI V8.1。
 
@@ -163,7 +163,7 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 ## 添加防回滚机制
 
-2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rp>(</rp><rt>Anti-Rollback Protection</rt><rp>)</rp></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
+2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rt>Anti-Rollback Protection</rt></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
 
 [^10g875]: Adam Conway, 《[[Update: Statement released] MIUI 10 Global Beta 8.7.5 adds anti-rollback protection, downgrading may brick your Redmi Note 5 Pro](https://web.archive.org/web/20221006200220/https://www.xda-developers.com/miui-10-global-beta-8-7-5-anti-rollback-downgrade-brick-redmi-note-5-pro/)》, XDA Developers, 2018-07-12. (参照 2023-02-05).
 
@@ -270,7 +270,8 @@ lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也�
 > 0.  基础的体验问题，包括白屏、卡顿、动画优化等。
 > 1.  会尽量把老论坛和老社区的重要功能和数据都迁移过来，保证大家的使用习惯少受影响。
 > 2.  PC版第一版10月就会上线（不过第一版也是比较简单的），后续还会持续投入。
-> 3.  内容安全方面，大家现在看到的吞贴，删帖，其实都是这块还没做完（只是为了不出问题）。但是这块又很重要，大家也不希望一堆垃圾内容充斥我们大家的社区吧。
+> 3.  内容安全方面，大家现在看到的吞贴，删帖，其实都是这块还没做完（只是为了不出问题）。但是这块又很重要，
+>     大家也不希望一堆垃圾内容充斥我们大家的社区吧。
 > 4.  视频的体验、话题页等。
 > 5.  项目中心，这块马上就上线了，目的是为了让大家不用一直提重复的问题，同时也让业务组尽量把问题的状态和大家做好同步。
 > 6.  聊天的功能。
@@ -281,7 +282,8 @@ lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也�
 
 [^910385]: 《[米都社区改成什么(米市街社区在哪里)](https://web.archive.org/web/20230205120058/https://159.75.224.178/fangchan/910385.html)》, 百科知识分享, 2023-01-11. (参照 2023-02-05).
 
-之后虽然能看到 MIUI 论坛旧的帖子标题，但其他楼层的评论基本都是「提示：作者被禁止或删除 内容自动屏蔽」，说明这些内容都还在审查中，无法公开。[^04632]
+之后虽然能看到 MIUI 论坛旧的帖子标题，但其他楼层的评论基本都是「提示：作者被禁止或删除 内容自动屏蔽」，
+说明这些内容都还在审查中，无法公开。[^04632]
 
 [^04632]: 匿名用户, 《[为什么MIUI论坛删除（屏蔽）了大量的内容？](https://archive.is/iMQoj "https://www.zhihu.com/question/347404632")》, 知乎, 2019-09-23. (参照 2023-02-05).
 
@@ -291,7 +293,8 @@ lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也�
 
 > [!quote]+ 小米 10 在 MIUI20.8.3 加入了应用黑名单[^apkbl]
 >
-> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示「解析软件包时出现问题」，人为的制造 apk 损坏现象。
+> MI 10 MIUI 最新内测版 20.8.3 (Android 11) 的 com.miui.packageinstaller.apk 里内置了一个名为 blacklist.json 的炸弹，
+> 若尝试安装该名单内的 apk (包名和 MD5 匹配) 会提示「解析软件包时出现问题」，人为的制造 apk 损坏现象。
 
 [^apkbl]: [小米 10 在 MIUI20.8.3 加入了应用黑名单](https://web.archive.org/web/20210627105718/https://www.v2ex.com/t/695575), V2EX.
 
@@ -321,7 +324,8 @@ lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也�
 
 ## 隐私保护白名单
 
-2021年1月，小米手机的 MIUI 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体情况为：隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
+2021年1月，小米手机的 MIUI 被发现针对「[学习强国](/software/Xuexi_Qiangguo.md)」这款 APP 做了白名单处理，具体情况为：
+隐私保护中的「权限使用统计」不能记录「学习强国」的行为。[^748635]
 
 [^748635]: [MIUI 的权限使用统计把学 Xi 强国屏蔽了？](https://web.archive.org/web/20210326235940/https://v2ex.com/t/748635), V2EX.
 
@@ -425,7 +429,9 @@ adb shell uiautomator
 
 ## MiAdBlacklistConfig
 
-2021年9月，<ruby>立陶宛国家网络安全中心<rp>(</rp><rt>lietuvos Respublikos krašto apsaugos ministerija</rt><rp>)</rp></ruby>发布了多款手机审计报告，其中就有小米10T 的浏览器、MiAdBlacklistConfig（后文简称名单）和登录帐号时发送短信的风险，其中最引人注目就是名单。[^52439]
+2021年9月，<ruby>立陶宛国家网络安全中心<rt>lietuvos Respublikos krašto apsaugos ministerija</rt></ruby>
+发布了多款手机审计报告，其中就有小米10T 的浏览器、MiAdBlacklistConfig（后文简称名单）和登录帐号时发送短信的风险，
+其中最引人注目就是名单。[^52439]
 
 [^52439]: Andrius Sytas, 《[Lithuania says throw away Chinese phones due to censorship concerns](https://web.archive.org/web/20210922052439/https://www.reuters.com/article/lithuania-china-xiaomi/lithuania-says-throw-away-chinese-phones-due-to-censorship-concerns-idUSL8N2QN50T)》, Reuters, 2021-09-21. 参照: 2022-08-16. [Online].
 
@@ -441,7 +447,9 @@ adb shell uiautomator
 | 6    | MIUI Package Installer | com.miui.global.packageinstaller   |
 | 7    | Cleaner                | com.miui.cleanmaster               |
 
-名单里的内容包含政治以及其他共计 449 个词语，然后应用具有使用此名单审查某种内容的功能，报告到这里，所有人都能达成共识，但之后的情况就比较复杂了，因为「审计报告」里认为这是审查系统（的一部分），虽然并未启用。而 Adam Conway 通过 XDA 发布了文章质疑了这这个文件的用途。[^xsbe]
+名单里的内容包含政治以及其他共计 449 个词语，然后应用具有使用此名单审查某种内容的功能，报告到这里，所有人都能达成共识，
+但之后的情况就比较复杂了，因为「审计报告」里认为这是审查系统（的一部分），虽然并未启用。
+而 Adam Conway 通过 XDA 发布了文章质疑了这这个文件的用途。[^xsbe]
 
 [^xsbe]: Adam Conway, 《[Xiaomi’s secret blacklist of phrases sounds scary, but it may not be what it seems](https://web.archive.org/web/20221023083218/https://www.xda-developers.com/xiaomi-secret-blacklist-explained/)》, XDA Developers, 2021-09-23. (参照 2023-02-07).
 
@@ -451,23 +459,31 @@ Adam 这是对 MIUI 广告的过滤，给出了数个证据：
 2.  名单的名称 MiAd 应该指 MIUI 的广告
 3.  从反编译的软件代码判断这个功能仅适用于广告
 
-但不管是 Adam，还是「审计报告」，都没有给出完整的清单，直到 2021年10月3日，推特用户 cda 分享了 8 月份的 MiAdBlacklistConfig，内容应该是完整的，共有 2212 个关键词。[^78312][^collina]
+但不管是 Adam，还是「审计报告」，都没有给出完整的清单，直到 2021年10月3日，
+推特用户 cda 分享了 8 月份的 MiAdBlacklistConfig，内容应该是完整的，共有 2212 个关键词。[^78312][^collina]
 
 [^78312]: cda, "[It appears that the MiAdBlacklistConfig …](https://web.archive.org/web/20211002224512/https://twitter.com/CDA/status/1444355139310178312)", Twitter, 2021-10-03. (参照 2023-02-07).
 
 [^collina]: collina, 《[MiAdBlacklistConfig](https://web.archive.org/web/20211002224615/https://gist.github.com/collina/70248e2206a25e63cd32ef97b429a6d2)》, GitHub Gist, 2021-10-02. (参照 2023-02-07).
 
-2022年1月6日，<ruby>國家通訊傳播委員會<rp>(</rp><rt>National communications commission</rt><rp>)</rp></ruby>（简称：NCC）发布了一个简单的调查报告，里面提到台湾贩售的小米Mi 10T 5G 手机里面曾经含有清单，共计 2000 余个关键词，并在报告最后的附件中分享了 PDF 格式的清单。（但附件里的 PDF 清单只有 1700 左右个关键词）[^47018]
+2022年1月6日，<ruby>國家通訊傳播委員會<rt>National communications commission</rt></ruby>
+（简称：NCC）发布了一个简单的调查报告，里面提到台湾贩售的小米Mi 10T 5G 手机里面曾经含有清单，共计 2000 余个关键词，
+并在报告最后的附件中分享了 PDF 格式的清单。（但附件里的 PDF 清单只有 1700 左右个关键词）[^47018]
 
 [^47018]: 國家通訊傳播委員會, 《[NCC檢測在臺灣販售之小米Mi 10T 5G手機發現部分內建軟體的確曾具政治敏感詞彙檢查功能，恐有資訊回傳疑慮，提醒國人重視手機之個資與隱私保護意識](https://web.archive.org/web/20220621003132/https://www.ncc.gov.tw/chinese/news_detail.aspx?site_content_sn=8&sn_f=47018)》, 國家通訊傳播委員會, 2022-01-06. (参照 2023-02-07).
 
 > [!note]+ gledos 的想法
 >
-> Adam 思考的过程有错，但结果应该没错，这确实仅仅是过滤广告的功能的的一部分，但从里面包含 China 就断定这与政治无关，就太天真了。
+> Adam 思考的过程有错，但结果应该没错，这确实仅仅是过滤广告的功能的的一部分，但从里面包含 China 就断定这与政治无关，
+> 就太天真了。
 >
-> 此功能存在的理由，是广告可以很危险，比如 [cnBeta](/website/cnBeta.md#域名取消解析) 可能因为广告问题，就被取消解析了。还有一点就是「审查功能不一定有效（但一定要有）」，比如上文提到的小米相机 APP 里有一个 sensi_words.txt 文件，其中含有 253 个敏感词，被用作自定义水印。
+> 此功能存在的理由，是广告可以很危险，比如 [cnBeta](/website/cnBeta.md#域名取消解析) 可能因为广告问题，就被取消解析了。
+> 还有一点就是「审查功能不一定有效（但一定要有）」，比如上文提到的小米相机 APP 里有一个 sensi_words.txt 文件，
+> 其中含有 253 个敏感词，被用作自定义水印。
 >
-> sensi_words.txt 的敏感词这么少，有用么？当然没有什么用，很可能只是有人要求一切有自定义文字的地方，都要有审查系统，所以开发者随便应付一下，才制作了 MiAdBlacklistConfig 和 sensi_words.txt 这种几乎无用的敏感词名单吧，毕竟广告最应该过滤的是图片……
+> sensi_words.txt 的敏感词这么少，有用么？当然没有什么用，很可能只是有人要求一切有自定义文字的地方，都要有审查系统，
+> 所以开发者随便应付一下，才制作了 MiAdBlacklistConfig 和 sensi_words.txt 这种几乎无用的敏感词名单吧，
+> 毕竟广告最应该过滤的是图片……
 
 > [!abstract]+ 相关链接
 >
@@ -476,7 +492,8 @@ Adam 这是对 MIUI 广告的过滤，给出了数个证据：
 
 ## 没有内置国家监控中心app
 
-MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈骗中心合作。[^114760] 导致网络上出现了 MIUI 13 内置了国家反诈骗中心的传言。
+MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈骗中心合作。[^114760]
+导致网络上出现了 MIUI 13 内置了国家反诈骗中心的传言。
 
 [^114760]: IT之家, 《[小米 MIUI 13 全链路反诈功能与国家反诈中心合作，避免用户损失](https://web.archive.org/web/20220816085636/https://www.sohu.com/a/514045049_114760)》, 2022-01-03. (参照 2022-08-16).
 
@@ -484,13 +501,15 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 
 > [!quote]+ wangzn2016[^32meu]
 >
-> 酷安上面都看到了吧，隐私保护和gj反诈app联合合作，这个我国庆期间在路上被警察拉去下载反诈app后突然来的想法，就立马提了上去。
+> 酷安上面都看到了吧，隐私保护和gj反诈app联合合作，这个我国庆期间在路上被警察拉去下载反诈app后突然来的想法，
+> 就立马提了上去。
 >
 > 没想到这么快就搞定了，还成了13的亮点
 
 [^32meu]: wangzn2016, 「[酷安上面都看到了吧，隐私保护和gj反诈app联合合作……](https://archive.is/32meu "https://weibo.com/6548603699/L87kM6xht")」, 新浪微博, 2021-12-28. (参照 2023-02-03). 备注：页面已被删除
 
-2021年12月30日，有用户在 xiaomi.eu 论坛上咨询了 EU 版本是否移除了反诈功能，波兰的工作人员表示全球版手机均没有启用此功能，[^641945] 并没有直接回答这个问题。
+2021年12月30日，有用户在 xiaomi.eu 论坛上咨询了 EU 版本是否移除了反诈功能，
+波兰的工作人员表示全球版手机均没有启用此功能，[^641945] 并没有直接回答这个问题。
 
 [^641945]: ingbrzy, [MIUI 13 - 21.12.29/30 - First MIUI 13](https://web.archive.org/web/20221006120430/https://xiaomi.eu/community/threads/21-12-29-30-first-miui-13.64404/#post-641945), Xiaomi European Community, 2021-12-30. (参照 2023-02-03).
 
@@ -500,15 +519,16 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 > 2.  MIUI Global（全球版）
 > 3.  MIUI EU（欧洲版）
 >
-> 其中 MIUI EU 版并不是小米官方的，而是由小米欧洲经销商认可的民间团队发布。基于MIUI大陆版修改而来，发布时间和机型与大陆版同步。同步MIUI大陆版的稳定版公测和测试版公测。有谷歌核心套件。无小米全家桶。无广告。
+> 其中 MIUI EU 版并不是小米官方的，而是由小米欧洲经销商认可的民间团队发布。基于MIUI大陆版修改而来，
+> 发布时间和机型与大陆版同步。同步MIUI大陆版的稳定版公测和测试版公测。有谷歌核心套件。无小米全家桶。无广告。
 
 [^ko797]: Koizumi, 《[MIUI 各版本区别及下载地址](https://blog.minamigo.moe/archives/797)》, Koizumi’s Blog, 2022-04-23. (参照 2023-02-03).
 
-2022年1月5日，有人发现部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」。[^2298720242] 
+2022年1月5日，有人发现部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」。[^2298720242]
 
 [^2298720242]: 知乎用户2jT2Ug, 《[如何评价 MIUI 13 可能内置反诈系统，有什么影响？](https://web.archive.org/web/20220816085614/https://www.zhihu.com/question/509458835/answer/2298720242)》, 知乎, 2022-01-05. (参照 2022-08-16).
 
-2022年1月6日，因为有人质疑 MIUI 内置国家反诈骗中心，所以 MIUI 官方帐号回复道：「MIUI13没有内置国家监控中心app，请勿传谣」。[^6lKCJ]
+2022年1月6日，面对有人质疑 MIUI 内置国家反诈骗中心，MIUI 官方帐号回复道：「MIUI13没有内置国家监控中心app，请勿传谣」。[^6lKCJ]
 
 [^6lKCJ]: 爱睡觉的乐乐, 《[听说miui13内置国家反诈骗中心app，看上去这是我最后一个小米手机了，而且还是永不升级 😂😂](https://archive.ph/6lKCJ "https://weibo.com/1229559082/L9vKRt6No")》, 新浪微博, 2022-01-05. (参照 2022-08-16).
 
@@ -533,9 +553,10 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 | `screen_size`      | `1080x1876`                            | 屏幕分辨率                  |
 | `apkMd5`           | `71681791388ff2c6d5f8ddae8953079b`     | APK 的 MD5 值               |
 | `mo`               | `MI+6`                                 | 机型                        |
-| `……`               | `……`                                   | 截图后续可能还有内容        |
+| `……`             | `……`                                 | 截图后续可能还有内容        |
 
-而标题中提到了经纬度，可能说明未被给出的截图中有经纬度（地理位置）的信息，不过没有其他人研究这些隐私问题，所以尚不明确消息可靠性。
+而标题中提到了经纬度，可能说明未被给出的截图中有经纬度（地理位置）的信息，不过没有其他人研究这些隐私问题，
+所以尚不明确消息可靠性。
 
 ## 自动添加 DNS
 
@@ -556,7 +577,8 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 
 ## MIUI 14 上传应用列表
 
-2023年2月1日 左右，MinaMichita 发现最新的 MIUI 14 会不断的上传已安装应用列表等信息，小米在他们的代码中将此功能命名为 AntiDefraud，示例如下：[^912395]
+2023年2月1日 左右，MinaMichita 发现最新的 MIUI 14 会不断的上传已安装应用列表等信息，
+小米在他们的代码中将此功能命名为 AntiDefraud，示例如下：[^912395]
 
 [^912395]: ruoyutx, 《[听说国产安卓机全部统一内置了反诈？](https://web.archive.org/web/20230202141303/https://www.v2ex.com/t/912395?p=2#r_12637855)》, V2EX, 2023-02-01. (参照 2023-02-03).
 
@@ -564,7 +586,8 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 {"timestamp":"xxx","os":"xxx","biz_id":"virus_scan","uuid":"xxx","content":[]}
 ```
 
-数据会被上传到小米的服务器，而这种行为似乎未经过用户同意。于是 MinaMichita 编写了 xposed 模块 [AntiAntiDefraud][]，来关闭这种功能。
+数据会被上传到小米的服务器，而这种行为似乎未经过用户同意。于是 MinaMichita 编写了 xposed 模块 [AntiAntiDefraud][]，
+来关闭这种功能。
 
 [AntiAntiDefraud]: https://github.com/MinaMichita/AntiAntiDefraud
 
@@ -576,12 +599,15 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 >
 > A few facts to point out, and hopefully the few paranoids among our users stop bothering us:
 >
-> 1.  The security of MIUI is not our responsibility. We are not security experts and these ROMs are not meant for the paranoids who are afraid of China.
+> 1.  The security of MIUI is not our responsibility. We are not security experts and these ROMs are not meant for the
+>     paranoids who are afraid of China.
 > 2.  Tencent engine exists in GuardProvider (MIUI security components) app.
 > 3.  Tencent engine is disabled for international ROMs (that includes ours).
-> 4.  Apps list is not sent to Tencent, the "AntiDefraud" component is part of Mi Engine and the apps list is sent to an API on a Xiaomi-owned server: https://flash.sec.miui.com/detect/app
+> 4.  Apps list is not sent to Tencent, the "AntiDefraud" component is part of Mi Engine and the apps list is sent to
+>     an API on a Xiaomi-owned server: https://flash.sec.miui.com/detect/app
 >
-> If you have a problem with any of that, don't use MIUI, or don't even buy a Chinese phone. Get yourself an iPhone or a Samsung or whatever, and give your information to them instead (you know they'll collect that).
+> If you have a problem with any of that, don't use MIUI, or don't even buy a Chinese phone. Get yourself an iPhone or
+> a Samsung or whatever, and give your information to them instead (you know they'll collect that).
 >
 > ---
 >
@@ -614,6 +640,15 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 [^68146]: Cveronica, [Report that MIUI EU sends private data to China](https://web.archive.org/web/20230206043717/https://xiaomi.eu/community/threads/report-that-miui-eu-sends-private-data-to-china.68146/), Xiaomi European Community, 2023-02-04. (参照 2023-02-06).
 
 [^dns617]: LoopDNS资讯播报, 《[Xiaomi.eu 开发人员在社区中回应](https://web.archive.org/web/20230206063317/https://t.me/s/DNSPODT/617)》, Telegram, 2023-02-06. (参照 2023-02-06).
+
+2023年12月28日，有 MIUI 用户称，自己手机安装的「澳门金沙度假区」App 名称和包名被警方知晓，警方以为与赌博有关，
+于是威逼恐吓该用户让他自证其罪。随后警方要到了手机密码，仔细检查了相册、通话记录和每个 App 后，发现弄错了。
+于是该用户在记录了信息，并按手印后离开了警局。[^04257]
+
+[^04257]: zhangyu33159, 《[小米 MIUI14 应该会把已安装应用信息上传到反诈中心](https://web.archive.org/web/20231228201651/https://www.v2ex.com/t/1004257)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2023-12-28. (参照 2023-12-29).
+
+离开警局后，该用户认为 MIUI 通过 `api.installer.xiaomi.com`、`sec.miui.com`、`avlyun.com` 等域名，
+上传了 App 安装卸载信息，包括但不限于包名、应用名、签名等。而这些被上传的信息，流向了反诈。[^04257]
 
 ## 禁止安装应用
 
