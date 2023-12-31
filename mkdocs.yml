@@ -367,7 +367,6 @@ plugins:
       "movement/扫黄打非·净网2014.md": "activities/扫黄打非·净网2014.md"
       "movement/扫黄打非·净网2015.md": "activities/扫黄打非·净网2015.md"
       "movement/网络安全宣传周活动.md": "activities/网络安全宣传周活动.md"
-      "punish/APP侵害用户权益专项整治行动/APP侵害用户权益专项整治行动.md": "punish/APP侵害用户权益专项整治行动/index.md"
       "rule/关于进一步清理整治不规范地名的通知.md": "rule/多部门/关于进一步清理整治不规范地名的通知.md"
       "rule/上海市密室剧本杀内容备案管理规定.md": "rule/地区规范性文件/上海市密室剧本杀规定.md"
       "rule/中国演出行业协会/演出行业演艺人员从业自律管理办法.md": "rule/行业协会/演出行业演艺人员从业自律管理办法.md"
@@ -379,6 +378,7 @@ plugins:
       "website/新浪博客.md": "company/新浪/新浪博客.md"
       "website/新浪微博.md": "company/新浪/新浪微博.md"
       "website/Amazon.md": "company/Amazon/index.md"
+      # "punish/APP侵害用户权益专项整治行动/APP侵害用户权益专项整治行动.md": "punish/APP侵害用户权益专项整治行动/index.md"  # 已经拆分到 gld 分站上，所以不再需要这个了。
 
 extra:
   generator: false
