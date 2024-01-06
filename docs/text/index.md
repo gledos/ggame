@@ -74,7 +74,7 @@ icon: material/text
 2023年11月3日，有消息称，清史项目产出的完整稿子没过政审，导致出版工作被搁置，
 原因与「受国外新清史影响过大」有关。[^71934]
 
-[^71934]: Taisu Zhang, [Academic news of the day: the Qing History Project at Renmin University and CASS (this is the govern……](https://twitter.com/ZhangTaisu/status/1720433121428971934), X（Twitter）, 2023-11-03. (参照 2023-11-05).
+[^71934]: Taisu Zhang, [Academic news of the day: the Qing History Project at Renmin University and CASS (this is the govern……](https://web.archive.org/web/20231214123023/https://nitter.net/ZhangTaisu/status/1720433121428971934), X（Twitter）, 2023-11-03. (参照 2023-11-05).
 
 2023年11月30日，有消息称易中天编写的《易中天中华史》全系列书籍，共计 25 个产品被全平台下架，[^lqtLm] 不过一日后，
 京东上仍有此书籍的售卖，尚不明确事件细节。
@@ -135,7 +135,7 @@ icon: material/text
 [^10725]: 李若如与李向陽, 《[中國容不得「實事求是思想」？《財新》社論疑批習近平遭下架](https://web.archive.org/web/20231226160027/https://www.rfa.org/cantonese/news/cn-editorail-12252023210725.html)》, Radio Free Asia, 2023-12-26. (参照 2023-12-27).
 [^45711]: 《中美印象》转发, 《[财新社论：重温实事求是思想路线](https://web.archive.org/web/20231227045711/https://zhongmei.report/zh/2023/12/26/caixin-editorial/)》, 美中故事汇, 2023-12-26. (参照 2023-12-27).
 
-这篇社会很快就被删除。财新一个月前发布的社论《改革亟须新突破》，也被新娘微博审查，
+这篇社会很快就被删除。财新一个月前发布的社论《改革亟须新突破》，也被新浪微博审查，
 新浪微博删除了有关《改革亟须新突破》的微博，[^03583] 不过《财新周刊》官网的《改革亟须新突破》，仍能阅读。[^24637]
 
 [^24637]: 财新周刊, 《[社论｜改革亟须新突破](https://web.archive.org/web/20231225130807/https://weekly.caixin.com/2023-11-04/102124637.html)》, 财新网, 2023-11-06. (参照 2023-12-27). 附言：有付费墙，无法查看全文。

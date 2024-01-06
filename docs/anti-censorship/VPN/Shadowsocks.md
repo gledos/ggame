@@ -38,7 +38,7 @@ dateCreated: "2021-10-27T22:41:53"
 
 > [!abstract]+ 相关链接
 >
-> +   [Circumvention Tool Deleted After Police Visit Developer - China Digital Times (CDT)](https://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/)
+> +   [Circumvention Tool Deleted After Police Visit Developer - China Digital Times (CDT)](https://web.archive.org/web/20150826060429/http://chinadigitaltimes.net/2015/08/circumvention-tool-deleted-after-police-visit-developer/)
 > +   [SS作者被约谈，项目已Removed according to regulations](https://web.archive.org/web/20190907070114/http://bangumi.tv/group/topic/311628)
 > +   [关于最近 @clowwindy 事件的整理 - PRIN BLOG](https://web.archive.org/web/20201128070624/https://printempw.github.io/about-clowwindy-archive/)
 > +   [Shadowsocks 的前世后生 - GFW Blog - 中国数字时代](https://chinadigitaltimes.net/chinese/539262.html)
