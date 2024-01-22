@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2023-12-27T14:27:33"
+date: "2024-01-22T12:30:30"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,33 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2024年1月2日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年1月2日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++  《[朝鲜青少年因观看韩剧被判12年劳动改造](https://web.archive.org/web/20240120120530/https://www.bbc.com/zhongwen/simp/world-68027368)》, BBC News 中文. 参照: 2024-01-22. [Online].
++   Benjamin Mueller, 《[在向世界警告新冠大流行前，中国已掌握病毒关键基因图谱](https://web.archive.org/web/20240122024329/https://cn.nytimes.com/science/20240119/covid-china-us-pandemic/)》, 纽约时报中文网, 2024-01-19. (参照 2024-01-22).
++   Jason McLure, 《[【解释影片】一家烟草巨头如何改变全球反烟草条约？](https://web.archive.org/web/20240121084712/https://theinitium.com/zh-Hans/article/20240121-mainland-china-tobacco-video-explainer)》, 端传媒 Initium Media, 2024-01-21. (参照 2024-01-22).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZa3vSgAKCRCZXo6bU2oX
+pLryAP0abPnR4uLCaKModbkipdZcL++vAmGT0EeYPFO0xFnXkgEAiz1RTxlZTSZF
+d6U6KP7sLTbuGhLCeUL2EQ4Iwtp3SAw=
+=ect5
+-----END PGP SIGNATURE-----
+```
+
+
+## 过去的令状金丝雀
 
 ### 2023年12月27日
 
@@ -44,8 +71,6 @@ OHC9/NfJYzyhaacq0bWR+uBdC8Fw1AU=
 =YsdT
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2023年11月28日
 

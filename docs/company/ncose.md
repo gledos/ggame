@@ -12,7 +12,7 @@ dateCreated: "2023-11-11T16:18:47"
 
 NCOSE 是 National Center on Sexual Exploitation 的简称，意为国家反性剥削中心，是美国的非盈利机构（NPO），虽然前缀是国家（National），但它是一个独立的非营利组织，其运作和决策不受美国政府控制。NCOSE 最初名为 Morality in Media（道德与媒体），2015 年时更名为 NCOSE。
 
-NCOSE 认为将性商品化是有害的，[^about] 于是处处针对各种贩售或托管色情内容的平台，比如曾经针对 Pornhub 撰写负面文章，并呼吁 [信用卡公司](/company/信用卡公司.md) 停止支持 Pronhub。[^srvpp]
+NCOSE 认为将性商品化是有害的，[^about] 于是处处针对各种贩售或托管色情内容的平台，比如曾经针对 Pornhub 撰写负面文章，并呼吁 [信用卡公司](/company/信用卡公司.md) 停止支持 Pornhub。[^srvpp]
 
 [^about]: [About](https://web.archive.org/web/20231101084634/https://endsexualexploitation.org/about/), NCOSE, 2023-11-11. (参照 2023-11-11).
 
