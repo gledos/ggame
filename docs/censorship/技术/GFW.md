@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2023-11-10T12:50:11"
+date: "2024-02-07T12:29:46"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -68,15 +68,7 @@ SNI 是 Server Name Indication（服务器名称指示）的缩写，SNI 会找 
 
 所以 GFW 能通过深度包检测，检测到应用层的 SNI 握手明文，然后丢包或者发送 TCP 重置，从而封禁特定网站。
 
-对此，存在名为域前置（[Domain fronting][]）的绕过方案，这是一种发送虚假 SNI 给服务器的方案，由于 SNI 本身属于扩展协议，所以不正确的 SNI 或者没有 SNI，可能会触发服务器的兼容性功能，从而返回默认的或通用的证书，允许连接建立。（属于一种向前兼容）
-
-[Domain fronting]: https://en.wikipedia.org/wiki/Domain_fronting
-
-2016 年开始，IM 软件 Signal、Telegram 使用了域前置规避审查，来解决被部分地区封锁的问题，2018年4月14日，由于俄罗斯大规模封禁 Google 和 Amazon 云的 IP，尝试禁止这些软件，所以 Google 和 Amazon 禁用了域前置，云运营商给出的理由是「安全问题」。这标志依附的自由策略逐渐失效。[^df]
-
-[^df]: <https://en.wikipedia.org/wiki/Domain_fronting>
-
-除了域前置这种绕过 GFW 的方案，还有升级 TLS 协议这种手段，使 SNI 被加密，但是升级协议会有较长的缓冲期……
+对此，存在名为<ruby>[域前置](/anti-censorship/域前置.md)<rt>Domain fronting</rt></ruby>的绕过方案。
 
 ### 限制 QUIC
 
