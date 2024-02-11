@@ -214,11 +214,11 @@ Unicom) 证实，政府已下令屏蔽必应。」[^1215]
 
 > [!quote]+ `cn.bing.com/cnlegal` 提示的内容（2024年2月4日）[^34410]
 >
-Bing China has been required by the relevant government agency to suspend the search
-auto suggestion feature in mainland China for 15 days under PRC laws. Bing is a global
-search platform and remains committed to respect the rule of law and users’ right to access
-information and to help users find information to the greatest extent feasible under
-applicable laws.
+> Bing China has been required by the relevant government agency to suspend the search
+> auto suggestion feature in mainland China for 15 days under PRC laws. Bing is a global
+> search platform and remains committed to respect the rule of law and users’ right to access
+> information and to help users find information to the greatest extent feasible under
+> applicable laws.
 
 不过数日后，依然没有媒体报导此事。
 
