@@ -371,6 +371,7 @@ plugins:
       "rule/上海市密室剧本杀内容备案管理规定.md": "rule/地区规范性文件/上海市密室剧本杀规定.md"
       "rule/中国演出行业协会/演出行业演艺人员从业自律管理办法.md": "rule/行业协会/演出行业演艺人员从业自律管理办法.md"
       "rule/中国音像与数字出版协会游戏出版工作委员会/网络游戏行业防沉迷自律公约.md": "rule/行业协会/网络游戏行业防沉迷自律公约.md"
+      "rule/Smart_set-top_box.md": "serviceprovider/智能机顶盒.md"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
       "technology/VPN.md": "anti-censorship/VPN/index.md"
       "theme/书籍审查主题.md": "text/index.md"
