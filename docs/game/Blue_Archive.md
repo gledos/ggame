@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2024-01-26T19:38:23"
+date: "2024-02-22T21:44:53"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -141,6 +141,13 @@ dateCreated: "2022-11-14T21:57:06"
 [^enpub]: 「[哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](http://archive.today/2024.01.26-091124/https://www.bilibili.com/?spm_id_from=333.788.selfDef.errorpage)」, archive.ph, 2024-01-26. (参照 2024-01-26). 附言：这是威威字幕君的视频被删除后，重定向到首页的存档。
 
 造成这种尴尬的状况，原因可能是「[李佳琦悖论](/people/李佳琦.md#李佳琦悖论)」。尚不明确简中服之后是否会修改剧情。
+
+## 社团聊天敏感词
+
+2024年2月22日，《蔚蓝档案》国际服和日服的社团聊天，被 gledos 注意到存在敏感词系统。
+
++   国际服：敏感词是「cu」，「excuse」会变成「ex\*\*se」。
++   日服：敏感词是「b」「B」「c」「C」，「The quick brown fox jumps over the lazy dog.」会变成「The qui\*k \*rown fox jumps over the lazy dog.」
 
 ## 简中服的和谐
 
@@ -561,7 +568,33 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 > • 调整个别界面文字、标语等处涉及外文的相关文字内容
 
 [^FpUch]: 蔚蓝档案, 《[〈蔚蓝档案〉01月04日维护更新公告](http://archive.today/2024.01.03-092544/https://www.bilibili.com/read/cv28990976/)》, 哔哩哔哩, 2024-01-03. (参照 2024-01-03).
+
 [^52z3m]: 《[〈蔚蓝档案〉01月04日维护更新公告 (2024年01月03日 16:21)](https://web.archive.org/web/20240103133542/https://rentry.org/52z3m)》, Rentry, 2024-01-03. (参照 2024-01-03). 附言：修改后的美术资源存档。
+
+### 阿洛娜的日程笔记（第 7 期）
+
+2024年2月22日，《蔚蓝档案》简中服发布了「未来视」消息，给出了未来三个活动的安排情况：
+
+| 活动名称                             | 开始  | 结束  | 限时招募                                       |
+| ------------------------------------ | ----- | ----- | ---------------------------------------------- |
+| 【冒失修女与古书馆的魔法师】限时活动 | 02-29 | 03-14 | 忧<br>日向                                     |
+| 【革命之伊万库帕拉】限时活动复刻     | 03-14 | 03-21 | 真里奈<br>切里诺                               |
+| 【船上的兔子追击者】限时活动         | 03-21 | 04-04 | 妮露（邦妮）<br>花凛（邦妮）<br>明日奈（邦妮） |
+
+前两个活动都能看到「活动海报」以及「招募海报」，但是【船上的兔子追击者】活动并没有兔女郎海报。[^bacn577][^2PnyP][^cXxEp][^93668]
+而哔哩哔哩发布的日程笔记底部，有一张长图，给出了「活动横幅」和「招募横幅」，不过刚好都看不到服装。[^93668]
+
+[^bacn577]: 《蔚蓝档案》运营团队, 《[阿洛娜的日程笔记（第7期）](https://bluearchive-cn.com/news/577)》, 《蔚蓝档案》手游官方网站, 2024-02-22. (参照 2024-02-22).
+
+[^2PnyP]:  夏萊事務所, 《[「船上的兔子追逐者」活動劇情開啟禮物](https://ghostarchive.org/archive/2PnyP "https://forum.nexon.com/bluearchiveTW/board_view?thread=2122328")》, Blue Archive TW, 2022-04-29. (参照 2024-02-22).
+
+[^cXxEp]: 夏萊事務所, 《[4/11(二)特選招募&特別特選招募公告](https://ghostarchive.org/archive/cXxEp "https://forum.nexon.com/bluearchiveTW/board_view?thread=2122644")》, Blue Archive TW, 2023-04-10. (参照 2024-02-22).
+
+[^93668]: [cv31793668 图片](https://web.archive.org/web/20240222043048/https://rentry.org/cv31793668), rentry, 2024-02-22. (参照 2024-02-22).
+
+[^93668]: 蔚蓝档案, 《[阿洛娜的日程笔记（第7期）](https://web.archive.org/web/20240222043036/https://www.bilibili.com/read/cv31793668/)》, 哔哩哔哩, 2024-02-22. (参照 2024-02-22).
+
+国际服同样的活动中，「花凛（邦妮）」其实是「花凛（兔女郎）」，[^cXxEp] 说明这可能是针对「兔女郎」的审查。尚不明确实装之时，立绘与模型是否会修改。
 
 ## 其他内容
 

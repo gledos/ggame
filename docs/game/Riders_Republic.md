@@ -8,14 +8,19 @@ editor: markdown
 dateCreated: "2021-11-11T10:20:16"
 ---
 
-## 游戏名清单
+## 简介
 
-+ 不同语言的游戏名
-    + 英语: Riders Republic[^en]
-    + 德国[^de]、法国[^fr]、韩国[^kr]等地未翻译标题
-    + 日语: 「Riders Republic」 或者 ライダーズ リパブリック
-    + 繁体中文: 極限共和國[^tc]
-    + 简体中文: 极限国度[^sc]
+〔待续〕
+
+## 译名问题
+
+> [!summary]+ 不同语言的游戏名
+>
+> +   英语: Riders Republic[^en]
+> +   德国[^de]、法国[^fr]、韩国[^kr] 等地，均未翻译标题
+> +   日语: 「Riders Republic」 或者 ライダーズ リパブリック
+> +   繁体中文: 極限共和國[^tc]
+> +   简体中文: 极限国度[^sc]
 
 [^en]: [Riders Republic for PS5, Xbox Series X|S & More | Ubisoft (GB)](https://web.archive.org/web/20211210205119/https://www.ubisoft.com/en-gb/game/riders-republic)
 
@@ -31,6 +36,4 @@ dateCreated: "2021-11-11T10:20:16"
 
 [^sc]: [极限国度- PC, PS4, Xbox One | 育碧游戏](https://web.archive.org/web/20210613132910/https://zh-cn.ubisoft.com/ridersrepublic)
 
-## 翻译问题
-
-该游戏的简体中文避免了共和国这个翻译。
+可以看出，Riders Republic 的简体中文翻译，避免了「共和国」这个词语。
