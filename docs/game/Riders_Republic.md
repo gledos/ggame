@@ -2,7 +2,7 @@
 title: Riders Republic
 description:
 published: true
-date: "2021-11-11T10:20:16"
+date: "2024-02-22T23:35:15"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-11-11T10:20:16"
@@ -10,7 +10,20 @@ dateCreated: "2021-11-11T10:20:16"
 
 ## 简介
 
-〔待续〕
+> [!summary inline end]+ 元数据
+>
+> ![标志](https://s3.tebi.io/ggame/ShareX/game_Riders_Republic_logo.webp "https://www.steamgriddb.com/game/416531")
+>
+> ```yaml
+> 标题:
+> - 英文: "Riders Republic"
+> - 简体中文: "极限国度"
+> - 繁体中文: "極限共和國"
+> ```
+
+《极限国度》是育碧阿讷西开发的体育游戏，于 2021年10月28日 全球发售。[^wiki]
+
+[^wiki]: 《[極限共和國](https://zh.wikipedia.org/w/index.php?title=極限共和國&oldid=81102060)》, 维基百科，自由的百科全书. 2024-02-15. 参照: 2024-02-22. [Online].
 
 ## 译名问题
 
@@ -36,4 +49,7 @@ dateCreated: "2021-11-11T10:20:16"
 
 [^sc]: [极限国度- PC, PS4, Xbox One | 育碧游戏](https://web.archive.org/web/20210613132910/https://zh-cn.ubisoft.com/ridersrepublic)
 
-可以看出，Riders Republic 的简体中文翻译，避免了「共和国」这个词语。
+Riders Republic 直译是「骑手共和国」，不过前作 Steep 被翻译成了《极限巅峰》，所以该作翻译成《极限共和国》很合理。
+不过简中译名最终选择了《[极限国度](https://ggame.gledos.science/game/Riders_Republic.html)》，繁中才是《極限共和國》。
+
+可以看出，Riders Republic 的简体中文翻译，刻意避免了「共和国」这个词语。
