@@ -13,11 +13,9 @@ dateCreated: "2021-09-28T23:09:13"
 
 > [!summary inline end]+ 反恐精英：全球攻势
 >
-> ![CSGO白色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_white.webp#only-dark)
+> ![CSGO白色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_white.webp#only-dark "https://www.steamgriddb.com/logo/56047")
 >
-> ![CSGO黑色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_black.webp#only-light)
->
-> [^logo]
+> ![CSGO黑色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_black.webp#only-light "https://www.steamgriddb.com/logo/56046")
 >
 > ```yaml
 > 标题:
@@ -32,15 +30,14 @@ dateCreated: "2021-09-28T23:09:13"
 > - 完美世界: 2017年9月15日
 > ```
 
-[^logo]: Overbrine, [Logo for Counter-Strike: Global Offensive](https://www.steamgriddb.com/logo/56047), [Black](https://www.steamgriddb.com/logo/56046).
+<ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。于 2012年8月21日 全球发售。
 
-<ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。
-
-《反恐精英：全球攻势》（Counter-Strike: Global Offensive）已在 2023 年更新为了《反恐精英 2》（CS2）。
+2023 年，《反恐精英：全球攻势》更新为了《反恐精英 2》（CS2）。
 
 ## 移除部分阵营
 
-CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营）的概念艺术设计，测试版中还存在 [宪兵特勤队][]（CT 阵营）的模型。
+CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营）的概念艺术设计，
+测试版中还存在 [宪兵特勤队][]（CT 阵营）的模型。
 
 [红卫兵]: https://counterstrike.fandom.com/wiki/Cultural_Revolutionaries
 [PLA]: https://counterstrike.fandom.com/wiki/PLA
@@ -58,11 +55,66 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 ## 完美世界和谐与反和谐
 
-2017年9月15日，完美世界代理了 CSGO，并调整了大量地图、饰品细节。比如替换红色血液为黑色，将地图中的共产主义标志，以及阿拉伯文移除，将饰品的骷髅图案移除。[^hclic]
+2017年9月15日，完美世界代理了 CSGO，并调整了大量地图、饰品细节。比如替换红色血液为黑色，将地图中的共产主义标志，
+以及阿拉伯文移除，将饰品的骷髅图案移除。[^hclic]
 
 [^hclic]: Dennis Loudmouth, [_What does CS:GO look like in China? Stickers, music, models, maps_](https://web.archive.org/web/20231115065556/https://cs.money/blog/games/how-csgo-looks-in-china-version-differences/), CS.MONEY Blog, 2023-06-22. (参照 2023-11-15).
 
+> [!note]+ Exerpas 整理的审查图鉴
+>
+> 详细和谐情况，可以查看 Exerpas 整理的审查图鉴：
+>
+> +   [Every Censored CS:GO Skin | Part 1][exe_1]
+> +   [Every Censored CS:GO Sticker, Graffiti, Patch & Gloves | Part 2][exe_2]
+> +   [Every Censored CS:GO Misc Item | Part 3][exe_3]
+
+[exe_1]: https://steamcommunity.com/sharedfiles/filedetails/?id=2865044206
+[exe_2]: https://steamcommunity.com/sharedfiles/filedetails/?id=2876867229
+[exe_3]: https://steamcommunity.com/sharedfiles/filedetails/?id=2880859605
+
 但是玩家发现反和谐的操作，比起完美世界之前代理的 [Dota 2](/game/Dota_2.md) 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
+
+### 激流大行动和谐
+
+激流大行动是 CSGO 在 2021年9月21日 推出的活动，其中就行推出了饰品，而这些饰品被大量和谐了。
+
+> [!quote]+ Hildskjalf的动态[^K0USq]
+>
+> ![MAC-10](/src/game/csgo/MAC-10.webp)
+>
+> ![P250](/src/game/csgo/P250.webp)
+>
+> ![SG-553](/src/game/csgo/SG-553.webp)
+>
+> ![布章1](/src/game/csgo/布章1.webp)
+>
+> ![布章2](/src/game/csgo/布章2.webp)
+>
+> ![布章3](/src/game/csgo/布章3.webp)
+>
+> ![贴纸](/src/game/csgo/贴纸.webp)
+
+[^K0USq]: Hildskjalf, [哔哩哔哩动态](https://archive.is/K0USq "https://t.bilibili.com/573870367335100723"), 哔哩哔哩.
+
+### Recoil 箱子皮肤和谐
+
+2022年7月2日，CSGO 更新了 Recoil 箱子，里面只有一个含有骷髅的 R8 左轮手枪被和谐：[^678144017188257801]
+
+[^678144017188257801]: RushB中文网, 《[新箱子唯一一件和谐皮肤，区别是枪身的骷髅有无。](https://archive.ph/y6hcE "https://t.bilibili.com/678144017188257801")》, 哔哩哔哩, 2022-07-02. (参照 2022-07-02).
+
+<script
+  defer
+  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+></script>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
+/>
+
+<img-comparison-slider>
+  <img slot="first" src="https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp" />
+  <img slot="second" src="https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp" />
+</img-comparison-slider>
 
 ## 台湾战队被取消资格
 
@@ -298,48 +350,6 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 2021年6月9日，「Music Kit | Neck Deep, The Lowlife Pack」音乐盒的简体中文翻译从「痞子帮」修改为了「躺平青年」。[^BV1mK4y137co]
 
 [^BV1mK4y137co]: 某毕业的vup, 《[CSGO音乐盒痞子帮改名躺平（赢）青年！？你们要的改名还是来了.](https://archive.ph/34L6k "https://www.bilibili.com/video/BV1mK4y137co")》, 哔哩哔哩, 2021-06-09. (参照 2022-07-28).
-
-## 激流大行动和谐
-
-激流大行动是 CSGO 在 2021年9月21日 推出的活动，其中就行推出了饰品，而这些饰品被大量和谐了。
-
-> [!quote]+ Hildskjalf的动态[^K0USq]
->
-> ![MAC-10](/src/game/csgo/MAC-10.webp)
->
-> ![P250](/src/game/csgo/P250.webp)
->
-> ![SG-553](/src/game/csgo/SG-553.webp)
->
-> ![布章1](/src/game/csgo/布章1.webp)
->
-> ![布章2](/src/game/csgo/布章2.webp)
->
-> ![布章3](/src/game/csgo/布章3.webp)
->
-> ![贴纸](/src/game/csgo/贴纸.webp)
-
-[^K0USq]: Hildskjalf, [哔哩哔哩动态](https://archive.is/K0USq "https://t.bilibili.com/573870367335100723"), 哔哩哔哩.
-
-## Recoil 箱子皮肤和谐
-
-2022年7月2日，CSGO 更新了 Recoil 箱子，里面只有一个含有骷髅的 R8 左轮手枪被和谐：[^678144017188257801]
-
-[^678144017188257801]: RushB中文网, 《[新箱子唯一一件和谐皮肤，区别是枪身的骷髅有无。](https://archive.ph/y6hcE "https://t.bilibili.com/678144017188257801")》, 哔哩哔哩, 2022-07-02. (参照 2022-07-02).
-
-<script
-  defer
-  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
-></script>
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
-/>
-
-<img-comparison-slider>
-  <img slot="first" src="https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp" />
-  <img slot="second" src="https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp" />
-</img-comparison-slider>
 
 ## 完美世界二代问题
 
