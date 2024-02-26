@@ -10,7 +10,7 @@ dateCreated: "2021-06-10T08:58:51"
 
 ## 简介
 
-WAPI 的全称是<ruby>无线局域网<rt>WLAN</rt></ruby><ruby>鉴别<rt>Authentication</rt></ruby><ruby>与<rt>and</rt></ruby><ruby>保密<rt>Privacy</rt></ruby><ruby>基础结构<rt>Infrastructure</rt></ruby>。
+WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authentication and Privacy Infrastructure</rt></ruby>。
 
 ## 时间线
 
