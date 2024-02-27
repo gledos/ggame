@@ -2,7 +2,7 @@
 title: WAPI
 description:
 published: true
-date: "2024-02-26T21:30:31"
+date: "2024-02-27T22:24:26"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-10T08:58:51"
@@ -147,6 +147,21 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^67677]: 计算机世界网, 《[WLAN安全标准再起波澜 美大使向中国发声明](https://web.archive.org/web/20050407114148/http://tech.sina.com.cn/other/2003-12-12/1535267677.shtml)》, 新浪网, 2003-12-12. (参照 2024-02-26).
 
+> [!abstract]+ 媒体态度
+>
+> 这段时间中，知名媒体对于 WAPI 的报导，比如中国经营报[^79029]、赛迪网（工业和信息化部直属单位）[^90423]、
+> 中国计算机报（工业和信息化部主管）[^jszqa]，基本都会提及 WAPI 是为了解决安全性而生的。
+>
+> 南方周末直接表示 WAPI 不是贸易保护主义，BWIPS 新闻发言人刘朝阳表示 WAPI 的目的是保护国家安全。[^73569]
+
+[^79029]: 中国经营报, 《[中国宽带无线IP标准WAPI大事记](https://web.archive.org/web/20130617215632/http://tech.sina.com.cn/it/2004-12-18/0751479029.shtml)》, 新浪网, 2004-12-18. (参照 2024-02-25).
+
+[^90423]: 赛迪网-中国计算机报, 《[无线局域网(WLAN)两项国家标准正式颁布](https://web.archive.org/web/2/https://tech.sina.com.cn/it/t/2003-05-23/1723190423.shtml)》, 新浪网, 2003-05-23. (参照 2024-02-25).
+
+[^jszqa]: 中国计算机报／曾宝晖, 《[WLAN 煮酒论安全－谈无线局域网的安全问题及标准](https://web.archive.org/web/20040419031651/http://www.chinabwips.org/jszq-aq-02-1.htm)》, 中国宽带无线IP标准工作组, 2004-. (参照 2024-02-25).
+
+[^73569]: 南方周末, 《[中国无线标准剑指安全性 WAPI攻伐之声不断](https://web.archive.org/web/20050416092220/http://tech.sina.com.cn/it/t/2003-12-25/1701273569.shtml)》, 新浪网, 2003-12-25. (参照 2024-02-25).
+
 <!--
     3G 时代，电信（CDMA1x、EV-DO）、移动（TD-SCDMA）和联通（W-CDMA、HSPA+）不兼容。
 -->
@@ -177,7 +192,15 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 >
 > 2004年4月19日，吴仪坐上前往美国的飞机后，才有官媒报导此次商贸联委会会议。[^43428]
 >
-> 2004年4月22日，中美达成协定，[^smyyt] 将无限期推迟强制实施的 WAPI 标准。[^65021][^52746]
+> 2004年4月22日，中美达成协定，[^smyyt] 将无限期推迟强制实施的 WAPI 标准。[^65021][^22335]
+>
+> 附言：「无限期推迟强制实施的 WAPI 标准」，大陆媒体均是转载，[^52746] 没有官方直接宣布的报导。
+>
+> 2004年5月9日，人民网发布了评论文章《中国推迟实施 WAPI 标准并非迁就美国》（作者米阿仑），澄清了 WAPI 的缺点（祛魅），
+> 批判了一些神话 WAPI 的报导，以及正视 WAPI 没有受到美国、Wi-Fi 厂家不公正待遇的情况。[^58779]
+>
+> 文中还提到了反对 WAPI 民族主义，「支持 WAPI 就是符合国家利益、反对 WAPI 就是反对国家利益。」是错觉，
+> 算是给 WAPI 事件降温吧。
 
 [^35434]: 《[中美商务理事会在京成立](https://web.archive.org/web/20150507235434/http://finance.sina.com.cn/nz/US-China/)》, 新浪网, 2003-. (参照 2024-02-26).
 
@@ -201,11 +224,15 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^smyyt]: 《[吴仪访美磋商贸易议题](https://web.archive.org/web/20070315093524/http://news.sina.com.cn/z/wycsmyyt/index.shtml)》, 2003-. (参照 2024-02-26).
 
-[^65021]: Grant Gross, 《[China agrees to drop WAPI standard](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html)》, Computerworld, 2004-04-22. (参照 2024-02-26).
+[^65021]: Grant Gross, [China agrees to drop WAPI standard](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html), Computerworld, 2004-04-22. (参照 2024-02-26).
+
+[^22335]: Elizabeth Becker, [China Agrees To Postpone Wireless Plan](https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html), The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].
 
 [^52746]: 新浪科技, 《[中美达成协定推迟WAPI实施 6月不会强制认证](https://web.archive.org/web/20130616153628/http://tech.sina.com.cn/it/t/2004-04-22/0710352746.shtml)》, 新浪网, 2004-04-22. (参照 2024-02-26).
 
-2001年1月29日，博通公司 CEO Alan E. "Lanny" Ross 和 Wi-Fi 联盟负责人丹 Dennis Eaton 接受路透社采访，
+[^58779]: 人民网／米阿仑, 《[评论：中国推迟实施WAPI标准并非迁就美国](https://web.archive.org/web/20220519181508/http://tech.sina.com.cn/it/2004-05-09/1019358779.shtml)》, 新浪网, 2004-05-09. (参照 2024-02-27).
+
+2004年1月29日，博通公司 CEO Alan E. "Lanny" Ross 和 Wi-Fi 联盟负责人丹 Dennis Eaton 接受路透社采访，
 透露了担心芯片设计在中国将被盗版和复制的问题，因为一些限制，必须在大陆制造 WAPI 芯片，
 所以除非解决知识产权（IP）泄漏的问题，否则会考虑暂停 Wi-Fi 芯片供应。[^34385]
 
@@ -262,24 +289,79 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 [^97990]: 《[无线局域网产品使用的 SMS4 密码算法](https://web.archive.org/web/20110707041401/http://www.oscca.gov.cn/UpFile/200621016423197990.pdf)》, 国家密码管理局, 2007-. (参照 2024-02-25).
 [^85032]: Jiqiang Lu, [_Attacking reduced-round versions of the SMS4 block cipher in the Chinese WAPI standard_](https://dl.acm.org/doi/abs/10.5555/1785001.1785032), Proceedings of the 9th international conference on Information and communications security, Berlin, Heidelberg, 2007, 页码 306–318.
 
+2008年11月19日，南方都市报给出了相关方对 Wi-Fi 手机的看法：[^54933]
+
++   不具名工业和信息化部人士：「不检测、不认证、不许可」。
+
++   不具名电信内部人士：「我们是否将推出 Wi-Fi 手机，以及何时推出 Wi-Fi 手机将取决于政府态度。
+    我们在技术上已经完全没有障碍，正在等待政府决策。」
+
++   某手机厂商：「Wi-Fi 手机批量生产肯定要等到工信部出台政策后。」
+
+[^54933]: 南方都市报, 《[中电信失意WiFi手机 “天翼”等待政策放行](https://web.archive.org/web/20110204221211/http://www.chinanews.com/it/txxw/news/2008/11-19/1454933.shtml)》, 中国新闻网, 2008-11-19. (参照 2024-02-27).
+
+> [!note]+ Calypso C1250i（最早含有 Wi-Fi 功能的手机）
+>
+> 2003年，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
+> 后者需要提供 Wi-Fi 宽带、视频聊天功能的手机。[^13871][^60358]
+
+[^13871]: 21世纪经济报道／陈志刚, 《[消息称中国电信借力美国公司 密谋Wi-Fi手机](https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml)》, 新浪网, 2003-07-26. (参照 2024-02-27).
+
+[^60358]: [_Calypso Wireless inks USD500 million Wi-Fi deal_](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/), TeleGeography, 2003-12-02. (参照 2024-02-27).
+
+2008年12月4日，搜狐网采访了一些从业者：[^52363]
+
+[^52363]: 搜狐IT, 《[100万水货手机可用WIFI 行货用户抱怨](https://web.archive.org/web/20081209022958/http://net.zol.com.cn/115/1152363.html)》, 中关村在线, 2008-12-04. (参照 2024-02-27).
+
++   运营商内部知情人士透露：目前，国内市场上的水货手机超过了 300 万，其中有 Wi-Fi 功能的手机超过了 100 万。
++   手机厂商内部人士透露：此前，由于国内的 Wi-Fi 覆盖面积很有限，因此水货中的 Wi-Fi 功能并不是很突出的卖点。但是，随着无线城市建设的加快，Wi-Fi 热点覆盖的增多，水货市场的 Wi-Fi 手机成为热销产品。
++   工信部电信管理局相关人士对「为什么不放开手机 Wi-Fi 的问题」表示：「敏感话题」，不愿意多谈。
+
+2009年2月 上旬，有传闻表示，中国移动已成功游说相关部门：只允许 TD-SCDMA 手机嵌入 Wi-Fi，而 W-CDMA 手机不得嵌入 Wi-Fi，
+否则不发入网证。对此，移动相关负责人对此消息进行了驳斥，称该消息纯属谣言。[^02227]
+
+[^02227]: 计世网／陈楚, 《[传中国移动TD手机将嵌入WIFI](https://web.archive.org/web/20090212150302/http://tech.sina.com.cn/t/2009-02-07/16482802227.shtml)》, 新浪网, 2009-02-07. (参照 2024-02-27).
+
+2009年4月10日，中国电信开始宣传即将上市的 3G 手机。而这些手机明确标明了支持 Wi-Fi 功能，即使工信部仍未表示允许 Wi-Fi 手机。「IT时报」将此形容为闯关。[^91844]
+
+[^91844]: IT时报, 《[WiFi手机闯关前途未卜只有中国禁止](https://tech.sina.com.cn/t/2009-04-10/15422991844.shtml)》, 新浪网, 2009-04-10. (参照 2024-02-27).
+
+2009年4月17日，工业和信息化部召集了几乎所有的手机厂商，在「闭门会议」中宣布今后的 2G、3G 手机都可以使用 WAPI 技术，
+但是没有提及 Wi-Fi 相关的话题。数日后，这个「闭门会议」被手机厂商透露给媒体，
+中国电信表示目前设备厂商大力推出 Wi-Fi/WAPI 双模兼容型产品。[^12316][^15726][^68783]
+
+[^12316]: Stev, 《[手机接入无线局域网开禁 工信部放行国产标准](https://web.archive.org/web/20240227140459/https://www.isc.org.cn/article/12316.html)》, 中国互联网协会, 2009-04-29. (参照 2024-02-27).
+
+[^15726]: 信息时报讯／杨章玉, 《[传工信部同意手机用WAPI技术 未对WiFi表态](https://web.archive.org/web/20240227140205/https://tech.sina.cn/t/2009-04-22/detail-ichmifpy2815726.d.html)》, 新浪网, 2009-04-22. (参照 2024-02-27).
+
+[^68783]: 广州日报, 《[WAPI可兼容WIFI：手机接入速度更快 资费恐洗牌](https://web.archive.org/web/20100508010754/http://www.chinanews.com.cn/it/itxw/news/2009/04-29/1668783.shtml)》, 中新网, 2009-04-29. (参照 2024-02-27).
+
+2009年6月23日，〔待续〕
+
+2009年9月16日，时代在线网发布了关于手机 Wi-Fi 的采访与分析：[^92150]
+
+[^92150]: 时代周报记者, 《[解禁前夜 Wi-Fi手机博弈WAPI](https://web.archive.org/web/20240227092150/https://www.time-weekly.com/post/3060)》, 时代在线网, 2009-09-16. (参照 2024-02-27).
+
++   工业与信息化部的知情人士：三大运营商之前关于 Wi-Fi 手机入网的竞争非常激烈，现在，结局已经很清楚了，
+    「Wi-Fi 手机政策会对三大运营商同时开放，很公平」。
+
++   知情人士：很多行货手机也带有 Wi-Fi 功能。这些正货在进行入网检测时，关闭了这一功能，
+    因而才能通过检测。
+
++   分析：入网检测，正是「Wi-Fi 手机政策上受限」在具体操作层面上的体现。一直以来，
+    政府部门没有对 Wi-Fi 手机发布入网许可证，政策上不允许手机接入 Wi-Fi 功能，
+    因而 Wi-Fi 手机就处于「不检测、不认证、不许可」的境地中，所有通过相关机构监测的手机都没有 Wi-Fi 功能。
+
++   知情人士：「之所以如此艰难地问世，更重要的原因还是 Wi-Fi 与 WAPI 的博弈」。
+
+2009年10月16日，联通宣布允许水货 iPhone 使用联通 3G，甚至成立专门的适配部门。联通版本的国行 iPhone 也在一天前透露：
+iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1000 元。[^13601]
+
+[^13601]: 北京青年报, 《[联通不阻水货iphone入网 “水货”并非山寨机](https://web.archive.org/web/20240227134729/https://www.chinanews.com.cn/it/news/2009/10-16/1913601.shtml)》, 中新网, 2009-10-16. (参照 2024-02-27).
+
 2012年3月21日，国家密码管理局正式公布了 WAPI 的加密算法，并更名为《SM4 分组密码算法》（GM/T 0002-2012）。[^1229]
 
 [^1229]: 国家密码管理局, 《[国家密码管理局公告](https://web.archive.org/web/20130711004248/http://www.oscca.gov.cn/News/201204/News_1229.htm)》, 国家商用密码管理办公室, 2012-03-21. (参照 2024-02-25).
-
-> [!abstract]+ 媒体态度
->
-> 这段时间中，知名媒体对于 WAPI 的报导，比如中国经营报[^79029]、赛迪网（工业和信息化部直属单位）[^90423]、
-> 中国计算机报（工业和信息化部主管）[^jszqa]，基本都会提及 WAPI 是为了解决安全性而生的。
->
-> 南方周末直接表示 WAPI 不是贸易保护主义，BWIPS 新闻发言人刘朝阳表示 WAPI 的目的是保护国家安全。[^73569]
-
-[^79029]: 中国经营报, 《[中国宽带无线IP标准WAPI大事记](https://web.archive.org/web/20130617215632/http://tech.sina.com.cn/it/2004-12-18/0751479029.shtml)》, 新浪网, 2004-12-18. (参照 2024-02-25).
-
-[^90423]: 赛迪网-中国计算机报, 《[无线局域网(WLAN)两项国家标准正式颁布](https://web.archive.org/web/2/https://tech.sina.com.cn/it/t/2003-05-23/1723190423.shtml)》, 新浪网, 2003-05-23. (参照 2024-02-25).
-
-[^jszqa]: 中国计算机报／曾宝晖, 《[WLAN 煮酒论安全－谈无线局域网的安全问题及标准](https://web.archive.org/web/20040419031651/http://www.chinabwips.org/jszq-aq-02-1.htm)》, 中国宽带无线IP标准工作组, 2004-. (参照 2024-02-25).
-
-[^73569]: 南方周末, 《[中国无线标准剑指安全性 WAPI攻伐之声不断](https://web.archive.org/web/20050416092220/http://tech.sina.com.cn/it/t/2003-12-25/1701273569.shtml)》, 新浪网, 2003-12-25. (参照 2024-02-25).
 
 <!--
 
