@@ -2,7 +2,7 @@
 title: WAPI
 description:
 published: true
-date: "2024-02-28T22:35:16"
+date: "2024-03-02T00:11:55"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-10T08:58:51"
@@ -372,7 +372,10 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^68783]: 广州日报, 《[WAPI可兼容WIFI：手机接入速度更快 资费恐洗牌](https://web.archive.org/web/20100508010754/http://www.chinanews.com.cn/it/itxw/news/2009/04-29/1668783.shtml)》, 中新网, 2009-04-29. (参照 2024-02-27).
 
-2009年6月23日，知情人士透露的消息表明 Wi-Fi 手机可以随 WAPI 通过入网检测。[^52415]
+2009年6月22日，知情人士透露的消息，表明 Wi-Fi 手机可以随 WAPI 通过入网检测，
+不过纯粹的 Wi-Fi 手机，仍然不能通过入网检测。[^98563][^52415]
+
+[^98563]: 新浪科技, 《[检测机构详解手机WAPI政策:纯WiFi手机不能上市](https://web.archive.org/web/20090625165439/http://tech.sina.com.cn/t/2009-06-22/02203198563.shtml)》, 新浪网, 2009-06-22. (参照 2024-03-01).
 
 [^52415]: 新浪四川, 《[工信部展开WAPI手机入网检测](https://web.archive.org/web/20240228051856/https://sc.sina.com.cn/digi/digiinfo/yunying/2009-06-23/09152415.html)》, 新浪网, 2009-06-23. (参照 2024-02-28).
 
@@ -406,7 +409,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 使用方法是在手机里运行 M8Cracker.exe 软件。
 >
 > 2008年12月，由于尚未取得进网许可证书，魅族 M8 开始以「公测版」的名义销售。该版本与「内测版」基本相同，
-> 也许要使用 M8Cracker 来解除限制。
+> 同样需要 M8Cracker 来解除限制。
 >
 > 2008年12月26～27日，J.Wong 面对魅族 M8 迟迟未能获得「入网许可」，未能上市的指责，给出了辩解：[^73436]
 >
@@ -433,7 +436,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^60641]: ugmbbc, 《[律师:M8内测是变相的销售](https://web.archive.org/web/20080908173440/http://www.cnbeta.com/articles/60641.htm)》, cnBeta.COM, 2008-07-20. (参照 2024-02-28).
 
-[^44355]: PCPOP, 《[J.Wong:魅族M8先到先得 每周放出百部](https://web.archive.org/web/20240228111519/https://digi.it.sohu.com/20081110/n260544355.shtml)》, 搜狐数码, 2008-11-10. (参照 2024-02-28). 附言：Internet Archive 可能没有将链接保存上。
+[^44355]: PCPOP, 《[J.Wong:魅族M8先到先得 每周放出百部](https://web.archive.org/web/20240228111519/https://digi.it.sohu.com/20081110/n260544355.shtml)》, 搜狐数码, 2008-11-10. (参照 2024-02-28).
 
 [^03318]: Sky, 《[传闻被证实 魅族M8支持wifi 破解攻略](https://web.archive.org/web/20081205082437/http://www.beareyes.com.cn/2/lib/200812/03/20081203318.htm)》, 小熊在线, 2008-12-03. (参照 2024-02-28).
 
@@ -559,3 +562,66 @@ iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1
 [端到端加密]: https://en.wikipedia.org/wiki/End-to-end_encryption
 
 考虑到技术的中立性，电信公司为了「禁止多户」，而禁止路由器，显然违反了技术的中立性。
+
+### 摩托罗拉 A3100（联通定制 3G 版）
+
+〔此章节之后会整合到时间线中〕
+
+2009年5月11日，有消息称即将发售的摩托罗拉 A3100（联通定制 3G 版），会保留 Wi-Fi 功能，原因是引入了 WAPI 功能。[^80153][^84472]
+
+[^80153]: 欢少~, 《[摩托罗拉联通定制3G手机A3100揭秘(图)](https://web.archive.org/web/20240301073331/https://tech.sina.com.cn/mobile/n/2009-05-11/10403080153.shtml)》, 新浪网／IT.COM.CN, 2009-05-11. (参照 2024-03-01).
+
+[^84472]: 断了的弦, 《[摩托罗拉A3100行货6月上市 支持WAPI](https://web.archive.org/web/20240301073333/https://tech.sina.com.cn/mobile/n/2009-05-12/12103084472.shtml)》, 新浪网／IT168.com, 2009-05-12. (参照 2024-03-01).
+
+2009年6月11日，摩托罗拉 A3100 开始在北京手机店铺出售。[^69806] 新浪科技称 A3100 在 6月18日 正式上市。[^94889]
+
+[^69806]: 杨雪涛, 《[商务精英 摩托罗拉A3100行货售3500](https://tech.sina.com.cn/mobile/n/2009-06-11/10093169806.shtml)》, 新浪网／手机中国, 2009-06-11. (参照 2024-03-01).
+
+[^94889]: 文元, 《[WAPI/WiFi手机在中国市场正式上市(图)](https://web.archive.org/web/20200514065933/http://tech.sina.com.cn/t/2009-06-19/11303194889.shtml)》, 新浪网／新浪科技, 2009-06-19. (参照 2024-03-01).
+
+不过手机的设置里，使用 WLAN 来表示 Wi-Fi 一词，并且如果要使用 WAPI，需要在设置里选定一种模式，然后重启手机。[^80367][^92952]
+
+[^80367]: 阿涛, 《[3G+WLAN 联通定制MOTO智能旗舰A3100评测](https://web.archive.org/web/20240301094512/https://mobile.pconline.com.cn/review/0906/1680367_all.html)》, 太平洋电脑网, 2009-06-15. (参照 2024-03-01).
+
+[^92952]: 阿涛, 《[WAPI/Wifi手机 MOTO A3100网络功能评测](https://web.archive.org/web/20240301102432/https://mobile.pconline.com.cn/review/0906/1692952_all.html)》, 太平洋电脑网PConline, 2009-06-30. (参照 2024-03-01).
+
+### 诺基亚 5530 XpressMusic
+
+〔此章节之后会整合到时间线中〕
+
+诺基亚品牌的第一台 Wi-Fi/WAPI 行货手机
+
+2009年6月25日，在北京举办的 2009 诺基亚「轻松互联生活」会上，诺基亚发布了 13 款全新手机。[^90694]
+其中就出现了诺基亚 5530 XpressMusic，并在会上提到，这是诺基亚首款支持 WLAN（WAPI + Wi-Fi）的行货产品。[^694_1]
+（虽然诺基亚 5530 XM 属于仅支持 GSM 网络，镜头没有蔡司认证的廉价版机型）
+
+[^90694]: wanpeng1, 《[10款中国市场3G手机!诺基亚在京发13新机](https://web.archive.org/web/20100105172836/http://mobile.pconline.com.cn/dclub/0906/1690694.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
+
+[^694_1]: wanpeng1, 《[诺基亚:新机5530 XpressMusic](https://web.archive.org/web/20100117065034/http://mobile.pconline.com.cn/dclub/0906/1690694_1.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
+
+2006年7月 月底，诺基亚 5530 XM 开始登录广州的市场。[^18235]
+
+[^18235]: 士旦, 《[智能全触摸!诺基亚5530行货仅2190元开卖](https://web.archive.org/web/20090803155451/http://mobile.pconline.com.cn/market/gz/0907/1718235.html)》, 太平洋电脑网, 2009-07-29. (参照 2024-03-01).
+
+诺基亚 5530 XM 的 Wi-Fi 设置，被命名为「WLAN 向导」，没有出现任何含有「Wi-Fi」的表述。[^543_2]
+在官网以及说明书中，也刻意比开了 Wi-Fi 一词：「WLAN；支持 WAPI 和 IEEE 802.11 b/g」，[^5530h] 甚至出现错误翻译：
+
+[^543_2]: VSing, 《[诺基亚5530评测:屏幕、WAPI无线](https://web.archive.org/web/20120227204742/http://mobile.pconline.com.cn/review/0907/1709543_2.html)》, 太平洋电脑网, 2009-07-21. (参照 2024-03-01).
+
+[^5530h]: 《[诺基亚 5530 XpressMusic](https://web.archive.org/web/20090705085556/http://www.nokia.com.cn/find-products/products/nokia-5530-xpressmusic/specifications)》, 诺基亚, 2009-07-05. (参照 2024-03-01). 附言：内含该机型的详细参数。
+
+| 语言     | 描述                                 |
+| -------- | ------------------------------------ |
+| 简体中文 | WLAN 保护访问（WPA）[^5530s]         |
+| 繁体中文 | Wi-Fi 保護存取（WPA）[^5530t]        |
+| 英文     | Wi-Fi protected access (WPA)[^5530e] |
+
+[^5530s]: 《[诺基亚 5530 XpressMusic 用户手册](https://web.archive.org/web/20240301052328/http://nds1.webapps.microsoft.com/files/support/china/phones/guides/Nokia_5530_UG_zh-CN.pdf)》, Nokia. [Online].
+
+[^5530t]: 《[Nokia 5530 XpressMusic 用戶指南](https://web.archive.org/web/20240301052441/http://download-fds.webapps.microsoft.com/supportFiles/files/support/china/phones/guides/Nokia_5530_UG_zh-TW.pdf)》, Nokia. [Online]. 附言：Internet Archive 可能没有将链接保存上。
+
+[^5530e]: 《[Nokia 5530 XpressMusic User Guide](https://web.archive.org/web/20160910123312/http://download-fds.webapps.microsoft.com/supportFiles/phones/files/guides/Nokia_5530_XpressMusic_UG_en.pdf)》, Nokia. [Online].
+
+可以看到简中说明书甚至故意错误翻译，将「Wi-Fi protected access (WPA)」翻译成了「WLAN 保护访问（WPA）」。
+
+还有一个细节，各种语言的说明书里，都写了支持 WAPI 功能，所以其他地区售卖的 5530 XM 应该也含有 WAPI 功能。
