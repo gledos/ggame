@@ -2,7 +2,7 @@
 title: "Clash for Windows"
 description:
 published: true
-date: "2023-11-03T09:36:08"
+date: "2024-03-02T16:24:06"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-11-03T08:19:45"
@@ -92,3 +92,13 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 最后表达了暂停开发的声明，并保留了恢复开发的可能性。[^opboh]
 
 [^opboh]: EAimTY, 《[基于荷尔蒙开发的开源项目](https://web.archive.org/web/20231103102043/https://www.eaimty.com/2023/opensource-project-based-on-hormone/)》, EAimTY’s Blog, 2023-11-03. (参照 2023-11-04).
+
+## 流言
+
+关于 Clash for Windows 删库的原因，有人猜测作者在推特分享了许多个人资料，比如汽车照片、网购截图等，暴露了自己。然后遭到 [有关部门](/censorship/有关部门.md) 施压，最终导致删库事件。[^01751][^70194]
+
+[^01751]: 新时代草泥马, 《[【网络民议】知名翻墙客户端Clash for Windows删库停更](https://web.archive.org/web/20231225140104/https://chinadigitaltimes.net/chinese/701751.html)》, 中国数字时代, 2023-11-02. (参照 2024-03-02).
+
+[^70194]: 学习墙国🐸, 「[建议大家别瞎截屏，注意保护个人信息！](https://web.archive.org/web/20240302082237/https://t.me/s/XueXi_China/70194)」, Telegram, 2023-11-02. (参照 2024-03-02).
+
+不过无法确认具体删库原因，所以此消息真实性未知。
