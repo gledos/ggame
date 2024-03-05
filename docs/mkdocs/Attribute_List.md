@@ -88,3 +88,4 @@ HTML 可以创造跳转锚点，比如：
 
 演示条目：〈[网络游戏管理办法](/rule/国家新闻出版署/网络游戏管理办法.md)〉。
 （[源码](https://github.com/gledos/ggame/blob/master/docs/rule/国家新闻出版署/网络游戏管理办法.md?plain=1)）
+
