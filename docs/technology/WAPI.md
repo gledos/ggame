@@ -2,11 +2,48 @@
 title: WAPI
 description:
 published: true
-date: "2024-03-02T00:11:55"
+date: "2024-03-05T17:06:04"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-10T08:58:51"
 ---
+
+<style>
+/* 以下 css 与 javascript 由 GPT 生成：<https://chat.openai.com/share/897b69b7-107a-4f3a-bce0-0e8c9a1ae2ce> */
+
+.tl.hidden {
+    display: none;
+}
+
+.tl, .summary {
+    display: block;
+}
+</style>
+
+<script>
+function toggleElements(selector, action) {
+    var elements = document.querySelectorAll(selector);
+    elements.forEach(function (element) {
+        element.classList[action]('hidden');
+    });
+}
+
+function showTheme(theme) {
+    // 隐藏所有的时间线段落和相关 .theme
+    toggleElements('.tl, .theme', 'add');
+
+    // 显示特定主题的时间线段落和相关 .theme
+    toggleElements('.tl.' + theme + ', .tl.' + theme + ' .theme', 'remove');
+}
+
+function showAll() {
+    // 显示所有的时间线段落和相关 .theme
+    toggleElements('.tl, .theme', 'remove');
+
+    // 隐藏 .theme
+    toggleElements('.theme', 'add');
+}
+</script>
 
 ## 简介
 
@@ -19,20 +56,50 @@ WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authen
 
 +   [ ] 一加 3G 问题
 
-        相关描述：😏当年一加手机最开始不支持3G网络，需要在官方论坛里下载一个“非官方人员”提供的（经过官方签名的）第三方补丁，
-        就能用3G了。进recovery刷一次就行了，后面再清除数据或者重刷系统也不影响。
+        相关描述：😏当年一加手机最开始不支持3G网络，需要在官方论坛里下载一个“非官方人员”提供的（经过官方签名的）
+        第三方补丁，就能用3G了。进recovery刷一次就行了，后面再清除数据或者重刷系统也不影响。
 -->
 
 〔本章节正在施工中〕
 
+<button class="md-button" onclick="showTheme('oz')">机构专题</button>
+<button class="md-button" onclick="showTheme('dv')">机型专题</button>
+<button class="md-button" onclick="showTheme('ft')">事件专题</button>
+<button class="md-button" onclick="showAll()">全部展示</button>
+
+<!-- 机构专题 -->
+
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ip')">中国宽带无线IP标准工作组</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('mii')">信产／工信部</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ca')">国家密码管理局</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ct')">中国电信</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('cu')">中国联通</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('cm')">中国移动</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('iwncomm')">西电捷通</button>
+
+<!-- 机型专题 -->
+
+<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('c1250i')">Calypso C1250i</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('a3100')">摩托罗拉 A3100（联通定制 3G 版）</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('n5530')">诺基亚 5530 XpressMusic</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('m8')">魅族 M8</button>
+
+<!-- 事件专题 -->
+
+<button class="md-button tl ft tn2004 theme hidden" onclick="showTheme('tn2004')">2004 年贸易谈判</button>
+
 2001年8月，在国家信息产业部科技司的指导下，二十多家单位于在北京召开了「中国宽带无线IP标准工作组」（China Broadband
 Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成立会议。[^bjhtm]
+{: .tl .ip .mii .ca .iwncomm }
 
 [^bjhtm]: 《[工作组背景](https://web.archive.org/web/20030816070455/http://www.chinabwips.org/bj.htm)》, 中国宽带无线IP标准工作组, 2003-08-16. (参照 2024-02-25).
 
 之后 BWIPS 正式组建，官网披露了 10 家创始会员单位：[^cydw]
+{: .tl .ip .ca .iwncomm }
 
 [^cydw]: 《[成员单位](https://web.archive.org/web/20030815170629/http://www.chinabwips.org/cydw.htm)》, 中国宽带无线IP标准工作组, 2003-08-15. (参照 2024-02-25).
+
+<div markdown="1" class="tl ip ca iwncomm">
 
 | 成员单位                           | 通讯地址                                        |
 | ---------------------------------- | ----------------------------------------------- |
@@ -46,6 +113,8 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 | 桂林电子工业学院                   | 广西桂林金鸡路 1 号桂林电子工业学院             |
 | 国家商用密码研究中心               | 北京                                            |
 | 国家无线电监测中心                 | 北京西城区北礼士路 80 号                        |
+
+</div>
 
 <!-- 域名                 | 邮政编码 -->
 <!-- -------------------- | -------- -->
@@ -61,8 +130,12 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 <!-- `www.srrc.org.cn`    | 100037   -->
 
 ＊号表示为「宽带无线IP标准工作组」组长单位。
+{: .tl .ip .ca .iwncomm }
 
 2003 年左右，BWIPS 上线了官方网站，其中给出了研究 WLAN 技术的原因：
+{: .tl .ip }
+
+<div markdown="1" class="tl ip">
 
 > [!quoti]+ 《工作组背景》（摘录）[^bjhtm]
 >
@@ -70,10 +143,13 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 这对于我国面临的国际国内市场、技术的竞争极其不利。为了推动网络化建设，提高我国在无线 IP 方面的国际地位，掌握核心技术，
 > 制定有关无线 IP 方面的标准，成立无线 IP 领域的标准研究组不仅十分必要，而且十分迫切。
 
+</div>
+
 2003年5月12日，两个 WLAN 国家标准同时发布，分别是《信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分:
 无线局域网媒体访问控制和物理层规范》（GB 15629.11-2003）[^14125]
 与《信息技术 系统间远程通信和信息交换局域网和城域网 特定要求 第11部分:
 无线局域网媒体访问控制和物理层规范:2.4 GHz频段较高速物理层扩展规范》（GB 15629.1102-2003）[^75520][^CHN_188]。
+{: .tl .abc .iwncomm }
 
 [^14125]: 西安西电捷通无线网络通信有限公司, 《[信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分:无线局域网媒体访问控制和物理层规范](https://web.archive.org/web/20230323114125/https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFBD3A7E05397BE0A0AB82A)》, 国家标准 - 全国标准信息公共服务平台, 2003-05-12. (参照 2024-02-25).
 
@@ -82,11 +158,15 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 [^CHN_188]: 《[信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第 11 部分： 无线局域网媒体访问控制和物理层规范： 2.4 GHz 频段更高数据速率扩展规范](https://web.archive.org/web/20240225075252/http://www.inmetro.gov.br/barreirastecnicas/pontofocal/textos/regulamentos/CHN_188.pdf)》, [Online].
 
 不过国标的起草公司写的是「西安西电捷通无线网络通信有限公司」，根据之后的专利官司来看，也是该公司持有相关专利。[^72535][^51376]
+{: .tl .iwncomm }
 
 [^72535]: 知产力, 《[被判赔910万元！索尼因侵犯西电捷通无线通信SEP一审败诉,知产力,为创新聚合知识产权解决方案](https://web.archive.org/web/20240225083714/https://www.zhichanli.com/p/1774172535)》, 知产力, 2017-03-22. (参照 2024-02-25).
 [^51376]: 陈涛、陈杰, 《[西电捷通诉索尼WAPI专利侵权案评析](https://web.archive.org/web/20240225083559/https://www.lindapatent.com/cn/info/insights_patent/2022/0125/1376.html)》, 北京林达刘知识产权代理事务所, 2018-. (参照 2024-02-25).
 
 2003年7月9日，「无线局域网国家标准宣贯会」在北京正式召开，关于目的主要提到下面两句话：
+{: .tl .mii }
+
+<div markdown="1" class="tl mii">
 
 > [!quote]+ 无线局域网国家标准宣贯会（摘录）[^07440]
 >
@@ -96,13 +176,28 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 韩俊（信息产业部科技司副司长）：这两个标准是有我国自主知识产权的标准。他不但在国内而且在国际上都申请了许多专业。
 > 两个标准的发布对电信监管提供了有利手段。为共同创造产业发展创良好环境和条件。
 
+</div>
+
 [^07440]: 新浪科技, 《[无线局域网国家标准宣贯会正式召开](https://web.archive.org/web/20060913184910/http://tech.sina.com.cn/it2/2003-07-09/1310207440.shtml)》, 新浪网, 2003-07-09. (参照 2024-02-25).
 
 而安全问题，主要是站在商业推广角度陈述的：「无线安全问题已经日益凸现并成为阻碍无线局域网进入信息化应用领域的最大障碍。」
 所以安全问题至少在此「宣贯会」中是手段，而不是目的。
+{: .tl }
+
+2003年，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
+后者需要提供 Wi-Fi 宽带、视频聊天功能的手机。[^13871][^60358]
+这款型号为 Calypso C1250i 的手机，被一些人认为是最早含有 Wi-Fi 功能的手机。
+{: .tl .c1250i .ct }
+
+[^13871]: 21世纪经济报道／陈志刚, 《[消息称中国电信借力美国公司 密谋Wi-Fi手机](https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml)》, 新浪网, 2003-07-26. (参照 2024-02-27).
+
+[^60358]: [_Calypso Wireless inks USD500 million Wi-Fi deal_](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/), TeleGeography, 2003-12-02. (参照 2024-02-27).
 
 2003年11月26日，「国家质量监督检验检疫总局」与「国家标准化管理委员会」联合发布了
 《关于无线局域网强制性国家标准实施的公告》，要求在不到一周后，禁止进口、生产和销售含有 Wi-Fi 功能的设备。
+{: .tl }
+
+<div markdown="1" class="tl">
 
 > [!rule]- 关于无线局域网强制性国家标准实施的公告[^67244]
 >
@@ -143,9 +238,14 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 二〇〇三年十一月二十六日
 > {: align=right }
 
+</div>
+
 [^67244]: 新浪科技, 《[关于无线局域网强制性国家标准实施的公告](https://web.archive.org/web/20220519183433/http://tech.sina.com.cn/it/t/2003-12-12/0011267244.shtml)》, 新浪, 2003-12-12. (参照 2024-02-25).
 
 2003年12月1日，「国家质量监督检验检疫总局」与「国家认证认可监督管理委员会」发布 2003 年第 113 号公告：
+{: .tl }
+
+<div markdown="1" class="tl">
 
 > [!rule]- 公告（2003 年第 113 号）[^67245]
 >
@@ -161,13 +261,18 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 二〇〇三年十二月一日
 > {: align=right }
 
+</div>
+
 [^67245]: 新浪科技, 《[国家认证认可监督管理委员会12月1日实施公告](https://web.archive.org/web/20130617092739/http://tech.sina.com.cn/it/t/2003-12-12/0013267245.shtml)》, 新浪网, 2003-12-12. (参照 2024-02-25).
 
 2003年12月12日，有业内人士和分析家指出，GB 15629.11-2003 标准只授权少量境内公司有权自由获得加密技术，
 而其他所有国内外的公司，都必须与特许公司合作（可能需要转让技术），才能使用相关加密技术。[^67677]
 因为该标准、技术并非完全开放的，比如加密算法 SM4 在 2003 年还未公开，本质上 WAPI 让 WLAN／Wi-Fi 在大陆变成了专营。
+{: .tl .ca }
 
 [^67677]: 计算机世界网, 《[WLAN安全标准再起波澜 美大使向中国发声明](https://web.archive.org/web/20050407114148/http://tech.sina.com.cn/other/2003-12-12/1535267677.shtml)》, 新浪网, 2003-12-12. (参照 2024-02-26).
+
+<div markdown="1" class="tl ip mii">
 
 > [!abstract]+ 媒体态度
 >
@@ -175,6 +280,8 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 中国计算机报（工业和信息化部主管）[^jszqa]，基本都会提及 WAPI 是为了解决安全性而生的。
 >
 > 南方周末直接表示 WAPI 不是贸易保护主义，BWIPS 新闻发言人刘朝阳表示 WAPI 的目的是保护国家安全。[^73569]
+
+</div>
 
 [^79029]: 中国经营报, 《[中国宽带无线IP标准WAPI大事记](https://web.archive.org/web/20130617215632/http://tech.sina.com.cn/it/2004-12-18/0751479029.shtml)》, 新浪网, 2004-12-18. (参照 2024-02-25).
 
@@ -188,9 +295,11 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
     3G 时代，电信（CDMA1x、EV-DO）、移动（TD-SCDMA）和联通（W-CDMA、HSPA+）不兼容。
 -->
 
+<div markdown="1" class="tl tn2004">
+
 > [!note]+ 贸易谈判
 >
-> 2023年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，[^35434][^12566]
+> 2003年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，[^35434][^12566]
 > 并在首届理事会后签署了《中美商务理事会联合声明》。
 >
 > 《中美商务理事会联合声明》中可能提到了（原文似乎未公开）：[^77707]
@@ -223,6 +332,8 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 >
 > 文中还提到了反对 WAPI 民族主义，「支持 WAPI 就是符合国家利益、反对 WAPI 就是反对国家利益。」是错觉，
 > 算是给 WAPI 事件降温吧。
+
+</div>
 
 [^35434]: 《[中美商务理事会在京成立](https://web.archive.org/web/20150507235434/http://finance.sina.com.cn/nz/US-China/)》, 新浪网, 2003-. (参照 2024-02-26).
 
@@ -257,23 +368,31 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 2004年1月29日，博通公司 CEO Alan E. "Lanny" Ross 和 Wi-Fi 联盟负责人丹 Dennis Eaton 接受路透社采访，
 透露了担心芯片设计在中国将被盗版和复制的问题，因为一些限制，必须在大陆制造 WAPI 芯片，
 所以除非解决知识产权（IP）泄漏的问题，否则会考虑暂停 Wi-Fi 芯片供应。[^34385]
+{: .tl }
 
 [^34385]: Reuters, [_Forbes.com: US supplier threatens China Wi-Fi chip boycott_](https://web.archive.org/web/20040213032221/http://www.forbes.com/technology/newswire/2004/01/29/rtr1234385.html), Forbes.com, 2004-01-29. (参照 2024-02-26).
 
 2004年2月4日，国家标准委副主任宿忠民称，[有关部门](/censorship/有关部门.md) 最开始计划直接禁止含有 Wi-Fi 商品，
 但后来中方作出了让步，同意了 6 个月的宽限期。所以国家标准委对 Wi-Fi 联盟的要求，不会作出任何让步。[^87828]
+{: .tl }
 
 [^87828]: 21世纪经济报道, 《[国际Wi-Fi联盟施压 中国无线标准实施不变](https://tech.sina.com.cn/it/t/2004-02-04/1024287828.shtml)》, 新浪网, 2004-02-04. (参照 2024-02-25).
 
 2004年5月29日，《经济观察报》提到网通集团首席科学家侯自强对于 WAPI 的看法：像 WAPI 这种对无线局域网进行加密的技术，
 说到底只是修改了原来 Wi-Fi 的接入密码而已，而这种通过软件升级的方法或者将加密算法直接钳入到硬件芯片中的，
 其实不是解决安全问题的根本方法。[^68816]
+{: .tl .ca }
 
 [^68816]: 经济观察报／方雷, 《[谁为中国首枚WAPI核心芯片巨额研发费买单](https://web.archive.org/web/20050312094721/http://tech.sina.com.cn/it/2004-05-29/1116368816.shtml)》, 新浪网, 2004-05-29. (参照 2024-02-25).
 
-2004年6月4日，《21世纪经济报道》采访了西安西电捷通无线网络通信有限公司，从中能看到许多细节：
+2004年6月4日，《21世纪经济报道》采访了西安西电捷通无线网络通信有限公司，从中能看到许多细节：[^71654]
+{: .tl .mii .iwncomm }
 
-> [!quote]- 《新闻调查：中国无线局域网标准WAPI幕后的故事》（摘录）[^71654]
+[^71654]: 21世纪经济报道, 《[新闻调查：中国无线局域网标准WAPI幕后的故事](https://web.archive.org/web/20210224174824/http://tech.sina.com.cn/other/2004-06-05/0729371654.shtml)》, 新浪网, 2004-06-05. (参照 2024-02-25).
+
+<div markdown="1" class="tl mii iwncomm">
+
+> [!quote]- 《新闻调查：中国无线局域网标准WAPI幕后的故事》（摘录）
 >
 > 西电捷通人士拒绝透露公司在 WAPI 研发上的投入金额，但他向记者表示，西电捷通 WAPI 技术标准文本有几百页厚。一般来说，
 > 技术标准文本平均一页纸的投入为几万美元，而公司在此次标准研发上的支出「比这种平均水平还要多得多」，投入「十分巨大」。
@@ -298,16 +417,26 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 > 反倒是西电捷通、六合万通、中电华大这样的企业，在核心技术研发上投入不菲，背负的压力会比较大。
 > 六合万通和中电华大是 WAPI 核心芯片研发企业，据称，在产品研发上皆投入了千万元计的资金。
 
-[^71654]: 21世纪经济报道, 《[新闻调查：中国无线局域网标准WAPI幕后的故事](https://web.archive.org/web/20210224174824/http://tech.sina.com.cn/other/2004-06-05/0729371654.shtml)》, 新浪网, 2004-06-05. (参照 2024-02-25).
+</div>
 
-1.  西电捷通投入 WAPI 技术标准，花费了千万级别的人民币。
-2.  西电捷通绝对没有任何政府关系，是市场化运作的股份制企业。
-3.  信息产业部在 2001年6月 开始下达 WLAN 标准起草任务，仅 3 个月就完成了标准草案。
-4.  WAPI 产品大多是软件性的，厂商可以刷入新固件来支持 WAPI，原理是 WAPI 的加密替代 WPA 加密。
-5.  在当时仅有六合万通、中电华大在研发 WAPI 核心芯片。（名为「万通3号」）
+一、西电捷通投入 WAPI 技术标准，花费了千万级别的人民币。
+{: .tl .iwncomm }
+
+二、西电捷通绝对没有任何政府关系，是市场化运作的股份制企业。
+{: .tl .iwncomm }
+
+三、信息产业部在 2001年6月 开始下达 WLAN 标准起草任务，仅 3 个月就完成了标准草案。
+{: .tl .mii }
+
+四、WAPI 产品大多是软件性的，厂商可以刷入新固件来支持 WAPI，原理是 WAPI 的加密替代 WPA 加密。
+{: .tl }
+
+五、在当时仅有六合万通、中电华大在研发 WAPI 核心芯片。（名为「万通3号」）
+{: .tl }
 
 2005年10月，国行明基 P50 开始发售。[^36784] 手机存在 Wi-Fi 芯片，只是被软件屏蔽，于是有人开发了破解工具，
 国行明基 P50 就能用 Wi-Fi 了。[^43873][^65204]
+{: .tl .mii }
 
 [^36784]: IT.COM.CN, 《[IT市场更便宜 行货明基P50报价只有6000](https://web.archive.org/web/20240228140512/https://tech.sina.com.cn/mobile/n/2005-10-11/0919736784.shtml)》, 新浪网, 2005-10-11. (参照 2024-02-28).
 
@@ -317,118 +446,20 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 有人认为明基戏耍了信息产业部，所以信产部之后提高了审查要求，直接停止检测含有 Wi-Fi 芯片的手机。[^36860]
 比如国行明基 P50 的后继机型 P51，就缺少了 Wi-Fi 芯片，无法再通过破解工具恢复 Wi-Fi 功能。
+{: .tl .mii }
 
 [^36860]: 19xx, 《[JW终于憋不住自宫了，M8上市版将硬件阉割Wi-Fi](https://bbs.tgfcer.com/viewthread.php?tid=6036860)》, TGFC Lifestyle, 2008-12-29. (参照 2024-02-28).
 
 2007 年，许多论文开始研究 WAPI 的加密算法，因为算法被公开，算法名称为 SMS4。[^97990][^85032]
+{: .tl .ca }
 
 [^97990]: 《[无线局域网产品使用的 SMS4 密码算法](https://web.archive.org/web/20110707041401/http://www.oscca.gov.cn/UpFile/200621016423197990.pdf)》, 国家密码管理局, 2007-. (参照 2024-02-25).
+
 [^85032]: Jiqiang Lu, [_Attacking reduced-round versions of the SMS4 block cipher in the Chinese WAPI standard_](https://dl.acm.org/doi/abs/10.5555/1785001.1785032), Proceedings of the 9th international conference on Information and communications security, Berlin, Heidelberg, 2007, 页码 306–318.
 
-2008年11月19日，南方都市报给出了相关方对 Wi-Fi 手机的看法：[^54933]
-
-+   不具名工业和信息化部人士：「不检测、不认证、不许可」。
-
-+   不具名电信内部人士：「我们是否将推出 Wi-Fi 手机，以及何时推出 Wi-Fi 手机将取决于政府态度。
-    我们在技术上已经完全没有障碍，正在等待政府决策。」
-
-+   某手机厂商：「Wi-Fi 手机批量生产肯定要等到工信部出台政策后。」
-
-[^54933]: 南方都市报, 《[中电信失意WiFi手机 “天翼”等待政策放行](https://web.archive.org/web/20110204221211/http://www.chinanews.com/it/txxw/news/2008/11-19/1454933.shtml)》, 中国新闻网, 2008-11-19. (参照 2024-02-27).
-
-> [!note]+ Calypso C1250i（最早含有 Wi-Fi 功能的手机）
->
-> 2003年，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
-> 后者需要提供 Wi-Fi 宽带、视频聊天功能的手机。[^13871][^60358]
-
-[^13871]: 21世纪经济报道／陈志刚, 《[消息称中国电信借力美国公司 密谋Wi-Fi手机](https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml)》, 新浪网, 2003-07-26. (参照 2024-02-27).
-
-[^60358]: [_Calypso Wireless inks USD500 million Wi-Fi deal_](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/), TeleGeography, 2003-12-02. (参照 2024-02-27).
-
-2008年12月4日，搜狐网采访了一些从业者：[^52363]
-
-[^52363]: 搜狐IT, 《[100万水货手机可用WIFI 行货用户抱怨](https://web.archive.org/web/20081209022958/http://net.zol.com.cn/115/1152363.html)》, 中关村在线, 2008-12-04. (参照 2024-02-27).
-
-+   运营商内部知情人士透露：目前，国内市场上的水货手机超过了 300 万，其中有 Wi-Fi 功能的手机超过了 100 万。
-+   手机厂商内部人士透露：此前，由于国内的 Wi-Fi 覆盖面积很有限，因此水货中的 Wi-Fi 功能并不是很突出的卖点。但是，随着无线城市建设的加快，Wi-Fi 热点覆盖的增多，水货市场的 Wi-Fi 手机成为热销产品。
-+   工信部电信管理局相关人士对「为什么不放开手机 Wi-Fi 的问题」表示：「敏感话题」，不愿意多谈。
-
-2009年2月 上旬，有传闻表示，中国移动已成功游说相关部门：只允许 TD-SCDMA 手机嵌入 Wi-Fi，而 W-CDMA 手机不得嵌入 Wi-Fi，
-否则不发入网证。对此，移动相关负责人对此消息进行了驳斥，称该消息纯属谣言。[^02227]
-
-[^02227]: 计世网／陈楚, 《[传中国移动TD手机将嵌入WIFI](https://web.archive.org/web/20090212150302/http://tech.sina.com.cn/t/2009-02-07/16482802227.shtml)》, 新浪网, 2009-02-07. (参照 2024-02-27).
-
-2009年4月10日，中国电信开始宣传即将上市的 3G 手机。而这些手机明确标明了支持 Wi-Fi 功能，即使工信部仍未表示允许 Wi-Fi 手机。「IT时报」将此形容为闯关。[^91844]
-
-[^91844]: IT时报, 《[WiFi手机闯关前途未卜只有中国禁止](https://tech.sina.com.cn/t/2009-04-10/15422991844.shtml)》, 新浪网, 2009-04-10. (参照 2024-02-27).
-
-2009年4月17日，工业和信息化部召集了几乎所有的手机厂商，在「闭门会议」中宣布今后的 2G、3G 手机都可以使用 WAPI 技术，
-但是没有提及 Wi-Fi 相关的话题。数日后，这个「闭门会议」被手机厂商透露给媒体，
-中国电信表示目前设备厂商大力推出 Wi-Fi/WAPI 双模兼容型产品。[^12316][^15726][^68783]
-
-[^12316]: Stev, 《[手机接入无线局域网开禁 工信部放行国产标准](https://web.archive.org/web/20240227140459/https://www.isc.org.cn/article/12316.html)》, 中国互联网协会, 2009-04-29. (参照 2024-02-27).
-
-[^15726]: 信息时报讯／杨章玉, 《[传工信部同意手机用WAPI技术 未对WiFi表态](https://web.archive.org/web/20240227140205/https://tech.sina.cn/t/2009-04-22/detail-ichmifpy2815726.d.html)》, 新浪网, 2009-04-22. (参照 2024-02-27).
-
-[^68783]: 广州日报, 《[WAPI可兼容WIFI：手机接入速度更快 资费恐洗牌](https://web.archive.org/web/20100508010754/http://www.chinanews.com.cn/it/itxw/news/2009/04-29/1668783.shtml)》, 中新网, 2009-04-29. (参照 2024-02-27).
-
-2009年6月22日，知情人士透露的消息，表明 Wi-Fi 手机可以随 WAPI 通过入网检测，
-不过纯粹的 Wi-Fi 手机，仍然不能通过入网检测。[^98563][^52415]
-
-[^98563]: 新浪科技, 《[检测机构详解手机WAPI政策:纯WiFi手机不能上市](https://web.archive.org/web/20090625165439/http://tech.sina.com.cn/t/2009-06-22/02203198563.shtml)》, 新浪网, 2009-06-22. (参照 2024-03-01).
-
-[^52415]: 新浪四川, 《[工信部展开WAPI手机入网检测](https://web.archive.org/web/20240228051856/https://sc.sina.com.cn/digi/digiinfo/yunying/2009-06-23/09152415.html)》, 新浪网, 2009-06-23. (参照 2024-02-28).
-
-2009年9月16日，时代在线网发布了关于手机 Wi-Fi 的采访与分析：[^92150]
-
-[^92150]: 时代周报记者, 《[解禁前夜 Wi-Fi手机博弈WAPI](https://web.archive.org/web/20240227092150/https://www.time-weekly.com/post/3060)》, 时代在线网, 2009-09-16. (参照 2024-02-27).
-
-+   工业与信息化部的知情人士：三大运营商之前关于 Wi-Fi 手机入网的竞争非常激烈，现在，结局已经很清楚了，
-    「Wi-Fi 手机政策会对三大运营商同时开放，很公平」。
-
-+   知情人士：很多行货手机也带有 Wi-Fi 功能。这些正货在进行入网检测时，关闭了这一功能，
-    因而才能通过检测。
-
-+   分析：入网检测，正是「Wi-Fi 手机政策上受限」在具体操作层面上的体现。一直以来，
-    政府部门没有对 Wi-Fi 手机发布入网许可证，政策上不允许手机接入 Wi-Fi 功能，
-    因而 Wi-Fi 手机就处于「不检测、不认证、不许可」的境地中，所有通过相关机构监测的手机都没有 Wi-Fi 功能。
-
-+   知情人士：「之所以如此艰难地问世，更重要的原因还是 Wi-Fi 与 WAPI 的博弈」。
-
-> [!note]+ 魅族 M8
->
-> 2008年8月15日，魅族公布 M8 第一批内测用户名单，[^62417] 之后在 9 月公布第二批内测用户名单。[^65380]
-> 内测用户拥有「魅族 M8 内测版」付费测试的资格。并且因为这是测试，所以能退款。[^60641]
->
-> 2008年11月7日，魅族 M8 未获得「入网许可」的消息已经被广泛知晓，J.Wong 在魅族论坛表示将在每个周末，
-> 抽取 100 人获得 M8 内测资格。[^44355]
->
-> 2008年12月3日，小熊在线（数码新闻网站）在新闻中介绍了魅族 M8 的 Wi-Fi 破解工具 M8Cracker，
-> 此工具能解除系统对 Wi-Fi、蓝牙 和 EDGE 网络的限制。而这个破解工具来自论坛，
-> 作者称 M8Cracker 是根据之前流出的 firmware（固件）来制作的破解程序。[^03318]
-> 使用方法是在手机里运行 M8Cracker.exe 软件。
->
-> 2008年12月，由于尚未取得进网许可证书，魅族 M8 开始以「公测版」的名义销售。该版本与「内测版」基本相同，
-> 同样需要 M8Cracker 来解除限制。
->
-> 2008年12月26～27日，J.Wong 面对魅族 M8 迟迟未能获得「入网许可」，未能上市的指责，给出了辩解：[^73436]
->
-> +   「申请入网许可流程当中可没有这样（禁止手机含有 Wi-Fi 硬件）的规定，至今也没找到任何入网许可文件有这样的规定，
-> 在申请过程中才被告知这无条文的规定」
-> +   并表示正式版 M8 不会有 Wi-Fi 硬件。（即无法使用破解补丁启用 Wi-Fi 功能）
->
-> 2008年12月，有人跑遍整个城市的门店，终于找到了销售魅族 M8 的店铺，最终交了 1600 定金获得了该手机。[^0HGKU]
->
-> 2009年1月15日，魅族 M8 取得了工业和信息化部颁发的进网许可证书。[^06874]
->
-> 2009年2月18日，魅族科技宣布魅族 M8 正式上市，[^06874] 不过公测版没有下架。
->
-> 2009年5月，Apple4us 在《一个 iPod touch 用户的魅族 M8 使用体验》播客节目中提到了自己购买魅族 M8 的趣事：[^21027]
->
-> +   「公测版」产品包装上印有「本产品为非卖品，仅供测试使用」的字样。
-> +   在魅族专卖购机的时候，销售人员当场就会帮你安装「第三方补丁」，并测试 Wi-Fi 连接。
->
-> 附言：2009年8月，还发生了《微型计算机》撰文批判魅族 M8 公测版的 Wi-Fi 可能属于违规销售事件。[^23379][^91575]
+2008年8月15日，魅族公布 M8 第一批内测用户名单，[^62417] 之后在 9 月公布第二批内测用户名单。[^65380]
+内测用户拥有「魅族 M8 内测版」付费测试的资格。并且因为这是测试，所以能退款。[^60641]
+{: .tl .m8 }
 
 [^62417]: ugmbbc, 《[魅族公布M8第一批内测用户名单](https://web.archive.org/web/20081013193747/http://www.cnbeta.com/articles/62417.htm)》, cnbeta.com, 2008-08-15. (参照 2024-02-28).
 
@@ -436,17 +467,208 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^60641]: ugmbbc, 《[律师:M8内测是变相的销售](https://web.archive.org/web/20080908173440/http://www.cnbeta.com/articles/60641.htm)》, cnBeta.COM, 2008-07-20. (参照 2024-02-28).
 
+2008年11月7日，魅族 M8 未获得「入网许可」的消息已经被广泛知晓，J.Wong 在魅族论坛表示将在每个周末，
+抽取 100 人获得 M8 内测资格。[^44355]
+{: .tl .m8 }
+
 [^44355]: PCPOP, 《[J.Wong:魅族M8先到先得 每周放出百部](https://web.archive.org/web/20240228111519/https://digi.it.sohu.com/20081110/n260544355.shtml)》, 搜狐数码, 2008-11-10. (参照 2024-02-28).
+
+2008年11月19日，南方都市报给出了相关方对 Wi-Fi 手机的看法：[^54933]
+{: .tl .ct }
+
+[^54933]: 南方都市报, 《[中电信失意WiFi手机 “天翼”等待政策放行](https://web.archive.org/web/20110204221211/http://www.chinanews.com/it/txxw/news/2008/11-19/1454933.shtml)》, 中国新闻网, 2008-11-19. (参照 2024-02-27).
+
+一、不具名工业和信息化部人士：「不检测、不认证、不许可」。[^54933]
+{: .tl .ct .mii }
+
+二、不具名电信内部人士：「我们是否将推出 Wi-Fi 手机，以及何时推出 Wi-Fi 手机将取决于政府态度。
+我们在技术上已经完全没有障碍，正在等待政府决策。」[^54933]
+{: .tl .ct }
+
+三、某手机厂商：「Wi-Fi 手机批量生产肯定要等到工信部出台政策后。」[^54933]
+{: .tl .ct .mii }
+
+2008年12月3日，小熊在线（数码新闻网站）在新闻中介绍了魅族 M8 的 Wi-Fi 破解工具 M8Cracker，
+此工具能解除系统对 Wi-Fi、蓝牙 和 EDGE 网络的限制。而这个破解工具来自论坛，
+作者称 M8Cracker 是根据之前流出的 firmware（固件）来制作的破解程序。[^03318]
+使用方法是在手机里运行 M8Cracker.exe 软件。
+{: .tl .m8 }
 
 [^03318]: Sky, 《[传闻被证实 魅族M8支持wifi 破解攻略](https://web.archive.org/web/20081205082437/http://www.beareyes.com.cn/2/lib/200812/03/20081203318.htm)》, 小熊在线, 2008-12-03. (参照 2024-02-28).
 
+2008年12月4日，搜狐网采访了一些从业者，得到了以下内容：[^52363]
+{: .tl }
+
+[^52363]: 搜狐IT, 《[100万水货手机可用WIFI 行货用户抱怨](https://web.archive.org/web/20081209022958/http://net.zol.com.cn/115/1152363.html)》, 中关村在线, 2008-12-04. (参照 2024-02-27).
+
+一、运营商内部知情人士透露：目前，国内市场上的水货手机超过了 300 万，其中有 Wi-Fi 功能的手机超过了 100 万。
+{: .tl }
+
+二、手机厂商内部人士透露：此前，由于国内的 Wi-Fi 覆盖面积很有限，因此水货中的 Wi-Fi 功能并不是很突出的卖点。
+但是，随着无线城市建设的加快，Wi-Fi 热点覆盖的增多，水货市场的 Wi-Fi 手机成为热销产品。
+{: .tl }
+
+三、工信部电信管理局相关人士对「为什么不放开手机 Wi-Fi 的问题」表示：「敏感话题」，不愿意多谈。[^52363]
+{: .tl .mii }
+
+2008年12月，由于尚未取得进网许可证书，魅族 M8 开始以「公测版」的名义销售。该版本与「内测版」基本相同，
+同样需要 M8Cracker 来解除限制。
+{: .tl .m8 }
+
+2008年12月26～27日，J.Wong 面对魅族 M8 迟迟未能获得「入网许可」，未能上市的指责，给出了辩解：[^73436]
+{: .tl .m8 }
+
 [^73436]: ugmbbc, 《[M8再次遭阉割 Wi-Fi硬件下面没有了](https://web.archive.org/web/20081228021018/http://www.cnbeta.com/articles/73436.htm)》, cnBeta.COM, 2008-12-27. (参照 2024-02-28).
+
+一、「申请入网许可流程当中可没有这样（禁止手机含有 Wi-Fi 硬件）的规定，至今也没找到任何入网许可文件有这样的规定，
+在申请过程中才被告知这无条文的规定」
+{: .tl .m8 }
+
+二、并表示正式版 M8 不会有 Wi-Fi 硬件。（即无法使用破解补丁启用 Wi-Fi 功能）
+{: .tl .m8 }
+
+2008年12月，有人跑遍整个城市的门店，终于找到了销售魅族 M8 的店铺，最终交了 1600 定金获得了该手机。[^0HGKU]
+{: .tl .m8 }
 
 [^0HGKU]: 数码辣条, 《[花40元买到魅族M8，插上充电器成功开机](https://web.archive.org/web/20240228115112/https://www.163.com/dy/article/H6KHMQ4D0530HGKU.html)》, 网易, 2022-05-05. (参照 2024-02-28).
 
+2009年1月15日，魅族 M8 取得了工业和信息化部颁发的进网许可证书。[^06874]
+{: .tl .m8 .mii }
+
 [^06874]: 魅族宇飞, 《[魅族M8正式上市](https://web.archive.org/web/20160310093947/http://bbs.meizu.cn/thread-806874-1-1.html)》, 魅族社区／综合讨论, 2009-02-17. (参照 2024-02-28).
 
+2009年2月 上旬，有传闻表示，中国移动已成功游说相关部门：只允许 TD-SCDMA 手机嵌入 Wi-Fi，而 W-CDMA 手机不得嵌入 Wi-Fi，
+否则不发入网证。对此，移动相关负责人对此消息进行了驳斥，称该消息纯属谣言。[^02227]
+{: .tl .cm }
+
+[^02227]: 计世网／陈楚, 《[传中国移动TD手机将嵌入WIFI](https://web.archive.org/web/20090212150302/http://tech.sina.com.cn/t/2009-02-07/16482802227.shtml)》, 新浪网, 2009-02-07. (参照 2024-02-27).
+
+2009年2月18日，魅族科技宣布魅族 M8 正式上市，[^06874] 不过公测版没有下架。
+{: .tl .m8 }
+
+2009年4月10日，中国电信开始宣传即将上市的 3G 手机。而这些手机明确标明了支持 Wi-Fi 功能，
+即使工信部仍未表示允许 Wi-Fi 手机。「IT时报」将此形容为闯关。[^91844]
+{: .tl .ct .mii }
+
+[^91844]: IT时报, 《[WiFi手机闯关前途未卜只有中国禁止](https://tech.sina.com.cn/t/2009-04-10/15422991844.shtml)》, 新浪网, 2009-04-10. (参照 2024-02-27).
+
+2009年4月17日，工业和信息化部召集了几乎所有的手机厂商，在「闭门会议」中宣布今后的 2G、3G 手机都可以使用 WAPI 技术，
+但是没有提及 Wi-Fi 相关的话题。数日后，这个「闭门会议」被手机厂商透露给媒体，
+中国电信表示目前设备厂商大力推出 Wi-Fi/WAPI 双模兼容型产品。[^12316][^15726][^68783]
+{: .tl .ct .mii }
+
+[^12316]: Stev, 《[手机接入无线局域网开禁 工信部放行国产标准](https://web.archive.org/web/20240227140459/https://www.isc.org.cn/article/12316.html)》, 中国互联网协会, 2009-04-29. (参照 2024-02-27).
+
+[^15726]: 信息时报讯／杨章玉, 《[传工信部同意手机用WAPI技术 未对WiFi表态](https://web.archive.org/web/20240227140205/https://tech.sina.cn/t/2009-04-22/detail-ichmifpy2815726.d.html)》, 新浪网, 2009-04-22. (参照 2024-02-27).
+
+[^68783]: 广州日报, 《[WAPI可兼容WIFI：手机接入速度更快 资费恐洗牌](https://web.archive.org/web/20100508010754/http://www.chinanews.com.cn/it/itxw/news/2009/04-29/1668783.shtml)》, 中新网, 2009-04-29. (参照 2024-02-27).
+
+2009年5月，Apple4us 在《一个 iPod touch 用户的魅族 M8 使用体验》中提到了自己购买魅族 M8 的趣事：[^21027]
+{: .tl .m8 }
+
 [^21027]: -2, 《[一个 iPod touch 用户的魅族 M8 使用体验](https://web.archive.org/web/20090819021027/http://apple4.us/2009/05/ipod-touch-2meizu-m8.html)》, Apple4us, 2009-05-15. (参照 2024-02-28).
+
+一、「公测版」产品包装上印有「本产品为非卖品，仅供测试使用」的字样。
+{: .tl .m8 }
+
+二、在魅族专卖购机的时候，销售人员当场就会帮你安装「第三方补丁」，并测试 Wi-Fi 连接。
+{: .tl .m8 }
+
+2009年5月11日，有消息称即将发售的摩托罗拉 A3100（联通定制 3G 版），会保留 Wi-Fi 功能，原因是引入了 WAPI 功能。[^80153][^84472]
+{: .tl .cu .a3100 }
+
+[^80153]: 欢少~, 《[摩托罗拉联通定制3G手机A3100揭秘(图)](https://web.archive.org/web/20240301073331/https://tech.sina.com.cn/mobile/n/2009-05-11/10403080153.shtml)》, 新浪网／IT.COM.CN, 2009-05-11. (参照 2024-03-01).
+
+[^84472]: 断了的弦, 《[摩托罗拉A3100行货6月上市 支持WAPI](https://web.archive.org/web/20240301073333/https://tech.sina.com.cn/mobile/n/2009-05-12/12103084472.shtml)》, 新浪网／IT168.com, 2009-05-12. (参照 2024-03-01).
+
+2009年6月11日，摩托罗拉 A3100 开始在北京手机店铺出售。[^69806] 新浪科技称 A3100 在 6月18日 正式上市。[^94889]
+这是首部国行的 Wi-Fi 手机。
+{: .tl .cu .a3100 }
+
+[^69806]: 杨雪涛, 《[商务精英 摩托罗拉A3100行货售3500](https://tech.sina.com.cn/mobile/n/2009-06-11/10093169806.shtml)》, 新浪网／手机中国, 2009-06-11. (参照 2024-03-01).
+
+[^94889]: 文元, 《[WAPI/WiFi手机在中国市场正式上市(图)](https://web.archive.org/web/20200514065933/http://tech.sina.com.cn/t/2009-06-19/11303194889.shtml)》, 新浪网／新浪科技, 2009-06-19. (参照 2024-03-01).
+
+不过手机的设置里，使用 WLAN 来表示 Wi-Fi 一词，并且如果要使用 WAPI，需要在设置里选定一种模式，然后重启手机。[^80367][^92952]
+{: .tl .a3100 }
+
+[^80367]: 阿涛, 《[3G+WLAN 联通定制MOTO智能旗舰A3100评测](https://web.archive.org/web/20240301094512/https://mobile.pconline.com.cn/review/0906/1680367_all.html)》, 太平洋电脑网, 2009-06-15. (参照 2024-03-01).
+
+[^92952]: 阿涛, 《[WAPI/Wifi手机 MOTO A3100网络功能评测](https://web.archive.org/web/20240301102432/https://mobile.pconline.com.cn/review/0906/1692952_all.html)》, 太平洋电脑网PConline, 2009-06-30. (参照 2024-03-01).
+
+2009年6月22日，知情人士透露的消息，表明 Wi-Fi 手机可以随 WAPI 通过入网检测，不过纯粹的 Wi-Fi 手机，
+仍然不能通过入网检测。[^98563][^52415]
+{: .tl .mii }
+
+[^98563]: 新浪科技, 《[检测机构详解手机WAPI政策:纯WiFi手机不能上市](https://web.archive.org/web/20090625165439/http://tech.sina.com.cn/t/2009-06-22/02203198563.shtml)》, 新浪网, 2009-06-22. (参照 2024-03-01).
+
+[^52415]: 新浪四川, 《[工信部展开WAPI手机入网检测](https://web.archive.org/web/20240228051856/https://sc.sina.com.cn/digi/digiinfo/yunying/2009-06-23/09152415.html)》, 新浪网, 2009-06-23. (参照 2024-02-28).
+
+2009年6月25日，在北京举办的 2009 诺基亚「轻松互联生活」会上，诺基亚发布了 13 款全新手机。[^90694]
+其中就出现了诺基亚 5530 XpressMusic，并在会上提到，这是诺基亚首款支持 WLAN（WAPI + Wi-Fi）的行货产品。[^694_1]
+（虽然诺基亚 5530 XM 属于仅支持 GSM 网络，镜头没有蔡司认证的廉价版机型）
+{: .tl .n5530 }
+
+[^90694]: wanpeng1, 《[10款中国市场3G手机!诺基亚在京发13新机](https://web.archive.org/web/20100105172836/http://mobile.pconline.com.cn/dclub/0906/1690694.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
+
+[^694_1]: wanpeng1, 《[诺基亚:新机5530 XpressMusic](https://web.archive.org/web/20100117065034/http://mobile.pconline.com.cn/dclub/0906/1690694_1.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
+
+2009年7月 月底，诺基亚 5530 XM 开始登录广州的市场。[^18235] 这是诺基亚品牌的第一台 Wi-Fi/WAPI 行货手机。
+{: .tl .n5530 }
+
+[^18235]: 士旦, 《[智能全触摸!诺基亚5530行货仅2190元开卖](https://web.archive.org/web/20090803155451/http://mobile.pconline.com.cn/market/gz/0907/1718235.html)》, 太平洋电脑网, 2009-07-29. (参照 2024-03-01).
+
+诺基亚 5530 XM 的 Wi-Fi 设置，被命名为「WLAN 向导」，没有出现任何含有「Wi-Fi」的表述。[^543_2]
+在官网以及说明书中，也刻意比开了 Wi-Fi 一词：「WLAN；支持 WAPI 和 IEEE 802.11 b/g」，[^5530h] 甚至出现错误翻译：
+{: .tl .n5530 }
+
+[^543_2]: VSing, 《[诺基亚5530评测:屏幕、WAPI无线](https://web.archive.org/web/20120227204742/http://mobile.pconline.com.cn/review/0907/1709543_2.html)》, 太平洋电脑网, 2009-07-21. (参照 2024-03-01).
+
+[^5530h]: 《[诺基亚 5530 XpressMusic](https://web.archive.org/web/20090705085556/http://www.nokia.com.cn/find-products/products/nokia-5530-xpressmusic/specifications)》, 诺基亚, 2009-07-05. (参照 2024-03-01). 附言：内含该机型的详细参数。
+
+<div markdown="1" class="tl n5530">
+
+| 语言     | 描述                                 |
+| -------- | ------------------------------------ |
+| 简体中文 | WLAN 保护访问（WPA）[^5530s]         |
+| 繁体中文 | Wi-Fi 保護存取（WPA）[^5530t]        |
+| 英文     | Wi-Fi protected access (WPA)[^5530e] |
+
+</div>
+
+[^5530s]: 《[诺基亚 5530 XpressMusic 用户手册](https://web.archive.org/web/20240301052328/http://nds1.webapps.microsoft.com/files/support/china/phones/guides/Nokia_5530_UG_zh-CN.pdf)》, Nokia. [Online].
+
+[^5530t]: 《[Nokia 5530 XpressMusic 用戶指南](https://web.archive.org/web/20240301052441/http://download-fds.webapps.microsoft.com/supportFiles/files/support/china/phones/guides/Nokia_5530_UG_zh-TW.pdf)》, Nokia. [Online]. 附言：Internet Archive 可能没有将链接保存上。
+
+[^5530e]: 《[Nokia 5530 XpressMusic User Guide](https://web.archive.org/web/20160910123312/http://download-fds.webapps.microsoft.com/supportFiles/phones/files/guides/Nokia_5530_XpressMusic_UG_en.pdf)》, Nokia. [Online].
+
+可以看到简中说明书甚至故意错误翻译，将「Wi-Fi protected access (WPA)」翻译成了「WLAN 保护访问（WPA）」。
+还有一个细节，各种语言的说明书里，都写了支持 WAPI 功能，所以其他地区售卖的 5530 XM 应该也含有 WAPI 功能。
+{: .tl .n5530 }
+
+2009年9月16日，时代在线网发布了关于手机 Wi-Fi 的采访与分析：[^92150]
+{: .tl }
+
+[^92150]: 时代周报记者, 《[解禁前夜 Wi-Fi手机博弈WAPI](https://web.archive.org/web/20240227092150/https://www.time-weekly.com/post/3060)》, 时代在线网, 2009-09-16. (参照 2024-02-27).
+
+一、工业与信息化部的知情人士：三大运营商之前关于 Wi-Fi 手机入网的竞争非常激烈，现在，结局已经很清楚了，
+「Wi-Fi 手机政策会对三大运营商同时开放，很公平」。
+{: .tl .mii }
+
+二、知情人士：很多行货手机也带有 Wi-Fi 功能。这些正货在进行入网检测时，关闭了这一功能，
+因而才能通过检测。
+{: .tl }
+
+三、记者分析：入网检测，正是「Wi-Fi 手机政策上受限」在具体操作层面上的体现。一直以来，
+政府部门没有对 Wi-Fi 手机发布入网许可证，政策上不允许手机接入 Wi-Fi 功能，
+因而 Wi-Fi 手机就处于「不检测、不认证、不许可」的境地中，所有通过相关机构监测的手机都没有 Wi-Fi 功能。
+{: .tl }
+
+四、知情人士：「之所以如此艰难地问世，更重要的原因还是 Wi-Fi 与 WAPI 的博弈」。
+{: .tl }
+
+2009年8月，《微型计算机》撰文批判魅族 M8 公测版的 Wi-Fi 可能属于违规销售，随后引发了讨论。[^23379][^91575]
+{: .tl .m8 }
 
 [^23379]: 伍健, 《[“国产第一手机”神话破灭魅族Ｍ８深陷“公测门”](https://web.archive.org/web/20240228120454/https://www.fx361.cc/page/2009/1027/4223379.shtml)》, 参考网／微型计算机, 2009-08. (参照 2024-02-28).
 
@@ -454,24 +676,43 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 2009年10月16日，联通宣布允许水货 iPhone 使用联通 3G，甚至成立专门的适配部门。联通版本的国行 iPhone 也在一天前透露：
 iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1000 元。[^13601]
+{: .tl .cu }
 
 [^13601]: 北京青年报, 《[联通不阻水货iphone入网 “水货”并非山寨机](https://web.archive.org/web/20240227134729/https://www.chinanews.com.cn/it/news/2009/10-16/1913601.shtml)》, 中新网, 2009-10-16. (参照 2024-02-27).
 
 2012年3月21日，国家密码管理局正式公布了 WAPI 的加密算法，并更名为《SM4 分组密码算法》（GM/T 0002-2012）。[^1229]
+{: .tl .ca }
 
 [^1229]: 国家密码管理局, 《[国家密码管理局公告](https://web.archive.org/web/20130711004248/http://www.oscca.gov.cn/News/201204/News_1229.htm)》, 国家商用密码管理办公室, 2012-03-21. (参照 2024-02-25).
 
 2015年10月，前诺基亚 N 系列总经理李天健，在知乎以当事人的视角透露了诺基亚与 WAPI、Wi-Fi 的情况：[^81480][^tjlee]
+{: .tl .n5530 }
 
 [^81480]: 李天健, 《[2G时代的手机不准有 WiFi 这个规定是怎样被废除的？](https://web.archive.org/web/20220528024840/https://www.zhihu.com/question/32032171/answer/68781480)》, 知乎, 2015-10-21. (参照 2024-02-28).
 
 [^tjlee]: [李天健的知乎主页](https://web.archive.org/web/20220904015640/https://www.zhihu.com/people/jimtjlee), 知乎, 2022-09-04. (参照 2024-02-28).
 
-+   诺基亚 N 系列（属于高端功能手机、智能手机）对 Wi-Fi 功能的需求急迫。
-+   诺基亚公司认为 WAPI 没有技术含量，仅仅是坐地收钱的借口，所以不愿向西安公司支付昂贵的 WAPI 授权费用。
-+   针对 Wi-Fi 的禁令是硬件层面的，所以诺基亚大陆手机的无法与全球接轨，造成供应链巨大的负担。
-+   李天健在诺基亚内部上下游说，表示没有 Wi-Fi 功能的手机没有未来，只要价格谈得差不多就该上了。（价格降到了开价的 1/10）
-+   2008 年的年底，诺基亚公司决定接受 WAPI。
+一、诺基亚 N 系列（属于高端功能手机、智能手机）对 Wi-Fi 功能的需求急迫。
+{: .tl .n5530 }
+
+二、诺基亚公司认为 WAPI 没有技术含量，仅仅是坐地收钱的借口，所以不愿向西安公司支付昂贵的 WAPI 授权费用。
+{: .tl .n5530 }
+
+三、针对 Wi-Fi 的禁令是硬件层面的，所以诺基亚大陆手机的无法与全球接轨，造成供应链巨大的负担。
+{: .tl .n5530 }
+
+四、李天健在诺基亚内部上下游说，表示没有 Wi-Fi 功能的手机没有未来，只要价格谈得差不多就该上了。（价格降到了开价的 1/10）
+{: .tl .n5530 }
+
+五、2008 年的年底，诺基亚公司决定接受 WAPI。
+{: .tl .n5530 }
+
+<!--
+[回到时间线顶部](#时间线)
+{: .md-button }
+-->
+
+---
 
 <!--
 
@@ -563,69 +804,6 @@ iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1
 
 考虑到技术的中立性，电信公司为了「禁止多户」，而禁止路由器，显然违反了技术的中立性。
 
-### 摩托罗拉 A3100（联通定制 3G 版）
-
-〔此章节之后会整合到时间线中〕
-
-2009年5月11日，有消息称即将发售的摩托罗拉 A3100（联通定制 3G 版），会保留 Wi-Fi 功能，原因是引入了 WAPI 功能。[^80153][^84472]
-
-[^80153]: 欢少~, 《[摩托罗拉联通定制3G手机A3100揭秘(图)](https://web.archive.org/web/20240301073331/https://tech.sina.com.cn/mobile/n/2009-05-11/10403080153.shtml)》, 新浪网／IT.COM.CN, 2009-05-11. (参照 2024-03-01).
-
-[^84472]: 断了的弦, 《[摩托罗拉A3100行货6月上市 支持WAPI](https://web.archive.org/web/20240301073333/https://tech.sina.com.cn/mobile/n/2009-05-12/12103084472.shtml)》, 新浪网／IT168.com, 2009-05-12. (参照 2024-03-01).
-
-2009年6月11日，摩托罗拉 A3100 开始在北京手机店铺出售。[^69806] 新浪科技称 A3100 在 6月18日 正式上市。[^94889]
-
-[^69806]: 杨雪涛, 《[商务精英 摩托罗拉A3100行货售3500](https://tech.sina.com.cn/mobile/n/2009-06-11/10093169806.shtml)》, 新浪网／手机中国, 2009-06-11. (参照 2024-03-01).
-
-[^94889]: 文元, 《[WAPI/WiFi手机在中国市场正式上市(图)](https://web.archive.org/web/20200514065933/http://tech.sina.com.cn/t/2009-06-19/11303194889.shtml)》, 新浪网／新浪科技, 2009-06-19. (参照 2024-03-01).
-
-不过手机的设置里，使用 WLAN 来表示 Wi-Fi 一词，并且如果要使用 WAPI，需要在设置里选定一种模式，然后重启手机。[^80367][^92952]
-
-[^80367]: 阿涛, 《[3G+WLAN 联通定制MOTO智能旗舰A3100评测](https://web.archive.org/web/20240301094512/https://mobile.pconline.com.cn/review/0906/1680367_all.html)》, 太平洋电脑网, 2009-06-15. (参照 2024-03-01).
-
-[^92952]: 阿涛, 《[WAPI/Wifi手机 MOTO A3100网络功能评测](https://web.archive.org/web/20240301102432/https://mobile.pconline.com.cn/review/0906/1692952_all.html)》, 太平洋电脑网PConline, 2009-06-30. (参照 2024-03-01).
-
-### 诺基亚 5530 XpressMusic
-
-〔此章节之后会整合到时间线中〕
-
-诺基亚品牌的第一台 Wi-Fi/WAPI 行货手机
-
-2009年6月25日，在北京举办的 2009 诺基亚「轻松互联生活」会上，诺基亚发布了 13 款全新手机。[^90694]
-其中就出现了诺基亚 5530 XpressMusic，并在会上提到，这是诺基亚首款支持 WLAN（WAPI + Wi-Fi）的行货产品。[^694_1]
-（虽然诺基亚 5530 XM 属于仅支持 GSM 网络，镜头没有蔡司认证的廉价版机型）
-
-[^90694]: wanpeng1, 《[10款中国市场3G手机!诺基亚在京发13新机](https://web.archive.org/web/20100105172836/http://mobile.pconline.com.cn/dclub/0906/1690694.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
-
-[^694_1]: wanpeng1, 《[诺基亚:新机5530 XpressMusic](https://web.archive.org/web/20100117065034/http://mobile.pconline.com.cn/dclub/0906/1690694_1.html)》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).
-
-2006年7月 月底，诺基亚 5530 XM 开始登录广州的市场。[^18235]
-
-[^18235]: 士旦, 《[智能全触摸!诺基亚5530行货仅2190元开卖](https://web.archive.org/web/20090803155451/http://mobile.pconline.com.cn/market/gz/0907/1718235.html)》, 太平洋电脑网, 2009-07-29. (参照 2024-03-01).
-
-诺基亚 5530 XM 的 Wi-Fi 设置，被命名为「WLAN 向导」，没有出现任何含有「Wi-Fi」的表述。[^543_2]
-在官网以及说明书中，也刻意比开了 Wi-Fi 一词：「WLAN；支持 WAPI 和 IEEE 802.11 b/g」，[^5530h] 甚至出现错误翻译：
-
-[^543_2]: VSing, 《[诺基亚5530评测:屏幕、WAPI无线](https://web.archive.org/web/20120227204742/http://mobile.pconline.com.cn/review/0907/1709543_2.html)》, 太平洋电脑网, 2009-07-21. (参照 2024-03-01).
-
-[^5530h]: 《[诺基亚 5530 XpressMusic](https://web.archive.org/web/20090705085556/http://www.nokia.com.cn/find-products/products/nokia-5530-xpressmusic/specifications)》, 诺基亚, 2009-07-05. (参照 2024-03-01). 附言：内含该机型的详细参数。
-
-| 语言     | 描述                                 |
-| -------- | ------------------------------------ |
-| 简体中文 | WLAN 保护访问（WPA）[^5530s]         |
-| 繁体中文 | Wi-Fi 保護存取（WPA）[^5530t]        |
-| 英文     | Wi-Fi protected access (WPA)[^5530e] |
-
-[^5530s]: 《[诺基亚 5530 XpressMusic 用户手册](https://web.archive.org/web/20240301052328/http://nds1.webapps.microsoft.com/files/support/china/phones/guides/Nokia_5530_UG_zh-CN.pdf)》, Nokia. [Online].
-
-[^5530t]: 《[Nokia 5530 XpressMusic 用戶指南](https://web.archive.org/web/20240301052441/http://download-fds.webapps.microsoft.com/supportFiles/files/support/china/phones/guides/Nokia_5530_UG_zh-TW.pdf)》, Nokia. [Online]. 附言：Internet Archive 可能没有将链接保存上。
-
-[^5530e]: 《[Nokia 5530 XpressMusic User Guide](https://web.archive.org/web/20160910123312/http://download-fds.webapps.microsoft.com/supportFiles/phones/files/guides/Nokia_5530_XpressMusic_UG_en.pdf)》, Nokia. [Online].
-
-可以看到简中说明书甚至故意错误翻译，将「Wi-Fi protected access (WPA)」翻译成了「WLAN 保护访问（WPA）」。
-
-还有一个细节，各种语言的说明书里，都写了支持 WAPI 功能，所以其他地区售卖的 5530 XM 应该也含有 WAPI 功能。
-
 ### 支持 Wi-Fi 的手机 QQ
 
 2008年10月，腾讯公司在苹果官方在线商店 iTunes Apps Store，推出了 QQ For iPhone。
@@ -633,8 +811,9 @@ iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1
 
 [^71819]: 佼佼, 《[腾讯首次放弃移动中断WiFi限制 推出iPhone版QQ](https://web.archive.org/web/20111027174754/http://it.sohu.com/20081006/n259871819.shtml)》, 搜狐IT, 2008-10-06. (参照 2024-03-02).
 
-2008年11月11日，Windows Mobile 版本的手机 QQ 2008 (S60 V3) 发布，[^72226] Windows Mobile 此时才支持在 Wi-Fi 下使用手机 QQ。[^qwifi]
-不过 QQ 空间、音乐、新闻等功能均无法在 Wi-Fi 下使用，会提示「您目前的网络连接方式不支持此功能」，仍然有一些限制。[^1460]
+2008年11月11日，Windows Mobile 版本的手机 QQ 2008 (S60 V3) 发布，[^72226]
+Windows Mobile 此时才支持在 Wi-Fi 下使用手机 QQ。[^qwifi] 不过 QQ 空间、音乐、新闻等功能均无法在 Wi-Fi 下使用，
+会提示「您目前的网络连接方式不支持此功能」，仍然有一些限制。[^1460]
 
 [^72226]: [手机QQ](https://web.archive.org/web/20081204072226/http://mobile.qq.com/?from=im_m), 腾讯官方下载中心, 2008-12-04. (参照 2024-03-02).
 
@@ -643,7 +822,6 @@ iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1
 [^1460]: aRAY, 《[[聊天]QQ 2008 Beta1(支持WAP/NET/WIFI网络)](https://web.archive.org/web/20230603234955/https://aray.cn/archives/1460)》, aRAY「爱生活.爱剁手.爱折腾」. (参照 2024-03-02).
 
 附言：QQ 2008 禁止在 Wi-Fi 下使用，这应该是客户端限制。因为有用户表示，QQ 2005 就能在 Wi-Fi 下正常使用。[^1460]
-
 这种限制，被一些人认为与运营商有关，不过细节不明，算是某种未解之谜吧。
 
 ### 禁止 Wi-Fi 手机的原因

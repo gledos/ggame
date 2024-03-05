@@ -161,6 +161,20 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 [^mlgxb]: Jaida Wu, [MlgmXyysd/Xiaomi-BootLoader-Questionnaire](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire),. 2023-12-18. 参照: 2023-12-18. [Online].
 
+## 浏览器 blackurl
+
+2018年4月，有人发现小米浏览器会从 `https://api.browser.miui.com/bsr/update/blackurl` 下载黑名单 URL，[^01418]
+到手机的 `/data/data/com.android.browser/files/data/cacblacklist/blacklist.json` 目录中。[^eu0zH]
+
+[^01418]: [https://api.browser.miui.com/bsr/update/blackurl](https://web.archive.org/web/20180425101418/https://api.browser.miui.com/bsr/update/blackurl), miui.com, 2018-04-25. (参照 2024-03-05).
+
+[^eu0zH]: Don Evans, 《[有用户反映，小米直接传输未加密的 url 黑名单……](http://archive.today/2024.03.05-023204/https://twitter.com/DonEvansWm/status/994932298159190017)》, X (formerly Twitter), 2018-05-11. (参照 2024-03-05).
+
+因为是明文 URL，所以能轻易的检查。结果发现全部都是与政治新闻有关的 URL。并且似乎只有大陆的机型会下载这份黑名单，
+香港记者测试自己的手机后，没有发现此黑名单。[^50241]
+
+[^50241]: Lawton, 《[小米疑上載政治網站黑名單 香港小米手機測試](https://web.archive.org/web/20230926150241/https://unwire.hk/2018/04/28/miuiblackurl/mobile-phone/)》, 香港 unwire.hk, 2018-04-28. (参照 2024-03-05).
+
 ## 添加防回滚机制
 
 2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rt>Anti-Rollback Protection</rt></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]
