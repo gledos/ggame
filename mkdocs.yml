@@ -360,7 +360,7 @@ plugins:
       "hardware/宝塔面板.md": "software/宝塔面板.md"
       "hardware/红星系统.md": "software/红星系统.md"
       "hardware/Kindle.md": "company/Amazon/Kindle.md"
-      "hardware/Smart_set-top_box.md": "rule/Smart_set-top_box.md"
+      "hardware/Smart_set-top_box.md": "serviceprovider/智能机顶盒.md"
       "hardware/Synology.md": "company/Synology.md"
       "hardware/WAPI.md": "technology/WAPI.md"
       "movement/「明星相关的审查」.md": "theme/明星相关的审查.md"

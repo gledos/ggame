@@ -60,8 +60,6 @@ WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authen
         第三方补丁，就能用3G了。进recovery刷一次就行了，后面再清除数据或者重刷系统也不影响。
 -->
 
-〔本章节正在施工中〕
-
 <button class="md-button" onclick="showTheme('oz')">机构专题</button>
 <button class="md-button" onclick="showTheme('dv')">机型专题</button>
 <button class="md-button" onclick="showTheme('ft')">事件专题</button>
