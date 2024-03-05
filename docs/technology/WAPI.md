@@ -79,14 +79,18 @@ WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authen
 
 <!-- 机型专题 -->
 
-<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('c1250i')">Calypso C1250i</button>
-<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('a3100')">摩托罗拉 A3100（联通定制 3G 版）</button>
-<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('n5530')">诺基亚 5530 XpressMusic</button>
-<button class="md-button tl dv c1250i a3100 n5530 m8 theme hidden" onclick="showTheme('m8')">魅族 M8</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('c1250i')">Calypso C1250i</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('p50')">明基 P50</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('m8')">魅族 M8</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('a3100')">摩托罗拉 A3100（联通定制 3G 版）</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('n5530')">诺基亚 5530 XpressMusic</button>
 
 <!-- 事件专题 -->
 
 <button class="md-button tl ft tn2004 theme hidden" onclick="showTheme('tn2004')">2004 年贸易谈判</button>
+
+Wi-Fi 手机在 2009年4月17日 之前被禁止，但实际上还是有漏网之鱼。
+{: .tl .p50 .m8 .theme .hidden }
 
 2001年8月，在国家信息产业部科技司的指导下，二十多家单位于在北京召开了「中国宽带无线IP标准工作组」（China Broadband
 Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成立会议。[^bjhtm]
@@ -184,7 +188,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 所以安全问题至少在此「宣贯会」中是手段，而不是目的。
 {: .tl }
 
-2003年，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
+2003年7月，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
 后者需要提供 Wi-Fi 宽带、视频聊天功能的手机。[^13871][^60358]
 这款型号为 Calypso C1250i 的手机，被一些人认为是最早含有 Wi-Fi 功能的手机。
 {: .tl .c1250i .ct }
@@ -192,6 +196,55 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 [^13871]: 21世纪经济报道／陈志刚, 《[消息称中国电信借力美国公司 密谋Wi-Fi手机](https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml)》, 新浪网, 2003-07-26. (参照 2024-02-27).
 
 [^60358]: [_Calypso Wireless inks USD500 million Wi-Fi deal_](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/), TeleGeography, 2003-12-02. (参照 2024-02-27).
+
+2003年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，[^35434][^12566]
+并在首届理事会后签署了《中美商务理事会联合声明》。
+{: .tl .tn2004 }
+
+[^35434]: 《[中美商务理事会在京成立](https://web.archive.org/web/20150507235434/http://finance.sina.com.cn/nz/US-China/)》, 新浪网, 2003-. (参照 2024-02-26).
+
+[^12566]: 中国政府网, 《[中美商务理事会成立](https://web.archive.org/web/20240226055554/https://www.gov.cn/test/2005-07/06/content_12566.htm)》, 中国政府网, 2005-07-06. (参照 2024-02-26).
+
+《中美商务理事会联合声明》中可能提到了（原文似乎未公开）：[^77707]
+{: .tl .tn2004 }
+
+[^77707]: 新浪财经, 《[中美商务理事会联合声明](https://web.archive.org/web/20040622073946/http://finance.sina.com.cn/roll/20031016/1729477707.shtml)》, 新浪网, 2003-10-16. (参照 2024-02-26).
+
+一、中美双方代表团承认两国间实现货物与服务的自由流动的重要性，并同意将协作促进中美两国商业利益作为总的指导原则。
+{: .tl .tn2004 }
+
+二、双方都强调了履行 WTO 承诺的重要性，同时也承认中国经济改革过程的艰巨性。
+{: .tl .tn2004 }
+
+三、双方理事认为，中国经济增长对世界经济增长的影响力将越来越大，这符合中美两国人民的根本利益。
+{: .tl .tn2004 }
+
+四、双方赞成并支持中国政府发展经济的举措。
+{: .tl .tn2004 }
+
+五、美方理事强调中国遵守其入世承诺时间表的必要性。
+{: .tl .tn2004 }
+
+此时与美国的贸易关系裂痕逐渐变大。因为中国持续成为世界反倾销的头号目标。[^64326]
+以及国会议员致函财政部长斯诺，要求调查人民币汇率可能被操纵的问题。[^81493]
+所以中国新闻网认为理事会的「第一使命」，似乎是防止中美贸易关系陷入僵局。[^1041s]
+{: .tl .tn2004 }
+
+[^64326]: 《[世界反倾销势头凶猛中国首当其冲](https://web.archive.org/web/20210518110217/https://www.voachinese.com/a/a-21-a-2003-07-09-15-1-63185112/964326.html)》, 美国之音, 2003-07-09. (参照 2024-02-26).
+
+[^81493]: 《[美议员要查北京是否操纵人民币汇率](https://web.archive.org/web/20210621034010/https://www.voachinese.com/a/a-21-a-2003-07-18-13-1-58399957/1081493.html)》, 美国之音, 2003-07-18. (参照 2024-02-26).
+
+[^1041s]: 中国新闻网, 《[中美商务理事会第一项使命：排除“非经济因素”](https://web.archive.org/web/20050902201805/http://news.sina.com.cn/o/2003-10-30/08171021041s.shtml)》, 新浪网, 2003-10-30. (参照 2024-02-26).
+
+2003年10月 下旬，美国财政部在向国会提出的年度报告中说，中国并不符合美国 1988 年贸易法案所规定进行经济制裁的条件。[^02728]
+{: .tl .tn2004 }
+
+[^02728]: 《[中未操纵汇率制造不公平贸易](https://web.archive.org/web/20210726173135/https://www.voachinese.com/a/a-21-a-2003-10-30-20-1-63439837/1002728.html)》, 美国之音, 2003-10-30. (参照 2024-02-26).
+
+2003年11月21日，美国国务院副发言人亚当·埃雷利表示，美国重视通过对话解决同中国的贸易争端问题。[^0421s]
+{: .tl .tn2004 }
+
+[^0421s]: 湖南在线-湖南日报, 《[解决中美贸易争端问题](https://web.archive.org/web/20050502164125/http://news.sina.com.cn/o/2003-11-23/08221170421s.shtml)》, 新浪网, 2003-11-23. (参照 2024-02-26).
 
 2003年11月26日，「国家质量监督检验检疫总局」与「国家标准化管理委员会」联合发布了
 《关于无线局域网强制性国家标准实施的公告》，要求在不到一周后，禁止进口、生产和销售含有 Wi-Fi 功能的设备。
@@ -297,76 +350,6 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
     3G 时代，电信（CDMA1x、EV-DO）、移动（TD-SCDMA）和联通（W-CDMA、HSPA+）不兼容。
 -->
 
-<div markdown="1" class="tl tn2004">
-
-> [!note]+ 贸易谈判
->
-> 2003年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，[^35434][^12566]
-> 并在首届理事会后签署了《中美商务理事会联合声明》。
->
-> 《中美商务理事会联合声明》中可能提到了（原文似乎未公开）：[^77707]
->
-> +   中美双方代表团承认两国间实现货物与服务的自由流动的重要性，并同意将协作促进中美两国商业利益作为总的指导原则。
-> +   双方都强调了履行 WTO 承诺的重要性，同时也承认中国经济改革过程的艰巨性。
-> +   双方理事认为，中国经济增长对世界经济增长的影响力将越来越大，这符合中美两国人民的根本利益。
-> +   双方赞成并支持中国政府发展经济的举措。
-> +   美方理事强调中国遵守其入世承诺时间表的必要性。
->
-> 此时与美国的贸易关系裂痕逐渐变大。因为中国持续成为世界反倾销的头号目标。[^64326]
-> 以及国会议员致函财政部长斯诺，要求调查人民币汇率可能被操纵的问题。[^81493]
-> 所以中国新闻网认为理事会的「第一使命」，似乎是防止中美贸易关系陷入僵局。[^1041s]
->
-> 2003年10月 下旬，美国财政部在向国会提出的年度报告中说，中国并不符合美国 1988 年贸易法案所规定进行经济制裁的条件。[^02728]
->
-> 2003年11月21日，美国国务院副发言人亚当·埃雷利表示，美国重视通过对话解决同中国的贸易争端问题。[^0421s]
->
-> 2004年4月 中旬，外国报导称：国务院副总理吴仪将前往华盛顿，与美国贸易代表佐立克和商务部长埃文斯，
-> 就多项商务事宜进行会谈。[^3145s]
->
-> 2004年4月19日，吴仪坐上前往美国的飞机后，才有官媒报导此次商贸联委会会议。[^43428]
->
-> 2004年4月22日，中美达成协定，[^smyyt] 将无限期推迟强制实施的 WAPI 标准。[^65021][^22335]
->
-> 附言：「无限期推迟强制实施的 WAPI 标准」，大陆媒体均是转载，[^52746] 没有官方直接宣布的报导。
->
-> 2004年5月9日，人民网发布了评论文章《中国推迟实施 WAPI 标准并非迁就美国》（作者米阿仑），澄清了 WAPI 的缺点（祛魅），
-> 批判了一些神话 WAPI 的报导，以及正视 WAPI 没有受到美国、Wi-Fi 厂家不公正待遇的情况。[^58779]
->
-> 文中还提到了反对 WAPI 民族主义，「支持 WAPI 就是符合国家利益、反对 WAPI 就是反对国家利益。」是错觉，
-> 算是给 WAPI 事件降温吧。
-
-</div>
-
-[^35434]: 《[中美商务理事会在京成立](https://web.archive.org/web/20150507235434/http://finance.sina.com.cn/nz/US-China/)》, 新浪网, 2003-. (参照 2024-02-26).
-
-[^12566]: 中国政府网, 《[中美商务理事会成立](https://web.archive.org/web/20240226055554/https://www.gov.cn/test/2005-07/06/content_12566.htm)》, 中国政府网, 2005-07-06. (参照 2024-02-26).
-
-[^77707]: 新浪财经, 《[中美商务理事会联合声明](https://web.archive.org/web/20040622073946/http://finance.sina.com.cn/roll/20031016/1729477707.shtml)》, 新浪网, 2003-10-16. (参照 2024-02-26).
-
-[^64326]: 《[世界反倾销势头凶猛中国首当其冲](https://web.archive.org/web/20210518110217/https://www.voachinese.com/a/a-21-a-2003-07-09-15-1-63185112/964326.html)》, 美国之音, 2003-07-09. (参照 2024-02-26).
-
-[^81493]: 《[美议员要查北京是否操纵人民币汇率](https://web.archive.org/web/20210621034010/https://www.voachinese.com/a/a-21-a-2003-07-18-13-1-58399957/1081493.html)》, 美国之音, 2003-07-18. (参照 2024-02-26).
-
-[^1041s]: 中国新闻网, 《[中美商务理事会第一项使命：排除“非经济因素”](https://web.archive.org/web/20050902201805/http://news.sina.com.cn/o/2003-10-30/08171021041s.shtml)》, 新浪网, 2003-10-30. (参照 2024-02-26).
-
-[^02728]: 《[中未操纵汇率制造不公平贸易](https://web.archive.org/web/20210726173135/https://www.voachinese.com/a/a-21-a-2003-10-30-20-1-63439837/1002728.html)》, 美国之音, 2003-10-30. (参照 2024-02-26).
-
-[^0421s]: 湖南在线-湖南日报, 《[解决中美贸易争端问题](https://web.archive.org/web/20050502164125/http://news.sina.com.cn/o/2003-11-23/08221170421s.shtml)》, 新浪网, 2003-11-23. (参照 2024-02-26).
-
-[^3145s]: 中国新闻网, 《[吴仪本周访美磋商贸易议题 美方称中美关系成熟](https://web.archive.org/web/20050313042202/http://news.sina.com.cn/c/2004-04-19/07472343145s.shtml)》, 新浪网, 2004-04-19. (参照 2024-02-26).
-
-[^43428]: 新华网, 《[吴仪离京赴美 中美本周将全力解决经贸争端](https://web.archive.org/web/20050518163813/http://news.sina.com.cn/c/2004-04-19/14093143428.shtml)》, 新浪网, 2004-04-19. (参照 2024-02-26).
-
-[^smyyt]: 《[吴仪访美磋商贸易议题](https://web.archive.org/web/20070315093524/http://news.sina.com.cn/z/wycsmyyt/index.shtml)》, 2003-. (参照 2024-02-26).
-
-[^65021]: Grant Gross, [_China agrees to drop WAPI standard_](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html), Computerworld, 2004-04-22. (参照 2024-02-26).
-
-[^22335]: Elizabeth Becker, [_China Agrees To Postpone Wireless Plan_](https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html), The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].
-
-[^52746]: 新浪科技, 《[中美达成协定推迟WAPI实施 6月不会强制认证](https://web.archive.org/web/20130616153628/http://tech.sina.com.cn/it/t/2004-04-22/0710352746.shtml)》, 新浪网, 2004-04-22. (参照 2024-02-26).
-
-[^58779]: 人民网／米阿仑, 《[评论：中国推迟实施WAPI标准并非迁就美国](https://web.archive.org/web/20220519181508/http://tech.sina.com.cn/it/2004-05-09/1019358779.shtml)》, 新浪网, 2004-05-09. (参照 2024-02-27).
-
 2004年1月29日，博通公司 CEO Alan E. "Lanny" Ross 和 Wi-Fi 联盟负责人丹 Dennis Eaton 接受路透社采访，
 透露了担心芯片设计在中国将被盗版和复制的问题，因为一些限制，必须在大陆制造 WAPI 芯片，
 所以除非解决知识产权（IP）泄漏的问题，否则会考虑暂停 Wi-Fi 芯片供应。[^34385]
@@ -379,6 +362,41 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 {: .tl }
 
 [^87828]: 21世纪经济报道, 《[国际Wi-Fi联盟施压 中国无线标准实施不变](https://tech.sina.com.cn/it/t/2004-02-04/1024287828.shtml)》, 新浪网, 2004-02-04. (参照 2024-02-25).
+
+2004年4月 中旬，外国报导称：国务院副总理吴仪将前往华盛顿，与美国贸易代表佐立克和商务部长埃文斯，
+就多项商务事宜进行会谈。[^3145s]
+{: .tl .tn2004 }
+
+[^3145s]: 中国新闻网, 《[吴仪本周访美磋商贸易议题 美方称中美关系成熟](https://web.archive.org/web/20050313042202/http://news.sina.com.cn/c/2004-04-19/07472343145s.shtml)》, 新浪网, 2004-04-19. (参照 2024-02-26).
+
+2004年4月19日，吴仪坐上前往美国的飞机后，才有官媒报导此次商贸联委会会议。[^43428]
+{: .tl .tn2004 }
+
+[^43428]: 新华网, 《[吴仪离京赴美 中美本周将全力解决经贸争端](https://web.archive.org/web/20050518163813/http://news.sina.com.cn/c/2004-04-19/14093143428.shtml)》, 新浪网, 2004-04-19. (参照 2024-02-26).
+
+2004年4月22日，中美达成协定，[^smyyt] 将无限期推迟强制实施的 WAPI 标准。[^65021][^22335]
+{: .tl .tn2004 }
+
+[^smyyt]: 《[吴仪访美磋商贸易议题](https://web.archive.org/web/20070315093524/http://news.sina.com.cn/z/wycsmyyt/index.shtml)》, 2003-. (参照 2024-02-26).
+
+[^65021]: Grant Gross, [_China agrees to drop WAPI standard_](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html), Computerworld, 2004-04-22. (参照 2024-02-26).
+
+[^22335]: Elizabeth Becker, [_China Agrees To Postpone Wireless Plan_](https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html), The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].
+
+附言：「无限期推迟强制实施的 WAPI 标准」，大陆媒体均是转载，[^52746] 没有官方直接宣布的报导。
+{: .tl .tn2004 }
+
+[^52746]: 新浪科技, 《[中美达成协定推迟WAPI实施 6月不会强制认证](https://web.archive.org/web/20130616153628/http://tech.sina.com.cn/it/t/2004-04-22/0710352746.shtml)》, 新浪网, 2004-04-22. (参照 2024-02-26).
+
+2004年5月9日，人民网发布了评论文章《中国推迟实施 WAPI 标准并非迁就美国》（作者米阿仑），澄清了 WAPI 的缺点（祛魅），
+批判了一些神话 WAPI 的报导，以及正视 WAPI 没有受到美国、Wi-Fi 厂家不公正待遇的情况。[^58779]
+{: .tl .tn2004 }
+
+[^58779]: 人民网／米阿仑, 《[评论：中国推迟实施WAPI标准并非迁就美国](https://web.archive.org/web/20220519181508/http://tech.sina.com.cn/it/2004-05-09/1019358779.shtml)》, 新浪网, 2004-05-09. (参照 2024-02-27).
+
+文中还提到了反对 WAPI 民族主义，「支持 WAPI 就是符合国家利益、反对 WAPI 就是反对国家利益。」是错觉，
+算是给 WAPI 事件降温吧。
+{: .tl .tn2004 }
 
 2004年5月29日，《经济观察报》提到网通集团首席科学家侯自强对于 WAPI 的看法：像 WAPI 这种对无线局域网进行加密的技术，
 说到底只是修改了原来 Wi-Fi 的接入密码而已，而这种通过软件升级的方法或者将加密算法直接钳入到硬件芯片中的，
@@ -438,7 +456,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 2005年10月，国行明基 P50 开始发售。[^36784] 手机存在 Wi-Fi 芯片，只是被软件屏蔽，于是有人开发了破解工具，
 国行明基 P50 就能用 Wi-Fi 了。[^43873][^65204]
-{: .tl .mii }
+{: .tl .mii .p50 }
 
 [^36784]: IT.COM.CN, 《[IT市场更便宜 行货明基P50报价只有6000](https://web.archive.org/web/20240228140512/https://tech.sina.com.cn/mobile/n/2005-10-11/0919736784.shtml)》, 新浪网, 2005-10-11. (参照 2024-02-28).
 
@@ -448,7 +466,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 有人认为明基戏耍了信息产业部，所以信产部之后提高了审查要求，直接停止检测含有 Wi-Fi 芯片的手机。[^36860]
 比如国行明基 P50 的后继机型 P51，就缺少了 Wi-Fi 芯片，无法再通过破解工具恢复 Wi-Fi 功能。
-{: .tl .mii }
+{: .tl .mii .p50 }
 
 [^36860]: 19xx, 《[JW终于憋不住自宫了，M8上市版将硬件阉割Wi-Fi](https://bbs.tgfcer.com/viewthread.php?tid=6036860)》, TGFC Lifestyle, 2008-12-29. (参照 2024-02-28).
 
