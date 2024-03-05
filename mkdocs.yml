@@ -156,7 +156,8 @@ plugins:
     # - encryption/*
 - tags:
     tags_file: tags.md
-- callouts                # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
+- callouts:               # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
+    breakless_lists: false
 - abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
 # - pdf-export            # 导出为 PDF 格式，不过对于此 Wiki 来说，耗时过多。
 # - roamlinks             # 这是自动将链接转化为易于 mkdocs 的插件
@@ -412,10 +413,10 @@ extra:
       - manage
 
 extra_css:
-- "css/external_link_icon.css"
-- "css/footnotes.css"          # 脚注 CSS
 - "css/base.css"               # 格式处理
 - "css/custom_admonitions.css" # 自定义 Admonitions
+- "css/external_link_icon.css" # 外链
+- "css/footnotes.css"          # 脚注 CSS
 
 extra_javascript:
 - js/consent.js
