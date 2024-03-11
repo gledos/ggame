@@ -30,9 +30,9 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 
 ## 网络劣化
 
-2021年3月，有人发现 [GFW](/censorship/技术/GFW.md) 针对 GitHub 进行了网络劣化处理，原理是每隔一段时间随机封禁 GitHub 部分 IP 的 443 端口一段时间，即使刚才能正常访问，刷新一下就可能被主动封禁了。[^758568]
+2021年3月，有人发现 [GFW](/censorship/技术/GFW.md) 针对 GitHub 进行了网络劣化处理，原理是每隔一段时间随机封禁 GitHub 部分 IP 的 443 端口一段时间，即使刚才能正常访问，刷新一下就可能被主动封禁了。[^58568]
 
-[^758568]: XIU2, 《[只要 Github 域名指向任意 IP，该 IP 的 443 端口就会超时 3 分钟（TCPing， 80 端口正常），求解！](https://web.archive.org/web/20230217100245/https://v2ex.com/t/758568)》, V2EX, 2021-03-04. (参照 2023-02-17).
+[^58568]: XIU2, 《[只要 Github 域名指向任意 IP，该 IP 的 443 端口就会超时 3 分钟（TCPing， 80 端口正常），求解！](https://web.archive.org/web/20230217100245/https://v2ex.com/t/758568)》, V2EX, 2021-03-04. (参照 2023-02-17).
 
 ## 广东封锁 Github
 
@@ -49,13 +49,15 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 
 ## 2022年12月 访问受限
 
-2022年12月6日 左右，有人发现 GitHub 在大陆出现了大范围访问受限的情况。[^2ac5c][^900476][^900485] 有人认为这与 GitHub 上面的 AntiZhaPian 仓库有关。[^900605]
+2022年12月6日 左右，有人发现 GitHub 在大陆出现了大范围访问受限的情况。[^2ac5c][^900476][^900485] 比如使用 114  DNS，会让 GitHub 跳转到反诈页面。[^dIL7A] 有人认为这与 GitHub 上面的 AntiZhaPian 仓库有关。[^900605]
 
 [^2ac5c]: 《[检测目标https://github.com/](https://web.archive.org/web/20221206095415/https://boce.aliyun.com/detect/http/5d555ac9ce344acf8fa9c187b3a2ac5c)》, 阿里云网站运维检测平台, 2022-12-06. (参照 2022-12-08).
 
 [^900476]: eightsheep, 《[github 访问的问题](https://web.archive.org/web/20221206095500/https://www.v2ex.com/t/900476)》, V2EX, 2022-12-06. (参照 2022-12-08).
 
 [^900485]: w950888, 《[有人发现么, 今天电信访问 github 被解析到了国家反诈中心](https://web.archive.org/web/20221206095506/https://www.v2ex.com/t/900485)》, V2EX, 2022-12-06. (参照 2022-12-08).
+
+[^dIL7A]: 🥥🐑 王小美 (@mashiro), 「[114.114.114.114会把GitHub劫持到到反诈中心页面](http://archive.today/2022.12.08-074530/https://m.moec.top/notes/98fey3rk7v)」, 萌c, 2022-12-08. (参照 2024-03-11).
 
 [^900605]: zanzhz1101, 《[如何评价本次 github 被大范围 dns 污染](https://web.archive.org/web/20221206203742/https://www.v2ex.com/t/900605)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2022-12-06. (参照 2022-12-08).
 
