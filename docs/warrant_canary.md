@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-01-22T12:30:30"
+date: "2024-03-16T19:42:22"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,35 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2024年3月16日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年3月16日
+。
+
+由于忘记……所以未更新 2024年2月 的 Warrant Canary，只是一个意外。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Sheikh Knvul, 《[四年后，我们有多了解新冠？](https://web.archive.org/web/20240315202900/https://cn.nytimes.com/health/20240312/covid-symptoms-mysteries/)》, 纽约时报中文网, 2024-03-12. (参照 2024-03-16).
++   Selin Girit、Grujica Andric, 《[当我们死后，我们的社交媒体账户会发生什么](https://web.archive.org/web/20240315111051/https://www.bbc.com/zhongwen/simp/world-68572583)》, BBC News 中文, 2024-03-15. 参照: 2024-03-16. [Online].
++   魏春亮, 《[差一点，炸鸡店就成了燕郊爆炸的背锅侠](https://web.archive.org/web/20240316000504/https://mp.weixin.qq.com/s/3BrUglzbhIX5OfpyweTwfw)》, 微信公众号／亮见, 2024-03-14. (参照 2024-03-16).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZfWFdQAKCRCZXo6bU2oX
+pAdgAQC/snT856/d6JhvNY7LxWjCpdQiJkdeYrVmmcpkjSvqBwD/c3Pe7cKPWUaB
+gvw3qXyNpgsfMc64IDWXRynEVLmhkgo=
+=PoF1
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年1月2日
 
@@ -45,8 +74,6 @@ d6U6KP7sLTbuGhLCeUL2EQ4Iwtp3SAw=
 -----END PGP SIGNATURE-----
 ```
 
-
-## 过去的令状金丝雀
 
 ### 2023年12月27日
 
