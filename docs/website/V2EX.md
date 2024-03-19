@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: "2024-03-16T18:42:15"
+date: "2024-03-19T23:59:32"
 tags:
 - 论坛
 - 腾讯
@@ -21,17 +21,22 @@ V2EX 是信息技术交流论坛。
 讨论隐私问题容易删帖或者转不公开讨论，涉及中华人民共和国大规模监控问题容易删帖。
 -->
 
-## 网络审查相关
+## 外源性审查相关
 
-### GFW 封锁
+### 2015 年首次封锁（20150227）
 
 2015年2月27日，使用 http 连接 V2EX 会被 GFW 阻断，只能通过 https 进行连接。[^2169]
 
 [^2169]: williamlong, 《[技术社区V2EX被封](https://web.archive.org/web/20210726210728/https://www.williamlong.info/weibo/archives/2169.html)》, 月光微博客, 2015-02-28. (参照 2022-06-30).
 
-站长 Livid 在之后发布了《关于 20150227 这事的想法》这篇帖子对这件事进行了一些描述：[^0301]
+原理是 GFW 审查了请求头的 Host 字段「Host: v2ex.com」，当时深度包检测还不流行，
+所以只要手动将 V2EX 域名添加到浏览器的 HSTS 列表中，就能默认以 https 访问 V2EX 了。[^73816]
 
-> [!quote]+ 关于 20150227 这事的想法
+[^73816]: ptyfork, 《[v2ex 正式被土啬了？](https://web.archive.org/web/20160819195528/http://v2ex.com/t/173816)》, V2EX, 2015-03-01. (参照 2024-03-19).
+
+站长 Livid 稍后发文：
+
+> [!quote]+ 关于 20150227 这事的想法[^73280]
 >
 > 在听到这件事情的时候，我并没有觉得特别惊讶，因为类似的事情，在 2007 年 9 月时，其实已经经历了一次。
 >
@@ -55,14 +60,20 @@ V2EX 是信息技术交流论坛。
 > +   这次域名成为了关键字，我不会做任何努力去更换域名或者添加其他手段，就这样吧
 > +   我很希望能够有和审查者沟通的机会
 
-[^0301]: [关于 20150227 这事的想法 - V2EX](https://web.archive.org/web/20150301094429/http://www.v2ex.com/t/173280)
+[^73280]: Livid, 《[关于 20150227 这事的想法](https://web.archive.org/web/20150301094429/http://www.v2ex.com/t/173280)》, V2EX, 2015-02-27. (参照 2024-03-19).
 
-2015年4月末，V2EX 取得 ICP 备案，备案号为「沪ICP备15015613号-1」，[^V2EX_vn] 服务器也移至大陆，[^V2EX_mml]
-http 连接才恢复正常。
+2015年4月，V2EX 取得 ICP 备案，备案号为「沪ICP备15015613号-1」，[^43790]
+2015年4月20日 服务器也移至大陆后，[^v2lg][^84838] http 连接才恢复正常。
 
-[^V2EX_mml]: [V2EX › 关于 Google 登录的支持计划](https://web.archive.org/web/20160513112733/http://v2ex.com/help/google.html)
+[^43790]: 中国互联网部门, 《[V2EX获得国内域名备案](https://web.archive.org/web/20160304075402/http://www.solidot.org/story?sid=43790)》, Solidot, 2015-04-22. (参照 2024-03-19).
 
-[^V2EX_vn]: [V2EX获得国内域名备案 - Solidot](https://web.archive.org/web/20160304075402/http://www.solidot.org/story?sid=43790)
+[^v2lg]: 《[关于 Google 登录的支持计划](https://web.archive.org/web/20160513112733/http://v2ex.com/help/google.html)》, V2EX, 2015-04-18. (参照 2024-03-19).
+
+[^84838]: Livid, 《[维护通知 - 中国时间 2015 年 4 月 20 日 06:00 AM - 07:00 AM / 太平洋时间 2015 年 4 月 19 日 03:00 PM - 04:00 PM](https://web.archive.org/web/20150422010616/http://www.v2ex.com/t/184838)》, V2EX, 2015-04-19. (参照 2024-03-19).
+
+但是 V2EX 并没有在申请 ICP 备案期间下线网站，通常首次备案需要关站。可能当时境内已经无法打开，相当于下线。[^43862]
+
+[^43862]: mitx, 《[如何不关站备案呢？](https://web.archive.org/web/20230519131823/https://www.v2ex.com/t/843862)》, V2EX, 2022-03-30. (参照 2024-03-19).
 
 ### 被当作危险网址
 
@@ -71,8 +82,8 @@ http 连接才恢复正常。
 -->
 
 2021年1月19日，由 Tencent 提供的安全监测服务的浏览器，[^V2EX_mlb]
-比如国行 iOS 系统的 safari 浏览器默认设置，微信内置浏览器与腾讯浏览器等浏览器，
-将讨论 QQ 读取浏览器记录的讨论添加到了黑名单，提示为危险网站或者被多人举报。[^V2EX_qqq][^V2EX_wx]
+比如国行 iOS 系统的 safari 浏览器（默认设置），微信内置浏览器与腾讯浏览器等，
+将「QQ 读取浏览器记录」相关讨论帖子添加到了黑名单，提示为危险网站或者被多人举报。[^V2EX_qqq][^V2EX_wx]
 
 [^V2EX_mlb]: [v 站的网址，这两天是不是被国产浏览器全部加黑名单了？ - V2EX](https://web.archive.org/web/20210130124559/https://www.v2ex.com/t/749828)
 
@@ -84,11 +95,11 @@ http 连接才恢复正常。
 楼主的截图与 MIUI 自带的浏览器警告一样，[^V2EX_miui] 大概 MIUI 也使用了 Tencent 提供的安全监测服务。
 现在「安全联盟」已经将 V2EX 标记为危险与博彩网站了。[^V2EX_anquan]
 
-[^V2EX_anquan]: [搜索 V2EX](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com), 安全联盟.
-
 [^V2EX_pcb]: [您访问的网址存在危险 V2EX](https://web.archive.org/web/20210130175732/https://i.loli.net/2021/01/30/SvCalXqObsEkNhF.jpg "您访问的网址存在危险！截图")
 
 [^V2EX_miui]: [您访问的网址存在危险！ MIUI browser](https://web.archive.org/web/20210115104757/https://nav.browser.miui.com/safe-browsing/ "您访问的网址存在危险！HTML")
+
+[^V2EX_anquan]: [搜索 V2EX](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com), 安全联盟.
 
 <!--
 [安全联盟-企业查询 网站查询 曝光查询 企业工商查询 企业信用查询 企业失信记录 大数据企业信用平台。](https://web.archive.org/web/20210131031012/https://www.anquan.org/search?keyword=V2EX.com)
@@ -104,11 +115,6 @@ http 连接才恢复正常。
 之后这个帖子已经被运营者转为内部讨论了，需要注册满90天以及手机号码认证才能才能阅读。[^V2EX_mk]
 
 [^V2EX_mk]: [v 站看点东西，有门槛是好，可真的节约时间吗 - V2EX](https://web.archive.org/web/20210131025816/https://v2ex.com/t/618036)
-
-2023年9月21日，360 安全卫士似乎开始影响 V2EX 的解析，在运行 360 安全卫士时，
-V2EX 链接会被重定向到 `info.warning.360.cn/warn/?…` 这样的链接，关闭 360 安全卫士后就能正常打开 V2EX。[^NGdWM]
-
-[^NGdWM]: efcndi, 《[360 安全卫士已经开始封锁 V 站了](http://archive.today/2023.09.21-022336/https://www.v2ex.com/t/975771)》, V2EX, 2023-09-21. (参照 2023-09-21).
 
 ### 2021年2月 封锁
 
@@ -136,48 +142,26 @@ V2EX 链接会被重定向到 `info.warning.360.cn/warn/?…` 这样的链接，
 > +   《[知名社交网站v2ex被DNS污染了](https://web.archive.org/web/20210423091927/https://www.zhujib.com/v2ex.html)》, 主机吧.
 > +   [v2ex.com](https://archive.is/yWRjU "https://www.baidu.com/#ie=UTF-8&wd=v2ex.com"), 百度搜索. 备注：百度搜索 v2ex.com 无任何结果
 
-## 隐私相关
+### 被 360 重定向
 
-### V2EX 未经允许公布用户邮箱和手机号
+2023年9月21日，360 安全卫士似乎开始影响 V2EX 的解析，在运行 360 安全卫士时，
+V2EX 链接会被重定向到 `info.warning.360.cn/warn/?…` 这样的链接，关闭 360 安全卫士后就能正常打开 V2EX。[^NGdWM]
 
-这件事与审查的关系不大，属于法律问题。
+[^NGdWM]: efcndi, 《[360 安全卫士已经开始封锁 V 站了](http://archive.today/2023.09.21-022336/https://www.v2ex.com/t/975771)》, V2EX, 2023-09-21. (参照 2023-09-21).
 
-### 自建 DNS 被喝茶
+## 审查相关
 
-痕迹很少，有未经确认的消息认为 V2EX 的站长将发帖人的 IP 等数据上交给警方，造成有人被喝茶警告。
+### 封禁 GreatFire
 
-> [!abstract]+ 可能相关链接
->
-> +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
-> +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://web.archive.org/web/20201018005242/https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
-> +   [V2EX 怎样影响了你？](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971), 知乎.
-> +   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062), 新·品葱.
-> +   [v2ex的站长也是个心眼小的人](https://archive.is/2614A "https://2049bbs.xyz/t/1313"), 2049BBS.
-> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389), 2049BBS.
-> +   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1), V2EX. [百度取证](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
-> +   [这是专门针对 V2 的机器人出现了？](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077), V2EX.
-> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013), Solidot. 备注：评论已移除
-> +   [问一下有那些和 V2EX 相似用户群的论坛？](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 ), V2EX. [百度取证](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
-> +   [V2EX 未经允许公布用户邮箱和手机号？](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559), V2EX.
-> +   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541), 知乎.
-> +   [\[IT新闻\] V2EX 站长被指非法公开用户隐私信息](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948"), NGA玩家社区.
-> +   [以后上网，不想再谈什么隐私！](https://archive.is/aSeFs "https://www.v2ex.com/t/712403"), V2EX. 备注：需登录
+2015年2月18日 左右，GreatFire 在 V2EX 上发布了最后一条回复，之后近两个月都不再发言。[^gfvmp]
+vzch（KOL）提到 GreatFire 可能被气走后，Livid 澄清了具体情况，是自己屏蔽了 GreatFire 的帐号，
+不过 Livid 没有透露屏蔽原因。[^73289][^29121]
 
-### 手机号验证
+[^gfvmp]: [GreatFire](https://web.archive.org/web/20150412040726/http://www.v2ex.com/member/GreatFire), V2EX, 2015-04-12. (参照 2024-03-19).
 
-大概是因为将服务器迁移到大陆的原因，发帖用户必须进行手机号码的认证。
+[^73289]: est, 《[趁热打铁：百万站长联合起来，反制 GFW](https://web.archive.org/web/20150606151312/http://www.v2ex.com/t/173289)》, V2EX, 2015-02-27. (参照 2024-03-19).
 
-2019年7月6日，V2EX 唯一的开发者 Livid，将网站的服务器与 CDN 迁往了美国，并在评论中称「代码中使用到的任何和中国大陆的
-Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V2EX_rcmls]
-以及「注册方式接下来肯定会改」「还需要一些时间(计划取消手机验证)」。[^V2EX_20190706]
-
-[^V2EX_rcmls]: [接下来会逐步去掉依赖关系 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20190713095113/https://www.v2ex.com/t/580480?p=1)
-
-[^V2EX_20190706]: [20190706 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20210130130836/https://www.v2ex.com/t/580480?p=3)
-
-不过截至 2021年1月，取消手机验证的计划还是没有实施。
-
-## 自我审查相关
+[^29121]: GreatFire.org, 「[@Livid 在V2EX登陆GreatFire账号直接空白，是不是封号了？](https://web.archive.org/web/20220114214121/https://twitter.com/GreatFireChina/status/568267993802629121)」, X (formerly Twitter), 2015-02-19. (参照 2024-03-19).
 
 ### 手机验证
 
@@ -265,7 +249,7 @@ V2EX 具有敏感词系统，但是跟大厂的敏感词系统有明显差异，
 > | -------------------------- | ------------------------ | --------------------- | ----------------------------- |
 > | 2017-03-18 之前[^48313]    | 路过／顶／不懂／不明觉厉 | 站长 Livid 披露敏感词 | 帐号降权（Deactivate）        |
 > | 2017-11-30[^09067]         | 斐讯                     | ＊                    | ban IP                        |
-> | 2018-01-26 之前[^26213]    | [保险, 贷款]             | 买车交流              | 帐号降权（4 小时）            |
+> | 2018-01-26 之前[^26213]    | [保险, 贷款]             | 买车交流              | 帐号降权（置底 4 小时）       |
 > | 2018-06-25[^65708][^65703] | 娼妇                     | 音乐交流              | ban IP                        |
 > | 2019-02-13 之前[^34524]    | 投诉纪检委               | ＊                    | ban IP                        |
 > | 2019-06-11[^72680]         | Spotify                  | 流媒体讨论            | 无法发送（需要注册满 720 天） |
@@ -350,3 +334,44 @@ V2EX 没有直接修改已发送内容的功能，所以有人使用图片发送
 
 但是图床似乎有帐号时间限制，需要一定时间。
 -->
+
+## 隐私相关
+
+### V2EX 未经允许公布用户邮箱和手机号
+
+这件事与审查的关系不大，属于法律问题。
+
+### 自建 DNS 被喝茶
+
+痕迹很少，有未经确认的消息认为 V2EX 的站长将发帖人的 IP 等数据上交给警方，造成有人被喝茶警告。
+
+> [!abstract]+ 可能相关链接
+>
+> +   [账号在V2EX被禁了，真是无语了！ 科技爱好者博客 -专注于树莓派（Raspberry Pi）](https://web.archive.org/web/20201018132800/https://www.lxx1.com/922)
+> +   [吐槽V2ex 站长 管理员装逼的下场 什么情况](https://web.archive.org/web/20201018005242/https://www.hostloc.com/thread-660571-1-1.html), 全球主机交流论坛.
+> +   [V2EX 怎样影响了你？](https://web.archive.org/web/20201018101852/https://www.zhihu.com/question/20538971), 知乎.
+> +   [如何评价v2ex的站长将用户信息上交给江苏警方致使用户被查水表？](https://web.archive.org/web/20200812153619/https://pincong.rocks/question/5062), 新·品葱.
+> +   [v2ex的站长也是个心眼小的人](https://archive.is/2614A "https://2049bbs.xyz/t/1313"), 2049BBS.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20201018135611/https://2049bbs.github.io/t/389), 2049BBS.
+> +   [关于 2018 年 3 月 31 日遇到的假毕业证书垃圾信息刷屏](https://web.archive.org/web/20180401023334/https://www.v2ex.com/t/443087?p=1), V2EX. [百度取证](https://web.archive.org/web/20180404121719/http://quzheng.baidu.com/s/z2umua)
+> +   [这是专门针对 V2 的机器人出现了？](https://web.archive.org/web/20180331123610/https://www.v2ex.com/t/443077), V2EX.
+> +   [V2EX 站长被指非法公开用户隐私信息](https://web.archive.org/web/20180406231122/https://www.solidot.org/story?sid=56013), Solidot. 备注：评论已移除
+> +   [问一下有那些和 V2EX 相似用户群的论坛？](https://web.archive.org/web/20180401024739/https://www.v2ex.com/t/443231#reply2 ), V2EX. [百度取证](https://web.archive.org/web/20180504141831/http://quzheng.baidu.com/s/qia2Er)
+> +   [V2EX 未经允许公布用户邮箱和手机号？](https://web.archive.org/web/20201018140229/https://v2ex.com/t/443559), V2EX.
+> +   [V2EX站长是否有权公开网站成员（广告发布者）的隐私信息？](https://web.archive.org/web/20201018140417/https://www.zhihu.com/question/270668541), 知乎.
+> +   [\[IT新闻\] V2EX 站长被指非法公开用户隐私信息](https://archive.is/xb074 "https://bbs.nga.cn/read.php?tid=13779948"), NGA玩家社区.
+> +   [以后上网，不想再谈什么隐私！](https://archive.is/aSeFs "https://www.v2ex.com/t/712403"), V2EX. 备注：需登录
+
+### 手机号验证
+
+大概是因为将服务器迁移到大陆的原因，发帖用户必须进行手机号码的认证。
+
+2019年7月6日，V2EX 唯一的开发者 Livid，将网站的服务器与 CDN 迁往了美国，并在评论中称「代码中使用到的任何和中国大陆的
+Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V2EX_rcmls]
+以及「注册方式接下来肯定会改」「还需要一些时间(计划取消手机验证)」。[^V2EX_20190706]
+
+[^V2EX_rcmls]: [接下来会逐步去掉依赖关系 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20190713095113/https://www.v2ex.com/t/580480?p=1)
+
+[^V2EX_20190706]: [20190706 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20210130130836/https://www.v2ex.com/t/580480?p=3)
+
+不过截至 2021年1月，取消手机验证的计划还是没有实施。
