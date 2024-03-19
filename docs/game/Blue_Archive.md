@@ -583,7 +583,6 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 前两个活动都能看到「活动海报」以及「招募海报」，
 但是【船上的兔子追击者】活动并没有兔女郎海报。[^bacn577][^2PnyP][^cXxEp][^93668]
-而哔哩哔哩发布的日程笔记底部，有一张长图，给出了「活动横幅」和「招募横幅」，不过刚好都看不到服装。[^93668]
 
 [^bacn577]: 《蔚蓝档案》运营团队, 《[阿洛娜的日程笔记（第7期）](https://bluearchive-cn.com/news/577)》, 《蔚蓝档案》手游官方网站, 2024-02-22. (参照 2024-02-22).
 
@@ -591,17 +590,20 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 [^cXxEp]: 夏萊事務所, 《[4/11(二)特選招募&特別特選招募公告](https://ghostarchive.org/archive/cXxEp "https://forum.nexon.com/bluearchiveTW/board_view?thread=2122644")》, Blue Archive TW, 2023-04-10. (参照 2024-02-22).
 
-[^93668]: [cv31793668 图片](https://web.archive.org/web/20240222043048/https://rentry.org/cv31793668), rentry, 2024-02-22. (参照 2024-02-22).
+而在哔哩哔哩发布的日程笔记底部，给出了【船上的兔子追击者】活动的「活动横幅」和「招募横幅」，不过刚好都看不到服装，只有大头照。[^93668][^93668_img] 说明是故意不给看兔女郎服装。
 
 [^93668]: 蔚蓝档案, 《[阿洛娜的日程笔记（第7期）](https://web.archive.org/web/20240222043036/https://www.bilibili.com/read/cv31793668/)》, 哔哩哔哩, 2024-02-22. (参照 2024-02-22).
+
+[^93668_img]: [cv31793668 图片](https://web.archive.org/web/20240222043048/https://rentry.org/cv31793668), rentry, 2024-02-22. (参照 2024-02-22).
 
 国际服同样的活动中，「花凛（邦妮）」其实是「花凛（兔女郎）」，[^cXxEp] 说明这可能是针对「兔女郎」的审查。
 
 2024年3月16日，蔚蓝档案发布了限时活动《船上的兔子追击者》的预告，终于出现了妮露（邦妮）、花凛（邦妮）和明日奈（邦妮）
-的较完整立绘。[^OXpwp][^27393] 但是立绘被小春和名称遮挡住了。
+的较完整立绘。[^OXpwp][^OXpwp_img] 但是立绘被小春和名称完全遮挡住了。
 
 [^OXpwp]: 蔚蓝档案, 《[限时活动《船上的兔子追击者》即将开启](http://archive.today/2024.03.19-090722/https://t.bilibili.com/909328757940027393)》, 哔哩哔哩, 2024-03-16. (参照 2024-03-19).
-[^27393]: [图片](https://web.archive.org/web/20240319101156/https://rentry.co/909328757940027393), rentry.co, 2024-03-19. (参照 2024-03-19).
+
+[^OXpwp_img]: [图片](https://web.archive.org/web/20240319101156/https://rentry.co/909328757940027393), rentry.co, 2024-03-19. (参照 2024-03-19).
 
 | 国际服[^47457][^83426][^64864] | 简中服        |
 | ------------------------------ | ------------- |
@@ -620,7 +622,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 [^83426]: BlueArchive, [Pick-Up Student: 3★ Karin (Bunny)](https://twitter.com/EN_BlueArchive/status/1644631165188583426), X (formerly Twitter), 2023-04-08. (参照 2024-03-19).
 [^64864]: BlueArchive, [Pick-Up Student: 3★ Neru (Bunny)](https://twitter.com/EN_BlueArchive/status/1644628648790564864), X (formerly Twitter), 2023-04-08. (参照 2024-03-19).
 
-并且有人从客户端解包，得到了卡池演示视频。除了妮露，花凛和明日奈的立绘均有小春遮挡，
+并且有人从客户端解包，得到了卡池演示视频。除了贫乳的妮露，花凛和明日奈的立绘均有小春遮挡，
 并且 3D 小人被「圣光」遮挡，[^1R7T7][^BgO6R] 尚不明确实装之时，模型会如何修改。
 
 [^1R7T7]: 尤里12138, 《[【蔚蓝档案/碧蓝档案】国服提前预载的C&C兔女郎（邦妮）卡池演示视频](https://www.bilibili.com/video/BV1Ui421R7T7/)》, 哔哩哔哩, 2024-03-15. (参照 2024-03-19).
