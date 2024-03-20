@@ -72,7 +72,8 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 [exe_2]: https://steamcommunity.com/sharedfiles/filedetails/?id=2876867229
 [exe_3]: https://steamcommunity.com/sharedfiles/filedetails/?id=2880859605
 
-但是玩家发现反和谐的操作，比起完美世界之前代理的 [Dota 2](/game/Dota_2.md) 容易多了，这可能是故意留下的漏洞，属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
+但是玩家发现反和谐的操作，比起完美世界之前代理的 [Dota 2](/game/Dota_2.md) 容易多了，这可能是故意留下的漏洞，
+属于 [官方反和谐](/theme/游戏官方纵容甚至支持的反和谐.md)。
 
 ### 激流大行动和谐
 
@@ -102,23 +103,20 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 [^678144017188257801]: RushB中文网, 《[新箱子唯一一件和谐皮肤，区别是枪身的骷髅有无。](https://archive.ph/y6hcE "https://t.bilibili.com/678144017188257801")》, 哔哩哔哩, 2022-07-02. (参照 2022-07-02).
 
-<script
-  defer
-  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
-></script>
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
-/>
+<script defer src="https://unpkg.com/img-comparison-slider@7/dist/index.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"/>
 
-<img-comparison-slider>
-  <img slot="first" src="https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp" />
-  <img slot="second" src="https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp" />
-</img-comparison-slider>
+> [!abstract]+ R8 Revolver | Crazy 8
+>
+> <img-comparison-slider markdown=1>
+> ![未审查_R8](https://s3.tebi.io/ggame/game/csgo/未审查_R8_Revolver_Crazy_8.webp){: .off-glb slot="first" }
+> ![已审查_R8](https://s3.tebi.io/ggame/game/csgo/已审查_R8_Revolver_Crazy_8.webp){: .off-glb slot="second" }
+> </img-comparison-slider>
 
 ## 台湾战队被取消资格
 
-2018年11月6日，台湾的 Sad Story 队伍在参加 IEM Katowice 2019 Minor 东亚区公开预选赛\#2 时，在战胜日本 Friendly Welcome 队伍后，被 ESL 官方人员告知已经被取消参赛资格，理由是战队所属国家不符合参赛赛区的要求。
+2018年11月6日，台湾的 Sad Story 队伍在参加 IEM Katowice 2019 Minor 东亚区公开预选赛 \#2 时，
+在战胜日本 Friendly Welcome 队伍后，被 ESL 官方人员告知已经被取消参赛资格，理由是战队所属国家不符合参赛赛区的要求。
 
 最后，ESL 官方人员让 Sad Story 战队参加中国封闭预选赛 (Minor China Closed Qualifier)，以示歉意。
 
@@ -130,9 +128,12 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 ## 修改旗帜
 
-2018年7月6日，CSGO 更新了<ruby>全景 UI<rp>(</rp><rt>Panorama UI</rt><rp>)</rp></ruby>的测试版本，新的 UI 会显示附近房间的旗帜，该旗帜由 IP 决定。
+2018年7月6日，CSGO 更新了<ruby>全景 UI<rp>(</rp><rt>Panorama UI</rt><rp>)</rp></ruby>的测试版本，
+新的 UI 会显示附近房间的旗帜，该旗帜由 IP 决定。
 
-在 SteamDatabase 创建的 GitHub 仓库 GameTracking-CSGO 里面能找到 1.36.4.0 (703) 版本的更新文件，其中就有各种旗帜。[^f8c7_list][^f8c7_cn] 但是在 2021年8月17日 的 1.38.0.0 (1316) 版本更新后，旗帜被删除，文件夹的名称从 flags 修改为了 regions，修改前与后的旗帜图片如下：[^p6hmku][^4fab_list]
+在 SteamDatabase 创建的 GitHub 仓库 GameTracking-CSGO 里面能找到 1.36.4.0 (703) 版本的更新文件，
+其中就有各种旗帜。[^f8c7_list][^f8c7_cn] 但是在 2021年8月17日 的 1.38.0.0 (1316) 版本更新后，旗帜被删除，
+文件夹的名称从 flags 修改为了 regions，修改前与后的旗帜图片如下：[^p6hmku][^4fab_list]
 
 [^f8c7_list]: SteamTracker, 《[703 | 1.36.4.0 | 235 files | M Protobufs/cstrike15_gcmessages.proto, … · SteamDatabase/GameTracking-CSGO@f8c7e75](https://github.com/SteamDatabase/GameTracking-CSGO/commit/f8c7e75d8b46e0c197e82672daa84491d863e23b)》, GitHub, 2018-07-07. (参照 2022-08-01).
 
@@ -142,8 +143,8 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 [^4fab_list]: SteamTracker, 《[1316 | 1.38.0.0 | 29 files | M csgo/bin/linux64/client_client_strings… · SteamDatabase/GameTracking-CSGO@4fabaef](https://web.archive.org/web/20210818022141/https://github.com/SteamDatabase/GameTracking-CSGO/commit/4fabaef411a1a2e72ec39e4ced8f039d8b68ecc0)》, GitHub, 2021-08-18. (参照 2022-08-01).
 
-| 名称 | 修改前    | 修改后                   | 名称  | 修改前    | 修改后                    |
-| ---- | --------- | ------------------------ | ----- | --------- | ------------------------- |
+| 名称 | 修改前    | 修改后                    | 名称  | 修改前    | 修改后                     |
+| ---- | --------- | ------------------------- | ----- | --------- | -------------------------- |
 | ae   | ![ae_f][] | ![ae_r][]{: width=50% }   | us    | ![us_f][] | ![us_r][]{: width=50% }    |
 | ar   | ![ar_f][] | ![ar_r][]{: width=50% }   | ve    | ![ve_f][] | ![ve_r][]{: width=50% }    |
 | asia | 无        | ![asia_r][]{: width=50% } | vn    | ![vn_f][] | ![vn_r][]{: width=50% }    |
@@ -182,7 +183,7 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 | th   | ![th_f][] | ![th_r][]{: width=50% }   | se    | ![se_f][] | ![se_r][]{: width=50% }    |
 | tr   | ![tr_f][] | ![tr_r][]{: width=50% }   | sg    | ![sg_f][] | ![sg_r][]{: width=50% }    |
 | tw   | ![tw_f][] | ![tw_r][]{: width=50% }   | si    | ![si_f][] | ![si_r][]{: width=50% }    |
-| ua   | ![ua_f][] | ![ua_r][]{: width=50% }   |       |           |                           |
+| ua   | ![ua_f][] | ![ua_r][]{: width=50% }   |       |           |                            |
 
 [ae_f]: https://s3.tebi.io/ggame/game/csgo/旗帜/flags/ae.png
 [ar_f]: https://s3.tebi.io/ggame/game/csgo/旗帜/flags/ar.png
@@ -384,7 +385,8 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 ### 名称问题
 
-简中版本的运营方「完美世界」，继续使用《反恐精英：全球攻势》或者没有副标题的《反恐精英》字样，官网、游戏本体和主要第二方的新闻均是如此，[^24918][^21845] 甚至是宣传片也将「Counter-Strike 2」修改为了「Counter-Strike」。[^1G7sS]
+简中版本的运营方「完美世界」，继续使用《反恐精英：全球攻势》或者没有副标题的《反恐精英》字样，官网、
+游戏本体和主要第二方的新闻均是如此，[^24918][^21845] 甚至是宣传片也将「Counter-Strike 2」修改为了「Counter-Strike」。[^1G7sS]
 
 [^24918]: 《[反恐精英:全球攻势](https://web.archive.org/web/20230929024918/https://www.csgo.com.cn/)》, CSGO官方网站. (参照 2023-10-18).
 
@@ -392,7 +394,8 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 [^1G7sS]: 姓面名包君, 《[Counter Strike 2（CS2）发售宣传片 国服与国际对比](https://www.bilibili.com/video/BV1jz4y1G7sS/)》, 哔哩哔哩, 2023-09-28. (参照 2023-10-18).
 
-这可能是规避审查，因为如果是新游戏，就需要重新获取版号。这样的操作类似于《[守望先锋：归来](/game/守望先锋.md)》（国际版叫做《守望先锋 2》），同样是在名称上耍花招。
+这可能是规避审查，因为如果是新游戏，就需要重新获取版号。这样的操作类似于《[守望先锋：归来](/game/守望先锋.md)》
+（国际版叫做《守望先锋 2》），同样是在名称上耍花招。
 
 ### 趴地问题
 
