@@ -2,7 +2,7 @@
 title: V2EX
 description:
 published: true
-date: "2024-03-20T22:49:08"
+date: "2024-03-22T23:57:47"
 tags:
 - 论坛
 - 腾讯
@@ -378,3 +378,214 @@ Web 服务提供商有关的 API，接下来会逐步去掉依赖关系。」[^V
 [^V2EX_20190706]: [20190706 - 关于最近基础架构方面的一些变动 - V2EX](https://web.archive.org/web/20210130130836/https://www.v2ex.com/t/580480?p=3)
 
 不过截至 2021年1月，取消手机验证的计划还是没有实施。
+
+## 站长
+
+2006年5月11日 左右，V2EX 有用户咨询为什么注册时需要填写身份证号。Livid 亲切的解释了这个问题。[^109]
+
+[^109]: 隐藏人物, 《[为什么注册必填身份证号码？](https://web.archive.org/web/20061123122635/http://www.v2ex.com/topic/view/109.html)》, V2EX, 2006-05-11. (参照 2024-03-22).
+
+> [!quote]+ Livid 的回复
+>
+> 很大程度上这似乎看起来相当多余。
+>
+> 不过，这是 Babel Validator Core 代码库中的，当年为了应付 ICP 证审核的一个历史遗留问题。
+>
+> 我会解决掉的。
+
+> [!quote]+ Livid 的回复
+>
+> 请大家放心，大家在 V2EX 的任何个人信息不会泄露给任何第三方的，也不会泄露给 V2EX 的任何会员。
+>
+> 请大家放心。
+
+2007年1月11日 16 时开始，Livid 的服务器，因为「上级主管部门」的通知，被拔掉了我服务器上的网线。V2EX 也因此离线。
+
+> [!quote]+ Run! Run! Run![^immo3][^85701][^22942]
+>
+> 我在楼下买了两罐啤酒，然后上楼回到家，在电脑面前坐下，开始敲下这些文字。
+>
+> 2007 年的 1 月 11 日对于我而言是特殊的一天。
+>
+> 在 2 年前，我开始了我的 Blog，而两年后的下午，我的服务器所在的机房接到“上级主管部门”的通知，因为“莫须有”的原因，
+> 拔掉了我服务器上的网线。于是，这台被我叫做 vik.trinity 的服务器上的所有服务，包括倾注我全部心血的 V2EX.com，
+> 从 2007 年 1 月 11 日下午 4 点开始全部都无法访问到。
+>
+> 我不想去问任何的为什么，因为既然有的人已经选择了以敌人的方式来给我制造麻烦，
+> 那么我最好的做法就是积极地寻求任何解决办法。
+>
+> 那台服务器上的数据目前还没有受到影响，我将会努力在下个星期内让大部分的服务能够尽早恢复。
+>
+> 请大家相信我，相信我将一直坚强生存下去的信念，在这个特殊时刻，我想再次对所有给我巨大帮助的人们说，非常感谢！
+>
+> So this is the land I called it “homeland”, so this is the way they treat me, I’m always being constructive, I’m
+> always being creative, I’m smart and I’m nice to everyone, I used to make wealth and knowledge for this land, but this
+> land just cannot allow me to be a nice “good” man, so, what else can I do?
+
+[^immo3]: Livid, 《[Run! Run! Run!](https://web.archive.org/web/20070114101244/http://www.livid.cn/immortal/?p=3)》, Livid’s Immortal, 2007-01-12. (参照 2024-03-22).
+
+[^85701]: 月亮上的石头, 《[愤怒的一天，V2EX被停](https://web.archive.org/web/20070913223239/http://www.douban.com/group/topic/1385701/)》, 豆瓣网, 2007-01-13. (参照 2024-03-22).
+
+[^22942]: 阮一峰, 《[这就是我们叫做“祖国”的地方](https://web.archive.org/web/20070120022942/http://www.ruanyifeng.com/blog/2007/01/a_land_we_call_homeland.html)》, 阮一峰的网络日志, 2007-01-13. (参照 2024-03-22).
+
+期间 Livid 可能还说过「我的 blog，我的社区，我朋友们放在这里的 blog，我做的网上辞典，我的文档，我的 svn 版本控制……
+现在全部都没法用了。」[^81946]
+
+[^81946]: Evan, 《[さようなら，V2EX](https://web.archive.org/web/20071213194821/http://www.freemagi.com/2007/09/06/goodbye-v2ex/)》, FreeMAGi, 2007-09-06. (参照 2024-03-22).
+
+两天后，Livid 发文回应了关心他的朋友。
+
+> [!quote]+ I’m Ok[^immo5]
+>
+> 各位关心我的朋友们，我现在很好。谢谢大家。
+>
+> Thank you very much! I’m Ok.
+>
+> 目前 Project Babel 的 Subversion repository 已经从本地的 working copy 中恢复，这样的话，
+> 至少这个开源项目的开发将继续进行。
+>
+> 而那台服务器上受到影响的服务，将在本星期内逐渐恢复。不过我的 Lividict.org 网络辞典服务恐怕是在短期内没有办法恢复了
+> （就是那个输入 hello.livid.cn 就可以查到 hello 这个单词的意思的网站），因为这个网络辞典用到了 Apache
+> 对域名的泛解析所做的 rewrite 处理，因此必须使用 dedicated server，而目前我已经不可能再在中国大陆的任何地方放置
+> dedicated server。
+>
+> 我相信我在做的事情是在创造价值，在这样的一个日渐变得平坦的世界中，当我所创造的价值在一个地区不被认可，
+> 甚至因此而遭受迫害的时候，我还可以有很多种其他选择。中国政府目前的很多做法是在向国民制造恐怖，
+> 而我认为对我而言最正确的事情是去制造希望。V2EX 项目是一个在技术和设计等很多方面都有创新的项目，
+> 我认为我在做这些创新的时候，我并不需要去征得谁的同意，我更不需要谁来给我限定一个所谓 guideline of innovation，
+> 世界最终是平的。
+
+[^immo5]: Livid, 《[I’m Ok](https://web.archive.org/web/20080209220341/http://www.livid.cn/immortal/?p=5)》, Livid’s Immortal, 2007-01-14. (参照 2024-03-22).
+
+<!--
+Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了。
+-->
+
+2007年1月17日，V2EX 恢复。[^5544]
+
+[^5544]: Livid, 《[累](https://web.archive.org/web/20080209205832/http://www.livid.cn/doc_view.php?doc_id=5544)》, Livid’s Paranoid, 2007-02-10. (参照 2024-03-22).
+
+2007年9月 月初，V2EX 遭到 GFW 封锁。
+
+2007年9月5日，站长 Livid 在博客里发布了《2007.9.5》，内容是一张图片，转为文字后的内容如下：
+
+<!-- http://homepage.mac.com/v2ex.livid/moment/letter070905.png -->
+
+> [!quote]+ 2007.9.5[^5636][^81946]
+>
+> 经过刚才的反复验证，下面这些是我目前得到的结论。
+>
+> 字符串 labs.v2ex.com 和 nexus.v2ex.com 已经在出口路由处被屏蔽 ，任何包含这两个字符串的到国外的访问
+> ，在客户端会收到 connection reset。
+>
+> 有一个很简单的验证方法，随便找一个国外的搜索引擎，比如 yahoo.co.jp，在搜索框中输入 labs.v2ex.com 或者
+> nexus.v2ex.com 然后看你会得到什么？
+>
+> 主域名 V2EX.com 所指向的 IP 地址也同时被屏蔽。
+>
+> 这是最近发生在中国大陆的众多人祸中的一起。
+>
+> 我为此已经早有思想准备。V2EX 是一个有讨论区，有博客托管，及很多其他创新交互应用的网站，而这样的东西似乎
+> 让这个国家的某些人非常恐惧。所以他们利用手中强大的国家机器的力量来竭力消灭他们恐惧的那些东西，从而希望把
+> 他们内心的那些恐惧也传播到普通人心中。
+>
+> 这样的做法，很不靠谱吧！都是一群五六十岁的老人了，还要被一群孩子怀疑你们的智慧和思考，难道不觉得有一丁点
+> 的羞耻？不觉得有一丁点背离人民为耻的感觉么？
+>
+> V2EX 的所有数据目前都很安全。
+>
+> 我目前暂时想不到有什么比较稳妥的方法能够恢复，从今年一月时候遭遇的第一次冲击，到现在的第二次，中途已经有
+> 很多东西都被改变了。如果你有什么建设性的想法，写信给我吧: v2ex.livid@mac.com
+
+[^5636]: Livid, 《[2007.9.5](https://web.archive.org/web/20071011211228/http://livid.cn/doc_view.php?doc_id=5636)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+
+站长 Livid 随后发布帖子，提供了能够代理的软件供用户使用。[^17659][^5638][^5637]
+
+[^17659]: Livid, 《[V2EX 访问方法](https://web.archive.org/web/20071011043814/http://v2ex.com/topic/view/17659.html)》, V2EX, 2007-09-06. (参照 2024-03-22).
+
+[^5638]: Livid, 《[V2EX 访问方法 - Mac，Linux 及任何可以运行 J2SE 的平台适用](https://web.archive.org/web/20071011211234/http://livid.cn/doc_view.php?doc_id=5638)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+
+[^5637]: Livid, 《[V2EX 访问方法 - Windows 适用](https://web.archive.org/web/20071011195332/http://www.livid.cn/doc_view.php?doc_id=5637)》, Livid’s Paranoid, 2007-09-05. (参照 2024-03-22).
+
+2007年9月6日，Livid 在 V2EX 发帖：
+
+> [!quote]+ _Internet Industry in China_[^17666]
+>
+> 感觉目前国内的各种政策给个人站长的压力实在是太大了。
+>
+> 难道，是这个国家还没有到需要互联网的阶段么？
+>
+> 难道现在的中国就只需要高污染的工厂和亩产千斤的稻田？
+
+[^17666]: Livid, [_Internet Industry in China_](https://web.archive.org/web/20071012144552/http://v2ex.com/topic/view/17666.html), V2EX, 2007-09-06. (参照 2024-03-22).
+
+2007年9月19日，有人转载了 Livid 的两次发言。
+
+> [!quote]+ 被转载的 Livid 发言[^20319]
+>
+> 对于一个愚蠢的国家政府的愚蠢行为，我只想忽略，而不想为了它而浪费我的任何时间。
+>
+> ---
+>
+> 1，这一系列的做法让本来可能对政治毫无感觉的人突然开始关心起自己的政治立场了。
+>
+> 2，如果现在的这一系列的做法可以被称为极左的话，那么毫无疑问我是个向往自由相信天赋人权的 right wing。
+
+[^20319]: 陈朝阳, 《[自由。迟疑](https://web.archive.org/web/20130909220319/http://gui.su/2007/09/)》, gui.su, 2007-09-19. (参照 2024-03-22).
+
+2007年9月26日 左右，Livid 在 V2EX 发帖：_Learn about Democracy_，不过内容并没有被 Internet Archive 保存。[^32802]
+
+[^32802]: 《[Livid](https://web.archive.org/web/20070928132802/http://www.v2ex.com/u/Livid)》, V2EX, 2007-09-28. (参照 2024-03-22).
+
+2007年10月5日，Livid 发布博文：
+
+> [!quote]+ 人心[^5655]
+>
+> 人心像水一样，不出意外的话，都是往低处流的。
+>
+> 几天前我开始的一个关于 Wiki 的试验——http://www.livid.cn/doc_view.php?doc_id=5651，在开始之后，由于这个 Wiki 站除了有
+> edit 的自由，甚至还有 delete page 的自由，于是这个页面在大家写了东西之后，又被无聊的傻逼删除了无数次。
+> 这些傻逼的 IP 如下：
+>
+> 2 hours ago - `220.231.150.3`{: .heimu } - Page deleted.
+> 1 day ago - `124.114.99.34`{: .heimu } - Page deleted.
+> September 29 - `124.64.142.64`{: .heimu } - Page deleted.
+> September 29 - `125.115.117.210`{: .heimu } - Page deleted.
+> September 29 - `124.77.223.176`{: .heimu } - Page deleted.
+>
+> 显然一种自由被滥用了。
+>
+> 我没有时间每天都去 undo 这些傻逼的操作。所以这个 Wiki 站用密码保护起来了。
+>
+> 自由是一种有前提有阶级性的东西。天赋人权，可是向低处流的人心却使得这样的权柄被放弃。
+> 有的人在做那些各种可鄙之事的时候，或许并没有想过这样会给自己的人生造成什么样的后果。
+> 于是他们一边做那些可鄙之事一边抱怨这个社会对他们不公平，抱怨这个国家没有民主，抱怨物价不停在涨。而世间万物是有联系的，
+> 抱怨的时候想想自己做过些什么事情吧。反正我是没有心情和这些无聊的傻逼玩的。
+
+[^5655]: Livid, 《[人心](https://web.archive.org/web/20071011211335/http://livid.cn/doc_view.php?doc_id=5655)》, Livid’s Paranoid, 2007-10-05. (参照 2024-03-22).
+
+2007年10月30日，Livid 在豆瓣网发文：
+
+> [!quote]+ 表明我的政治立场[^33745]
+>
+> 我是 V2EX.COM 论坛的创始人刘昕。
+>
+> 国家政府所做的一切事情我都完全理解。
+>
+> 无论是什么国家的什么政府，他们所做的一切，目的都是为了秩序而不是混乱。而我们所要的，也都是秩序而不是混乱。只有秩序下的生活才是真正的好生活。
+>
+> 因此，我完全理解和支持国家政府已经做的一切。
+>
+> 我反对任何无意义的喧嚣。
+>
+> 我不需要任何的愤青为我振臂高呼。
+>
+> 请大家爱护豆瓣。爱护自己。
+>
+> 我们都应该通过我们自己不断的学习和尽责的工作，让自己成为一个有益的，健康的，和平的人。
+>
+> 以上言论仅代表我自己个人的想法。
+>
+> 祝福世界和平。
+
+[^33745]: Livid, 《[表明我的政治立场](https://web.archive.org/web/20080106201015/http://www.douban.com/group/topic/2133745/)》, 豆瓣网, 2007-10-30. (参照 2024-03-22).
