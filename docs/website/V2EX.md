@@ -547,11 +547,11 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 > edit 的自由，甚至还有 delete page 的自由，于是这个页面在大家写了东西之后，又被无聊的傻逼删除了无数次。
 > 这些傻逼的 IP 如下：
 >
-> 2 hours ago - `220.231.150.3`{: .heimu } - Page deleted.
-> 1 day ago - `124.114.99.34`{: .heimu } - Page deleted.
-> September 29 - `124.64.142.64`{: .heimu } - Page deleted.
-> September 29 - `125.115.117.210`{: .heimu } - Page deleted.
-> September 29 - `124.77.223.176`{: .heimu } - Page deleted.
+> +   2 hours ago - **220.231.150.3**{: .heimu } - Page deleted.
+> +   1 day ago - **124.114.99.34**{: .heimu } - Page deleted.
+> +   September 29 - **124.64.142.64**{: .heimu } - Page deleted.
+> +   September 29 - **125.115.117.210**{: .heimu } - Page deleted.
+> +   September 29 - **124.77.223.176**{: .heimu } - Page deleted.
 >
 > 显然一种自由被滥用了。
 >
