@@ -93,3 +93,11 @@ html>div>img {
 */
 
 /* 似乎优先级存在问题，运行会出错，所以 CSS 被移动到了 /overrides/main.html 下。 */
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    让透明图使用 MkDocs 的背景色，这样就不会叠在一起
+*/
+
+.off-glb{ background: var(--md-default-bg-color); }

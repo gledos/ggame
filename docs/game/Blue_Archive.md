@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2024-03-20T12:54:10"
+date: "2024-03-25T23:43:18"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -88,11 +88,16 @@ dateCreated: "2022-11-14T21:57:06"
     href="https://cdn.jsdelivr.net/npm/img-comparison-slider@8/dist/styles.css"
 />
 
+<style>
+    .off-glb{ background: var(--md-default-bg-color); }
+    /* 让透明图使用 MkDocs 的背景色，这样就不会重叠 */
+</style>
+
 > [!abstract]+ 狮子堂泉（泳装）对照[^00l2d][^bakc]
 >
 > <img-comparison-slider markdown=1>
-> ![狮子堂泉（泳装）_18](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp){: .off-glb slot="first" }
-> ![狮子堂泉（泳装）_15](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp){: .off-glb slot="second" }
+> ![狮子堂泉（泳装）原版 L2D](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_15.webp){: .off-glb slot="first" }
+> ![狮子堂泉（泳装）和谐版 L2D](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_狮子堂泉（泳装）_18.webp){: .off-glb slot="second" }
 > </img-comparison-slider>
 
 [^00l2d]: star hope, [\[블루 아카이브\] 인연 스토리(이즈미/수영복) / 메모리얼](https://www.youtube.com/watch?v=1mF81T5fbNo), YouTube.
@@ -605,7 +610,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 国际服同样的活动中，「花凛（邦妮）」其实是「花凛（兔女郎）」，[^cXxEp] 说明这可能是针对「兔女郎」的审查。
 
-2024年3月16日，蔚蓝档案发布了限时活动《船上的兔子追击者》的预告，终于出现了妮露（邦妮）、花凛（邦妮）和明日奈（邦妮）
+2024年3月16日，简中服发布了限时活动《船上的兔子追击者》的预告，终于出现了妮露（邦妮）、花凛（邦妮）和明日奈（邦妮）
 的较完整立绘。[^OXpwp][^OXpwp_img] 但是立绘被小春和名称完全遮挡住了。
 
 [^OXpwp]: 蔚蓝档案, 《[限时活动《船上的兔子追击者》即将开启](http://archive.today/2024.03.19-090722/https://t.bilibili.com/909328757940027393)》, 哔哩哔哩, 2024-03-16. (参照 2024-03-19).
@@ -617,6 +622,10 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 | ![asuna_en][]                  | ![asuna_zh][] |
 | ![karin_zh][]                  | ![karin_en][] |
 | ![neru_en][]                   | ![neru_zh][]  |
+
+<!--
+    karin_zh 与 karin_en 命名弄错了……所以就交换一下……
+-->
 
 [asuna_en]: https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_asuna_en.webp
 [asuna_zh]: https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_asuna_zh.webp
@@ -635,6 +644,47 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 [^1R7T7]: 尤里12138, 《[【蔚蓝档案/碧蓝档案】国服提前预载的C&C兔女郎（邦妮）卡池演示视频](https://www.bilibili.com/video/BV1Ui421R7T7/)》, 哔哩哔哩, 2024-03-15. (参照 2024-03-19).
 
 [^BgO6R]: 60120608, 《[[蔚蓝档案]国服解包文件中精英级的和谐方式](http://archive.today/2024.03.15-045906/https://nga.178.com/read.php?tid=39573988&rand=461)》, NGA, 2024-03-15. (参照 2024-03-19).
+
+2024年3月24日，简中服更新了游戏，将五张角色立绘调整了，分别是：[^47516][^qnGzJ]
+
+[^47516]: 蔚蓝档案, 《[〈蔚蓝档案〉03月24日在线更新说明](https://web.archive.org/web/20240323071515/https://www.bilibili.com/read/cv33347516/)》, 哔哩哔哩, 2024-03-23. (参照 2024-03-25).
+
+[^qnGzJ]: 《蔚蓝档案》运营团队, 《[03月24日在线更新说明](http://archive.today/2024.03.25-010431/https://bluearchive-cn.com/news/644)》, 《蔚蓝档案》手游官方网站, 2024-03-23. (参照 2024-03-25).
+
+> [!abstract]+ 寧瑠（兔女郎）／妮露（邦妮）
+>
+> <img-comparison-slider markdown=1>
+> ![［国际服］寧瑠（兔女郎）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_neru_en.avif){: .off-glb slot="first" }
+> ![［简中服］妮露（邦妮）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_neru_zh.avif){: .off-glb slot="second" }
+> </img-comparison-slider>
+
+> [!abstract]+ 花凛（兔女郎）／花凛（邦妮）
+>
+> <img-comparison-slider markdown=1>
+> ![［国际服］花凛（兔女郎）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_karin_en.avif){: .off-glb slot="first" }
+> ![［简中服］花凛（邦妮）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_karin_zh.avif){: .off-glb slot="second" }
+> </img-comparison-slider>
+
+> [!abstract]+ 明日奈（兔女郎）／明日奈（邦妮）
+>
+> <img-comparison-slider markdown=1>
+> ![［国际服］明日奈（兔女郎）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_asuna_en.avif){: .off-glb slot="first" }
+> ![［简中服］明日奈（邦妮）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_asuna_zh.avif){: .off-glb slot="second" }
+> </img-comparison-slider>
+
+> [!abstract]+ 朱音（兔女郎）／茜（邦妮）
+>
+> <img-comparison-slider markdown=1>
+> ![［国际服］朱音（兔女郎）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_akane_en.avif){: .off-glb slot="first" }
+> ![［简中服］茜（邦妮）](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_akane_zh.avif){: .off-glb slot="second" }
+> </img-comparison-slider>
+
+> [!abstract]+ 兔女郎保镖／邦妮保安
+>
+> <img-comparison-slider markdown=1>
+> ![［国际服］兔女郎保镖](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_girl_guard_en.avif){: .off-glb slot="first" }
+> ![［简中服］邦妮保安](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_girl_guard_zh.avif){: .off-glb slot="second" }
+> </img-comparison-slider>
 
 ## 其他内容
 
