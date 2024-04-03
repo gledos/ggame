@@ -143,9 +143,9 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 
 2023年9月6日，华尔街日报和路透社报导了大陆政府机构官员，不能将 iPhone 和其他外国品牌的设备带进办公室的新闻。[^81500][^fe2f8]
 
-[^81500]: Baranjot Kaur, [_China bans govt officials from using iPhone for work_](https://web.archive.org/web/20230906081500/https://www.reuters.com/world/china/china-bans-govt-officials-using-iphone-work-wsj-2023-09-06/), Reuters, 2023-09-06. 参照: 2023-09-06. [Online].
+[^81500]: Baranjot Kaur, _[China bans govt officials from using iPhone for work](https://web.archive.org/web/20230906081500/https://www.reuters.com/world/china/china-bans-govt-officials-using-iphone-work-wsj-2023-09-06/)_, Reuters, 2023-09-06. 参照: 2023-09-06. [Online].
 
-[^fe2f8]: Yoko Kubota, [_China Bans iPhone Use for Government Officials at Work_](https://web.archive.org/web/20230906090348/https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8), WSJ, 2023-09-06. (参照 2023-09-06).
+[^fe2f8]: Yoko Kubota, _[China Bans iPhone Use for Government Officials at Work](https://web.archive.org/web/20230906090348/https://www.wsj.com/world/china/china-bans-iphone-use-for-government-officials-at-work-635fe2f8)_, WSJ, 2023-09-06. (参照 2023-09-06).
 
 2023年9月13日，外交部发言人毛宁主持例行记者会上，出现了以下问答：[^42325]
 

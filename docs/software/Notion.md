@@ -60,7 +60,7 @@ Notion 是一款集成了笔记、知识库、数据表格、看板、日历等�
 
 根据 TechCrunch 的报导来看，导致封禁的原因可能是 2020年5月21日 Notion 在大陆的下载量飙升，而这可能跟 Notion 开放个人免费使用，[^wcuni] 以及像素级抄袭的软件「寒舟」的争议有关。[^74611]
 
-[^wcuni]: Rita Liao, [_Work collaboration unicorn Notion is blocked in China [Update: It’s back]_](https://web.archive.org/web/20230402035257/https://techcrunch.com/2020/05/24/work-collaboration-unicorn-notion-is-blocked-in-china/), TechCrunch, 2020-05-25. (参照 2023-01-29).
+[^wcuni]: Rita Liao, _[Work collaboration unicorn Notion is blocked in China [Update: It’s back]](https://web.archive.org/web/20230402035257/https://techcrunch.com/2020/05/24/work-collaboration-unicorn-notion-is-blocked-in-china/)_, TechCrunch, 2020-05-25. (参照 2023-01-29).
 
 [^74611]: iOrz, 《[照抄 Notion 界面、代码、接口的产品：寒舟 hanzhou.work](https://web.archive.org/web/20221209221453/https://www.v2ex.com/t/674611)》, V2EX, 2020-05-23. (参照 2023-01-29).
 

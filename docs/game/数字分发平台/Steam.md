@@ -143,6 +143,6 @@ Steam 大陆区有严格的色情游戏锁区政策，直接将账号设置偏�
 不过 2023 年依然举办了农历新年特惠，然后 2024 年的农历新年特惠举办方是「蒸汽平台」，这点被专门标出，
 打折的游戏主要也是大陆游戏。[^02911]
 
-[^58401]: Steamworks Development, [_Changes to Four Major Seasonal Steam Sales + Upcoming Seasonal Sale Dates_](https://web.archive.org/web/20220927164842/https://steamcommunity.com/groups/steamworks/announcements/detail/3282583269823858401), Steam, 2022-09-27. (参照 2024-02-09).
+[^58401]: Steamworks Development, _[Changes to Four Major Seasonal Steam Sales + Upcoming Seasonal Sale Dates](https://web.archive.org/web/20220927164842/https://steamcommunity.com/groups/steamworks/announcements/detail/3282583269823858401)_, Steam, 2022-09-27. (参照 2024-02-09).
 
-[^02911]: Andy Chalk, [_Surprise! Steam’s Lunar New Year Sale is back_](https://web.archive.org/web/20240209102911/https://www.pcgamer.com/steam-lunar-new-year-sale-2024/), PC Gamer, 2024-02-06. 参照: 2024-02-09. [Online].
+[^02911]: Andy Chalk, _[Surprise! Steam’s Lunar New Year Sale is back](https://web.archive.org/web/20240209102911/https://www.pcgamer.com/steam-lunar-new-year-sale-2024/)_, PC Gamer, 2024-02-06. 参照: 2024-02-09. [Online].

@@ -24,7 +24,7 @@ Zoom Meetings 是一款由 Zoom Video Communications 开发的专有视频对话
 
 2020年4月3日，「公民实验室」通过研究 Zoom 的通讯，发现 Zoom 的加密方案存在明显弱点：[^mfryo]
 
-[^mfryo]: Bill Marczak, John Scott-Railton, [_Move Fast and Roll Your Own Crypto: A Quick Look at the Confidentiality of Zoom Meetings_](https://web.archive.org/web/20230118185220/https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/), University of Toronto, Citizen Lab Research Report No. 126, 4月 2020. 参照: 2023-01-30. [Online].
+[^mfryo]: Bill Marczak, John Scott-Railton, _[Move Fast and Roll Your Own Crypto: A Quick Look at the Confidentiality of Zoom Meetings](https://web.archive.org/web/20230118185220/https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/)_, University of Toronto, Citizen Lab Research Report No. 126, 4月 2020. 参照: 2023-01-30. [Online].
 
 1.  Zoom 并未使用 AES-256 加密，而是使用 AES-ECB 128
 

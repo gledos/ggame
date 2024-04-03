@@ -58,7 +58,7 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 2017年9月15日，完美世界代理了 CSGO，并调整了大量地图、饰品细节。比如替换红色血液为黑色，将地图中的共产主义标志，
 以及阿拉伯文移除，将饰品的骷髅图案移除。[^hclic]
 
-[^hclic]: Dennis Loudmouth, [_What does CS:GO look like in China? Stickers, music, models, maps_](https://web.archive.org/web/20231115065556/https://cs.money/blog/games/how-csgo-looks-in-china-version-differences/), CS.MONEY Blog, 2023-06-22. (参照 2023-11-15).
+[^hclic]: Dennis Loudmouth, _[What does CS:GO look like in China? Stickers, music, models, maps](https://web.archive.org/web/20231115065556/https://cs.money/blog/games/how-csgo-looks-in-china-version-differences/)_, CS.MONEY Blog, 2023-06-22. (参照 2023-11-15).
 
 > [!note]+ Exerpas 整理的审查图鉴
 >

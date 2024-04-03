@@ -18,7 +18,7 @@ IMSI 拦截器（[IMSI-catcher][]）俗称 Stingray。正如其名，能够捕�
 上面将其称为「间谍设备」，是因为国土安全部发现有人在华盛顿 DC，使用了 IMSI 拦截器，这被视作间谍活动，
 自然 IMSI 拦截器也属于间谍工具，而政府使用的 IMSI 拦截器已经过授权。[^22248]（如果没有意外的话）
 
-[^22248]: Andrew Liptak, [_Homeland Security detected signs of cell phone spying in Washington DC_](https://www.theverge.com/2018/6/3/17422248/imsi-catcher-stingray-dhs-cell-phone-spying-washington-dc-white-house-donald-trump), The Verge, 2018-06-03. (参照 2023-11-01).
+[^22248]: Andrew Liptak, _[Homeland Security detected signs of cell phone spying in Washington DC](https://www.theverge.com/2018/6/3/17422248/imsi-catcher-stingray-dhs-cell-phone-spying-washington-dc-white-house-donald-trump)_, The Verge, 2018-06-03. (参照 2023-11-01).
 
 IMSI 拦截器可以小型化到手提箱的大小，然后伪装成基站，与手机连接，从而获取各种元数据，甚至是中间人攻击。
 

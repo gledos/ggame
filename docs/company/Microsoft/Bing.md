@@ -137,8 +137,8 @@ Unicom) 证实，政府已下令屏蔽必应。」[^1215]
 
 > [!abstract]+ 相关链接
 >
-> +   [_Microsoft says 'tank man' image blocking due to human error_](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315), ABC News.
-> +   [_Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’_](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/), Reuters.
+> +   _[Microsoft says 'tank man' image blocking due to human error](https://web.archive.org/web/20210628172506/https://abcnews.go.com/Technology/wireStory/microsoft-tank-man-censorship-due-human-error-78105315)_, ABC News.
+> +   _[Microsoft says error led to no matching Bing images for Tiananmen ‘tank man’](https://web.archive.org/web/20210705124052/https://www.reuters.com/technology/microsoft-bing-raises-concerns-over-lack-image-results-tiananmen-tank-man-2021-06-04/)_, Reuters.
 
 <!--
     + [“坦克人”照片搜不到 微软Bing被质疑屏蔽六四敏感内容 - DW](https://web.archive.org/web/20210620000617/https://www.dw.com/zh/坦克人照片搜不到-微软bing被质疑屏蔽六四敏感内容/a-57786620)

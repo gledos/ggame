@@ -18,7 +18,7 @@ AdGuard 是一系列软件，有浏览器插件/扩展/附加元件，也有软�
 
 ## 被 Google 限制
 
-2014 年底，AdGuard 被从 Google Play 下架，详情可以查阅维基百科的 [_AdGuard_](https://en.wikipedia.org/wiki/AdGuard) 条目。
+2014 年底，AdGuard 被从 Google Play 下架，详情可以查阅维基百科的 [AdGuard](https://en.wikipedia.org/wiki/AdGuard) 条目。
 
 ## GFW 封禁域名
 

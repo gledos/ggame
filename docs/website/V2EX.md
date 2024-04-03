@@ -608,7 +608,7 @@ Internet Archive 原文是 12 日，可能是网站软件自作聪明调整了�
 >
 > 难道现在的中国就只需要高污染的工厂和亩产千斤的稻田？
 
-[^17666]: Livid, [_Internet Industry in China_](https://web.archive.org/web/20071012144552/http://v2ex.com/topic/view/17666.html), V2EX, 2007-09-06. (参照 2024-03-22).
+[^17666]: Livid, _[Internet Industry in China](https://web.archive.org/web/20071012144552/http://v2ex.com/topic/view/17666.html)_, V2EX, 2007-09-06. (参照 2024-03-22).
 
 2007年9月19日，有人转载了 Livid 的两次发言。
 

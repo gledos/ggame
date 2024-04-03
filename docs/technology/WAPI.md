@@ -193,7 +193,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^13871]: 21世纪经济报道／陈志刚, 《[消息称中国电信借力美国公司 密谋Wi-Fi手机](https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml)》, 新浪网, 2003-07-26. (参照 2024-02-27).
 
-[^60358]: [_Calypso Wireless inks USD500 million Wi-Fi deal_](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/), TeleGeography, 2003-12-02. (参照 2024-02-27).
+[^60358]: _[Calypso Wireless inks USD500 million Wi-Fi deal](https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/)_, TeleGeography, 2003-12-02. (参照 2024-02-27).
 
 2003年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，[^35434][^12566]
 并在首届理事会后签署了《中美商务理事会联合声明》。
@@ -353,7 +353,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 所以除非解决知识产权（IP）泄漏的问题，否则会考虑暂停 Wi-Fi 芯片供应。[^34385]
 {: .tl }
 
-[^34385]: Reuters, [_Forbes.com: US supplier threatens China Wi-Fi chip boycott_](https://web.archive.org/web/20040213032221/http://www.forbes.com/technology/newswire/2004/01/29/rtr1234385.html), Forbes.com, 2004-01-29. (参照 2024-02-26).
+[^34385]: Reuters, _[Forbes.com: US supplier threatens China Wi-Fi chip boycott](https://web.archive.org/web/20040213032221/http://www.forbes.com/technology/newswire/2004/01/29/rtr1234385.html)_, Forbes.com, 2004-01-29. (参照 2024-02-26).
 
 2004年2月4日，国家标准委副主任宿忠民称，[有关部门](/censorship/有关部门.md) 最开始计划直接禁止含有 Wi-Fi 商品，
 但后来中方作出了让步，同意了 6 个月的宽限期。所以国家标准委对 Wi-Fi 联盟的要求，不会作出任何让步。[^87828]
@@ -377,9 +377,9 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^smyyt]: 《[吴仪访美磋商贸易议题](https://web.archive.org/web/20070315093524/http://news.sina.com.cn/z/wycsmyyt/index.shtml)》, 2003-. (参照 2024-02-26).
 
-[^65021]: Grant Gross, [_China agrees to drop WAPI standard_](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html), Computerworld, 2004-04-22. (参照 2024-02-26).
+[^65021]: Grant Gross, _[China agrees to drop WAPI standard](https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html)_, Computerworld, 2004-04-22. (参照 2024-02-26).
 
-[^22335]: Elizabeth Becker, [_China Agrees To Postpone Wireless Plan_](https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html), The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].
+[^22335]: Elizabeth Becker, _[China Agrees To Postpone Wireless Plan](https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html)_, The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].
 
 附言：「无限期推迟强制实施的 WAPI 标准」，大陆媒体均是转载，[^52746] 没有官方直接宣布的报导。
 {: .tl .tn2004 }
@@ -473,7 +473,7 @@ Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成�
 
 [^97990]: 《[无线局域网产品使用的 SMS4 密码算法](https://web.archive.org/web/20110707041401/http://www.oscca.gov.cn/UpFile/200621016423197990.pdf)》, 国家密码管理局, 2007-. (参照 2024-02-25).
 
-[^85032]: Jiqiang Lu, [_Attacking reduced-round versions of the SMS4 block cipher in the Chinese WAPI standard_](https://dl.acm.org/doi/abs/10.5555/1785001.1785032), Proceedings of the 9th international conference on Information and communications security, Berlin, Heidelberg, 2007, 页码 306–318.
+[^85032]: Jiqiang Lu, _[Attacking reduced-round versions of the SMS4 block cipher in the Chinese WAPI standard](https://dl.acm.org/doi/abs/10.5555/1785001.1785032)_, Proceedings of the 9th international conference on Information and communications security, Berlin, Heidelberg, 2007, 页码 306–318.
 
 2008年8月15日，魅族公布 M8 第一批内测用户名单，[^62417] 之后在 9 月公布第二批内测用户名单。[^65380]
 内测用户拥有「魅族 M8 内测版」付费测试的资格。并且因为这是测试，所以能退款。[^60641]

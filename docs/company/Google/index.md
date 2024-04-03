@@ -33,12 +33,12 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/ind
 
 2000 年，Google 开始提供中文版。但该网站大约有 10 % 的时间无法访问，速度缓慢且不可靠，这显然是因为 GFW 的过滤。[^abdc0]
 
-[^abdc0]: Justine Lau, [_A history of Google in China_](https://web.archive.org/web/20171102155453/http://ig-legacy.ft.com/content/faf86fbc-0009-11df-8626-00144feabdc0), Financial Times, 2010-07-09. (参照 2023-12-14).
+[^abdc0]: Justine Lau, _[A history of Google in China](https://web.archive.org/web/20171102155453/http://ig-legacy.ft.com/content/faf86fbc-0009-11df-8626-00144feabdc0)_, Financial Times, 2010-07-09. (参照 2023-12-14).
 
 2002年8月 月底左右，google.com 在大陆被封锁，[^13853] 然后在两周后解封，[^93277] 但是快照系统被继续封禁，
 原因可能是用户能依靠快照阅读被 GFW 封禁的网站。[^abdc0]（这属于 [依附的自由](/theme/突破网络审查主题.md#依附的自由)）
 
-[^13853]: AP, [_China blocks Google as congress looms_](https://web.archive.org/web/20230608113853/https://www.theguardian.com/technology/2002/sep/04/internetnews.china), The Guardian, 2002-09-04. 参照: 2023-12-14. [Online].
+[^13853]: AP, _[China blocks Google as congress looms](https://web.archive.org/web/20230608113853/https://www.theguardian.com/technology/2002/sep/04/internetnews.china)_, The Guardian, 2002-09-04. 参照: 2023-12-14. [Online].
 
 [^93277]: 《[Google同中国商讨解除封锁](https://web.archive.org/web/20210622130748/https://www.voachinese.com/a/a-21-a-2002-09-05-5-1-63384032/993277.html)》, 美国之音, 2002-09-05. (参照 2023-12-14).
 
@@ -87,7 +87,7 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/ind
 2010年7月30日，Google 的自动报告系统，声称所有的 Google 服务在大陆都被屏蔽。不过有用户发现仍然可以在一定程度上，
 连上 Google 的服务，所以 Google 随后解释自动报告系统高估了阻塞情况。[^21249]
 
-[^21249]: eldavojohn, [_China’s Firewall Stymies Google; Users Confused_](https://web.archive.org/web/20230918224952/https://yro.slashdot.org/story/10/07/30/1421249/chinas-firewall-stymies-google-users-confused), Slashdot, 2010-07-30. (参照 2023-12-09).
+[^21249]: eldavojohn, _[China’s Firewall Stymies Google; Users Confused](https://web.archive.org/web/20230918224952/https://yro.slashdot.org/story/10/07/30/1421249/chinas-firewall-stymies-google-users-confused)_, Slashdot, 2010-07-30. (参照 2023-12-09).
 
 但是新华网随后发布文章《谷歌服务「被屏蔽」的「乌龙事件」说明了什么？》，内容大意是：Google 的技术故障，
 导致了无法访问。[^90073][^29504]
