@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: "2020-12-07T14:11:09"
+date: "2024-04-03T12:20:52"
 tags:
 - 地图
 - restraint
@@ -10,28 +10,23 @@ editor: markdown
 dateCreated: "2020-10-10T09:00:29"
 ---
 
-## 语言选项
+## 简介
+
+〔待续〕
+
+## 国际版
+
+### 语言选项
 
 + [\[MC-133873\] Taiwan is a part of China! - Jira](https://web.archive.org/web/20201005125722/https://bugs.mojang.com/browse/MC-133873)
 
-## 国际版的消失
+### 国际版的消失
 
 IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 
 [如何看待网易对Minecraft Windows 10 版停止更新并下架？ - 知乎](https://web.archive.org/web/20201004155309/https://www.zhihu.com/question/64111647)
 
-## 国服客户端禁止事项
-
-+ [我的世界中国版遭遇严格限制 地图作者和普通玩家如何应对 - 哔哩哔哩](https://archive.vn/X4LnI "https://www.bilibili.com/video/av540524788/")
-+ [为什么我的世界和迷你世界 在这一个月将迎来重大考验 - 哔哩哔哩](https://archive.is/lA0iA "https://www.bilibili.com/video/av925518412/")
-+ [我的世界中国版遭遇严格限制 地图作者和普... 来自籽岷 - 微博](https://archive.vn/f6JDR "https://www.weibo.com/3159686244/J04BByPcd")
-+ [書上不能寫字？！Minecraft中國版的現狀！(MC網易版審查加強) - YouTube](https://archive.is/F2M7z "https://www.youtube.com/watch?v=JwEJocioFY0")
-
-<!--
-+ [【 好奇七七 】極權政府管不到的禁書天堂？開箱 Minecraft 虛擬圖書館！《 好奇七七探索日記 》EP 008 - YouTube](https://archive.is/OE2On "https://www.youtube.com/watch?v=JwEJocioFY0")
--->
-
-## Minecraft Live 2020 地图问题
+### Minecraft Live 2020 地图问题
 
 视频中1小时39分20秒时出现的地图问题，事件为中华人民共和国缺少藏南与台湾。
 
@@ -78,8 +73,6 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 [我的世界Minecraft官方直播间 哔哩哔哩直播，二次元弹幕直播平台](https://archive.vn/lTdgw "https://live.bilibili.com/1310115")
 -->
 
-## Notch
-
 ### 19w13a
 
 2019年3月27日的 MC Java 版本快照 19w13a，悄悄的移除了关于 Notch 的闪烁标语，[^19w13a_MW] 官网的更新笔记里没有提及这件事。[^19w13a_MP]
@@ -94,7 +87,7 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 
 [^19w13a_dwm]: [Notch成历史《我的世界》最新版快照删除Notch信息](https://web.archive.org/web/20190502054349/http://www.dianwanmi.com/game/2746.html), 电玩迷.
 
-## 大陆锁区
+### 大陆锁区
 
 2023年4月24日，「蛮KK」发现官网无法购买 Mineraft，原因不明。[^tdCY3][^02085]
 
@@ -103,3 +96,57 @@ IOS 大陆区以及 Microsoft Store 大陆区均下架了国际版的 Minecraft
 [^02085]: 我的世界永远的神, 《[各位怎么评价这次minecraft锁国区](https://web.archive.org/web/20230430160437/https://tieba.baidu.com/p/8388302085)》, 百度贴吧/minecraft, 2023-04-30. (参照 2023-05-01).
 
 截至 2023年5月1日，微软的 Xbox 页面还能购买 Minecraft PC 版本，目前尚未锁区，尚不明确未来会不会锁区。
+
+## 网易版
+
+### 禁止事项
+
++ [我的世界中国版遭遇严格限制 地图作者和普通玩家如何应对 - 哔哩哔哩](https://archive.vn/X4LnI "https://www.bilibili.com/video/av540524788/")
++ [为什么我的世界和迷你世界 在这一个月将迎来重大考验 - 哔哩哔哩](https://archive.is/lA0iA "https://www.bilibili.com/video/av925518412/")
++ [我的世界中国版遭遇严格限制 地图作者和普... 来自籽岷 - 微博](https://archive.vn/f6JDR "https://www.weibo.com/3159686244/J04BByPcd")
++ [書上不能寫字？！Minecraft中國版的現狀！(MC網易版審查加強) - YouTube](https://archive.is/F2M7z "https://www.youtube.com/watch?v=JwEJocioFY0")
+
+<!--
++ [【 好奇七七 】極權政府管不到的禁書天堂？開箱 Minecraft 虛擬圖書館！《 好奇七七探索日記 》EP 008 - YouTube](https://archive.is/OE2On "https://www.youtube.com/watch?v=JwEJocioFY0")
+-->
+
+### 敏感词与反制
+
+〔敏感词。待续〕
+
+反制措施有直接使用方块搭建点阵的文字，也有使用块元素的字符拼凑文字的方案：[utf-block-sign-art][]。
+
+[utf-block-sign-art]: https://github.com/kqakqakqa/utf-block-sign-art
+
+〔方块搭建点阵的文字。待续〕
+
+utf-block-sign-art 的原理，是将 7 px 的 [寒蝉点阵字体][]，拆解成 2 × 2 的区域，然后用对应的块元素来「绘制」。
+过去的块元素被用来绘制 [TUI][]，所以块元素字符没有字间距，可以很好的绘制复杂图形。不过需要合适的字体，
+好在 Minecraft 的字体就很合适。
+
+[寒蝉点阵字体]: https://github.com/Warren2060/ChillBitmap_7px
+
+[TUI]: https://en.wikipedia.org/wiki/Text-based_user_interface
+
+<!--
+
+| 字符  | 描述       | 二进制 |
+| ----- | ---------- | ------ |
+| &nbsp | 无         | 0000   |
+| ▘     | 左上       | 0001   |
+| ▝     | 右上       | 0010   |
+| ▀     | 上半       | 0011   |
+| ▖     | 左下       | 0100   |
+| ▌     | 左半       | 0101   |
+| ▞     | 右上、左下 | 0110   |
+| ▛     | 缺右下     | 0111   |
+| ▗     | 右下       | 1000   |
+| ▚     | 左上、右下 | 1001   |
+| ▐     | 右半       | 1010   |
+| ▜     | 缺左下     | 1011   |
+| ▄     | 下半       | 1100   |
+| ▙     | 缺右上     | 1101   |
+| ▟     | 缺左上     | 1110   |
+| █     | 全         | 1111   |
+
+-->
