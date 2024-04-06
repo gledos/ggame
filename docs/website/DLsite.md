@@ -2,7 +2,7 @@
 title: DLsite
 description:
 published: true
-date: "2024-03-27T10:39:19"
+date: "2024-04-06T11:21:00"
 tags:
 - 新浪微博
 editor: markdown
@@ -89,3 +89,10 @@ dateCreated: "2021-06-10T09:44:45"
 对此，DLsite 用户 Robot-Inventor 创建了转换器：[DLconverter][]。它能将替代文字转换为原文。
 
 [DLconverter]: https://dl-converter.roboin.io
+
+## 暂停服务
+
+2024年4月3日，DLsite 在官网发布了公告，表示 Visa 和 Mastercard 信用卡被暂停使用。次日更新的消息里，
+<ruby>美国运通<rt>American Express</rt></ruby> 信用卡也被暂停。[^21c06]
+
+[^21c06]: DLsite, 《[【重要】Visa、Mastercardをご利用のお客様へ【4/4追記】](https://web.archive.org/web/20240404103102/https://info.eisys.co.jp/dlsite/69dd17c1c4b21c06)》, DLsite｜サービスインフォメーション, 2024-04-03. (参照 2024-04-06).
