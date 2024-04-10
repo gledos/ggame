@@ -15,7 +15,7 @@ QQ邮箱是腾讯运营的邮箱服务，在 2002 年推出。
 
 ## 微色差文字水印
 
-2023年4月27日，QQ邮箱网页的登录窗口被发现含有微色差文字水印，原理是使用 Javascript 动态生成一个 HTML 元素，
+2023年4月27日，QQ 邮箱网页的登录窗口被发现含有微色差文字水印，原理是使用 Javascript 动态生成一个 HTML 元素，
 部分 Javascript 代码如下：[^zy1dn]
 
 [^zy1dn]: u4GVY5NnpU3Q8Hw4zs19, 《[QQ邮箱登录界面藏有忙水印](https://web.archive.org/web/20230428155537/https://old.reddit.com/r/real_China_irl/comments/12zy1dn/qq邮箱登录界面藏有忙水印/)》, r/real_China_irl, 2023-04-26. (参照 2023-04-28).

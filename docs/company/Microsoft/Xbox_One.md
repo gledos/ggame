@@ -3,8 +3,9 @@ title: "Xbox One"
 description: 微软的游戏主机
 published: true
 date: "2023-01-10T22:33:50"
-特殊标签标记: #无标签
-editor: undefined
+tags:
+- 水印
+editor: markdown
 dateCreated: "2020-09-19T03:02:57"
 ---
 
@@ -14,6 +15,20 @@ Xbox One 是微软公司的游戏主机，上一代是 Xbox 360，下一代是 X
 
 Xbox One 在 2013年11月22日，于欧美上架，之后在 2014年9月29日 被引进到大陆，这也是「游戏机禁令」解除后，
 正式投入市场的第一款游戏机。
+
+## Xbox 360 追踪内鬼
+
+Xbox 360 曾经使用图标的动画追踪试图泄密的测试人员。当时游戏机主页右侧的图标，会不断闪烁涟漪。虽然看起来是随机的，
+而实际上会发送某种被编码的信息。[^4y3n8][^69221]
+
+[^4y3n8]: [deleted], 《[One way MS tracked NDA breakers in the 360 era](https://web.archive.org/web/20181210215923/https://www.reddit.com/r/xboxone/comments/a4y3n8/one_way_ms_tracked_nda_breakers_in_the_360_era/)》, r/xboxone, 2018-12-10. (参照 2024-04-10).
+
+[^69221]: Hope Corrigan, 《[How Microsoft Caught Xbox 360 NDA Breakers](https://web.archive.org/web/20181212084819/https://www.gamerevolution.com/news/469221-how-microsoft-caught-xbox-360-nda-breakers)》, GameRevolution, 2018-12-12. (参照 2024-04-10).
+
+如果测试人员试图录像、截图炫耀，那么这个涟漪会让其暴露身份，算是某种特殊的追踪水印。所以此功能仅防内鬼，
+公开发售的机器里没有这个功能。
+
+附言：泄漏机密的内部人员，往往被称为内鬼。
 
 ## 锁区
 
