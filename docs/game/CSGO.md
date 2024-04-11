@@ -352,13 +352,21 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 
 [^BV1mK4y137co]: 某毕业的vup, 《[CSGO音乐盒痞子帮改名躺平（赢）青年！？你们要的改名还是来了.](https://archive.ph/34L6k "https://www.bilibili.com/video/BV1mK4y137co")》, 哔哩哔哩, 2021-06-09. (参照 2022-07-28).
 
+## Chelo 辱华
+
+2024年4月，IEM 成都比赛上，巴西选手 Chelo 因为使用一张毛 meme 头像，引发了一些玩家的不满。[^38040][^49505]
+
+[^38040]: Auroral_path, 「[巴西csgo选手因为使用腊肉meme头像破防了大量腊粉，在完美app给改选手打低分并辱骂持不同意见者🤣（仅部分节选）](https://web.archive.org/web/20240411072757/https://www.reddit.com/r/real_China_irl/comments/1bz3eu4/巴西csgo选手因为使用腊肉meme头像破防了大量腊粉在完美app给改选手打低分并辱骂持不同意见者仅/?rdt=38040)」, r/real_China_irl, 2024-04-08. (参照 2024-04-11).
+
+[^49505]: 李老师不是你老师, 《[在这两天的IEM成都比赛上，巴西CSGO选手Chelo因为使用一张毛泽东的MEME做头像，引发国内玩家不满](https://twitter.com/whyyoutouzhele/status/1777664860710449505)》, X (formerly Twitter), 2024-04-09. (参照 2024-04-11).
+
 ## 完美世界二代问题
 
-2023年9月28日，_CS2_ 正式取代 _CS:GO_，但是出现了一些问题。
+2023年9月28日，CS2 正式取代 CS:GO，但是出现了一些问题。
 
 ### 健康游戏公告问题
 
-有人发现完美世界版的 _CS2_ 的《健康游戏公告》存在问题，游戏中的《健康游戏公告》出现了拼写错误：[^OfGvp]
+有人发现完美世界版的 CS2 的《健康游戏公告》存在问题，游戏中的《健康游戏公告》出现了拼写错误：[^OfGvp]
 
 [^OfGvp]: 清梦Seward, 《[【CS2】完美内鬼或导致CS2停止出版？严查！](http://archive.today/2023.09.28-234625/https://www.bilibili.com/video/BV1Qw411Y77M/)》, 哔哩哔哩, 2023-09-28. (参照 2023-09-30).
 
