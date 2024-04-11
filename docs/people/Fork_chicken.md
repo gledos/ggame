@@ -16,6 +16,10 @@ dateCreated: "2021-01-13T16:25:12"
 
 ## 尝试自己封杀自己
 
+> [!info]+ 相关主题
+>
+> 此章节被收录到了 [隐蔽的追踪水印主题](/theme/隐蔽的追踪水印主题.md)。
+
 2020年10月，叉雞做了一期视频，讲述了自己跟冒牌货斗智斗勇的故事。[^wY2gg]
 
 [^wY2gg]: [看我如何送盜片仔見上帝。「原諒你是上帝的事，我的任務是送你去見衪」 - 叉雞說叉雞 - YouTube](https://archive.is/wY2gg "https://www.youtube.com/watch?v=SnTnjfcwRUE")
