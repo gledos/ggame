@@ -1,11 +1,11 @@
 ---
-title: UGC 发行节目
-description: 
+title: "UGC 发行节目"
+description:
 published: true
-date: 2024-04-13T22:31:49
-特殊标签标记: 
+date: "2024-04-13T23:13:46"
+特殊标签标记: #无标签
 editor: markdown
-dateCreated: 2024-04-12T19:17:33
+dateCreated: "2024-04-12T19:17:33"
 ---
 
 ## 简介
@@ -14,13 +14,23 @@ dateCreated: 2024-04-12T19:17:33
 
 ## YouTube 动画频道
 
+<!--
 YouTube 除了用户上传的作品，也有商业性质的，类似 Netflix 与 Amazon Prime Video 的流媒体服务。
 但是这项服务在过去并没有成功。[^80597] YouTube 之后的付费影集，主要只剩下了电影。
+-->
+
+YouTube 是 UGC（用户生成内容）视频平台，虽然也有一些电影和电视频道能租赁与订购，
+但这并不像 Netflix 与 Hulu 那样的「流媒体平台」，只要缴纳月费就能随意看各种节目，这可能是因为之前的尝试没有成功。[^80597]
 
 [^80597]: Jon Porter, _[YouTube cancels two original series but denies moving away from original content](https://web.archive.org/web/20231202023334/https://www.theverge.com/2019/3/25/18280597/youtube-originals-canceled-origin-overthinking-with-kat-and-june-red-premium)_, The Verge, 2019-03-25. (参照 2024-04-13).
 
+<!--
 所以 YouTube 的日本动画，都是相关公司以 UGC 投稿的形式发布的。YouTube 的广告收益，能在一定程度上回收免费放映的成本，
 并且扩大受众。[^28555][^95518]
+-->
+
+结果就是动画剧集想要上架 YouTube，只能走 UGC 上传。在尝试扩大受众的同时赚取 YouTube 的广告分成，或者收取频道的会员费。
+而 YouTube 不需要支付版权费就能获得一些动画，这算是 YouTube 独特的模式吧。[^28555][^95518]
 
 [^28555]: Mark Schilling, _[Japan Animation Leaders Unite for YouTube Initiative](https://web.archive.org/web/20230712083410/https://variety.com/2020/streaming/asia/japan-animation-unified-youtube-anime-initiative-1234728555/)_, Variety, 2020-08-07. (参照 2024-04-13).
 
@@ -37,8 +47,10 @@ YouTube 除了用户上传的作品，也有商业性质的，类似 Netflix 与
 
 ## 哔哩哔哩动画投稿
 
-过去的盗版时期，哔哩哔哩的动画都是盗版用户上传的 UGC 内容。后来哔哩哔哩购置的正版动画，走专用的渠道，上架到动画版块。
-但需要经过审查。
+过去的盗版时期，哔哩哔哩的动画都是盗版用户上传的 UGC 内容。而哔哩哔哩和 niconico 的正版动画，与 Netflix、Hulu 相似，
+都是购买版权后，上架到单独的动画版块，但需要经过严格的审查。
+
+换句话说，哔哩哔哩和 niconico 也许算自营，买断版权后需要自负盈亏。而 YouTube 的模式类似于租赁柜台，做中间抽成。
 
 > [!note]+ 个人上传版权剧集、电影的细节
 >
