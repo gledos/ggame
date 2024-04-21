@@ -2,7 +2,7 @@
 title: App Store
 description:
 published: true
-date: "2023-09-30T09:09:49"
+date: "2024-04-21T14:21:26"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-12-17T23:11:34"
@@ -240,3 +240,17 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 ```
 
 详情可以查看〈[备案及许可证主题](/theme/备案及许可证主题.md#时间线)〉条目的〈时间线〉部分。
+
+### 下架多款社交软件
+
+2024年4月19日，App Store 大陆区下架了多款社交软件。[^3c4c4][^02815][^70463][^coats]
+
+[^3c4c4]: Aaron Tilley, Liza Lin, Jeff Horwitz, 《[苹果从中国应用商店下架WhatsApp和Threads](https://web.archive.org/web/20240419235250/https://cn.wsj.com/articles/苹果从中国应用商店下架whatsapp和threads-a883c4c4)》, WSJ, 2024-04-19. (参照 2024-04-21).
+
+[^02815]: Mickle Tripp, Isaac Mike, 《[苹果从中国区应用商店下架WhatsApp和Threads](https://web.archive.org/web/20240420202815/https://cn.nytimes.com/technology/20240419/apple-whatsapp-china-app-store/)》, 纽约时报中文网, 2024-04-19. (参照 2024-04-21).
+
+[^70463]: 《[蘋果中國應用商店下架WhatsApp和Threads](https://web.archive.org/web/20240420174647/https://www.zaobao.com.sg/finance/china/story20240419-3470463)》, 聯合早報, 2024-04-19. (参照 2024-04-21).
+
+[^coats]: _[Apple Pulls WhatsApp From China App Store on Beijing Request](https://www.bloomberg.com/news/articles/2024-04-19/china-orders-apple-to-scrub-whatsapp-from-mobile-store-wsj-says)_, Bloomberg.com, 2024-04-19. 参照: 2024-04-21. [Online].
+
+包括 WhatsApp、Threads、Telegram 和 Signal，前两个是属于 Meta 公司的社交软件，后两个是以安全性著称的即时通讯软件。
