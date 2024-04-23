@@ -175,6 +175,14 @@ vzch（KOL）提到 GreatFire 可能被气走后，Livid 澄清了具体情况�
 
 [^29121]: GreatFire.org, 「[@Livid 在V2EX登陆GreatFire账号直接空白，是不是封号了？](https://web.archive.org/web/20220114214121/https://twitter.com/GreatFireChina/status/568267993802629121)」, X (formerly Twitter), 2015-02-19. (参照 2024-03-19).
 
+<!--
+GreatFire 被控制的相关话题
+
++   Aug 24, 2017 [GreatFire下架纽约时报应用的通知 #188](http://archive.today/2017.09.05-053110/https://github.com/greatfire/wiki/issues/188)
++   Aug 29, 2017 [GreatFire交接通告 #193](http://archive.today/2017.09.05-053243/https://github.com/greatfire/wiki/issues/193)
++   Sep 20, 2017 [原帖已被删，请大家先转后看！！ 政府已经控制了GreatFire自由浏览和相关人员，使用自由浏览进行刑侦 #198](http://archive.today/2017.09.22-031109/https://github.com/greatfire/wiki/issues/198)
+-->
+
 ### 手机验证
 
 早前 V2EX 需要验证手机才能发言，但在 2021 年的样子似乎取消了，只要帐号达到一定的年限，就能发言。

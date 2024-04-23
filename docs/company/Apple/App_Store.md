@@ -48,6 +48,12 @@ App Store 是苹果公司为 iPhone, iPod Touch 和 iPad 等产品提供的 App 
 
 ## App Store 大陆区
 
+### 纽约时报
+
+2016年12月23日，App Store 大陆区下架了英文版和中文版纽约时报 App，不过 Apple 和中国政府都不愿透露相关细节，苹果发言人仅声称：「该应用程序违反了当地法规」。[^nytap]
+
+[^nytap]: Katie Benner, Sui-Lee Wee, 《[Apple Removes New York Times Apps From Its Store in China](https://web.archive.org/web/20170104222834/http://www.nytimes.com/2017/01/04/business/media/new-york-times-apps-apple-china.html)》, The New York Times, 2017-01-04. 参照: 2024-04-23. [Online].
+
 ### 版号要求
 
 2016年6月30日，苹果官方今日针对大陆游戏开发者发布了一则公告，表示因为 2016年5月24日 国家新闻出版广电总局颁布的《[关于移动游戏出版服务管理的通知](/rule/国家新闻出版广电总局/关于移动游戏出版服务管理的通知.md)》，移动游戏需要通过国家新闻出版广电总局的审批才可发布。[^9035]
