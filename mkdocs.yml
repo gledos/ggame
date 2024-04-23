@@ -316,6 +316,12 @@ plugins:
       "activities/清朗·暑期未成年人网络环境整治.md": "activities/清朗/清朗·暑期未成年人网络环境整治.md"
       "movement/清朗·暑期未成年人网络环境整治.md": "activities/清朗/清朗·暑期未成年人网络环境整治.md"
 
+      # 反诈相关
+      "company/Microsoft/aka.ms.md": "censorship/国家反诈中心.md#错误情况"
+      "software/白描证件照.md": "censorship/国家反诈中心.md#错误情况"
+      "software/讯飞记笔记.md": "censorship/国家反诈中心.md#错误情况"
+      "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
+
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "activities/ComicDawn动漫展.md": "activities/漫展/ComicDawn动漫展.md"
       "activities/COMICUP_28.md": "activities/漫展/COMICUP.md"
@@ -355,6 +361,7 @@ plugins:
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
       "company/Google/Gmail.md": "company/Google/index.md#Gmail"
+      "company/Pixiv.md": "company/pixiv.md"
       "game/因为版号而暂时下架_Steam_大陆区.md": "theme/因为版号而暂时下架_Steam_大陆区.md"
       "game/Richman_8.md": "game/大富翁.md"
       "hardware/宝塔面板.md": "software/宝塔面板.md"
@@ -373,7 +380,6 @@ plugins:
       "rule/中国演出行业协会/演出行业演艺人员从业自律管理办法.md": "rule/行业协会/演出行业演艺人员从业自律管理办法.md"
       "rule/中国音像与数字出版协会游戏出版工作委员会/网络游戏行业防沉迷自律公约.md": "rule/行业协会/网络游戏行业防沉迷自律公约.md"
       "rule/Smart_set-top_box.md": "serviceprovider/智能机顶盒.md"
-      "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
       "technology/VPN.md": "anti-censorship/VPN/index.md"
       "theme/书籍审查主题.md": "text/index.md"
       "website/立场新闻.md": "company/立场新闻.md"

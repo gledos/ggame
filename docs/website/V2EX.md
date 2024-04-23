@@ -150,6 +150,10 @@ V2EX 是信息技术交流论坛。
 > +   《[知名社交网站v2ex被DNS污染了](https://web.archive.org/web/20210423091927/https://www.zhujib.com/v2ex.html)》, 主机吧.
 > +   [v2ex.com](https://archive.is/yWRjU "https://www.baidu.com/#ie=UTF-8&wd=v2ex.com"), 百度搜索. 备注：百度搜索 v2ex.com 无任何结果
 
+之后 Livid 编写了博文《20210531》，思考了自己的网站为什么被封锁：可能是垄断中文语言，彻底控制它。[^10531]
+
+[^10531]: Livid, 《[20210531](https://web.archive.org/web/20210531112418/http://livid.v2ex.com/diaries/2021/05/31/20210531.html)》, Livid, 2021-05-31. (参照 2024-04-21).
+
 ### 被 360 重定向
 
 2023年9月21日，360 安全卫士似乎开始影响 V2EX 的解析，在运行 360 安全卫士时，
@@ -311,6 +315,9 @@ V2EX 具有敏感词系统，但是跟大厂的敏感词系统有明显差异，
 V2EX 还被指出存在「倒车」「幼儿园」「丝袜」等敏感词，不过缺乏细节。[^d2lgaw]
 
 [^d2lgaw]: not4sense, 《[V站的敏感词知多少](https://web.archive.org/web/20220703035758/https://www.reddit.com/r/v2ex/comments/d2lgaw/v站的敏感词知多少/)》, r/v2ex, 2019-09-11. (参照 2022-07-03).
+
+这种敏感词对许多用户都造成了困扰，因为不知道到底什么是敏感词。于是有用户使用「g an」代替「公安」，[^13377]
+不过 Livid 出面表示「公安」并不是 V2EX 的敏感词，导致有用户被霸凌。因为有的人认为这是给 V2EX 添麻烦。
 
 ### 降权的研究
 
