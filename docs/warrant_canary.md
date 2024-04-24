@@ -21,6 +21,33 @@ icon: material/pen-lock
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2024年4月24日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年4月24日
+。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   张心笛, 《[46万家“阵亡”，一季度餐饮市场有点惨](https://web.archive.org/web/20240423074219/https://mp.weixin.qq.com/s/a0WiKznbFBz3e1Ny8k0Sfw)》, 微信公众号, 2024-04-20. (参照 2024-04-24).
++   Michael S. Schmidt, Tariq Panja, 《[23名中国游泳选手东京奥运会前药检阳性，仍参赛并夺牌](https://web.archive.org/web/20240423050515/https://cn.nytimes.com/china/20240422/chinese-swimmers-doping-olympics/)》, 纽约时报中文网, 2024-04-22. (参照 2024-04-24).
++   陈岩, 《[中国到底有没有“产能过剩”？为何事关欧美？](https://web.archive.org/web/20240423030727/https://www.bbc.com/zhongwen/simp/business-68875964)》, BBC News 中文, 2024-04-23. 参照: 2024-04-24. [Online].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZihkiQAKCRCZXo6bU2oX
+pMKkAPsF+k48QYpBcfaTbQVk+hSqP5r/jRQZVLPSxbCJDDfa0QD+MilGWJiTo1ol
+YS7BQOmqN4R0o5UOe18fOgvE6fYwtgc=
+=Qykj
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2024年3月16日
 
 ```markdown
@@ -47,8 +74,6 @@ gvw3qXyNpgsfMc64IDWXRynEVLmhkgo=
 =PoF1
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年1月2日
 
