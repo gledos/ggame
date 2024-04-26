@@ -116,7 +116,7 @@ DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果�
 
 ### 电子邮件
 
-2006年10月，向境外发出的电子邮件会被退信，而接收方会收到「aaazzzaaazzzaaazzzaaazzzaaazzz」内容的空白邮件。[^41237]
+2006年10月，一些向境外发出的电子邮件会被退信，而接收方会收到「aaazzzaaazzzaaazzzaaazzzaaazzz」内容的空白邮件。[^41237]
 在检查邮件服务器日志后，有人发现是中间人返回了退信通知，并给窜改邮件内容。而这个中间人就是 GFW。[^41029]
 
 [^41237]: 钉子, 《[没错还是它！GFW让邮件内容变成了aaazzzaaazzzaaazzzaaazzzaaazzz](https://web.archive.org/web/20080821155840/http://blog.5dmail.net/user1/1/20061018141237.html)》, 钉子的博客, 2006-10-18. (参照 2024-04-26).
