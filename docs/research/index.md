@@ -27,3 +27,9 @@ research 即研究，一些审查相关的研究，会被收录到此版块（�
 [GFW的前世今生，一部GFW之父方滨兴的发家史]: https://web.archive.org/web/20091127104236/http://fangbinxing.appspot.com/
 
 [通过分析论文挖掘防火长城(GFW)的技术人员]: https://web.archive.org/web/20230612095930/https://www.bannedbook.org/download/downfile.php?id=2915
+
+## 监控
+
+记者无国界组织与于声雷分别在 2007 年与 2008 年，编写了两篇《中国网络监控报告》。细致的介绍了相关内容。分别是
+《[揭开中国网络监控机制的内幕](https://web.archive.org/web/20081023041300/http://crd-net.org/Article/Class1/200710/20071010162103_5948.html)》与
+《[中国网络监控报告之二 政府如何监控我们的电子网络通讯？](https://web.archive.org/web/20081021030253/http://crd-net.org/Article/Class1/200803/20080324093843_8168.html)》。

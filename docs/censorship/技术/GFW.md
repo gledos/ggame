@@ -114,15 +114,40 @@ DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果�
 
 ## 历史
 
+### 电子邮件
+
+2006年10月，向境外发出的电子邮件会被退信，而接收方会收到「aaazzzaaazzzaaazzzaaazzzaaazzz」内容的空白邮件。[^41237]
+在检查邮件服务器日志后，有人发现是中间人返回了退信通知，并给窜改邮件内容。而这个中间人就是 GFW。[^41029]
+
+[^41237]: 钉子, 《[没错还是它！GFW让邮件内容变成了aaazzzaaazzzaaazzzaaazzzaaazzz](https://web.archive.org/web/20080821155840/http://blog.5dmail.net/user1/1/20061018141237.html)》, 钉子的博客, 2006-10-18. (参照 2024-04-26).
+
+[^41029]: xmbbx, 《[\[原创\] 证实收到’aaazzzaaazzzaaazzzaaazzzaaazzz’邮件的真实原因](https://web.archive.org/web/20120202093648/http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=841029)》, ChinaUnix.net, 2006-10-13. (参照 2024-04-26).
+
+不过此问题持续时间较短，通常几小时，所以后续记录较少。[^70718] 但是 2007年7月，此问题持续多日困扰着人们，
+在于是TOM163 邮箱[^70717]、中国万网企业邮局[^2312] 等电子邮箱服务商，都发布相关公告。
+
+[^70718]: Reuters, 《[Chinese Internet censors blamed for email chaos](https://web.archive.org/web/20190224115746/https://www.reuters.com/article/us-china-internet/chinese-internet-censors-blamed-for-email-chaos-idUSPEK9185520070718)》, Reuters, 2007-08-09. 参照: 2024-04-26. [Online].
+
+[^2312]: 中国万网客服中心, 《[万网关于海外邮件通信问题的进展通告](https://web.archive.org/web/20070811062826/http://www.net.cn/service/a/zytz/200707/2312.html)》, 万网, 2007-07-18. (参照 2024-04-26).
+
+[^70717]: TOM163客服中心, 《[国际电邮通信问题的重要通知](https://web.archive.org/web/20070817040525/http://vip.tom.com/popup/070717.html)》, TOM163, 2007-07-17. (参照 2024-04-26).
+
+TOM163 邮箱的说法是「国家主干网与国际线路连接不稳定」，但没有说道关键点。万网同样没有指出关键点，
+但至少给出了意味深长的「未知的技术问题」。
+
+GFW 修改内容为 a28z，也许有些多此一举，应该可以无感知的单纯拦截邮件。并且为什么是 a28z，这可能是永远不会有答案的问题吧。
+
+### Steam
+
 2018年8月 月底，一则 Steam 动态开始流传，内容如下：
 
 > [!quote]+ 未知细节的 Steam 动态[^67073]
 >
 > 还能上动态的伙计们，告诉你们个不幸的好消息，大清研制的「TCP 旁路阻断」技术已脱离 EA 阶段，现已正式发行。[^ea]
 >
-> 发行受众：全天朝人民\
-> 发行价格：免费\
-> 针对范围：当局熟知的「够毙名单」上所有的域名，例如 [Pixiv](/company/Pixiv.md)，各种外国社交软件，Steam 社区等\
+> 发行受众：全天朝人民<br>
+> 发行价格：免费<br>
+> 针对范围：当局熟知的「够毙名单」上所有的域名，例如 [Pixiv](/company/Pixiv.md)，各种外国社交软件，Steam 社区等<br>
 > 效果：DNS 污染的升级版，改 hosts 文件大法已失效
 >
 > 怎么说呢，这一天来临其实不奇怪，很多人也料到了。。其余的不予置评，毕竟当局也是衣食父母，不要抱怨太多喵。
