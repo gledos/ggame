@@ -124,7 +124,7 @@ DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果�
 [^41029]: xmbbx, 《[\[原创\] 证实收到’aaazzzaaazzzaaazzzaaazzzaaazzz’邮件的真实原因](https://web.archive.org/web/20120202093648/http://bbs.chinaunix.net/forum.php?mod=viewthread&tid=841029)》, ChinaUnix.net, 2006-10-13. (参照 2024-04-26).
 
 不过此问题持续时间较短，通常几小时，所以后续记录较少。[^70718] 但是 2007年7月，此问题持续多日困扰着人们，
-在于是TOM163 邮箱[^70717]、中国万网企业邮局[^2312] 等电子邮箱服务商，都发布相关公告。
+于是 TOM163 邮箱[^70717]、中国万网企业邮局[^2312] 等电子邮箱服务商，都发布相关公告。
 
 [^70718]: Reuters, 《[Chinese Internet censors blamed for email chaos](https://web.archive.org/web/20190224115746/https://www.reuters.com/article/us-china-internet/chinese-internet-censors-blamed-for-email-chaos-idUSPEK9185520070718)》, Reuters, 2007-08-09. 参照: 2024-04-26. [Online].
 
@@ -132,7 +132,7 @@ DNS 的问题很多，因为最初设计的时候没有考虑安全性，结果�
 
 [^70717]: TOM163客服中心, 《[国际电邮通信问题的重要通知](https://web.archive.org/web/20070817040525/http://vip.tom.com/popup/070717.html)》, TOM163, 2007-07-17. (参照 2024-04-26).
 
-TOM163 邮箱的说法是「国家主干网与国际线路连接不稳定」，但没有说道关键点。万网同样没有指出关键点，
+TOM163 邮箱的说法是「国家主干网与国际线路连接不稳定」，但没有说到关键点。万网同样没有指出关键点，
 但至少给出了意味深长的「未知的技术问题」。
 
 GFW 修改内容为 a28z，也许有些多此一举，应该可以无感知的单纯拦截邮件。并且为什么是 a28z，这可能是永远不会有答案的问题吧。
