@@ -107,7 +107,9 @@ markdown_extensions:
 # - pymdownx.tilde        # 下标
 
 plugins:
-- glightbox               # 添加灯箱功能    https://squidfunk.github.io/mkdocs-material/reference/images/#lightbox
+- glightbox:               # 添加灯箱功能    https://squidfunk.github.io/mkdocs-material/reference/images/#lightbox
+    auto_caption: true
+    background: none
 - rss:
     locale: zh-hans
     abstract_delimiter: "-1"
