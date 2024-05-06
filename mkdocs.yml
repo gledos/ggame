@@ -324,6 +324,7 @@ plugins:
       "software/讯飞记笔记.md": "censorship/国家反诈中心.md#错误情况"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
 
+      # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "activities/ComicDawn动漫展.md": "activities/漫展/ComicDawn动漫展.md"
       "activities/COMICUP_28.md": "activities/漫展/COMICUP.md"
@@ -337,6 +338,7 @@ plugins:
       "anti-censorship/TCPioneer.md": "anti-censorship/VPN/TCPioneer.md"
       "anti-censorship/Tor.md": "anti-censorship/VPN/Tor.md"
       "anti-censorship/Trojan-Qt5.md": "anti-censorship/VPN/Trojan_Qt5.md"
+      "blocklist/文化部查处6款违法网络游戏和6家网络游戏运营商.md": "blocklist/文化部办公厅关于查处第一批违法网络游戏的通知.md"
       "book/「苏联相关」.md": "text/「苏联相关」.md"
       "book/~大家学系列口袋书.md": "text/~大家学系列口袋书.md"
       "book/财经天下周刊.md": "text/财经天下周刊.md"
