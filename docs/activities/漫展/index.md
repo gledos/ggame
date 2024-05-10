@@ -278,7 +278,7 @@ iiif5g, 《[据云南动漫节微博公告：致热爱和关心YCG云南动漫�
 
 有人认为，这与 2024年4月 的月初的漫展上，有人 cosplay 哈马斯恐怖分子有关。[^0mcaw][^5asv2]
 
-[^0mcaw]: LoquatTop3734, 《[未成年人在漫展cosplay哈马斯被晶哥查水表]([www.reddit.com/r/China_irl/comments/1c0mcaw/未成年人在漫展cosplay哈马斯被晶哥查水表/](https://web.archive.org/web/20240501183237/https://old.reddit.com/r/China_irl/comments/1c0mcaw/未成年人在漫展cosplay哈马斯被晶哥查水表/))》, r/China_irl, 2024-04-10. (参照 2024-05-02).
+[^0mcaw]: LoquatTop3734, 《[未成年人在漫展cosplay哈马斯被晶哥查水表](www.reddit.com/r/China_irl/comments/1c0mcaw/未成年人在漫展cosplay哈马斯被晶哥查水表/)》, r/China_irl, 2024-04-10. (参照 2024-05-02).
 
 [^5asv2]: AmEP_Linyu, 《[国内部分漫展开始试点Cosplay服饰备案，可能与四月初有人在漫展Cos哈马斯被警方训诫有关](https://web.archive.org/web/20240501183501/https://ol.reddit.com/r/China_irl/comments/1c5asv2/国内部分漫展开始试点cosplay服饰备案可能与四月初有人在漫展cos哈马斯被警方训诫有关/)》, r/China_irl, 2024-04-16. (参照 2024-05-02).
 
