@@ -31,7 +31,7 @@ dateCreated: "2021-11-11T10:20:16"
 >
 > +   英语: Riders Republic[^en]
 > +   德国[^de]、法国[^fr]、韩国[^kr] 等地，均未翻译标题
-> +   日语: 「Riders Republic」 或者 ライダーズ リパブリック
+> +   日语: 「Riders Republic」[^jp] 或者 ライダーズ リパブリック
 > +   繁体中文: 極限共和國[^tc]
 > +   简体中文: 极限国度[^sc]
 
