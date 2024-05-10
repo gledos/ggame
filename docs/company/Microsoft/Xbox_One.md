@@ -1,6 +1,6 @@
 ---
 title: "Xbox One"
-description: 微软的游戏主机
+description: 微软的游戏主机 Xbox One，其锁区与解锁的历史。以及其他的审查、隐私问题情况。
 published: true
 date: "2024-05-10T23:55:51"
 tags:
