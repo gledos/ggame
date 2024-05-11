@@ -43,10 +43,7 @@ dateCreated: "2022-07-07T16:52:07"
 
 ## 用户截图被审查
 
-2022年3月29日，[Twitter][] 用户 ippo 表示因为使用 PS4 的 [PSN][] 分享功能，将游戏《Guilty Gear -Strive-》的截图到 Twitter，导致 PSN 被封锁了 7 天。理由是：「成人向けまたは性的な性質を持つコンテンツ。」（成人内容或具有性的内容。）。[^1509088559495774213]
-
-[PSN]: /company/Sony/PSN.md
-[Twitter]: /website/Twitter.md
+2022年3月29日，[Twitter](/website/Twitter.md) 用户 ippo 表示因为使用 PS4 的 [PlayStation](/company/Sony/playstation.md#psn) 分享功能，将游戏《Guilty Gear -Strive-》的截图到 Twitter，导致 PSN 被封锁了 7 天。理由是：「成人向けまたは性的な性質を持つコンテンツ。」（成人内容或具有性的内容。）。[^1509088559495774213]
 
 [^1509088559495774213]: ippo, 《[どうやらこのSSがH過ぎたらしくPSNアカウント１週間停止させられました！ みんなも気を付けようね…](https://web.archive.org/web/20220403202818/https://twitter.com/ippoxbox360/status/1509088559495774213)》, Twitter, 2022-03-30. (参照 2022-07-07).
 

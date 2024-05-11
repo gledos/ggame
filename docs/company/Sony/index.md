@@ -1,5 +1,5 @@
 ---
-title: 索尼
+title: Sony
 description:
 published: true
 date: "2023-01-05T23:13:25"
