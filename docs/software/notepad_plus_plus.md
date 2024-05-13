@@ -37,7 +37,7 @@ dateCreated: "2020-11-07T15:21:08"
 
 ### 结果
 
-托管了 Notepad++ 的合作式软件开发管理系统 SourceForge 随后遭到屏蔽，[^6791] 整整 30 天后屏蔽被解除，在此期间以及之后，均还没有人或组织声称表示对此事件负责。
+托管了 Notepad++ 的合作式软件开发管理系统 SourceForge 随后遭到屏蔽，[^6791] 整整 30 天后屏蔽被解除，[^1429] 在此期间以及之后，均还没有人或组织声称表示对此事件负责。
 
 [^6791]:
     +   [Sourceforge.net Blocked 被GF擋下 - Solidot](https://web.archive.org/web/20181217014416/https://www.solidot.org/story?sid=6791)

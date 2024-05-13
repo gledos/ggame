@@ -28,7 +28,7 @@ PlayStation 是 [索尼](/company/Sony/index.md) 的游戏机。〔待续〕
 
 附言：PUP 全称为 Playstation Update Package，是索尼游戏机的更新包。[^pup]
 
-[^pup]: 《[Playstation Update Package (PUP)](https://web.archive.org/web/20240508194349/https://www.psdevwiki.com/ps3/Playstation_Update_Package_(PUP))》, PS3 Developer wiki, 2023-09-03. (参照 2024-05-11).
+[^pup]: _[Playstation Update Package (PUP)](https://web.archive.org/web/20240508194349/https://www.psdevwiki.com/ps3/Playstation_Update_Package_(PUP))_, PS3 Developer wiki, 2023-09-03. (参照 2024-05-11).
 
 2014年12月11日，索尼在和上海东方明珠在上海举行新闻发布会，公布了国行版 PlayStation 4、PlayStation Vita 的信息，
 预计上市时间为 2015年1月11日。[^63929]
@@ -106,7 +106,7 @@ PlayStation 是 [索尼](/company/Sony/index.md) 的游戏机。〔待续〕
 
 [^48366]: 索尼电脑娱乐(上海)有限公司, 《[PS4国行发售宣布延期 具体日期及原因不详](https://web.archive.org/web/20171031205345/http://games.sina.com.cn/t/n/2015-01-08/1717848366.shtml)》, 新浪网, 2015-01-08. (参照 2024-05-12).
 
-[^KH0VE]: Kazunori Takada, 《[Sony to delay sale of PlayStation 4 in China](https://web.archive.org/web/20240512073059/https://jp.reuters.com/article/idUSKBN0KH0VE/)》, Reuters, 2015-01-08. 参照: 2024-05-12. [Online].
+[^KH0VE]: Kazunori Takada, _[Sony to delay sale of PlayStation 4 in China](https://web.archive.org/web/20240512073059/https://jp.reuters.com/article/idUSKBN0KH0VE/)_, Reuters, 2015-01-08. 参照: 2024-05-12. [Online].
 
 2015年1月9日，索尼游戏部门主管称，该公司 PS4 在中国市场的销售是因为 [有关部门](/censorship/有关部门.md)，要求该公司对商业计划做出调整。[^01444]
 
@@ -126,6 +126,8 @@ PlayStation 是 [索尼](/company/Sony/index.md) 的游戏机。〔待续〕
 | 国行主机登录海外帐号<br>（商店仅限中国） |   ○    |       ○        |
 | 切换外服商店                             |   ○    |       ×        |
 | 国行主机下载数字版海外游戏／DLC          |   ○    |       ×        |
+| Live From PlayStation                    |   ○    |       ×        |
+| 浏览器自带的搜索功能                     |   ○    |       ×        |
 
 即使是提前偷跑的国行 PS4，在 2月19日 更新 2.04 版本后，也遭到了锁服。说明此封锁功能，
 应该是针对 1109 这个国行硬件编号，而运行的。[^26145]
@@ -224,6 +226,102 @@ PlayStation 是 [索尼](/company/Sony/index.md) 的游戏机。〔待续〕
 [^12449]: Benzene, 《[对提出负面反馈的玩家扣帽子搞批斗的，其实是温和派大陆玩家——〈大陆游戏业媚赵史之五〉](https://web.archive.org/web/20200426093415/https://pincong.rocks/article/12449)》, 新·品葱, 2020-01-16. (参照 2024-05-12).
 
 [^57177]: 六九的小号, 《[一场没有赢家的狩猎](https://web.archive.org/web/20181017001622/https://www.huxiu.com/article/257177.html)》, 虎嗅, 2018-08-13. (参照 2024-05-12).
+
+### 漏洞更新：其一
+
+2015年3月26日，PS4 发布了 2.50 更新，其中含有能绕过国行锁区的功能：备份 PS4。[^44550] 此功能能够备份与恢复用户数据，
+而其他地区已登录的帐号，也能在国行 PS4 上恢复。[^88028][^80170]
+
+[^44550]: John Koller, _[PS4 System Update 2.50 Available Tomorrow, Features Detailed](https://web.archive.org/web/20240509144550/https://blog.playstation.com/2015/03/25/ps4-system-update-2-50-available-tomorrow-features-detailed/)_, PlayStation.Blog, 2015-03-25. (参照 2024-05-13).
+
+[^88028]: zeromoe, 《[国行PS4登录港服等账号方法解析](https://web.archive.org/web/20160811215256/http://www.k73.com/ps4/88028.html)》, k73电玩之家, 2015-03-28. (参照 2024-05-13).
+
+[^80170]: addreq, 《[国行PS4主机利用“备份大法”登陆外服PSN方法](https://web.archive.org/web/20170909062958/http://bbs.duowan.com/thread-44880170-1-1.html)》, 多玩游戏论坛／PS4讨论区, 2016-08-07. (参照 2024-05-13).
+
+所以 PS4 国行在发售后的第六天，就有了规避限制的方法。虽然 Live From PlayStation 和浏览器自带的搜索功能，被系统限制，
+无法使用。但规避后的国行 PS4，能做到境外版 PS4 的大多数功能。
+
+而规避限制，只需要做出境外帐号的备份，如果身边没有境外版 PS4，也能在淘宝以 2.5 元左右买到备份。
+
+### 漏洞更新：其二
+
+2018年12月12日，全球 PS4 推送了 6.20 系统版本更新。该版本表面的更新日志是提升系统性能，[^45632] 但在 12月21日，
+流传出了「解除锁区」的操作方法。[^87058]
+
+[^45632]: 《[PS4 | 系統更新 6.20](https://web.archive.org/web/20190108145632/https://asia.playstation.com/cht-tw/ps4/system-update/ps4-system-update-6-20/)》, PlayStation, 2018-12-12. (参照 2024-05-13).
+
+[^87058]: 匿名用户, 《[如何看待国行ps4更新6.20系统之后可以通过特殊方法解锁国行锁区？](https://web.archive.org/web/20240513062254/https://www.zhihu.com/question/306487058)》, 知乎, 2018-12-21. (参照 2024-05-13).
+
+只要在设置菜单里，依次进入「格式化」「替 PS4 格式化」界面。然后手柄上按下 L2、R2、三角和 D-Pad 右，等待 5 ~ 10 秒，
+然后返回主页，注意不要将游戏机给格式化了。就能在「切换用户」菜单中，登录其他地区的帐号。[^04847]
+
+[^04847]: YT17, 《[玩家在国行ps4发现无损格式化彩蛋](https://web.archive.org/web/20230323043845/https://www.gcores.com/articles/104847)》, 机核 GCORES, 2018-12-22. (参照 2024-05-13).
+
+此解锁方法的泄漏者不明，不过同一天（12月21日），人民网发布了对索尼 PlayStation 中国总裁添田武人的专访，
+其中重点提到索尼的「中国之星」计划。该计划扶持国产游戏，希望能成为面向全球用户的优质游戏，
+其中最寄予厚望的是《西游记之大圣归来》。[^80989]
+
+[^80989]: 沈光倩, 《[对话索尼互娱添田武人：中国的超级英雄IP也能走向全球](https://web.archive.org/web/20210515011938/https://scitech.people.com.cn/n1/2018/1221/c59405-30480989.html)》, 人民网／科技频道, 2018-12-21. (参照 2024-05-13).
+
+### 漏洞修复
+
+2020年5月3日，索尼 PS4 官方新浪微博帐号「PlayStation中国」发布并置顶了一则消息：
+
+> [!quote]+ 「PlayStation中国」的置顶消息[^85372]
+>
+> 为了保障 PlayStation 用户权益，共同维护良好的游戏环境，我们再次提示 PlayStation 用户须严格遵守相关服务协议，
+> 合规使用产品。感谢您的理解和支持！
+
+[^85372]: PlayStation中国, 《[PlayStation中国发微提醒用户须遵守相关服务协议 合规使用产品](https://web.archive.org/web/20200510084005/https://www.gamersky.com/news/202005/1285372.shtml)》, 游民星空 GamerSky.com, 2020-05-03. (参照 2024-05-13).
+
+但此微博很快被删除，大约存在了 1 小时左右。有人猜测与「PS4 当路由器用」「改区」等情况有关，
+也有人觉得没有任何「言外之意」。[^23279]
+
+[^23279]: 新浪游戏, 《[索尼：须严格遵守服务协议 合规使用产品！](https://web.archive.org/web/20240513081939/https://games.sina.cn/gn/vi/2020-05-04/detail-iircuyvi1223279.d.html)》, 新浪网, 2020-05-04. (参照 2024-05-13).
+
+2020年5月10日，「PlayStation中国」发布了中国商店暂停服务通知：
+
+> [!quote]+ PlayStation® 中国商店暂停服务通知：[^T9x7t]
+>
+> 由于 PlayStation® 中国商店系统安全升级原因，PlayStation® 中国商店将从 5 月 10 日早上 7 时起暂停服务，
+> 对于用户造成的不便我们深感抱歉。
+>
+> PlayStation® 中国商店恢复服务的时间我们将另行通知。再次向 PlayStation® 中国商店用户表示诚挚的歉意。 ​​​
+
+[^T9x7t]: PlayStation中国, 《[PlayStation®中国商店暂停服务通知](http://archive.today/2020.05.10-042014/https://www.weibo.com/2833736934/J1dMwkUPy?type=comment)》, 新浪微博, 2020-05-10. (参照 2024-05-13).
+
+同日，新浪微博用户「森里萤四」发文：「我做到了，我做到了！！！」，将大陆区 PS 商店的被暂停的原因，
+归咎于自己的举报。[^66850][^85541][^87196][^19910] 举报截图显示的时间是 2020年2月，内容是游戏机存在跨区漏洞，
+能玩到境外未经审查的游戏。
+
+<!--
+    什么 [休伊](https://www.youtube.com/watch?v=UNvvvtrH7Zw) 发言。
+-->
+
+[^66850]: 搞趣网, 《[玩家举报PS4后门还在微博自夸 PlayStation中国提醒用户要合规使用产品](https://web.archive.org/web/20240513080356/https://news.gao7.com/article/966850-20200504-1)》, 搞趣网, 2020-05-04. (参照 2024-05-13).
+
+[^85541]: GameLook, 《[PS4国区商店关闭，玩家“邀功”举报成功：真是这样么？](https://web.archive.org/web/20231202084552/http://www.gamelook.com.cn/2020/05/385541)》, 游戏大观 | GameLook.com.cn, 2020-05-11. (参照 2024-05-13).
+
+[^87196]: 陈静, 《[中国游戏举报大事件](https://web.archive.org/web/20230418050352/https://www.chuapp.com/?c=Article&a=index&id=287196)》, 触乐, 2020-05-11. (参照 2024-05-13).
+
+[^19910]: 不觉, 《[PS4国行商店关闭，举报者炫耀反被举报封号，真相究竟是？](https://web.archive.org/web/20230922190630/https://youxiputao.com/articles/19910)》, 游戏葡萄, 2020-05-10. (参照 2024-05-13).
+
+不过多个游戏媒体，不认为「森里萤四」的举报，导致了商店的被暂停。比如游戏葡萄拿到 3 月的广东出版社的《
+[广东游戏监管通知](/censorship/游戏审查要求笔记/广东游戏监管通知.md)》，此会议纪要里，
+要求主机游戏需要添加实名认证和防沉迷功能。所以认为这是为了添加实名等功能。[^19910]GameLook 也拿到了上海出版局的要求：《
+[上海出版局近期网络游戏出版工作要求](/censorship/游戏审查要求笔记/上海出版局近期网络游戏出版工作要求.md)》，
+同样这么认为。[^85541]
+
+2020年5月27日，全球 PS4 推送了 7.51 系统版本更新。该版本表面的更新日志是提升系统性能，[^13142]
+但很快，此更新修复了漏洞的情况被发现，无法通过手柄按键开启外服登录的界面了。[^54381][^87589]
+
+[^13142]: John-Paul Jones, _[PS4 System Firmware Update 7.51 Released](https://web.archive.org/web/20220820213142/https://www.psu.com/news/ps4-system-firmware-update-7-51-released/)_, PlayStation Universe, 2020-05-27. (参照 2024-05-13).
+
+[^54381]: 岚殇, 《[如何看待5月27日国行PS4更新7.51系统版本，后门失效？](https://www.zhihu.com/question/397754381)》, 知乎, 2020-05-27. (参照 2024-05-13).
+
+[^87589]: GameLook, 《[停摆20天后，PS4商店国区恢复服务：补偿方案引热议](https://web.archive.org/web/20200919085245/http://www.gamelook.com.cn/2020/06/387589)》, 游戏大观 | GameLook.com.cn, 2020-06-01. (参照 2024-05-13).
+
+2020年5月30日，索尼通过邮件，发送了《PlayStation 中国商店恢复服务通知》，但是没有在新浪微博进行公告，非常低调。[^87589]
 
 〔待续〕
 

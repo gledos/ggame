@@ -53,6 +53,11 @@ Xbox 360 曾经使用图标的动画追踪试图泄密的测试人员。当时�
 
 [^97388]: 阿象, 《[微软天猫：国行Xbox One锁区，不支持换区](https://web.archive.org/web/20240509145645/https://www.ithome.com/0/097/388.htm)》, IT之家, 2014-08-04. (参照 2024-05-09).
 
+Xbox One 上市后，被发现是双向锁区，国行无法运行其他地区的游戏，而海外版 Xbox One 无法运行国行版游戏。
+（国行版游戏有 Xbox China 的标志）[^85401]
+
+[^85401]: [Region Information](https://web.archive.org/web/20230521085401/https://consolemods.org/wiki/Xbox_One:Region_Information), ConsoleMods Wiki, 2024-02-14. (参照 2024-05-13).
+
 ### 锁区限制部分解除
 
 2015年4月2日，国行 Xbox One 在升级到 12710 预览版系统后，锁区被解除了一部分。[^37929][^38607]
@@ -174,6 +179,19 @@ Xbox 360 曾经使用图标的动画追踪试图泄密的测试人员。当时�
 [^45273]: UID:25323627, 《[自昨晚爆出后门之后，XSX官网也没货了](https://nga.178.com/read.php?tid=26845273)》, NGA, 2021-05-21. (参照 2024-05-10).
 
 [^34991]: 野比康夫伸太, 《[求助，请问现在如何切换回国服？](https://web.archive.org/web/20240510095412/https://tieba.baidu.com/p/7400434991)》, 百度贴吧／xboxone吧, 2021-06-12. (参照 2024-05-10).
+
+### 其他相关内容
+
+2014年12月 左右，有位设备审批相关部门人员在百度贴吧透露了一些内幕。其中提到：部里没有文件规定，
+外资电子进中国必须以硬件方式，对媒体内容进行限制的内容。还有微软报审的文件里面没有关于锁区的条款，此部门也没有衡量标准。[^85881]
+这可能说明，锁区相关限制都没有纸面协议、文件等证据。
+
+[^85881]: 驱动之家, 《[审批人员曝国行游戏机锁区内幕：水好深](https://web.archive.org/web/20240513142258/https://cpu.zol.com.cn/498/4985881.html)》, 中关村在线, 2014-12-25. (参照 2024-05-13).
+
+U 盘里的 `$ConsoleRegion0` 等文件，被研究者称作 USB NTFS Overrides。这是能让游戏机在冷启动时触发操作的覆盖（指令）。
+除此之外还有其他的文件、文件夹名称，可以做到一些开发者调试操作，比如离线升级。[^95330]
+
+[^95330]: Shadow LAG, lllsondowlll, 《[NTFS USB overrides](https://web.archive.org/web/20240513095330/https://xboxoneresearch.github.io/wiki/boot/usb-ntfs-overrides/)》, Xbox One Research Wiki, 2024-03-26. (参照 2024-05-13).
 
 ## 国服接入实名认证系统
 

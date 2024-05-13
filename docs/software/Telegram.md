@@ -15,7 +15,7 @@ Telegram 是一款商业 IM 软件，在商业 IM 软件中具有较高的安全
 
 ## 即时封锁部分频道的图片
 
-详情请跳转至 QQ 条目的《[Telegram频道](/company/腾讯/QQ.md#Telegram频道)》章节。
+详情请跳转至 QQ 条目的《[Telegram频道](/company/腾讯/QQ.md#telegram频道)》章节。
 
 ## 移除部分贴纸
 

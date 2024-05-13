@@ -22,9 +22,7 @@ H萌娘，简称H萌，是一个使用 MediaWiki 软件开发的以 ACG、色情
 
 [^2757]: こはるびより, 《[Please delete HMoegirl(koharubiyori.hmoegirl) (#2757) · Issues · F-Droid / Data](https://web.archive.org/web/20221024012615/https://gitlab.com/fdroid/fdroiddata/-/issues/2757)》, GitLab, 2022-09-01. (参照 2022-10-25).
 
-2022年9月1日 左右，[H萌娘无法访问][] 事件发生了，一并发生的还有「H萌娘」管理员 850710247liu（悠远的苍穹）删除了 GitHub 帐号；「H萌娘」的即时通讯讨论组被关闭。
-
-[H萌娘无法访问]: /website/萌娘百科.md#相关网站H萌娘无法访问
+2022年9月1日 左右，[H萌娘无法访问](/website/萌娘百科.md#相关网站h萌娘无法访问) 事件发生了，一并发生的还有「H萌娘」管理员 850710247liu（悠远的苍穹）删除了 GitHub 帐号；「H萌娘」的即时通讯讨论组被关闭。
 
 所以 850710247liu Fork 的 TCPioneer 版本也被删除了，不过 macronut/ghostcp 暂时未受到影响，尚不明确这是针对 850710247liu 个人，还是「H萌娘」，又或者是 TCPioneer 的审查。
 

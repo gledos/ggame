@@ -30,7 +30,4 @@ TCPioneer 是 Macronut 制作的适用于 Windows 的保护 TCP 连接不受干�
 
 [^xhqcankao]: 风向旗参考快讯, 《[SymTCP：规避全状态深度包检测与自动差异发现](https://web.archive.org/web/20220907033917/https://t.me/s/xhqcankao/3316)》, Telegram, 2022-07-27. (参照 2022-09-07).
 
-2022年9月1日 左右，[H萌娘无法访问][] 事件发生了，一并发生的还有「H萌娘」管理员 850710247liu（悠远的苍穹）删除了 GitHub 帐号，后续的内容请查看 [H萌娘][] 条目。
-
-[H萌娘无法访问]: /website/萌娘百科.md#相关网站H萌娘无法访问
-[H萌娘]: /website/H萌娘.md
+2022年9月1日 左右，[H萌娘无法访问](/website/萌娘百科.md#相关网站h萌娘无法访问) 事件发生了，一并发生的还有「H萌娘」管理员 850710247liu（悠远的苍穹）删除了 GitHub 帐号，后续的内容请查看 [H萌娘](/website/H萌娘.md) 条目。
