@@ -12,6 +12,18 @@ dateCreated: "2022-07-17T17:04:34"
 
 《<ruby>Apex 英雄<rp>(</rp><rt>Apex Legends</rt><rp>)</rp></ruby>》是重生工作室开发的大逃杀类型的游戏。
 
+## 简中翻译问题
+
+《[守望先锋](/game/守望先锋.md)》率先让各地英雄说自己的母语，比如大招会使用母语。后来的 Apex Legends 也模仿了这个设计，让各地的传奇，时不时冒出母语短语或词汇。
+
+比如 [动力小子](https://apexlegends.fandom.com/wiki/Octane/Voice_lines#Quip) 在英配里有许多西班牙语，而到了中配，仅剩下了 non terrae plus ultra。而其他传奇的中配，比如 [密客](https://apexlegends.fandom.com/wiki/Crypto/Voice_lines#Quip) 直接没有韩语，[沃特森](https://apexlegends.fandom.com/wiki/Wattson/Voice_lines#Quip) 也没有一句法语。
+
+造成这种情况的原因，应该就是「[游戏禁止外语](/theme/语言规范主题.md#游戏外语历史)」这一潜规则。所以原本失败界面显示的 GAME OVER，也被强行翻译成了「游戏结束」。
+
+附言：狙击枪类型的「Longbow DMR」，可能是因为翻译成「长弓精确射手步枪」太长，而「长弓 DMR」又含有英文，所以简中直接翻译成了「长弓」，好在繁中是精确的「长弓 DMR」。
+
+附言 2：说话容易混杂多种语言，这被称作 [code-switching](https://en.wikipedia.org/wiki/Code-switching)，是常见于多语言者的某种特制（或 Bug），这与神经系统有关，如果出现，是不容易「纠正」的。
+
 ## 敏感词
 
 Apex Legends 含有敏感词，已知的有「gay」「ass」，在聊天栏中输入后可能会导致账号被封禁。[^1418162833829867522]
