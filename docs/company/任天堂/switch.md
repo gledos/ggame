@@ -2,7 +2,7 @@
 title: "Switch"
 description: 任天堂的游戏主机 Nintendo Switch，其国行／腾讯版本锁区情况，以及游戏无法过审问题。
 published: true
-date: "2024-05-20T00:38:34"
+date: "2024-05-20T14:55:32"
 tags:
 - 腾讯
 editor: markdown
@@ -55,17 +55,23 @@ Nintendo Switch 是任天堂于 2017 年发售的游戏主机。开发期间的�
 > 有少量玩家，为了展示国旗而购买神游 3DS，这算是神游 3DS 具有不可替代的功能。
 >
 > 神游 3DS 还稍微有一个「漏洞」，可以运行繁体中文区的简体中文游戏，这个需要查看卡带包装的左下角文字，
-> 比如《薩爾達傳說 時之笛 3D》是中文，就是指简繁都有，而《BIOHAZARD REVELATIONS》只有繁体中文，
+> 比如《薩爾達傳說 時之笛 3D》是中文，[^28425] 就是指简繁都有，而《BIOHAZARD REVELATIONS》只有繁体中文，[^38552]
 > 就没法在神游机器上运行了。
 >
-> 按照这样的标准，能找到 14 张简体中文的卡带，所以神游 3DS XL 能玩的游戏共计有 16 款，
+> 按照这样的标准，能找到 14 张简体中文的卡带，[^47485] 所以神游 3DS XL 能玩的游戏共计有 16 款，
 > 比腾讯版 Switch 发行的独占游戏还是要多一些。
 
-### 送审失败
+[^47485]: 《[任天堂3DS中文区域游戏列表](https://zh.wikipedia.org/w/index.php?title=任天堂3DS中文区域游戏列表&oldid=72047485)》, 维基百科. 2022-06-07. 参照: 2022-08-07. Online.
+
+[^28425]: 台中星光電玩, 《[缺貨【N3DS原版片】☆ 薩爾達傳說 時之笛 3D ☆中文版全新品【台灣機專用】](https://www.ruten.com.tw/item/show?21304216028425)》, @露天拍賣. (参照 2022-08-07).
+
+[^38552]: 《[★御玩家★現貨 3DS 惡靈古堡啟示 中文版 [3D20032]](https://www.ruten.com.tw/item/show?21714732438552)》, @露天拍賣. (参照 2022-08-07).
+
+### 游戏送审失败
 
 2021年9月25日，a9vg 论坛出现了一个名为《几款重点国行送审游戏审核结果汇总》的帖子，作者是 comptjkl，内容为:
 
-> [!quote]+ 几款重点国行送审游戏审核结果汇总
+> [!quote]+ 几款重点国行送审游戏审核结果汇总[^JW400][^41054]
 >
 > 1.  《塞尔达传说：旷野之息》。送审平台：腾讯SWITCH。送审结果：终审未通过。
 > 2.  《精灵宝可梦：LET'S GO皮卡丘/伊布》。送审平台：腾讯SWITCH。送审结果:终审未通过。
@@ -74,10 +80,55 @@ Nintendo Switch 是任天堂于 2017 年发售的游戏主机。开发期间的�
 > 5.  据不愿透露姓名的腾讯游戏部门员工透露：《[集合啦！动物森友会](/game/集合啦_动物森友会.md)》和
 >     《超级马力欧：创作家2》未送审。
 
+[^JW400]: 《[传闻：多款国行送审游戏未能通过审核，〈旷野之息〉在列](https://web.archive.org/web/20210928014321/https://new.qq.com/omn/20210926/20210926A06JW400.html)》, 腾讯新闻.
+
+[^41054]: 《[国行没戏?爆旷野之息和宝可梦国行版送审失败](https://web.archive.org/web/20210928014412/https://www.sohu.com/a/492225842_100141054)》, 玩转ns.
+
 几天后该帖子显示「抱歉，指定的主题不存在或已被删除或正在被审核」，
 永久失效链接为 `https://bbs.a9vg.com/thread-8767911-1-1.html`。
 
-> [!abstract]+ 相关链接
+### 店铺变动
+
+2023年11月6日，腾讯预告了延长保修计划，即将在 2023年12月10日 暂停销售。理由是「为了更好地适应产品发展和用户需求」。[^4Aj3g]
+已经购买延长保修计划的用户相关权益不受影响。
+
+[^4Aj3g]: 腾讯游戏, 《[计划暂停销售通知：腾讯Nintendo Switch™延长保修计划](https://web.archive.org/web/20240520053339/https://mp.weixin.qq.com/s/M81Xit2_O3rUnLgz84Aj3g)》, 微信公众号／腾讯NintendoSwitch, 2023-11-06. (参照 2024-05-20).
+
+> [!quote]+ 「腾讯 Nintendo Switch™ 延长保修计划」官方介绍[^96a1f]
 >
-> +   《[传闻：多款国行送审游戏未能通过审核，〈旷野之息〉在列](https://web.archive.org/web/20210928014321/https://new.qq.com/omn/20210926/20210926A06JW400.html)》, 腾讯新闻.
-> +   《[国行没戏?爆旷野之息和宝可梦国行版送审失败](https://web.archive.org/web/20210928014412/https://www.sohu.com/a/492225842_100141054)》, 玩转ns.
+> 延长保修服务计划，适用于新购机或目前仍然在保修期内的“Nintendo Switch 游戏机”，“Nintendo Switch 游戏机（OLED 版）”，
+> 用户可付费参与计划延长 1 年的保修时间。为您的 Nintendo Switch 带来原厂零部件的保障和安心。
+
+[^96a1f]: 《[可选服务上线：腾讯Nintendo Switch™延长保修计划](https://web.archive.org/web/20231118063826/https://www.nintendoswitch.com.cn/topics/4ca9ec6a-c890-4d15-b803-6875dc296a1f)》, 腾讯Nintendo Switch官网, 2022-12-21. (参照 2024-05-20).
+
+2023年12月10日，腾讯游戏宣布延长保修计划将于今日下午 17 点暂停销售。[^pImJw][^82465]
+
+[^pImJw]: 腾讯游戏, 《[通知：腾讯Nintendo Switch™延长保修计划暂停销售](https://web.archive.org/web/20240520050649/https://mp.weixin.qq.com/s/PXzdAKS-7so-BvjivpImJw)》, 微信公众号／腾讯NintendoSwitch, 2023-12-10. (参照 2024-05-20).
+
+[^82465]: 动次哒次KDS, 《[腾讯官宣：国行Switch延保计划今日起正式停售](https://web.archive.org/web/20240520045609/https://www.gamersky.com/news/202312/1682465.shtml)》, 游民星空 GamerSky.com, 2023-12-10. (参照 2024-05-20).
+
+2024年1月5日，腾讯版 Switch 的天猫店铺更换了新店铺，名称从「Nintendo Switch 官方旗舰店」变成「Nintendo Switch 旗舰店」，[^LCX00]
+而旧店铺将会关闭。域名从 `nintendoswitch.tmall.com`[^70624] 变为 `nintendoswitchdw.tmall.com`[^40750]。
+
+[^LCX00]: Switch头号玩家, 《[腾讯 Switch 国行官方旗舰店关闭、微信商城暂停服务](https://web.archive.org/web/20240520042655/https://new.qq.com/rain/a/20240107A02LCX00)》, 腾讯新闻, 2024-01-07. (参照 2024-05-20).
+
+[^70624]: 《[购买渠道](https://web.archive.org/web/20231208070624/https://www.nintendoswitch.com.cn/retail)》, 腾讯Nintendo Switch官网, 2023-12-08. (参照 2024-05-20).
+
+[^40750]: 《[购买渠道](https://web.archive.org/web/20240520040750/https://www.nintendoswitch.com.cn/retail)》, 腾讯Nintendo Switch官网, 2024-05-20. (参照 2024-05-20).
+
+附言：为什么新域名末尾增加了 dw，原因不明。GPT-4o 给出了一个解释：代表 "Direct Warehouse"，新的店铺主要用于仓储直销。
+
+腾讯版「Nintendo Switch 官方微信商城」，也将在 2024年1月15日 暂停服务，原因是系统更新维护，恢复时间待完成后另行通知。[^LCX00]
+玩家在暂停服务期间访问该微信商城，会显示「店铺维护公告」，其中提到如有售后需求，
+需要关注「腾讯 Nintendo Switch」微信公众号，然后联系客服。[^22865]
+
+[^22865]: 叨叨游戏, 《[Switch国行商城关闭、有人玩上了丝之歌、GDC2024开启](https://web.archive.org/web/20240520043518/https://www.sohu.com/a/752457747_121222865)》, 搜狐网, 2024-01-17. (参照 2024-05-20).
+
+2024年1月17日，京东官方旗舰店在开启了「3C 数码年货节」的大促销，多款原价 299 元的游戏直接降至 69 元。
+大促力度有些不可思议,玩家猜测，国行 Switch 的代理商或许即将易主。[^07573]
+
+[^07573]: 钱洛滢, 《[腾讯为何放弃Switch？](https://web.archive.org/web/20240520044655/https://www.jiemian.com/article/10807573.html)》, 界面新闻 · JMedia, 2024-02-19. (参照 2024-05-20).
+
+2024年3月22日，Nintendo Switch 官方微信商城更新维护完毕并恢复上线。[^AIcAQ]
+
+[^AIcAQ]: 腾讯游戏, 《[Nintendo Switch官方微信商城全新上线](https://web.archive.org/web/20240520050648/https://mp.weixin.qq.com/s/c0OGqKcAXSodt5asnAIcAQ)》, 微信公众号／腾讯NintendoSwitch, 2024-03-22. (参照 2024-05-20).
