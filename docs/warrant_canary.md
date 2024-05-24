@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-04-24T14:28:51"
+date: "2024-05-24T09:51:04"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,32 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2024年5月24日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年5月24日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Specia Megan, 《[被控为香港情报机构从事间谍活动的英国男子死亡](https://web.archive.org/web/20240522193855/https://cn.nytimes.com/world/20240522/britain-matthew-trickett-hong-kong-intelligence/)》, 纽约时报中文网, 2024-05-22. (参照 2024-05-24).
++   不忘初心, 《[【404文库】何加盐｜中文互联网正在加速崩塌](https://web.archive.org/web/20240524011658/https://chinadigitaltimes.net/chinese/708143.html)》, 中国数字时代, 2024-05-23. (参照 2024-05-24).
++   《[中国间谍，私生女，无出生记录？菲律宾女市长郭华萍身份之谜](https://web.archive.org/web/20240522105721/https://www.bbc.com/zhongwen/simp/world-69046914)》, BBC News 中文, 2024-05-22. (参照: 2024-05-24).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZk/yQgAKCRCZXo6bU2oX
+pMCKAP9Jj7pHwTv6ToJW+DeYQTAFmW/OQ+kdejpIVCmiHS63jAEA5RolMPy0qEa7
+JRsA8oRhJ9UcshktprN3syiL8zLARQE=
+=l9Zw
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年4月24日
 
@@ -45,8 +71,6 @@ YS7BQOmqN4R0o5UOe18fOgvE6fYwtgc=
 =Qykj
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年3月16日
 
