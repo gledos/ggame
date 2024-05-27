@@ -8,20 +8,26 @@ editor: markdown
 dateCreated: "2021-09-17T13:40:49"
 ---
 
-```YAML
-英文名: World's End Club
-日文名: ワールズエンドクラブ
-中文名: 世界末日俱乐部
-发售日:
-- Apple Arcade: 2020年9月4日
-- Nintendo Switch: 2021年春季
-官网: https://www.deathmarchclub.com/
-Apple Arcade: https://apps.apple.com/jp/app/worlds-end-club/id1486537612 
-```
+## 简介
+
+> [!summary]+ 元数据
+>
+> ```yaml
+> 英文名: World's End Club
+> 日文名: ワールズエンドクラブ
+> 中文名: 世界末日俱乐部
+> 发售日:
+> - Apple Arcade: 2020年9月4日
+> - Nintendo Switch: 2021年春季
+> 官网: https://www.deathmarchclub.com/
+> Apple Arcade: https://apps.apple.com/jp/app/worlds-end-club/id1486537612
+> ```
+
+世界末日俱乐部是打越钢太郎与小高和刚联合打造的游戏。
 
 ## 因目标市场的审查制度而选择题材
 
-> ### 残酷表現無しで全世界で売るゲームを作りたい
+> [!quote]+ 残酷表現無しで全世界で売るゲームを作りたい
 >
 > ──今回はインタビューにお応えいただきありがとうございます。早速ですが、『デスマーチクラブ』改め『ワールズエンドクラブ』というプロジェクトはどういった経緯で誕生したのでしょうか？
 >
@@ -41,7 +47,9 @@ Apple Arcade: https://apps.apple.com/jp/app/worlds-end-club/id1486537612
 
 [^145007]: [「12人の子どもたちが世界の終わりに立ち向かう」小高和剛氏×打越鋼太郎氏『ワールズエンドクラブ』開発インタビュー【前編】 - コロコロコミック公式](https://web.archive.org/web/20210517120553/https://corocoro.jp/145007/)
 
-根据该采访的 Google 翻译，gledos 整理后的简述:
-
-+ 想要制作一款主要能在中国发行的游戏国际化游戏，所以将游戏设计成了没有残酷演出的样貌
-+ 因为通过 Steam 了解到中文用户很多，所以想要进入中国市场
+> [!note]+ 研究
+>
+> 根据该采访的 Google 翻译，gledos 整理后的简述:
+>
+> +   想要制作一款主要能在中国发行的游戏国际化游戏，所以将游戏设计成了没有残酷演出的样貌。
+> +   因为通过 Steam 了解到中文用户很多，所以想要进入中国市场。
