@@ -324,6 +324,11 @@ plugins:
       "software/讯飞记笔记.md": "censorship/国家反诈中心.md#错误情况"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
 
+      # 禁止未经审批的游戏主题
+      "blocklist/关于禁售游戏的公告-京东.md": "theme/禁止未经审批的游戏主题.md"
+      "censorship/禁止直播未经审批的游戏.md": "theme/禁止未经审批的游戏主题.md#禁止直播未经审批的游戏"
+      "game/《如何防小玩家钻空子》.md": "theme/禁止未经审批的游戏主题.md#禁止境外游戏报导"
+
       # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "activities/ComicDawn动漫展.md": "activities/漫展/ComicDawn动漫展.md"
@@ -367,6 +372,8 @@ plugins:
       "company/Google/Gmail.md": "company/Google/index.md#Gmail"
       "company/Microsoft/Xbox_One.md": "company/Microsoft/xbox.md"
       "company/Pixiv.md": "company/pixiv.md"
+      "company/Sony/PSN.md": "/company/Sony/playstation.md#PSN"
+      "game/塞尔达传说_旷野之息.md": "company/任天堂/switch.md#游戏送审失败"
       "game/因为版号而暂时下架_Steam_大陆区.md": "theme/因为版号而暂时下架_Steam_大陆区.md"
       "game/Richman_8.md": "game/大富翁.md"
       "hardware/宝塔面板.md": "software/宝塔面板.md"

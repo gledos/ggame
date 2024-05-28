@@ -63,7 +63,7 @@ Online</rt></ruby>，最后在 2021年11月4日 宣布关闭。
 
 [^40832]: Darius Longarino 龙大瑞, 《[「Relevant reqs」 part esp concerning……](https://web.archive.org/web/20210826115742/https://twitter.com/DariusLongarino/status/1430861604606840832)》, Twitter, 2021-08-26. (参照 2023-06-13).
 
-2022年5～7月，[扫黄打非行动方案](/rule/尚不明确/扫黄打非行动方案.md#2022年) 将 LGBT（包括耽美）主题的书籍定义为非法出版物，
+2022年5～7月，[扫黄打非行动方案](/rule/尚不明确/扫黄打非行动方案.md#2022-年) 将 LGBT（包括耽美）主题的书籍定义为非法出版物，
 进行下架。
 
 2022年5月24日，苹果在官网上线了2022年新款的 [Apple Watch](/company/Apple/Apple_Watch.md) 彩虹表带。

@@ -2,7 +2,7 @@
 title: "Switch"
 description: 任天堂的游戏主机 Nintendo Switch，其国行／腾讯版本锁区情况，以及游戏无法过审问题。
 published: true
-date: "2024-05-28T00:16:05"
+date: "2024-05-28T11:01:27"
 tags:
 - 腾讯
 editor: markdown
@@ -135,7 +135,28 @@ Nintendo Switch 是任天堂于 2017 年发售的游戏主机。开发期间的�
 
 ### 游戏和谐问题
 
-〔《超级马力欧奥德赛》的情况待续〕
+2019年12月10日，《新超级马力欧兄弟U 豪华版》作为腾讯版 Switch 首发的游戏发售。不过有玩家发现「POW」砖块被修改为了「000」
+或「\]0\[」砖块。[^00608]
+
+[^00608]: Chinese Nintendo, [POW blocks are retextured as 「\]0\[」 blocks in the Chinese version of NSMBUDX.](https://web.archive.org/web/20210610061107/https://twitter.com/chinesenintendo/status/1239427421192900608), X (formerly Twitter), 2020-03-16. (参照 2024-05-28).
+
+2020年4月15日，腾讯代理的《超级马力欧奥德赛》发售。然而有玩家发现海盗服被修改，帽子的骷髅标志以及眼罩被移除。[^92069]
+名称也被修改，从「海盗服」「海盗帽」修改为「贵族服」「贵族帽」，并且「六十四服」变成了「N六十四服」。[^97482]
+
+[^92069]: Chinese Nintendo, [Some of my favorite China regional differences from my experience as an iQue researcher:](https://web.archive.org/web/20210829145016/https://twitter.com/chinesenintendo/status/1431980837365592069), X (formerly Twitter), 2021-08-29. (参照 2024-05-28).
+
+[^97482]: 赏金猎人红狼, 《[【图片】《超级马力欧 奥德赛》国行与其他版本的区别](https://web.archive.org/web/20240528015326/https://tieba.baidu.com/p/6667497482)》, 百度贴吧／神游吧, 2020-05-08. (参照 2024-05-28).
+
+除此之外，还有非常细节的修改，腾讯版将地图上的文字都消除了，包括纬度数字。数字版实体卡上的地图也没放过。[^47361]
+
+[^47361]: Chinese Nintendo, [In the Mainland China release of Super Mario Odyssey, the maps were stripped of ALL TEXT: This includes English names of countries and locations, as well as the coordinate marking letters and latitude numbers.](https://web.archive.org/web/20200512140401/https://twitter.com/chinesenintendo/status/1258525046114447361), X (formerly Twitter), 2020-05-07. (参照 2024-05-28).
+
+|     国际版     |    腾讯版     |
+| :------------: | :-----------: |
+| ![Global-11][] | ![China-11][] |
+
+[Global-11]: https://s3.tebi.io/ggame/ShareX/company_任天堂_switch_Global-11.webp
+[China-11]: https://s3.tebi.io/ggame/ShareX/company_任天堂_switch_China-11.webp
 
 2022年7月29日 发售的《[异度神剑3](/game/异度神剑3.md)》，其简体中文的翻译被玩家发现，「命运共同体」被翻译成了「同舟共济」。
 
