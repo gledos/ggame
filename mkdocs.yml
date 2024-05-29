@@ -372,7 +372,7 @@ plugins:
       "company/Google/Gmail.md": "company/Google/index.md#Gmail"
       "company/Microsoft/Xbox_One.md": "company/Microsoft/xbox.md"
       "company/Pixiv.md": "company/pixiv.md"
-      "company/Sony/PSN.md": "/company/Sony/playstation.md#PSN"
+      "company/Sony/PSN.md": "/company/Sony/playstation.md#psn"
       "game/塞尔达传说_旷野之息.md": "company/任天堂/switch.md#游戏送审失败"
       "game/因为版号而暂时下架_Steam_大陆区.md": "theme/因为版号而暂时下架_Steam_大陆区.md"
       "game/Richman_8.md": "game/大富翁.md"
