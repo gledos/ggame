@@ -311,12 +311,20 @@ plugins:
       "rule/Sugar_Real_Name.md": "censorship/实名制.md#白糖实名制"
 
       # 清朗相关
-      "activities/2020清朗专项行动.md": "activities/清朗/2020清朗专项行动.md"
-      "movement/2020清朗专项行动.md": "activities/清朗/2020清朗专项行动.md"
-      "activities/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md"
-      "movement/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md"
-      "activities/清朗·暑期未成年人网络环境整治.md": "activities/清朗/清朗·暑期未成年人网络环境整治.md"
-      "movement/清朗·暑期未成年人网络环境整治.md": "activities/清朗/清朗·暑期未成年人网络环境整治.md"
+      "activities/2020清朗专项行动.md": "activities/清朗系列行动.md"
+      "activities/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
+      "movement/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
+      "movement/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
+      "movement/2020清朗专项行动.md": "activities/清朗系列行动.md"
+      "activities/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
+      # 合并清朗相关
+      "activities/清朗/2020清朗专项行动.md": "activities/清朗系列行动.md"
+      "activities/清朗/2024-年清朗系列专项行动.md": "activities/清朗系列行动.md"
+      "activities/清朗/清朗_2024年春节网络环境整治.md": "activities/清朗系列行动.md"
+      "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
+      "activities/清朗/清朗·商业网站平台和_自媒体_违规采编发布财经类信息专项整治工作.md": "activities/清朗系列行动.md"
+      "activities/清朗/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
+      "game/Doki_Doki_Literature_Club.md": "activities/清朗系列行动.md"
 
       # 反诈相关
       "company/Microsoft/aka.ms.md": "censorship/国家反诈中心.md#错误情况"
