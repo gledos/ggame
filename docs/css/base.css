@@ -92,6 +92,10 @@ html>div>img {
 --md-typeset-a-color     链接颜色
 */
 
+.heimu {
+    font-weight: normal;
+}
+
 /* 似乎优先级存在问题，运行会出错，所以 CSS 被移动到了 /overrides/main.html 下。 */
 
 /* -------------------- 分割线 -------------------- */
@@ -101,3 +105,18 @@ html>div>img {
 */
 
 .off-glb{ background: var(--md-default-bg-color); }
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    添加汉字着重号
+    <https://zh.wikipedia.org/wiki/着重号>
+*/
+
+.zhong {
+    text-emphasis: circle;
+    -webkit-text-emphasis: circle;
+    text-emphasis-position: over right;
+    -webkit-text-emphasis-position: over right;
+    font-weight: normal;
+}
