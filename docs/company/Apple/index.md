@@ -2,9 +2,11 @@
 title: Apple
 description:
 published: true
-date: "2023-09-14T14:20:22"
+date: "2024-06-06T00:37:13"
 tags:
 - roc_flag
+- apple
+- proxy
 editor: markdown
 dateCreated: "2022-08-03T09:18:38"
 icon: material/apple
@@ -22,11 +24,7 @@ icon: material/apple
 +   [指南针](/company/Apple/指南针.md)
 +   [App Store](/company/Apple/App_Store.md)
 +   [Apple Watch](/company/Apple/Apple_Watch.md)
-+   [Designed by Apple in California](/company/Apple/Designed_by_Apple_in_California.md)
 +   [flag emoji](/company/Apple/flag_emoji.md)
-+   [iCloud](/company/Apple/iCloud.md)
-+   [PRODUCT RED](/company/Apple/PRODUCT_RED.md)
-+   [XcodeGhost](/company/Apple/XcodeGhost.md)
 
 ## 在大陆不支持的服务
 
@@ -97,6 +95,24 @@ icon: material/apple
 
 备注：串号是指 `/var/containers/Shared/SystemGroup/systemgroup.com.apple.mobilegestaltcache/Library/Caches/com.apple.MobileGestalt.plist` 文件里的手机硬件区域字符。
 
+## XcodeGhost 风波的冷处理
+
+2015年9月，遭到 [XcodeGhost][] 风波后，苹果官方的公告并未向全部用户推送，并且该页面只存在了数月，然后被重定向到官网首页。
+
+[XcodeGhost]: https://en.wikipedia.org/wiki/XcodeGhost
+
+> [!quote]+ 有关 XcodeGhost 的问题和解答
+>
+> 我们在此页面列出受到影响的前 25 个 apps。除受影响的前 25 个 apps 外，受影响的用户数量已显著减少。[^XGO]
+
+[^XGO]: [有关 XcodeGhost 的问题和解答](https://web.archive.org/web/20150927035443/https://www.apple.com/cn/xcodeghost/), Apple (中国).
+
+属于某种冷处理，影响范围也未公开披露。直到 2021 年因为《堡垒之夜》诉讼案披露，
+才知道有超过 2500 款应用感染了 XcodeGhost。这些应用被全世界 1.28 亿用户下载，其中美国用户 1800 万，总下载量 2.03 亿次。
+中国占到了 55 % 的受影响用户和 66 % 的下载量。[^67718]
+
+[^67718]: [《堡垒之夜》诉讼案披露有多达 1.28 亿苹果用户下载了包含 XcodeGhost 的应用](https://web.archive.org/web/20210530020903/https://www.solidot.org/story?sid=67718), 奇客Solidot.
+
 ## iBooks
 
 iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还有 iBooks Store，可以购买电子书，曾经大陆也支持此功能，但在 2016年4月，iBooks Store 和 iTunes Movies 突然就被关闭了。[^33557]
@@ -121,6 +137,71 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 
 [^35720]: Yvesss, 《[具透 | 你可能不知道，iOS 10 有一个中国「特供」的联网权限功能](https://web.archive.org/web/20220116192031/https://sspai.com/post/35720)》, 少数派 - 高品质数字消费指南, 2016-10-11. (参照 2022-11-15).
 
+## 修改 (PRODUCT) RED 版本
+
+<!-- dateCreated: "2021-07-15T11:56:28" -->
+
+iPhone 7 的 (PRODUCT) RED 版本，因为 2017年1月1日 实施的《中华人民共和国境外非政府组织境内活动管理法》。所以苹果修改了网页中的慈善表述，将该配色改为了「红色特别版」，并且刻意的在官网预览图中遮挡了 (PRODUCT) RED 标识。
+
+> [!abstract]+ 相关链接
+>
+> +   [红色版se，背面下的文字为什么是这样的？](https://web.archive.org/web/20210430165423/https://discussionschinese.apple.com/thread/251305502), apple.
+> +   [为何苹果的iPhone 7红色特别版在中国官网的上只字未提同 (RED) 合作捐款对抗艾滋病的内容？](https://web.archive.org/web/20210715044250/https://www.zhihu.com/question/57426603), 知乎.
+> +   [如何理解中国苹果官网屏蔽(PRODUCT)RED的做法？](https://web.archive.org/web/20210715044253/https://www.zhihu.com/question/57445238), 知乎.
+> +   [中国法律不承认(PRODUCT)RED基金会，苹果为什么仍在中国发布红色版iPhone 7？](https://web.archive.org/web/20210715044311/https://www.zhihu.com/question/57506066), 知乎.
+> +   [为什么苹果中国推出的红色 iPhone 7 没有 (PRODUCT) RED 标识？](https://web.archive.org/web/20210715043823/https://www.zhihu.com/question/57438399), 知乎.
+> +   [各位媒体网站大大，别再叫它“中国红”了，超尬的](https://web.archive.org/web/20210715044651/https://mp.weixin.qq.com/s?__biz=MjM5MDk1NzQzMQ%3D%3D&mid=2653240976&idx=2&sn=d4e13cd6f786f5b61f10cd74935dc6f8), 环球时报.
+
+## 删除 iPhone 背面文字
+
+<!-- dateCreated: "2021-07-15T12:51:31" -->
+
+2017年9月，苹果停止在 iPhone X 和 iPhone 8 的 iPhone 背面印上，但无法验证具体的原因。[^nyt_apple_china_icloud]
+
+随后苹果在 2017 年停止在 iPhone X 和 iPhone 8 的 iPhone 背面印上「Designed by Apple in California」文字，但没有提及原因。[^64240] 有媒体报道称：中国员工对该文字非常愤怒。他们大喊，如果这些产品是在加州设计的，那他们在中国干什么？于是苹果公司去掉了这段文字。[^00722]
+
+[^64240]: [Daring Fireball: New York Times Report on Apple’s iCloud ‘Hard Bargain’ in China](https://web.archive.org/web/20210520064240/https://daringfireball.net/2021/05/nyt_apple_china_icloud)
+
+[^00722]: [Inside Apple’s Compromises in China: A Times Investigation - The New York Times](https://web.archive.org/web/20210714100722/https://www.nytimes.com/2021/05/17/technology/apple-china-censorship-data.html)
+
+> [!quote]+ 报导摘录[^00722]
+>
+> As Mr. Guthrie was delivering his warnings, Apple set about keeping the Chinese government happy. Part of that effort
+> was new research and development centers in China. But those R&D centers complicated Apple’s image as a California
+> company. At a summit for its new Chinese engineers and designers, Apple showed a video that ended with a phrase that
+> Apple had been inscribing on the backs of iPhones for years: “Designed by Apple in California.”
+>
+> The Chinese employees were angered, according to Mr. Guthrie and another person in the room. If the products were
+> designed in California, they shouted, then what were they doing in China?
+>
+> “The statement was deeply offensive to them,” said Mr. Guthrie, who left Apple in 2019 to return to his home in
+> Michigan. “They were just furious.”
+>
+> The next iPhone didn’t include the phrase.
+>
+> ---
+>
+> After Chinese employees complained, it even dropped the “Designed by Apple in California” slogan from the backs of
+> iPhones.
+
+> [!quote]- 报导摘录（机器翻译）
+>
+> 在格思里发出警告的同时，苹果公司开始让中国政府满意。其中一项努力就是在中国建立新的研发中心。
+> 但这些研发中心让苹果作为加州公司的形象变得复杂。在新中国工程师和设计师峰会上，苹果公司播放了一段视频，
+> 视频的结尾是苹果多年来一直在 iPhone 背面刻的一句话：“由加州苹果公司设计”。
+>
+> 据格思里和另一位在场人士称，中国员工非常愤怒。他们大喊，如果这些产品是在加州设计的，那他们在中国干什么？
+>
+> “这句话深深地冒犯了他们，”格思里说，他于 2019 年离开苹果公司，回到密歇根州的家中。“他们非常愤怒。”
+>
+> 下一代 iPhone 没有包含这句话。
+>
+> ---
+>
+> 在中国员工抱怨之后，苹果甚至从 iPhone 背面去掉了“由加州苹果公司设计”的口号。
+
+除了 iPhone，其他的 Apple 设备基本现在仍然保留了「Designed by Apple in California」这句 slogan 。
+
 ## 2018年9月发布会
 
 2018年9月12日 的苹果发布会，展示了一张含有各个地区的图片随后引发了争议，[^ljbYl][^4569845] 但很快就消散了。
@@ -130,6 +211,12 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 [^4569845]: 海彦, 《[苹果发布会将台湾与中港并列惹“环时”不满](https://web.archive.org/web/20180914004202/https://www.voachinese.com/a/apple-lists-taiwan-as-a-country-in-its-introduction-of-iphone-x-max-20180913/4569845.html)》, 美国之音, 2018-09-13. (参照 2022-08-03).
 
 ![苹果发布会](https://s3.tebi.io/ggame/company/Apple/available-iPhone-Xs-and-Xs-Max.webp)
+
+## Apple News
+
+Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]
+
+[^211]: Bates, 《[在中国如何使用 Apple News？](https://web.archive.org/web/20230330170948/https://blog.shuziyimin.org/211)》, 数字移民, 2018-10-27. (参照 2023-08-12).
 
 ## 公务员
 
@@ -161,11 +248,32 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 >
 > 中国没有出台禁止购买和使用苹果等外国品牌手机的法律法规和政策文件。但我们近期确实注意到，有媒体曝出苹果手机有关安全事件。中国政府高度重视网络和信息安全，对内外资企业一视同仁、平等对待。我们希望在华经营的所有手机企业都能够严格遵守《中华人民共和国数据安全法》、《中华人民共和国个人信息保护法》等法律法规，加强信息安全管理，保护消费者存储在手机中的数据不被任何个人、任何组织窃取，确保信息安全。
 
-## Apple News
+## 扫描儿童色情内容
 
-Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信息来排除大陆用户使用 Apple News，需要在启动 VPN 后，再开启飞行模式才能正常使用。[^211]
+〔待续〕
 
-[^211]: Bates, 《[在中国如何使用 Apple News？](https://web.archive.org/web/20230330170948/https://blog.shuziyimin.org/211)》, 数字移民, 2018-10-27. (参照 2023-08-12).
+2021年8月 左右，苹果提到用户上传到 iCloud 的内容，会通过「安全凭证」(safety voucher) 与「阈值密钥分享」(threshold secret sharing) 技术识别儿童色情内容。
+
+## Private Relay 功能在部分地区受限
+
+2021年10月，iOS 15 推出了 Private Relay，这是轻量级的 VPN 式服务，仅限于 iCloud Plus 会员在 Safari 中使用，能够隐藏自己的 IP。
+
+大陆、白俄罗斯、哥伦比亚、埃及、哈萨克斯坦、沙特、南非、土库曼斯坦、乌干达和菲律宾不可使用 private relay 功能。
+
+> [!abstract]+ 相关资料
+>
+> +   [苹果的新隐私保护功能因监管原因在中国不可用](https://web.archive.org/web/20210609071732/https://www.solidot.org/story?sid=67988), 奇客Solidot.
+> +   [苹果的隐私保护新功能因监管原因在中国将不可用](https://web.archive.org/web/20210609080258if_/https://cn.reuters.com/article/idCNKCS2DK07J), Reuters.
+> +   [Apple WWDC: New 'Private Relay' feature will not be available in China](https://web.archive.org/web/20210608211722/https://www.cnbc.com/2021/06/08/apple-wwdc-new-private-relay-feature-will-not-be-available-in-china.html)
+> +   [Apple 推出的 iCloud+ 怎么订阅呢？我已经有 iCloud 订阅了，是还没有正式推出么？](https://web.archive.org/web/20210608155647/https://www.v2ex.com/t/782064), V2EX.
+
+## 云上贵州的共享相簿功能被关闭
+
+2022年7月24日，有人发现了云上贵州版的 iCloud 有功能被停用了，询问客服后得知共享相簿功能在大陆无法使用了，理由是当地法规。[^137336][^868309]
+
+[^137336]: 火星公民, 《[国内的共享相簿公共网站服务已永久关闭 \#苹果#](https://web.archive.org/web/20220725015313/https://quan.ithome.com/content/sharedetail?id=137336)》, IT圈, 2022-07-24. (参照 2022-07-25).
+
+[^868309]: popzuk, 《[iCloud 云上贵州共享相簿的公共网站功能被关闭？](https://web.archive.org/web/20220725013022/https://www.v2ex.com/t/868309)》, V2EX, 2022-07-24. (参照 2022-07-25).
 
 ## 供应商产地问题
 
@@ -216,3 +324,28 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 虽然 Apple 明确表示实际的网址不会分享，但的确会发送已知恶意网站的 Safari 哈希前缀 (Hash prefixes)，[^artros] 具体细节可以查看 [Safe Browsing](/serviceprovider/Safe_Browsing.md) 条目。
 
 [^artros]: Michael Potuck, 《[Apple responds to report on sending users’ browsing data to China-owned Tencent](https://web.archive.org/web/20220813001841/https://9to5mac.com/2019/10/14/apple-responds-to-report-on-sending-users-browsing-data-to-china-owned-tencent/)》, 9to5Mac, 2019-10-14. (参照 2023-01-03).
+
+## FaceTime 反诈更新
+
+2024年5月 的月底左右，一些 iPhone 用户收到了标题为「紧急更新」，内容为「本更新可协助 FaceTime 通话反欺诈及防范其他安全风险，
+请轻点此通知更新 iPhone，获取紧急更新。」[^44539][^98680]（外语社区没有讨论，说明这是本地特供的更新）
+
+[^44539]: cwcauc, 《[iOS 今天提示紧急更新，关于 Facetime 通话反欺诈](https://web.archive.org/web/20240528085903/https://v2ex.com/t/1044539)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2024-05-28. (参照 2024-06-05).
+
+[^98680]: ranki, 《[收到iphone紧急更新，关于FaceTime通话反欺诈](https://web.archive.org/web/20240605085231/https://linux.do/t/topic/98680)》, LINUX DO／搞七捻三, 2024-05-28. (参照 2024-06-06).
+
+但是苹果公司并未在官网等地，披露该更新的详细细节。即便点击「查看详细信息…」，也仅显示之前的更新日志，
+并没有「FaceTime 反诈」相关的内容。这让用户很疑惑。[^98680] 有人咨询了苹果客服，得到了「这个是紧急系统通知，
+是部分用户可能会收到，不是全部更新的」「所以官网查询不到哈」这样的无意义回复。
+
+根据用户的反馈来看，仅有非 iOS 17 的设备，比如 iOS 15，以及使用云上贵州的 ID，才会收到此紧急更新。[^04156][^98680][^44539]
+而 iOS 17.4 与之前版本的差异，相关的是新增了阻止陌生 FaceTime 呼叫者的选项，[^3c813] 所以有人猜测这是给旧版添加此功能，
+并默认启用，不过此猜测未证实。[^46169]
+
+[^04156]: 山外的鸭子哥, 《[苹果在iPhone中弹出紧急更新可协助FaceTime通话反欺诈 但具体原理不清楚](https://web.archive.org/web/20240528065904/https://www.landiannews.com/archives/104156.html)》, 蓝点网, 2024-05-28. (参照 2024-06-05).
+
+[^44539]: cwcauc, 《[iOS 今天提示紧急更新，关于 Facetime 通话反欺诈](https://web.archive.org/web/20240528085903/https://v2ex.com/t/1044539)》, V2EX, 2024-05-28. (参照 2024-06-05).
+
+[^3c813]: [Block unwanted callers in FaceTime on iPhone](https://support.apple.com/guide/iphone/block-unwanted-callers-iphcd8d3c813/ios), Apple Support. (参照 2024-06-06).
+
+[^46169]: abchendai00, 《[苹果客服已经确认了关于 facetime 反诈更新的事实](https://web.archive.org/web/20240603004532/https://v2ex.com/t/1046169)》, V2EX, 2024-06-02. (参照 2024-06-05).
