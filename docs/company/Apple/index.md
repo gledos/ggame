@@ -338,6 +338,11 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 并没有「FaceTime 反诈」相关的内容。这让用户很疑惑。[^98680] 有人咨询了苹果客服，得到了「这个是紧急系统通知，
 是部分用户可能会收到，不是全部更新的」「所以官网查询不到哈」这样的无意义回复。[^46169]
 
+[^46169]: abchendai00, 《[苹果客服已经确认了关于 facetime 反诈更新的事实](https://web.archive.org/web/20240603004532/https://v2ex.com/t/1046169)》, V2EX, 2024-06-02. (参照 2024-06-05). 截图
+    [1](https://web.archive.org/web/20240605082047/https://smms.app/image/vUapNEZHd1yzw2X)、
+    [2](https://web.archive.org/web/20240603062156/https://sm.ms/image/6GXbS8glD2MkZqx)、
+    [3](https://web.archive.org/web/20240606083004/https://sm.ms/image/sIFRgxUkJreVy7m)。
+
 根据用户的反馈来看，仅有非 iOS 17 的设备，比如 iOS 15，以及使用云上贵州的 ID，才会收到此紧急更新。[^04156][^98680][^44539]
 而 iOS 17.4 与之前版本的差异，相关的是新增了阻止陌生 FaceTime 呼叫者的选项，[^3c813] 所以有人猜测这是给旧版添加此功能，
 并默认启用，不过此猜测未证实。[^46169]
@@ -347,5 +352,3 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 [^44539]: cwcauc, 《[iOS 今天提示紧急更新，关于 Facetime 通话反欺诈](https://web.archive.org/web/20240528085903/https://v2ex.com/t/1044539)》, V2EX, 2024-05-28. (参照 2024-06-05).
 
 [^3c813]: [Block unwanted callers in FaceTime on iPhone](https://support.apple.com/guide/iphone/block-unwanted-callers-iphcd8d3c813/ios), Apple Support. (参照 2024-06-06).
-
-[^46169]: abchendai00, 《[苹果客服已经确认了关于 facetime 反诈更新的事实](https://web.archive.org/web/20240603004532/https://v2ex.com/t/1046169)》, V2EX, 2024-06-02. (参照 2024-06-05).
