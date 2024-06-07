@@ -91,6 +91,6 @@ dateCreated: "2021-06-02T03:46:58"
 
 [^_QvMQ]: 网信中国, 《[网信部门依法查处腾讯QQ危害未成年人身心健康违法案件](https://web.archive.org/web/20230913133311/https://mp.weixin.qq.com/s/YHUpyS1fOQX19u4_G_QvMQ)》, 微信公众号, 2023-09-13. (参照 2023-09-14).
 
-腾讯在两分钟后就发出了「诚恳接受、坚决执行」的公告。[^g2NOg] 这件事与同一天发生的，「[封禁 AI 绘画](/software/ChatGPT.md#封禁-ai-绘画)」可能存在潜在联系，因为 QQ 小世界含有 AI 画匠功能。
+腾讯在两分钟后就发出了「诚恳接受、坚决执行」的公告。[^g2NOg] 这件事与同一天发生的，「[封禁 AI 绘画](software/llm.md#封禁-ai-绘画)」可能存在潜在联系，因为 QQ 小世界含有 AI 画匠功能。
 
 [^g2NOg]: QQ安全中心, 《[公告](https://web.archive.org/web/20230913133713/https://mp.weixin.qq.com/s/qgbyd2gDsZlKfsBnNg2NOg)》, 微信公众号, 2023-09-13. (参照 2023-09-14).
