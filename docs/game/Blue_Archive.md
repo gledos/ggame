@@ -499,7 +499,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 ```
 
 将第三行的 URL 修改为：`http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf;http://mx.jvav.net.cn/asdf`，
-然后重启游戏，就会自动下载 52 MB 左右的更新包。
+然后重启游戏，就会自动下载更新包。2023年9月 是 52 MB 左右，而 2024年6月 是 467.6 MB。
 
 随后在 2023年9月28日，《蔚蓝档案》的官方帐号「蔚蓝档案小助理」在哔哩哔哩动态评论到「感谢老师参加红冬活动！🍮补习部的梓、
 花子将在今天更新后和大家见面哦！」[^OgUfT]
