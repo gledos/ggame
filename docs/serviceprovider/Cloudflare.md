@@ -2,7 +2,7 @@
 title: Cloudflare
 description:
 published: true
-date: "2024-04-05T23:58:32"
+date: "2024-06-08T22:05:36"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-05-09T16:16:56"
@@ -111,3 +111,16 @@ Cloudflare 虽然在过去大部分情况，没有停止暴力纳粹的网站的
 [^e060e]: 《[www.17ce.com GET测试结果 网站速度测试](https://web.archive.org/web/20240403124435/https://17ce.com/site/http/20240403_8d2167f0f1b711ee87ce53f1533e060e:1.html)》, 2024-04-03. (参照 2024-04-04).
 
 [^f1cc1]: 《[www.17ce.com GET测试结果 网站速度测试](https://web.archive.org/web/20240405032604/https://17ce.com/site/http/20240405_f1cc1160f2fb11ee87ce53f1533e060e:1.html)》, 2024-04-05. (参照 2024-04-05).
+
+## WARP 大规模被封禁
+
+2024年6月5日 开始，WARP 的 IPv4 基本被封禁，导致无法使用。[^30632][^L5gp0]
+具体受影响的有 Cloudflare WARP/WARP+/Zero Trust。[^23918] 不过有人说 IPv6 还可以使用。[^xsw]
+
+[^30632]: 「[CloudFlare吧](https://web.archive.org/web/20240608130632/https://tieba.baidu.com/f?kw=cloudflare)」, 百度贴吧, 2024-06-08. (参照 2024-06-08).
+
+[^L5gp0]: 《[最近WARP连接不上，是何原因？大家来讨论一下！](https://web.archive.org/web/20240608052231/https://www.youtube.com/watch?v=D5qlh8L5gp0)》, (2024-06-07). 参照: 2024-06-08. [Online Video].
+
+[^23918]: Leslie Alexander’s channel, 「[Cloudflare WARP/WARP+/Zero Trust六四全面被墙，无法连接，大抵是因为WireGuard协议特征太明显了，一个重放攻击就GG了](https://web.archive.org/web/20240608123918/https://t.me/s/LeslieDiary/94)」, Telegram, 2024-05-25. (参照 2024-06-08).
+
+[^xsw]: 「[WARP 墙 - 搜尋](<https://x.com/search?q=WARP 墙>)」, X (formerly Twitter), 2024-06-08. (参照 2024-06-08).
