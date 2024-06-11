@@ -1,12 +1,16 @@
 ---
 title: Windows
-description: 微软公司的 X86 桌面操作系统
+description:
 published: true
 date: "2022-06-13T14:06:36"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-10-08T22:25:51"
 ---
+
+## 简介
+
+Windows 是微软公司的桌面操作系统。
 
 ## 政府特供版
 

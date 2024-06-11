@@ -2,7 +2,7 @@
 title: Cloudflare
 description:
 published: true
-date: "2024-06-08T22:05:36"
+date: "2024-06-12T00:20:24"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-05-09T16:16:56"
@@ -17,9 +17,13 @@ Cloudflare 最初在大陆的网络是与百度合作，后来转而与京东云
 
 ## 网络中立性
 
-Cloudflare 虽然在过去大部分情况，没有停止暴力纳粹的网站的服务，但在新西兰基督城清真寺枪击案后，停止了 8chan 的服务。[^02205]
+Cloudflare 虽然在过去大部分情况，没有停止暴力纳粹的网站的服务，但在新西兰基督城清真寺枪击案后，在 2019年8月 停止了 8chan 的服务。[^02205]
 
 [^02205]: Julia Carrie Wong, 《[8chan: the far-right website linked to the rise in hate crimes](https://web.archive.org/web/20220505042122/https://www.theguardian.com/technology/2019/aug/04/mass-shootings-el-paso-texas-dayton-ohio-8chan-far-right-website)》, The Guardian, 2019-08-04. (参照 2022-05-09).
+
+## 加密 SNI
+
+详情请查看《[域前置〈将 SNI 加密〉](/anti-censorship/域前置.md#将-sni-加密)》条目。
 
 ## 官网无法连接
 
