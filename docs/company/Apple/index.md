@@ -352,9 +352,9 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 2024年6月7日 之前的未知具体时间，有人用日区 Apple ID 向国区拨打 FaceTime 的 10 分钟后，受到了移动的短信提醒：小心诈骗。[^48186]
 
 2024年6月17日，有人在 V2EX 介绍了朋友电话卡无法使用，提示涉嫌电诈被封停的情况。需要去归属地进行实名验证，
-签保证书来解封。在致电 96180 后（联通客服经理电话），得到了：因为打 FaceTime 多了，涉嫌电信诈骗的答复。[^50130]
+签保证书来解封。在致电 96180 后（联通客服经理电话），得到了：因为打 FaceTime 多了，涉嫌电信诈骗的答复。[^lNlZ7]
 
-[^50130]: skyrocketing, 《[归属地 0719，中国电信（湖北）因为打 FaceTime 多了涉嫌电诈封号](http://archive.today/2024.06.18-061633/http://webcache.googleusercontent.com/search?q=cache:https://v2ex.com/t/1050130)》, V2EX, 2024-06-17. (参照 2024-06-18).
+[^lNlZ7]: skyrocketing, 《[归属地 0719，中国电信（湖北）因为打 FaceTime 多了涉嫌电诈封号](http://archive.today/2024.06.18-061633/http://webcache.googleusercontent.com/search?q=cache:https://v2ex.com/t/1050130)》, V2EX, 2024-06-17. (参照 2024-06-18).
 
 ## FaceTime 反诈更新
 
