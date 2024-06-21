@@ -2,7 +2,7 @@
 title: "Sweet Baby Inc."
 description:
 published: true
-date: "2024-06-20T20:32:13"
+date: "2024-06-21T20:19:51"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2024-06-20T10:33:45"
@@ -113,6 +113,10 @@ Sweet Baby Inc. 是加拿大的游戏叙事顾问公司，帮助促进多样性�
 > 无论是从伦理上还是财务上，你都可以说这很重要，而且这是一个有效的讨论。因为如果你在 AAA 工作并且预算很紧张，
 > 我认为你会对市场团队能给你的资金数量感到惊讶或失望。
 
+2024年3月6日，Sweet Baby Inc. 通过媒体向玩家澄清：游戏《自杀小队：消灭正义联盟》里，SBI 只参与了游戏内的广告、音频日志和 NPC 的 barks。[^12428] 不过一些玩家似乎并不同意 SBI 此时才公开，自己对游戏的参与度。
+
+[^12428]: Alyssa Mercante, [Sweet Baby Inc. Doesn’t Do What Some Gamers Think It Does](https://web.archive.org/web/20240601133619/https://kotaku.com/sweet-baby-inc-consulting-games-alan-wake-2-dei-1851312428), Kotaku, 2024-03-06. (参照 2024-06-20).
+
 随后许多玩家站在 Sweet Baby Inc Detected 的一方，而 Sweet Baby Inc. 与 chris kindred 大概败下阵来，并将 X 帐号开启了保护，
 未关注的用户不能查看。[^23425]
 
@@ -130,12 +134,11 @@ Sweet Baby Inc. 是加拿大的游戏叙事顾问公司，帮助促进多样性�
 
 [^Q02Qv]: 兲虎, 「[刚看了眼这个微博微博正文 ，好家伙蛆块链和数据女工还在拼命做数据，还是以一种觉得可以嘲讽人的姿态转发……](http://archive.today/2024.06.20-012111/https://weibo.com/2269443552/Oiwb9gq7f)」, 新浪微博, 2024-06-11. (参照 2024-06-20).
 
-然而这些说法无法验证，比如游戏开发早期阶段，很可能不会宣布游戏的存在。然而顾问公司如果没能在早期参与，那么也无法深入改进游戏。比如在游戏《自杀小队：消灭正义联盟》里，Sweet Baby Inc. 只参与了游戏内的广告、音频日志和 NPC 的 barks。[^12428]
+然而这些说法无法验证，其中也有不符合逻辑的说法。比如很多游戏往往秘密开发一段时间，等到官方宣布的时候，
+变更底层设定就比较困难了。如果顾问公司是主动联系游戏公司，往往就错过了「最佳介入时间」，只能处理一些浅层的内容。
 
-[^12428]: Alyssa Mercante, [Sweet Baby Inc. Doesn’t Do What Some Gamers Think It Does](https://web.archive.org/web/20240601133619/https://kotaku.com/sweet-baby-inc-consulting-games-alan-wake-2-dei-1851312428), Kotaku, 2024-03-06. (参照 2024-06-20).
-
-关于顾问公司收取巨额费用的说法，更是没有其他人的说法来佐证，也缺乏证据。并且有人将「兲虎」的说法传成了：
-Sweet Baby Inc. 收取 700 万美元，这让 Sweet Baby Inc. 再次风评被害。[^75534][^75041]
+关于顾问公司收取巨额费用的说法，更是缺乏证据，也没有其他人的说法来佐证，大概可以直接判断为假消息。
+之后有人将「兲虎」的说法传成了：SBI 收取 700 万美元，这让 SBI 再次成为玩家批判的目标，[^75534][^75041] 但这实际上是误解。
 
 [^75534]: 汪淼, 《[〈黑神话：悟空〉被政治正确团队勒索 700 万美元“指导费”？引发国内外热议](https://web.archive.org/web/20240616062009/https://www.ithome.com/0/775/534.htm)》, IT之家, 2024-06-16. (参照 2024-06-20).
 

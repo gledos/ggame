@@ -2,7 +2,7 @@
 title: "LLM"
 description:
 published: true
-date: "2024-06-07T15:27:20"
+date: "2024-06-21T20:19:55"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T11:04:23"
@@ -103,6 +103,12 @@ OpenAI 公司推出了更强大的 GPT-4。
     [^A95A7]: 312（公安部）, 《[互联网服务警用接口总体技术要求](https://web.archive.org/web/20240607062515/https://std.samr.gov.cn/gb/search/gbDetailed?id=5DDA8B9DCA2C18DEE05397BE0A0A95A7)》, 国家标准项目 - 全国标准信息公共服务平台, 2017-08-01. (参照 2024-06-07).
 
 5.  网络信息办公室需要测试该模型。[^47418]
+
+附言：曾经电话交换机上面也有「警用接口」，用来监听，原理似乎是 Signalling System No. 7（[SS7][]）。[^31144]
+
+[^31144]: 未知, 《[关于中共公安的“电话监听网”](https://www.minghui.org/mmh/articles/2006/6/23/131144.html)》, 明慧网, 2006-06-23. (参照 2024-06-21).
+
+[SS7]: https://en.wikipedia.org/wiki/Signalling_System_No._7
 
 ## 封禁 AI 绘画
 
