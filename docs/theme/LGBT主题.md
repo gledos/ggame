@@ -2,14 +2,14 @@
 title: LGBT 主题
 description:
 published: true
-date: "2024-01-04T13:06:50"
+date: "2024-06-25T14:47:10"
 tags:
 - lgbt
 editor: markdown
 dateCreated: "2022-09-23T12:46:22"
 ---
 
-## 条目清单
+## 清单
 
 2013年，[浙江大学的 BBS](/unclear/高校性少数群体.md) 禁止在缘分天空版块进行同性征友，
 只能到一个匿名版块和时事政治版块讨论同性恋等内容。
@@ -122,6 +122,14 @@ Online</rt></ruby>，最后在 2021年11月4日 宣布关闭。
 [^mwWCU]: 兔头学姐张铁根, 「[这次来北京开会，突然对以后乐观了一些……](http://archive.today/2024.04.22-161210/https://weibo.com/6994770449/5025988907893792)」, 新浪微博, 2024-04-22. (参照 2024-04-23).
 
 [^31787]: 李老师不是你老师, 「[4月22日，微博博主“兔头学姐张铁根”透露称，接下来针对“LGBT”“女拳”，以及具有“激化矛盾，撕裂社会，制造对立，鼓吹享乐，拒绝责任”等特点的舆论，将摆脱以往的封号禁言等管理模式，进一步追究刑事和民事责任。](https://twitter.com/whyyoutouzhele/status/1782437822223331787)」, X (formerly Twitter), 2024-04-22. (参照 2024-04-23).
+
+2024年6月15日，上海被认为唯一的著名女同性恋酒吧：ROXIE，[^830f6] 宣布「由于一些无法控制的事与诸多因素」，将在明天关门停业。[^mA8HQ][^cdj59]
+
+[^830f6]: 女通讯录, 《[16. 「女同空间001」Roxie - 上海唯一女通讯录酒吧](https://web.archive.org/web/20240625063546/https://www.xiaoyuzhoufm.com/episode/640adef3092eb63cb04830f6)》, 小宇宙, 2023-03-10. (参照 2024-06-25).
+
+[^mA8HQ]: ROXIE, [ROXIE’s GOODBYE](https://web.archive.org/web/20240616045238/https://mp.weixin.qq.com/s/3jY119cot3qHlkYTomA8HQ), 微信公众号, 2024-06-15. (参照 2024-06-25).
+
+[^cdj59]: 李老师不是你老师, 「[6月16日，上海著名的女同性恋酒吧ROXIE宣布因不可抗力因素关门停业。](http://archive.today/2024.06.25-055236/https://x.com/whyyoutouzhele/status/1802287346013876487)」, X (formerly Twitter), 2024-06-16. (参照 2024-06-25).
 
 ## 阴柔化的男性相关
 

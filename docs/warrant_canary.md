@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-05-24T09:51:04"
+date: "2024-06-26T00:19:47"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,32 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2024年6月25日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年6月25日。
+
+我的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   文玉伯, 《[日本母子苏州遇袭与中国经济](https://web.archive.org/web/20240625093106/https://mp.weixin.qq.com/s/MOjZJQIhqJzl69UGfDLVSQ)》, 微信公众号／筑基政经, 2024-06-25. (参照 2024-06-26).
++   Choe Sang-Hun, 《[韩国锂电池工厂火灾，18名中国劳工遇难](https://web.archive.org/web/20240625092036/https://cn.nytimes.com/asia-pacific/20240625/lithium-battery-fire-south-korea/)》, 纽约时报中文网, 2024-06-25. (参照 2024-06-26).
++   《[“倒查30年”补税叠加“警税合成作战” 折射两个中国经济现实](https://web.archive.org/web/20240624041612/https://www.bbc.com/zhongwen/simp/chinese-news-69137259)》, BBC News 中文, 2024-06-25. 参照: 2024-06-26. [Online].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZnruDQAKCRCZXo6bU2oX
+pM+5AP4g/xuBaR9bpEUcAv/owsdZAOnQVF8XwDilIwlj8NQyKQD8C6uzSK7lWkoc
+9XZ65GVAHyeX5ZAO0fgIEi3qIuD9Hg0=
+=JP/3
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年5月24日
 
@@ -44,8 +70,6 @@ JRsA8oRhJ9UcshktprN3syiL8zLARQE=
 =l9Zw
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年4月24日
 
