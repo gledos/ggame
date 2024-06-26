@@ -576,20 +576,39 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 
 ## 自动添加 DNS
 
-2022年3月6日，MIUI 被发现以下代码，会根据系统地区自动添加 114 以及「互联网国家工程中心」或谷歌的 DNS。[^0166]:
+2021年4月6日，MIUI 被发现会自动添加 114 以及「互联网国家工程中心」的 DNS。[^is712]
+具体细节是根据系统地区，如果是大陆就添加大陆的 DNS，其他地区就添加 Google 的 DNS。[^bP2vS] 部分代码如下：
 
-[^0166]: llccd @gNodeB, 《[小米手机设置不存在的 DNS 仍然可以解析域名](https://twitter.com/gNodeB/status/1500500166549327877)》, Twitter. (参照 2022-03-08).
+[^is712]: 1phalley, 《[小米9故意内置隐藏的114DNS污染了路由器海外DNS解析结果 · Issue #712 · pymumu/smartdns](https://web.archive.org/web/20240626073905/https://github.com/pymumu/smartdns/issues/712)》, GitHub, 2021-04-06. (参照 2024-06-26).
+
+[^bP2vS]: llccd @gNodeB, 《[小米手机设置不存在的 DNS 仍然可以解析域名](http://archive.today/2024.06.26-103518/https://x.com/gNodeB/status/1500500166549327877)》, Twitter. (参照 2022-03-08).
 
 ```java
 String dns = System.isInCnRegion() ? "114.114.114.114" : "8.8.8.8";
 String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 ```
 
-由于该功能没有被公布，所以可能会造成 DNS 泄露，包括在使用 VPN 的时候。以及与其他手机出现网络上的差异。
+其他品牌的国行手机也有类似的情况，比如 vivo 的 OriginOS，[^26785] OPPO 的 ColorOS，[^80960] 以及华为的 EMUI，[^51822]
+甚至是「[三星港版手机](/company/Samsung/HK_Phone.md)」。
 
-> [!abstract]+ 相关条目
->
-> +   [三星港版手机](/company/Samsung/HK_Phone.md)
+[^26785]: ESXi, 《[维沃vivo OriginOS安卓系统强制在系统夹带114 DNS导致网络卡顿](https://www.txrjy.com/thread-1326785-1-1.html)》, 运营商·运营人 - 通信人家园 - Powered by C114, 2024-04-10. (参照 2024-06-26).
+
+[^80960]: webdisk, 《[请问怎么能关掉 OPPO 手机自带系统的内置的额外 DNS 呢](https://www.v2ex.com/t/580960)》, V2EX, 2019-07-08. (参照 2024-06-26).
+
+[^51822]: loa13368, 《[安卓手机内置的 ipv6 DNS 会污染 opwrt 旁路由的 DNS，访问不了谷歌](https://web.archive.org/web/20240623085037/https://v2ex.com/t/1051822)》, V2EX, 2024-06-23. (参照 2024-06-26).
+
+这种手机内置硬编码 DNS 的机制，目的也许是减少用户配置错误，导致的离线问题。但也会导致难以排查的 DNS 泄漏，
+甚至抢答到的错误 DNS，导致 DNS 污染，甚至污染到 OpenWrt 路由器，导致路由器下的其他设备，
+如电脑无法正常使用 Google 等服务。[^is712]
+
+附言：「智能电视」只要联网就会有广告，只要故意配置错误的 DNS，就能正常使用投屏等局域网功能，又能去除广告和遥测数据。
+但是如果厂商添加硬编码的 DNS，就会导致此方法失效。
+
+附言 2：有说法认为自动添加的 DNS，就是为了故意获取 DNS 请求记录。这不好说，除非多检验一些国行手机，
+看看他们是否都含有此秘密功能。不过有一点是确定的，那就是工信部不管这件事，即便有人向工信部申诉，
+也只会得到提起诉讼的建议。[^29656]
+
+[^29656]: ESXi, 《[vivo维沃夹带114 DNS,工信部答复结果.](https://www.txrjy.com/thread-1329656-1-1.html)》, 运营商·运营人 - 通信人家园 - Powered by C114, 2024-04-28. (参照 2024-06-26).
 
 ## 试图禁止 adb 提取 APK
 
