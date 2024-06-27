@@ -341,7 +341,7 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 
 [^49075]: abchendai00, 《[关于 imessage， facetime， homekit 等服务部分地区无法使用的原因](https://www.v2ex.com/t/1049075)》, V2EX, 2024-06-12. (参照 2024-06-18).
 
-[^gc798]: China_in_real_life, 《[湖北电信和安徽电信在屏蔽FaceTime时，误伤到了iMessage](www.reddit.com/r/China_irl/comments/1dgc798/湖北电信和安徽电信在屏蔽facetime时误伤到了imessage/)》, r/China_irl, 2024-06-15. (参照 2024-06-18).
+[^gc798]: China_in_real_life, 《[湖北电信和安徽电信在屏蔽FaceTime时，误伤到了iMessage](https://www.reddit.com/r/China_irl/comments/1dgc798/湖北电信和安徽电信在屏蔽facetime时误伤到了imessage/)》, r/China_irl, 2024-06-15. (参照 2024-06-18).
 
 [^99983]: chat2gpt4, 《[网传多地运营商屏蔽了苹果iMessage的服务，属实么? -](https://www.zhihu.com/question/658499983)》, 知乎, 2024-06-09. (参照 2024-06-18).
 
