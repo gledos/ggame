@@ -29,7 +29,9 @@ Store in China and Human Rights Implications."（设计上的隔离：苹果应�
 不过该报告的原文是 PDF 文档，多行复制、翻译以及搜索都不太方便。于是先用 [PDF to Markdown](https://pdf2md.morethan.io/)
 工具进行粗略转换，再人力修正，这样就能使用浏览器的翻译工具了。
 
-> [!summary inline end]+ 元数据
+## ISOLATION BY DESIGN: Censorship in Apple's App Store in China and Human Rigths Implications
+
+> [!summary]+ 元数据
 >
 > ```yaml
 > 标题:
@@ -37,8 +39,6 @@ Store in China and Human Rights Implications."（设计上的隔离：苹果应�
 > - 简体中文: "设计上的隔离：苹果应用商店在中国的审查制度及其对人权的影响"
 > 链接: https://appcensorship.org/files/Isolation-By-Design.pdf
 > ```
-
-## ISOLATION BY DESIGN: Censorship in Apple's App Store in China and Human Rigths Implications
 
 <!-- 1 -->
 
