@@ -433,3 +433,13 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 >
 > 中国电信提醒您：近期苹果手机FaceTime诈骗案例高发，请广大用户接听时务必看清提示，凡是通过FaceTime声称是客服人员的都是诈骗，凡是索要账号密码和短信验证码的都是诈骗！如果您未使用FaceTime，建议直接关闭该功能，进入iPhone系统设置— FaceTime通话—关闭“FaceTime通话”；若不方便关闭，建议拒接除联系人以外的所有FaceTime来电，谨防被骗。如您遇到或者发现疑似电信网络诈骗行为，请拨打10000进行举报，专人在线、快速处置、快速反馈！举报诈骗，就打10000号！
 
+## 设计上的隔离
+
+GreatFire 于 2013 年开始监控 Apple 的审查制度。2019 年，它启动了 AppleCensorship 项目以及 App Store Monitor (ASM)，
+以跟踪在 App Store 中不可用的 iOS App。
+
+2024年6月20日，AppleCensorship 与 ARTICLE 19 ASIA 合作，发布了报告：
+"[Isolation by Design: Censorship in Apple’s App Store in China and Human Rights Implications.][]"
+（设计上的隔离：苹果应用商店在中国的审查制度及其对人权的影响）。
+
+[Isolation by Design: Censorship in Apple’s App Store in China and Human Rights Implications.]: /research/isolation_by_design.md

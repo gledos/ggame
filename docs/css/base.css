@@ -120,3 +120,9 @@ html>div>img {
     -webkit-text-emphasis-position: over right;
     font-weight: normal;
 }
+
+.mohu {
+    font-weight: normal;
+    opacity: 0.8;        /* 半透明 */
+    filter: blur(0.8px); /* 模糊效果 */
+}
