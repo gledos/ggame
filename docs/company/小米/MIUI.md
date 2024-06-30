@@ -569,7 +569,7 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 | `screen_size`      | `1080x1876`                            | 屏幕分辨率                  |
 | `apkMd5`           | `71681791388ff2c6d5f8ddae8953079b`     | APK 的 MD5 值               |
 | `mo`               | `MI+6`                                 | 机型                        |
-| `……`             | `……`                                 | 截图后续可能还有内容        |
+| `……`               | `……`                                   | 截图后续可能还有内容        |
 
 而标题中提到了经纬度，可能说明未被给出的截图中有经纬度（地理位置）的信息，不过没有其他人研究这些隐私问题，
 所以尚不明确消息可靠性。
@@ -803,3 +803,66 @@ UI 提示了「该SIM卡申请次数超限，请稍候再试」。[^69057]
 > [!note]+ 猜测
 >
 > 这种设计也许能防止「手机农场」，即为了刷单、刷评价等，将手机放在架子上排列，批量使用的「手机农场」。
+
+## 设备名称联网校验
+
+（暂时未创建「真我」的条目，所以先放进 MIUI 条目中。）
+
+Android 系统里存在「设备名称」这个配置，它会作为蓝牙、Wi-Fi 热点网络共享的默认名称，展示给其他设备。
+并且会作为环境变量 Settings.Global.DEVICE_NAME，能被 App 读取。
+
+2024年6月 下旬，<ruby>真我<rt>realme</rt></ruby>手机在系统更新日志中提到：
+
+> [!quote]+ 【系统】
+>
+> 新增 更改手机名称联网校验功能，系统会检测手机名称是否存在敏感字符，校验未通过将无法保存或使用更改的手机名称
+
+具体提到该内容的手机有：
+
+| 时间               | 机型                                                         | 版本       |
+| ------------------ | ------------------------------------------------------------ | ---------- |
+| 2024-06-22[^94144] | 真我 V50<br>真我 V50s                                        | 14.0.0.105 |
+| 2024-06-25[^44672] | 真我 11 pro<br>真我 11 pro+                                  | 14.0.0.800 |
+| 2024-06-27[^02528] | 真我 GT5 Pro                                                 | 14.0.0.704 |
+| 2024-06-21[^81024] | 真我 GT Neo5 SE                                              | 14.0.0.800 |
+| 2024-06-22[^38560] | 真我 GT2                                                     | 14.0.0.804 |
+| 2024-06-24[^98400] | 真我 GT Neo3<br>真我 GT Neo3 150W<br>真我 GT Neo3 火影限定版 | 14.0.0.701 |
+| 2024-06-25[^74912] | 真我 GT 5G                                                   | 14.0.0.701 |
+| 2024-06-26[^89696] | 真我 GT Neo5<br>真我 GT Neo5 240W                            | 14.0.0.801 |
+| 2024-06-28[^56256] | 真我 GT 大师探索版                                           | 14.0.0.702 |
+| 2024-06-28[^05184] | 真我 GT2 pro                                                 | 14.0.0.801 |
+| 2024-06-28[^64256] | 真我 GT2 大师探索版                                          | 14.0.0.801 |
+| 2024-06-28[^43488] | 真我 GT5<br>真我 GT5 240W                                    | 14.0.0.800 |
+| 2024-06-28[^08416] | 真我 Q5 Pro                                                  | 14.0.0.702 |
+| 2024-06-29[^10592] | 真我 GT Neo6 SE                                              | 14.0.1.608 |
+
+[^94144]: realme UI, 《[240622系统更新日志：真我 V50&真我 V50s 14.0.0.105已开始发布](https://web.archive.org/web/20240630081852/https://www.realmebbs.com/post-details/1802979521017094144)》, realme 真我社区, 2024-06-18. (参照 2024-06-30).
+[^44672]: realme UI, 《[240625系统更新日志：真我11 pro&真我11 pro+ 14.0.0.800已开始发布](https://www.realmebbs.com/post-details/1803364922953244672)》, realme 真我社区, 2024-06-19. (参照 2024-06-30).
+[^02528]: realme UI, 《[240627系统更新日志：真我GT5 Pro 14.0.0.704已开始发布](https://web.archive.org/web/20240630081951/https://www.realmebbs.com/post-details/1803339592142102528)》, realme 真我社区, 2024-06-19. (参照 2024-06-30).
+[^81024]: realme UI, 《[240621系统更新日志：真我GT Neo5 SE 14.0.0.800已开始发布](https://web.archive.org/web/20240630082117/https://www.realmebbs.com/post-details/1804034862148481024)》, realme 真我社区, 2024-06-21. (参照 2024-06-30).
+[^38560]: realme UI, 《[240622系统更新日志：真我GT2 14.0.0.804已开始发布](https://web.archive.org/web/20240630082126/https://www.realmebbs.com/post-details/1803959365183938560)》, realme 真我社区, 2024-06-21. (参照 2024-06-30).
+[^98400]: realme UI, 《[240624系统更新日志：真我GT Neo3&真我GT Neo3 150W&火影定制版 14.0.0.701已开始发布](https://web.archive.org/web/20240630082134/https://www.realmebbs.com/post-details/1805122057911398400)》, realme 真我社区, 2024-06-24. (参照 2024-06-30).
+[^74912]: realme UI, 《[240625系统更新日志：真我GT 5G 14.0.0.701已开始发布](https://web.archive.org/web/20240630083101/https://www.realmebbs.com/post-details/1805403612219174912)》, realme 真我社区, 2024-06-25. (参照 2024-06-30).
+[^89696]: realme UI, 《[240626系统更新日志：真我GT Neo5&真我GT Neo5 240W 14.0.0.801已开始发布](https://web.archive.org/web/20240630082320/https://www.realmebbs.com/post-details/1805876852376989696)》, realme 真我社区, 2024-06-26. (参照 2024-06-30).
+[^56256]: realme UI, 《[240628系统更新日志：真我GT 大师探索版 14.0.0.702已开始发布](https://web.archive.org/web/20240630082247/https://www.realmebbs.com/post-details/1806262264085856256)》, realme 真我社区, 2024-06-27. (参照 2024-06-30).
+[^05184]: realme UI, 《[240628系统更新日志：真我GT2 pro 14.0.0.801已开始发布](https://web.archive.org/web/20240630083317/https://www.realmebbs.com/post-details/1806248158071005184)》, realme 真我社区, 2024-06-27. (参照 2024-06-30).
+[^64256]: realme UI, 《[240628系统更新日志：真我GT2大师探索版 14.0.0.801已开始发布](https://web.archive.org/web/20240630085019/https://www.realmebbs.com/post-details/1806248378842464256)》, realme 真我社区, 2024-06-27. (参照 2024-06-30).
+[^43488]: realme UI, 《[240628系统更新日志：真我GT5、真我GT5 240W 14.0.0.800已开始发布](https://web.archive.org/web/20240630084000/https://www.realmebbs.com/post-details/1806239815604543488)》, realme 真我社区, 2024-06-27. (参照 2024-06-30).
+[^08416]: realme UI, 《[240628系统更新日志：真我Q5 Pro 14.0.0.702已开始发布](https://web.archive.org/web/20240630083844/https://www.realmebbs.com/post-details/1806262492318908416)》, realme 真我社区, 2024-06-27. (参照 2024-06-30).
+[^10592]: realme UI, 《[240629系统更新日志：真我GT Neo6 SE 14.0.1.608已开始发布](https://web.archive.org/web/20240630083917/https://www.realmebbs.com/post-details/1806594110220910592)》, realme 真我社区, 2024-06-28. (参照 2024-06-30).
+
+根据 V2EX 上的讨论来看，小米手机也被添加了此限制。[^53659] 而造成此审查的直接原因，
+可能与限制 [AirDrop](/company/Apple/AirDrop.md) 相同，都是在尝试管理「[近距离自组网](/rule/国家互联网信息办公室/近距离自组网信息服务管理规定.md)」。
+
+[^53659]: chanwang, 《[如果一个手机厂商连手机设置名称都要审核你还会买吗？](https://www.v2ex.com/t/1053659)》, V2EXV2EX／[水深火热](/website/V2EX.md#水深火热), 2024-06-30. (参照 2024-06-30).
+
+关于使用 Wi-Fi 名称来抗议，在俄罗斯存在类似的先例：2024年3月，一名学生将路由器的名称设置为：
+<ruby>Slava Ukraini!<rt>荣耀属于乌克兰！</rt></ruby>，如果有人在范围里检查 Wi-Fi 选项，就会看到这段口号。
+随后该学生在莫斯科被捕，法院以展示「极端主义组织标志」的罪名，判处其 10 天监禁，[^26111]
+该学生随后还被莫斯科国立大学开除。[^06003]
+
+[^26111]: Sofia Ferreira Santos, [Russian student jailed for pro-Ukraine wi-fi name](https://web.archive.org/web/20240310002413/https://www.bbc.com/news/world-europe-68526111), BBC, 2024-03-09. 参照: 2024-06-30. [Online].
+
+[^06003]: Дарья Колесниченко, [Студента МГУ, который назвал сеть Wi-Fi Slava Ukraine, отчислили](https://nv.ua/world/countries/v-mgu-student-nazval-set-wi-fi-v-obshchezhitii-slava-ukraine-ego-otchislili-novosti-rossii-50406003.html), The New Voice of Ukraine, 2024-04-01. (参照 2024-06-30).
+
+附言：通过 adb 命令 `adb shell settings get global device_name`，能获取设备名称，可以测试设备名称的设置是否正常生效。
