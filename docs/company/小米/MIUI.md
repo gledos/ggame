@@ -2,7 +2,7 @@
 title: MIUI
 description:
 published: true
-date: "2024-06-16T23:09:33"
+date: "2024-07-09T00:08:46"
 tags:
 - operating-system
 - dns
@@ -214,6 +214,73 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 lock」，即可成功互刷。[^115904] 当然，上文提到的 EDL 模式也能在手机变砖后进行恢复。
 
 [^115904]: xiaopeng, 《[小米封杀行货手机刷国际版ROM：强刷变砖](https://web.archive.org/web/20230204161141/https://www.antutu.com/doc/115904.htm)》, 安兔兔, 2018-09-29. (参照 2023-02-05).
+
+还有开发者，在 2020 年，从代码中找到小米 9T 具体限制的代码：[^i2470]
+
+[^i2470]: sabpprook, [Xiaomi cross region flash hacks by sabpprook · Pull Request #2470 · topjohnwu/Magisk](https://github.com/topjohnwu/Magisk/pull/2470), GitHub, 2020-03-09. (参照 2024-07-08).
+
+```java
+    private static void rebootIntoRecovery() {
+        BcbUtil.setupBcb("--show_version_mismatch\n");
+        SystemProperties.set("sys.powerctl", "reboot,recovery");
+    }
+
+    private static boolean isGlobalHaredware(String product) {
+        boolean z = true;
+        if ("ugglite".equals(product) || "ugg".equals(product) || "ugglite_ru".equals(product) || "ugg_ru".equals(product)) {
+            return !"China".equals(SystemProperties.get("ro.boot.hwcountry"));
+        }
+        if ("riva".equals(product) || "riva_ru".equals(product)) {
+            if ("S88505AA1".equals(SystemProperties.get("ro.product.wt.boardid")) || "S88505DA1".equals(SystemProperties.get("ro.product.wt.boardid")) || "S88505AC1".equals(SystemProperties.get("ro.product.wt.boardid")) || "S88505DC1".equals(SystemProperties.get("ro.product.wt.boardid"))) {
+                z = false;
+            }
+            return z;
+        } else if ("rosy".equals(product) || "rosy_ru".equals(product)) {
+            return !"CN".equals(SystemProperties.get("ro.boot.hwcountry"));
+        } else {
+            String country = SystemProperties.get("ro.boot.hwc");
+            if ("CN".equals(country) || (country != null && country.startsWith("CN_"))) {
+                return false;
+            }
+            return true;
+        }
+    }
+
+    private static void enforceVersionPolicy() {
+        String product = SystemProperties.get("ro.product.name");
+        if (!sVersionPolicyDevices.contains(product)) {
+            Slog.d(TAG, "enforceVersionPolicy: enable_flash_global enabled");
+        } else if (!"locked".equals(SystemProperties.get("ro.secureboot.lockstate"))) {
+            Slog.d(TAG, "enforceVersionPolicy: device unlocked");
+        } else if (isGlobalHaredware(product)) {
+            Slog.d(TAG, "enforceVersionPolicy: global device");
+        } else {
+            if (Build.IS_INTERNATIONAL_BUILD) {
+                Slog.e(TAG, "CN hardware can't run Global build; reboot into recovery!!!");
+                rebootIntoRecovery();
+            }
+        }
+    }
+```
+
+2024年7月7日，MIUI EU 测试者 Kacper Skrzypek 发现，互刷 ROM 被添加了新的限制。
+该限制会在<ruby>开机向导<rt>Provision</rt></ruby>页面显示：[^05108]
+
+[^05108]: Kacper Skrzypek 🇵🇱, [Have you tried using Global ROM on CN #Xiaomi device? Probably soon you won’t be able to pass the first setup! Xiaomi added new screen, saying 「this software version isn’t supported on your device」 when device is CN and running Global ROM. In action on Redmi Note 13 series now!](https://x.com/kacskrz/status/1809956388182905108), X (formerly Twitter), 2024-07-07. (参照 2024-07-09).
+
+> [info]+ Unsupported software
+>
+> This software version isn't supported
+> by your device. using it may pose
+> security risks. Contact your sales
+> agent for details.
+>
+> Shut down
+> {: align=right }
+
+2024年7月8日，Kacper Skrzypek 表示 Xiaomi.eu 已经修复了这个问题。[^00123]
+
+[^00123]: Kacper Skrzypek 🇵🇱, [@SanGraphic If you meant https://t.co/yCCrfTMv0M, it’s already patched as we got to know about that today :)](https://x.com/kacskrz/status/1810002087713100123), X (formerly Twitter), 2024-07-07. (参照 2024-07-09).
 
 ## 论坛
 
@@ -535,10 +602,12 @@ MIUI 13 版本的宣传的新增系统级全链路反诈，自称与国家反诈
 > 2.  MIUI Global（全球版）
 > 3.  MIUI EU（欧洲版）
 >
-> 其中 MIUI EU 版并不是小米官方的，而是由小米欧洲经销商认可的民间团队发布。基于MIUI大陆版修改而来，
-> 发布时间和机型与大陆版同步。同步MIUI大陆版的稳定版公测和测试版公测。有谷歌核心套件。无小米全家桶。无广告。
+> 其中 MIUI EU 版并不是小米官方的，而是由小米欧洲经销商认可的民间团队发布。基于 MIUI 国际版或大陆版修改而来，[^64441]
+> 特点是有谷歌核心套件，无小米全家桶，无广告。
 
 [^ko797]: Koizumi, 《[MIUI 各版本区别及下载地址](https://blog.minamigo.moe/archives/797)》, Koizumi’s Blog, 2022-04-23. (参照 2023-02-03).
+
+[^64441]: ingbrzy, [MIUI 13 - MIUI 13 STABLE RELEASE](https://web.archive.org/web/20240703170542/https://xiaomi.eu/community/threads/miui-13-stable-release.64441/), Unofficial Xiaomi European Community | MIUI ROM Since 2010, 2022-01-02. (参照 2024-07-08).
 
 2022年1月5日，有人发现部分软件无法安装，会显示「[相关法律](/censorship/相关法律.md)法规要求，禁止安装」。[^2298720242]
 
