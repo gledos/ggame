@@ -62,7 +62,7 @@ dateCreated: "2024-07-16T15:09:20"
 
 [^7481]: have, 《[多玩网遭遇电玩巴士事件](https://web.archive.org/web/20240717135922/https://www.free8.net/thread-7481-1-1.html)》, 免费吧论坛／资源交流, 2009-02-28. (参照 2024-07-17).
 
-不过值得注意的是，原域名 `duowan.com` 有进行信产部的备案，而 `duowan.cn` 反而没有备案。
+不过值得注意的是，原域名 `duowan.com` 有进行信产部的备案，而 `duowan.cn` 反而没有备案。[^9695]
 然后多玩域名的恢复时间，大约是在 2009年2月28日，因为 Internet Archive 此时留有记录。[^20090]
 
 [^20090]: [http://www.duowan.com/](https://web.archive.org/web/20090000000000*/http://www.duowan.com/), Wayback Machine, 2009-. (参照 2024-07-18).
