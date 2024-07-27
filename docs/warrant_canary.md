@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-06-26T00:19:47"
+date: "2024-07-28T00:09:00"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -20,6 +20,32 @@ icon: material/pen-lock
 而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+
+### 2024年7月27日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年7月28日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   7条鹅, 《[电影《731》还未上映却遭百万人举报，深究其背后原因](https://www.163.com/dy/article/J7Q94BSJ05568P3B.html)》, 网易新闻／网易号, 2024-07-23. (参照 2024-07-27).
++   Krolik Aaron、孟建国, 《[美国芯片为何仍流入俄罗斯？香港空壳公司背后的秘密链条](https://web.archive.org/web/20240727033516/https://cn.nytimes.com/technology/20240726/russia-sanctions-chips/)》, 纽约时报中文网, 2024-07-26. (参照 2024-07-27).
++   《[二十届三中全会：300多项改革出台 2029年中国人的生活将是什么样？](https://web.archive.org/web/20240725131454/https://www.bbc.com/zhongwen/simp/chinese-news-69217074)》, BBC News 中文, 2024-07-25. (参照 2024-07-27).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZqUbVwAKCRCZXo6bU2oX
+pBCiAQDa/ylp4DHyp1Vyz0gyiJsf3FEXkWh3S8VX4NZ4oJeFXwD9G3sDSXT0VEpZ
+NZJQpCoO+6eGtC09+3AAwxvH1yOT7Ac=
+=GJc0
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年6月25日
 
@@ -44,8 +70,6 @@ pM+5AP4g/xuBaR9bpEUcAv/owsdZAOnQVF8XwDilIwlj8NQyKQD8C6uzSK7lWkoc
 =JP/3
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年5月24日
 
@@ -146,7 +170,6 @@ d6U6KP7sLTbuGhLCeUL2EQ4Iwtp3SAw=
 =ect5
 -----END PGP SIGNATURE-----
 ```
-
 
 ### 2023年12月27日
 
@@ -751,7 +774,6 @@ pImiAP9Qvo7jd0tbx9jGIvN2AilYwzZx4KHKV51S1j4KySvSygD9EiR1Qrr7tMhV
 =dNsT
 -----END PGP SIGNATURE-----
 ```
-
 
 ### 2021年9月11日
 
