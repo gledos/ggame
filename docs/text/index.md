@@ -50,7 +50,6 @@ icon: material/text
 
 [^22437]: 《[南风窗：狭隘民族主义与外交政策（全文）](https://web.archive.org/web/20110831070937/http://china.dwnews.com/news/2011-08-17/58022437.html)》, 多维新闻网, 2011-08-17. (参照 2024-03-08).
 
-
 2022年11月，RFA 报导了自杀率的统计数字成为国家机密的情况。[^53246]
 
 [^53246]: 黃小山、程文, 《[【中國社會】嚴苛封控輕生頻繁 自殺率成國家機密](https://web.archive.org/web/20230312082343/https://www.rfa.org/cantonese/news/suicide-11072022053246.html)》, Radio Free Asia, 2022-11-07. (参照 2023-10-23).
