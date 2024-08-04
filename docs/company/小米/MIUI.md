@@ -2,7 +2,7 @@
 title: MIUI
 description:
 published: true
-date: "2024-07-09T00:08:46"
+date: "2024-08-04T21:00:19"
 tags:
 - operating-system
 - dns
@@ -934,4 +934,9 @@ Android 系统里存在「设备名称」这个配置，它会作为蓝牙、Wi-
 
 [^06003]: Дарья Колесниченко, [Студента МГУ, который назвал сеть Wi-Fi Slava Ukraine, отчислили](https://nv.ua/world/countries/v-mgu-student-nazval-set-wi-fi-v-obshchezhitii-slava-ukraine-ego-otchislili-novosti-rossii-50406003.html), The New Voice of Ukraine, 2024-04-01. (参照 2024-06-30).
 
-附言：通过 adb 命令 `adb shell settings get global device_name`，能获取设备名称，可以测试设备名称的设置是否正常生效。
+附言：通过 adb 命令 `adb shell settings get global device_name`，能获取设备名称，可以测试设备名称是否正常生效。
+
+2024年7月13日，有人测试 vivo 手机设置手机名为「小学博士」，结果系统提示「名称包含敏感词，请重新输入。」
+小米手机同样不允许，提示的是「请重新修改设备名称」，Root 后禁用系统的远程服务，才能正常修改。[^08909]
+
+[^08909]: 李老师不是你老师, 「[网友投稿](https://web.archive.org/web/20240804095414/https://nitter.privacydev.net/whyyoutouzhele/status/1812118888127008909)」, X (formerly Twitter), 2024-07-13. (参照 2024-08-04).

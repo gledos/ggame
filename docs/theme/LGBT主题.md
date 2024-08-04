@@ -123,13 +123,21 @@ Online</rt></ruby>，最后在 2021年11月4日 宣布关闭。
 
 [^31787]: 李老师不是你老师, 「[4月22日，微博博主“兔头学姐张铁根”透露称，接下来针对“LGBT”“女拳”，以及具有“激化矛盾，撕裂社会，制造对立，鼓吹享乐，拒绝责任”等特点的舆论，将摆脱以往的封号禁言等管理模式，进一步追究刑事和民事责任。](https://twitter.com/whyyoutouzhele/status/1782437822223331787)」, X (formerly Twitter), 2024-04-22. (参照 2024-04-23).
 
-2024年6月15日，上海被认为唯一的著名女同性恋酒吧：ROXIE，[^830f6] 宣布「由于一些无法控制的事与诸多因素」，将在明天关门停业。[^mA8HQ][^cdj59]
+2024年6月15日，上海被认为唯一的著名女同性恋酒吧：ROXIE，[^830f6] 宣布「由于一些无法控制的事与诸多因素」，
+将在明天关门停业。[^mA8HQ][^cdj59]
 
 [^830f6]: 女通讯录, 《[16. 「女同空间001」Roxie - 上海唯一女通讯录酒吧](https://web.archive.org/web/20240625063546/https://www.xiaoyuzhoufm.com/episode/640adef3092eb63cb04830f6)》, 小宇宙, 2023-03-10. (参照 2024-06-25).
 
 [^mA8HQ]: ROXIE, [ROXIE’s GOODBYE](https://web.archive.org/web/20240616045238/https://mp.weixin.qq.com/s/3jY119cot3qHlkYTomA8HQ), 微信公众号, 2024-06-15. (参照 2024-06-25).
 
 [^cdj59]: 李老师不是你老师, 「[6月16日，上海著名的女同性恋酒吧ROXIE宣布因不可抗力因素关门停业。](http://archive.today/2024.06.25-055236/https://x.com/whyyoutouzhele/status/1802287346013876487)」, X (formerly Twitter), 2024-06-16. (参照 2024-06-25).
+
+2024年7月26日，CCTV 转播了巴黎奥运开幕式直播，但是在出现大量 LGBT 内容时，央视解说没有发表评论。
+于是「央视解说沉默了」登上了新浪微博热搜，但稍后该话题被封禁。[^30013][^10086]
+
+[^30013]: 李老师不是你老师, 「[7月26日的巴黎奥运开幕式直播画面中因出现大量LGBT内容导致央视来不及反应……](https://web.archive.org/web/20240804134839/https://nitter.privacydev.net/whyyoutouzhele/status/1817135226855830013)」, X (formerly Twitter), 2024-07-26. (参照 2024-08-04).
+
+[^10086]: elijah, 《[【网络民议】“央视解说沉默了，直播这事不适合央视，不能完全把控局面”](https://web.archive.org/web/20240803155241/https://chinadigitaltimes.net/chinese/710086.html)》, 中国数字时代, 2024-07-28. (参照 2024-08-04).
 
 ## 阴柔化的男性相关
 
