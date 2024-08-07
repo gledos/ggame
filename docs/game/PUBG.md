@@ -1,12 +1,26 @@
 ---
-title: PUBG
+title: "PUBG: BATTLEGROUNDS"
 description:
 published: true
-date: "2022-06-27T08:44:37"
+date: "2024-08-07T14:22:56"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-10-16T09:42:30"
 ---
+
+## 简介
+
+PUBG: BATTLEGROUNDS 是第三人称大逃杀类游戏，原名为 PlayerUnknown's Battlegrounds，不过简称 PUBG 之后作为正式名称了。
+
+## 旭日图案问题
+
+2018年7月14日，PUBG 手游版推出了新装备，是具有类似旭日突然的头盔，并且机器人 ID 叫做 Unit 731（731 部队）。之后该事件在韩国炎上，于是游戏移除了该道具。[^72574][^89217][^70909]
+
+[^72574]: Ryuki Ishii, 『[「PUBG」のモバイル版から旭日旗柄のスキンや731部隊の名称が削除される。中国・韓国ユーザーから“不適切な表現”との指摘を受けて](https://web.archive.org/web/20221209133553/https://automaton-media.com/articles/newsjp/20180722-72574/)』, AUTOMATON, 2018-07-22. (参照 2024-08-07).
+
+[^89217]: 동아일보, “[‘배그 모바일’ 욱일기 아이템 논란 사과…“전량 회수” : 동아 비지트](https://web.archive.org/web/20181217095125/http://bzit.donga.com/List/3/all/50/1389217/1)”, BZIT, 2018-07-16. (参照 2024-08-07).
+
+[^70909]: 远洋, 《[《绝地求生》手游现“731部队”，韩国蓝洞下架道歉](https://web.archive.org/web/20240807062407/https://www.ithome.com/0/370/909.htm)》, IT之家, 2018-07-17. (参照 2024-08-07).
 
 ## 限制
 
