@@ -20,7 +20,7 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 
 2024年8月7日，新浪微博上的 KOL：sunwear，被发现被永久禁言，原因不明。有人认为是转发了买卖尸体的，和法官公开实名举报的帖子。[^ntjqs]
 
-[^ntjqs]: Totony29, 《[中国头部黑客sunwear日娃的微博被永久禁言](www.reddit.com/r/China_irl/comments/1entjqs/中国头部黑客sunwear日娃的微博被永久禁言/)》, r/China_irl, 2024-08-09. (参照 2024-08-11).
+[^ntjqs]: Totony29, 《[中国头部黑客sunwear日娃的微博被永久禁言](https://www.reddit.com/r/China_irl/comments/1entjqs/中国头部黑客sunwear日娃的微博被永久禁言/)》, r/China_irl, 2024-08-09. (参照 2024-08-11).
 
 
 ### 小岛秀夫
