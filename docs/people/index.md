@@ -2,7 +2,7 @@
 title: people
 description:
 published: true
-date: "2024-06-05T11:20:36"
+date: "2024-08-14T00:05:04"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-12T21:09:51"
@@ -18,10 +18,13 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 
 ## 简易内容
 
-2024年8月7日，新浪微博上的 KOL：sunwear，被发现被永久禁言，原因不明。有人认为是转发了买卖尸体的，和法官公开实名举报的帖子。[^ntjqs]
+### 姆姆芭柒mumu87
 
-[^ntjqs]: Totony29, 《[中国头部黑客sunwear日娃的微博被永久禁言](https://www.reddit.com/r/China_irl/comments/1entjqs/中国头部黑客sunwear日娃的微博被永久禁言/)》, r/China_irl, 2024-08-09. (参照 2024-08-11).
+2023年5月19日，游戏类的 YouTuber「姆姆芭柒mumu87」，[^mumu87] 发布了视频《我把盜片仔送去勞改了》，[^1Phps] 里面提到通过使用不起眼并且只有一帧的文字，插入到视频内，然后举报盗影片的帐号，就把盗影片的帐号封禁了，这种操作学习自 [叉雞](/people/Fork_chicken.md) 和波特王。
 
+[^1Phps]: 姆姆芭柒mumu87, 《[我把盜片仔送去勞改了](https://www.youtube.com/watch?v=wIFSNJ1Phps)》, (2023-05-19). 参照: 2023-06-10. [Online Video].
+
+[^mumu87]: 姆姆芭柒mumu87 是游戏类的 YouTuber，主要是发布手机和 PC 游戏剧情以及攻略向视频。
 
 ### 小岛秀夫
 
@@ -136,6 +139,12 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 [^38334]: 林世雄, 《[最高人民检察院：可对“台独”顽固分子进行缺席审判](https://web.archive.org/web/20240624150333/https://www.chinanews.com.cn/gn/2024/06-21/10238334.shtml)》, 中新网, 2024-06-21. (参照 2024-06-24).
 
 [^57415]: 人民网, 《[全文｜《关于依法惩治“台独”顽固分子分裂国家、煽动分裂国家犯罪的意见》新闻发布会实录](https://web.archive.org/web/20240623062447/https://www.spp.gov.cn/spp/zdgz/202406/t20240621_657415.shtml)》, 中华人民共和国最高人民检察院, 2024-06-21. (参照 2024-06-24).
+
+### sunwear
+
+2024年8月7日，新浪微博上的 KOL：sunwear，被发现被永久禁言，原因不明。有人认为是转发了买卖尸体的，和法官公开实名举报的帖子。[^ntjqs]
+
+[^ntjqs]: Totony29, 《[中国头部黑客sunwear日娃的微博被永久禁言](https://www.reddit.com/r/China_irl/comments/1entjqs/中国头部黑客sunwear日娃的微博被永久禁言/)》, r/China_irl, 2024-08-09. (参照 2024-08-11).
 
 ## 条目清单
 
