@@ -2,7 +2,7 @@
 title: LGBT 主题
 description:
 published: true
-date: "2024-06-25T14:47:10"
+date: "2024-08-19T00:18:55"
 tags:
 - lgbt
 editor: markdown
@@ -172,3 +172,31 @@ Online</rt></ruby>，最后在 2021年11月4日 宣布关闭。
 
 2021年12月1日，新浪微博管理员称: 将在一周后开始限制「二货」「SB」「瘪三」「娘炮」等低俗侮辱词汇。未按要求更改的账号，
 将予以删除昵称及阶段性禁言处罚。
+
+## 女权相关
+
+2024年8月17日，YouTube 频道 Ex Serv 发布了节目，提到了游戏《黑神话：悟空》向评测机构发送游戏激活码时，
+附带有注意事项：[^qw2EU][^03542]
+
+> [!warning]+ 不要做的事（经过翻译）[^61g88]
+>
+> +   请勿侮辱其他影响者或玩家。
+> +   请勿使用任何攻击性语言/幽默。
+> +   请勿包含政治、暴力、裸体、女权主义宣传、恋物癖和其他煽动负面言论的内容。
+> +   请勿使用 "quarantine", "isolation" 或 "COVID-19" 等敏感词。
+> +   请勿讨论与中国游戏产业政策、观点、新闻等相关的内容。
+>
+> ---
+>
+> +   Do NOT insult other influencers or players.
+> +   Do NOT use any offensive language/humor.
+> +   Do NOT include politics, violence, nudity, feminist propaganda, fetishization, and other content that instigates
+>     negative discourse.
+> +   Do NOT use trigger words such as ‘quarantine’ or ‘isolation' or 'COVID-19'.
+> +   Do NOT discuss content related to China's game industry policies, opinions, news, etc.
+
+[^qw2EU]: [Censure et Black Myth Wukong : les choses à savoir avant d’y jouer](https://www.youtube.com/watch?v=YVuo-oqw2EU), (2024-08-17). 参照: 2024-08-19. [Online Video].
+
+[^03542]: The Share Players, [🚨 APPEL AU BOYCOTT !!!! ⚠️ #BlackMythWukong Rarement vu un truc aussi honteux…](https://web.archive.org/web/20240817234451/https://nitter.privacydev.net/TheSharePlayers/status/1824765352607203542), X (formerly Twitter), 2024-08-17. (参照 2024-08-19).
+
+[^61g88]: Game Science, [Black Myth: Wukong Launch Campaign - Aug. 2024 - Do’s & Don’ts](https://web.archive.org/web/20240818160122/https://docs.google.com/document/d/1aKlZvxWxbPOzldSUdc6CaHmoy80Fl7W_wQt-Ex-vl0k/view#heading=h.sb5rnv561g88), Google Docs, 2024-08-. (参照 2024-08-19).
