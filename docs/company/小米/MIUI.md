@@ -175,6 +175,17 @@ MIUI 是小米公司的手机系统（基于 Android/AOSP），最初 2010 年�
 
 [^50241]: Lawton, 《[小米疑上載政治網站黑名單 香港小米手機測試](https://web.archive.org/web/20230926150241/https://unwire.hk/2018/04/28/miuiblackurl/mobile-phone/)》, 香港 unwire.hk, 2018-04-28. (参照 2024-03-05).
 
+<!-- date: "2021-09-18T11:38:54" -->
+
+2021年9月中旬左右，小米浏览器在默认的设置下，即开启了设置中的「隐私和安全」下的「安全网址检测」功能，[^surlc] 就会禁止 `remove.bg` 网站的显示。[^hw24]
+{: .remove-bg }
+
+[^surlc]: 安全网址检测功能介绍：「当访问网站时提交当前网址到服务器检测其安全性」。
+
+[^hw24]: 之后在 2024年8月，华为 HarmonyOS 上也观察到此限制。
+
+![已停止访问该网页](/src/website/remove.bg/URL_b.webp)
+
 ## 添加防回滚机制
 
 2018年7月，小米推出的 MIUI 10 Global Beta 8.7.5 版本里包含了<ruby>反回滚<rt>Anti-Rollback Protection</rt></ruby>机制，如果用户给手机安装旧版 ROM，就会让手机「变砖」，这种情况只能使用 EDL 模式来修复，但这个模式大多数用户都没有使用权限。[^10g875]

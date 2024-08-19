@@ -2,7 +2,7 @@
 title: HarmonyOS
 description:
 published: true
-date: "2024-08-04T22:44:35"
+date: "2024-08-19T16:14:48"
 tags:
 - operating-system
 editor: markdown
@@ -79,3 +79,11 @@ dateCreated: "2021-06-04T05:20:27"
 
 具体校验的 API 为：`https://browsercfg-drcn.cloud.dbankcloud.cn/security/v1/securityurls`，本地暂时没有黑名单，
 所以只要阻断该域名就能正常访问 YouTube 等网站了。[^51020]
+
+2024年8月12日，有人发现华为 ArkWeb 框架的的 API 描述里有 enableSafeBrowsing 这个参数，[^26711]
+其中有提到违规和诈骗网站的检查是默认启用的，不能通过此接口关闭。然而并没有其他开放的 API，
+能关闭违规和诈骗网站的检查功能。[^50054]
+
+[^26711]: 新闻在花频道📮投稿爆料, 《[华为HarmonyOS NEXT对Webview加入了风险网站检查API](https://web.archive.org/web/20240819080417/https://t.me/s/zaihuanews/26711)》, Telegram, 2024-08-12. (参照 2024-08-19).
+
+[^50054]: [@ohos.web.webview (Webview)-ArkTS API-ArkWeb（方舟Web）](https://web.archive.org/web/20240815050054/https://developer.huawei.com/consumer/cn/doc/harmonyos-references-V5/arkweb-api-V5), 华为HarmonyOS开发者／应用框架, 2024-. (参照 2024-08-19).

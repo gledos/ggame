@@ -128,9 +128,10 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 转载:
 +   https://web.archive.org/web/20240817161607/https://finance.sina.com.cn/tech/digi/2024-08-17/doc-incixcsn5029380.shtml
 +   https://web.archive.org/web/20240817161959/https://www.donews.com/news/detail/4/4485373.html
++   https://web.archive.org/web/20240819042045/https://tech.ifeng.com/c/8c7DKDkxzyc
 
 其他:
-+   https://www.oschina.net/news/307530
++   https://web.archive.org/web/20240819042057/https://www.oschina.net/news/307530
 
 -->
 
