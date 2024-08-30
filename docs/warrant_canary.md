@@ -21,6 +21,32 @@ icon: material/pen-lock
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2024年8月31日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年8月31日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Gavin Butler, 《[爆款游戏〈黑神话：悟空〉的成功与争议](https://www.bbc.com/zhongwen/simp/chinese-news-69296885)》, BBC News 中文, 2024-08-25. (参照 2024-08-31).
++   May Tiffany, 《[〈立场新闻〉编辑被判“煽动”罪成，香港新闻自由再受打击](https://cn.nytimes.com/china/20240830/hong-kong-stand-news-verdict/)》, 纽约时报中文网, 2024-08-30. (参照 2024-08-31).
++   《[〈薩爾達傳說 智慧的再現〉漫遊海拉魯的方法ー無之世界篇（台灣）](https://www.youtube.com/watch?v=hq4fZN-ESLw)》, (2024-08-30). 参照: 2024-08-31. [Online Video].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZtH2awAKCRCZXo6bU2oX
+pFOGAQCFe53eQCJISQ/XQcuW43yd4soj+KoEHR7Y0IcDNaCX8wEAg4N5lMPR/VXT
+L1F2YcXAy+XUQWKNtDIKLZu/RLYv0gU=
+=IUaU
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2024年7月27日
 
 ```markdown
@@ -44,8 +70,6 @@ NZJQpCoO+6eGtC09+3AAwxvH1yOT7Ac=
 =GJc0
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年6月25日
 
