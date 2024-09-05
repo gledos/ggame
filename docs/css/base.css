@@ -126,3 +126,29 @@ html>div>img {
     opacity: 0.8;        /* 半透明 */
     filter: blur(0.8px); /* 模糊效果 */
 }
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    类似维基百科的 infobox，用法可参考 game/战地4 条目的简介。
+*/
+
+.infobox table {
+    table-layout: fixed;
+    border: none !important;
+    line-height: 1.2em !important;
+}
+
+.infobox td {
+    border-top: none !important;
+}
+
+.infobox th, .infobox td {
+    font-size: 85%;
+    font-weight: 500 !important;
+    padding-top: 3px !important;
+    min-width: 2rem !important;
+    padding-bottom: 3px !important;
+}
+
+/* -------------------- 分割线 -------------------- */
