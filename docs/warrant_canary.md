@@ -21,6 +21,32 @@ icon: material/pen-lock
 
 之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
 
+### 2024年9月19日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年9月19日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   All Possible Futures, 《[勇敢小騎士](https://store.steampowered.com/app/1627570/_/)》, Steam, 2024-09-17. (参照 2024-09-19).
++   王月眉 Kiuko Notoya, 《[深圳日本人学校男童遭持刀袭击身亡](https://web.archive.org/web/20240919082209/https://cn.nytimes.com/china/20240919/child-stabbed-japan-china/)》, 纽约时报中文网, 2024-09-19. (参照 2024-09-19).
++   《[黎巴嫩真主党对讲机爆炸：大规模无线通讯设备爆炸再现，致20死450伤](https://web.archive.org/web/20240919081044/https://www.bbc.com/zhongwen/simp/world-69355830)》, BBC News 中文, 2024-09-19. 参照: 2024-09-19. [Online].
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZuxHdgAKCRCZXo6bU2oX
+pOIjAQDQwzLgiCIW+uwGPb2axauMcLOD4FfefrqpCEqTUkCkawD/R9bYv6cSSIJK
+juaojoizPWGhnfuzz4wZ/X7uyagqnAs=
+=f9JY
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2024年8月31日
 
 ```markdown
@@ -44,8 +70,6 @@ L1F2YcXAy+XUQWKNtDIKLZu/RLYv0gU=
 =IUaU
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年7月27日
 
