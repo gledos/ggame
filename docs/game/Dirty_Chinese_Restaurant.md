@@ -28,6 +28,13 @@ Dirty Chinese Restaurant 是 Big-O-Tree Games 打算于 2017 年推出的手机�
 
 [^pk]: 《[Press Kit](https://web.archive.org/web/20170312054659/http://bigotreegames.com/press-kit/)》, Big-O-Tree Games Inc., 2017-03-12. (参照 2022-10-17).
 
+工作室简介里有这样的介绍：「利用我们自由的表达范围，我们的目标是制作出半开玩笑、令人震惊的幽默、充满讽刺的游戏，
+其灵感来自于我们生活的疯狂世界。」[^53140]
+
+[^53140]: [About](https://web.archive.org/web/20170312053140/http://bigotreegames.com/about/), Big-O-Tree Games Inc., 2017-03-12. (参照 2024-10-01). 原文是："Utilizing our free range of expression, we aim to make the games that are tongue-in-cheek, shockingly humorous, and full of satire inspired by the mad world we live in."
+
+附言：工作室名称 Big-O-Tree 是个双关同音笑话，读作 bigotry（偏执）。
+
 ## 停止发行
 
 2017年9月25日，陳家齡在推特指控含有种族主义刻板印象，应该停止发布此游戏。[^06848] 随后官员 Peter Koo 和 Toby Ann Stavisky 均谴责了此游戏。多家媒体参与了报导，根据报导的后文来看，是陳家齡向多家媒体投稿了这些内容。[^162873][^n806006]
@@ -54,4 +61,3 @@ Dirty Chinese Restaurant 是 Big-O-Tree Games 打算于 2017 年推出的手机�
 >
 > +   Curtis Stone, 《[「Racist」 and 「offensive」 videogame 「Dirty Chinese Restaurant」 harmful, should be banned: US congresswoman](https://web.archive.org/web/20221013165312/http://en.people.cn/n3/2017/0927/c90000-9274286.html)》, People’s Daily Online, 2017-09-27. (参照 2022-10-17).
 > +   Editorial Staff·, 《[Asian American Congresswoman Calls Out Game Studio for Racist 「Dirty Chinese Restaurant」 Game](https://web.archive.org/web/20210925131555/https://nextshark.com/asian-american-congresswoman-calls-game-studio-racist-dirty-chinese-restaurant-game/)》, NextShark, 2017-09-27. (参照 2022-10-17).
-
