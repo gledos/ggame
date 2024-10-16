@@ -2,7 +2,7 @@
 title: Minecraft
 description: 基于方块的实时动态沙盒游戏
 published: true
-date: "2024-04-03T12:20:52"
+date: "2024-10-16T22:03:48"
 tags:
 - 地图
 - restraint
@@ -150,3 +150,11 @@ utf-block-sign-art 的原理，是将 7 px 的 [寒蝉点阵字体][]，拆解�
 | █     | 全         | 1111   |
 
 -->
+
+### 移除标志的英文部分
+
+2021年11月 左右，网易低调更新了《我的世界》中文 LOGO，从原本顶部 "Minecraft" 加上底部「我的世界」的版本，
+变成了单纯的「我的世界」。[^1t7tj] 这可能与限制游戏中，出现外语有关。
+详情可阅读〈[语言规范主题](/theme/语言规范主题.md)〉条目。
+
+[^1t7tj]: WuGuangYao, 《[Minecraft 我的世界 中文 LOGO 进化史，你都见过哪几个？](https://www.bilibili.com/video/BV1jz4y1t7tj/)》, 哔哩哔哩, 2023-07-21. (参照 2024-10-16).
