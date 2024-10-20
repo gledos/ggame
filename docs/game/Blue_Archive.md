@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2024-03-25T23:43:18"
+date: "2024-10-21T00:33:44"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -12,23 +12,19 @@ dateCreated: "2022-11-14T21:57:06"
 
 > [!summary inline end]+ 元数据
 >
-> ![标志](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_logo.svg){: style="background-color: white" }[^logo]
+> ![标志 https://commons.wikimedia.org/wiki/File:Blue_Archive_logo.svg](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_logo.svg "https://commons.wikimedia.org/wiki/File:Blue_Archive_logo.svg"){: style="background-color: white" }
 >
-> ```yaml
-> 标题:
-> - 日文: ブルーアーカイブ
-> - 英文: Blue Archive
-> - 韩文: 블루 아카이브
-> - 繁体中文: 蔚藍檔案
-> - 简体中文: 蔚蓝档案
-> - 非官方简体中文:
->   - 碧蓝档案
-> 发布时间:
-> - 日本: 2021年2月4日
-> - 全球: 2021年11月9日
-> ```
-
-[^logo]: https://commons.wikimedia.org/wiki/File:Blue_Archive_logo.svg
+> <div markdown=1 class="infobox">
+>
+> | 标题     | 🥷 ブルーアーカイブ<br>🐼 蔚蓝档案<br>‼️ 碧蓝档案<br>🧋 蔚藍檔案<br>🗽 Blue Archive<br>🤏 블루 아카이브 |
+> | -------- | ---------------------------------------------------------------------------------------------------- |
+> | 平台     | :material-apple-ios: iOS<br>:material-android: Android                                               |
+> | 开发     | NEXON                                                                                                |
+> | 发行     | 🥷 Yostar<br>🌐 NEXON<br>🐼 上海悠星                                                                  |
+> | 时间     | 🥷 2021年2月4日<br>🌐 2021年11月9日<br>🐼 2023年8月3日                                                |
+> | 引擎     | :material-unity: Unity                                                                               |
+>
+> </div>
 
 《蔚蓝档案》是 Nexon 旗下 NAT Games 团队于 2021 年发行的校园美少女风格手机游戏。本游戏最早由代理商上海悠星，
 于 2021年2月4日 在日本首发上市，而包含中、英、韩、泰等语言的国际版，则由 Nexon 全球直营，于 2021年11月9日 推出，
@@ -69,7 +65,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 [^Xyy9M]: 소중국, 《[(장문)대한민국의 자유란? - 블루 아카이브 채널](https://archive.ph/Xyy9M "https://arca.live/b/bluearchive/60731948")》, Arcalive, 2022-10-15. (参照 2023-03-01).
 
-2022年11月29日，Blue Archive 在这天推出青少年版本，以及提升原版年龄限制。此时的青少年版本有三个修改：[^1018][^SUJfc]
+2022年11月29日，《蔚蓝档案》在这天推出青少年版本，以及提升原版年龄限制。此时的青少年版本有三个修改：[^1018][^SUJfc]
 
 [^1018]: GM샬레운영사무국, 《[틴 버전 앱 추가 및 기존 앱 연령 등급 상향 관련 사전 안내](https://archive.is/bGXfI "https://forum.nexon.com/bluearchive/board_view?board=1018&thread=1937014")》, 2022-11-25. (参照 2023-03-03).
 
@@ -692,3 +688,180 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 所以部分直播晚间的「国际服直播」资料。[^OkuDP]
 
 [^OkuDP]: 碧蓝档案资讯站, 《[资讯站的消息](http://archive.today/2023.11.09-123152/https://t.bilibili.com/861972856542593076)》, 哔哩哔哩, 2023-11-09. (参照 2023-11-10).
+
+## country 争议
+
+2024年10月18日 09:00 UTC，《蔚蓝档案》的国际服官方在 YouTube 频道举办了
+<ruby>三周年纪念直播<rt>Kivotos! ~Live~ 3rd Anniversary</rt></ruby>。[^62405] 但在直播到 44 分钟左右，
+主持人展示了 Most players by country 的统计图，导致引发了争议。
+
+[^62405]: GM-Arona, [Kivotos! ~Live~ 3rd Anniversary](https://arquivo.pt/wayback/20241020071204/https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2662405), Nexon Community, 2024-10-11. (参照 2024-10-20).
+
+原因是统计图中，分别出现了 Taiwan、Republic of Korea、Hong Kong、United States of America 以及 Indonesia。[^6o3m3][^dztZO]
+随后《蔚蓝档案》新浪微博发布了公告：
+
+> [!quote]+ 简中官号的公告[^MFXmD]
+>
+> 亲爱的老师您好：<br>
+> 我们始终坚定不移地维护中国主权和领土完整的立场。台湾、香港是中华人民共和国领土始终不可分割的一部分。
+>
+> 对于部分老师反馈的《蔚蓝档案》部分地区直播中出现不当内容的问题，当前我们已知悉。并已对Nexon Korea Corp ＆ Nexon Games
+> 发出严正声明与问责，当前对方已针对相关内容进行修改。
+
+[^MFXmD]: 蔚蓝档案, 「[亲爱的老师您好：我们始终坚定不移地维护中国主权和领土完整的立场……](https://weibo.com/6011443154/OC9dMFXmD)」, 新浪微博, 2024-10-18. (参照 2024-10-20).
+
+2024年10月19日，国际服重新上传了直播录像。画面中的词语和配音，从 country 被修改为了 Region。[^_BxOY]
+
+[^6o3m3]: PisangMinyakRebus, [Blue Archive CN apologized after global 3rd anniversary livestream shows player numbers ranked by country](www.reddit.com/r/gachagaming/comments/1g6o3m3/blue_archive_cn_apologized_after_global_3rd/), r/gachagaming, 2024-10-18. (参照 2024-10-20).
+
+[^dztZO]: 陳子貢 (@remember_10118882), 《[蔚藍檔案辱華事件](https://www.threads.net/@remember_10118882/post/DBUbSddztZO)》, Threads, 2024-10-19. (参照 2024-10-20).
+
+[^_BxOY]: [\[Blue Archive\] Kivotos! ~Live~ 3rd Anniversary (with. Galaxy Store) Part #1](https://youtu.be/x9J9UG_BxOY?&t=2680), (2024-10-19). 参照: 2024-10-20. [Online Video].
+
+2024年10月20日，蔚蓝档案官方各地区的帐号，都发布了道歉公告：
+
+> [!quote]- 繁中官号的道歉公告[^57381][^91369]
+>
+> 關於《蔚藍檔案》國際服直播的致歉
+>
+> 尊敬的中國《蔚藍檔案》老師們，您好。
+>
+> 我們是負責《蔚藍檔案》國際服的韓國 Nexon《蔚藍檔案》團隊。作為國際服的負責人，我
+> 們對於本周五（10 月 18 日）在國際服直播中，使用了錯誤的用詞表示深感抱歉。
+>
+> 我們仍尊重'一個中國'的立場， 針對用詞錯誤的部分深表歉意。我們確認標註有誤之後，
+> 立即進行了修正，並於 19 日發布了修正版本的視頻。經確認，出現錯誤的部分由內部人員失
+> 誤導致，我們已經對相關人員進行了處理。
+>
+> 今後我們將繼續努力，加強相關內容的審核，杜絕此類事件再次出現，讓《蔚藍檔案》成為
+> 讓大家更加滿意的遊戲。
+>
+> 再次對給各位老師們帶來不便深表歉意
+>
+> ——來自韓國 Nexon《蔚藍檔案》團隊敬上
+
+[^57381]: 蔚藍檔案, 《[關於《蔚藍檔案》國際服直播的致歉](https://www.facebook.com/TW.BlueArchive/posts/關於蔚藍檔案國際服直播的致歉尊敬的中國蔚藍檔案老師們您好我們是負責蔚藍檔案國際服的韓國nexon蔚藍檔案團隊作為國際服的負責人我們對於本周五10月18日在國際服/579475281257381/)》, facebook, 2024-10-20. (参照 2024-10-20).
+
+[^91369]: Wardyal (超級喜歡黃前久美子), 《[[黑特] 賴清德有考慮把蔚藍檔案這爛遊戲禁掉嗎](https://www.ptt.cc/bbs/HatePolitics/M.1729391369.A.4A6.html)》, Ptt 批踢踢實業坊, 2024-10-20. (参照 2024-10-20).
+
+> [!quote]- 英文官号的道歉公告（@EN_BlueArchive）[^47578]
+>
+> Apology Regarding <Blue Archive>'s the Global Server Live Broadcast
+>
+> We are the South Korean Nexon "Blue Archive" team, responsible for managing the overseas servers of "Blue Archive."
+> We would like to offer our sincere apologies for the incorrect statement made during the global server live broadcast
+> on Friday, October 18th, which did not align with our commitment to respecting the "One China" Policy.
+>
+> Upon identifying the error, we took immediate corrective action and released a revised video on October 19th. We have
+> confirmed that this mistake resulted from an internal oversight, and we have taken appropriate steps to address the
+> issue with the responsible parties. Moving forward, we will enhance our internal review processes to ensure that such
+> incidents do not happen again. Our team remains fully committed to delivering a gaming experience that all of our
+> players can enjoy.
+>
+> Once again, we deeply apologize for any confusion or concern this may have caused. We will continue striving to
+> provide a better service and a more enjoyable experience for all of our players.
+>
+> — Sincerely,<br>
+> The South Korean Nexon "Blue Archive" Team
+>
+> ---
+>
+> 关于《蔚蓝档案》全球服直播的道歉（机器翻译）
+>
+> 我们是韩国 Nexon《蔚蓝档案》团队，负责管理《蔚蓝档案》的海外服务器。我们对 10 月 18 日周五全球服直播中的错误言论，
+> 表示诚挚的歉意，该言论不符合我们尊重「一个中国」政策的承诺。
+>
+> 发现错误后，我们立即采取了纠正措施，并于 10 月 19 日发布了修改后的视频。我们已确认这一错误是内部疏忽造成的，
+> 我们已采取适当措施与责任方解决该问题。展望未来，我们将加强内部审查流程，以确保此类事件不再发生。
+> 我们的团队仍然完全致力于提供所有玩家都能享受的游戏体验。
+>
+> 对于由此可能造成的任何混乱或担忧，我们再次深表歉意。我们将继续努力为所有玩家提供更好的服务和更愉快的体验。
+>
+> — 真挚地，<br>
+> 韩国 Nexon《蔚蓝档案》团队
+
+[^47578]: BlueArchive (@EN_BlueArchive), [Apology Regarding <Blue Archive>’s the Global Server Live Broadcast](https://x.com/EN_BlueArchive/status/1847716213625147578), X (formerly Twitter), 2024-10-20. (参照 2024-10-20).
+
+> [!quote]- 韩文官号的道歉公告（@KR_BlueArchive）[^47578]
+>
+> <블루 아카이브> 3주년 생방송 이슈 관련 사과의 말씀 드립니다.
+>
+> 저희는 "블루 아카이브"의 해외서버를 담당하는 한국 넥슨 "블루아카이브" 팀입니다. 이번 주 금요일(10월 18일) 글로벌 서버
+> 라이브 방송에서 ‘하나의 중국'을 존중하는 입장과 달리 잘못된 표기가 나간 점에 대해 진심으로 사과드립니다.
+>
+> 잘못 표기된 부분을 확인 후 즉시 수정 조치를 취하여 19일 수정본 영상을 공개하였습니다. 해당 오류는 내부 실수로 발생한
+> 것으로 확인되었으며, 담당자에 관련 조치를 취하였습니다.
+>
+> 앞으로 이러한 사건이 다시는 발생하지 않도록 관련 내용에 대한 검토를 강화하고, '블루 아카이브'가 모두가 더욱 만족할 수
+> 있는 게임이 될 수 있도록 열심히 노력하겠습니다.
+>
+> 다시 한번 깊이 사과 드립니다.
+>
+> ——한국 Nexon <블루아카이브>팀 올림
+>
+> ---
+>
+> 对于《蔚蓝档案》三周年直播问题，我们深表歉意。
+>
+> 我们是韩国 Nexon《蔚蓝档案》团队，负责《蔚蓝档案》的海外服务器。对于本周五（10 月 18 日）全球服直播中出现的错误表述，
+> 有悖于我们尊重「一个中国」的立场，我们深表歉意。
+>
+> 在检查了错误标记的部分后，我们立即采取了纠正措施，并于 19 日发布了修改后的视频。经确认，该错误是由于内部错误造成的，
+> 并对相关负责人采取了相关行动。
+>
+> 我们将加强对相关内容的审核，杜绝此类事件再次发生，并努力将《蔚蓝档案》打造成一款让大家更加满意的游戏。
+>
+> 我再次深深地道歉。
+>
+> ——韩国 Nexon《蔚蓝档案》团队上传
+
+[^66697]: 블루 아카이브 (@KR_BlueArchive), [<블루 아카이브> 3주년 생방송 이슈 관련 사과의 말씀 드립니다.](https://x.com/KR_BlueArchive/status/1847716045647466697), X (formerly Twitter), 2024-10-20. (参照 2024-10-20).
+
+有玩家注意到，英文公告里写的是 "One China" Policy。而这这与国务院新闻办公室领导的中国网说法不同。
+中国网曾在 2021 年提到：「我们要坚持用 “One-China principle”，不用 “One-China policy”！这是『原则』问题。」，
+因为二者的含义不同。[^1rlfn]
+
+[^1rlfn]: 中国网, 《[“一个中国原则”：英文为何不要用“Policy”一词？](https://k.sina.cn/article_3164957712_bca56c1001901rlfn.html)》, 新浪网, 2021-11-10. (参照 2024-10-20).
+
+<!--
+    [揭谎频道: 此“一中”非彼“一中”——中国混淆美国一中政策](https://www.voachinese.com/a/how-china-misrepresents-the-us-one-china-policy-on-taiwan-2021-10-13/6269379.html)
+-->
+
+但也有玩家表示，驻英国郑光泽大使[^32686]、联合国秘书长[^21397] 和新华网[^6a3ab]，都有正常提到 One China Policy，
+所以《蔚蓝档案》的道歉公告是合理的。
+
+> [!quote]- 驻英国郑光泽大使在媒体记者会上的发言[^32686]
+>
+> Her visit to Taiwan, in what ever form, under whatever pretext and at whatever time during her tenure, is a serious
+> violation of the one-China policy as committed by the US Government, and a major political provocation of upgrading
+> the official contact between the US and Taiwan. It is absolutely unacceptable.
+>
+> ---
+>
+> 〔机器翻译〕她在任内任何时间以任何形式、任何借口访问台湾，都严重违反美国政府奉行的一个中国政策，
+> 是对美中官方接触升级的重大政治挑衅。美国和台湾。这是绝对不能接受的。
+
+[^32686]: [Ambassador Zheng Zeguang: US betrays its words and creates tension, should bear full responsibility for the consequences](https://web.archive.org/web/20220803204516/http://gb.china-embassy.gov.cn/eng/dshdjjh/202208/t20220803_10732686.htm), Embassy of the People’s Republic of China in the United Kingdom of Great Britain and Northern Ireland, 2022-08-02. (参照 2024-10-20).
+
+> [!quote]- 联合国秘书长安东尼奥·古特雷斯在新闻发布会上的发言[^21397]
+>
+> Our… I think this relates to the recent events. Our position is very clear. We abide by General Assembly
+> resolutions, by the One China policy, and that is the orientation that we have in everything we do.
+>
+> ---
+>
+> 〔机器翻译〕我们的……我认为这与最近发生的事件有关。我们的立场非常明确。我们遵守联大决议，遵守一个中国政策，
+> 这是我们一切工作的方向。
+
+[^21397]: [Press Conference by Secretary-General António Guterres at United Nations Headquarters](https://web.archive.org/web/20240901173909/https://press.un.org/en/2022/sgsm21397.doc.htm), Meetings Coverage and Press Releases, 2022-08-03. (参照 2024-10-20).
+
+> [!quote]- 新华网内容[^6a3ab]
+>
+> China on Wednesday urged the United States to abide by its one-China policy, which has been reaffirmed by U.S.
+> President Joe Biden many times.
+>
+> ---
+>
+> 〔机器翻译〕中国周三敦促美国遵守美国总统拜登多次重申的一个中国政策。
+
+[^6a3ab]: [U.S. urged to honor its commitment on one-China policy](https://web.archive.org/web/20240325153817/https://english.news.cn/20240117/d8392eda50c64b319ebeeb98f856a3ab/c.html), Xinhua, 2024-01-17. (参照 2024-10-20).
