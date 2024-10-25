@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-09-19T10:52:30"
+date: "2024-10-25T19:55:47"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -13,13 +13,47 @@ icon: material/pen-lock
 
 ## 令状金丝雀
 
-<ruby>令状金丝雀<rp>(</rp><rt>[Warrant Canary](https://en.wikipedia.org/wiki/Warrant_canary)</rt><rp>)</rp></ruby>技术，或者说技巧是用来规避《[爱国者法案（美国）](https://en.wikipedia.org/wiki/Patriot_Act)》禁止服务提供商声明自己收到了必须披露用户数据的行为。
+<ruby>令状金丝雀<rt>[Warrant Canary][]</rt></ruby>技术，或者说技巧是用来规避《[爱国者法案（美国）][]》的，
+禁止服务提供商声明自己收到了必须披露用户数据的行为。
+
+[Warrant Canary]: https://en.wikipedia.org/wiki/Warrant_canary
+[爱国者法案（美国）]: https://en.wikipedia.org/wiki/Patriot_Act
 
 具体原理是公开一个声明，当收到法院的必须披露用户数据的行为时，就撤掉这个声明或者停止更新这个声明。
 
-而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，这样还能防止网站被接管却不能声张的情况。
+而现在，可以使用一个独立的 PGP 来签名，来增加令状金丝雀的适用范围。因为 PGP 通常不会被要求提供给法院，
+这样还能防止网站被接管却不能声张的情况。
 
-之所以称之为「令状金丝雀」，这源自于 20世纪 的 [采矿业](https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases)，当时有个发现有毒气体泄露的办法，就是将金丝雀以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。
+之所以称之为「令状金丝雀」，是因为 20 世纪的采矿业。当时有个发现有毒气体泄露的办法，就是将金丝雀，
+以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。[^tg]
+
+[^tg]: <https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases>
+
+### 2024年10月25日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年10月25日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   马语琴, 《[信息“禁令”、限制直播：中国对租借大熊猫有哪些条件](https://cn.nytimes.com/china/20241019/panda-rental-contracts/)》, 纽约时报中文网, 2024-10-21. (参照 2024-10-25).
++   吕嘉鸿, 《[华为“纯血”鸿蒙面世 脱钩安卓对标苹果如何谋求三分天下](https://www.bbc.com/zhongwen/simp/business-69438203)》, BBC News 中文, 2024-10-24. 参照: 2024-10-25. [Online].
++   Andrew Rogers、Manish Pandey, [Call of Duty: Black Ops 6 launches with eyes on Game Pass plan](https://www.bbc.com/news/articles/cp87e58ld3do), BBC, 2024-10-25. (参照 2024-10-25).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZxuHKwAKCRCZXo6bU2oX
+pDLIAP0YBw8uKS9W0p6FgjwTtSHx4cdAjpuxuLjn0CNrIOHB8AEAyZ9LBbCHB6mK
+YP2J9s9G9Gg95OhRFXWj3i2+xhy1IAI=
+=8KkM
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年9月19日
 
@@ -44,8 +78,6 @@ juaojoizPWGhnfuzz4wZ/X7uyagqnAs=
 =f9JY
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年8月31日
 

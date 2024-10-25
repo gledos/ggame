@@ -6,6 +6,7 @@ date: "2020-10-07T04:03:33"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2020-10-07T04:03:33"
+icon: simple/godaddy
 ---
 
 ## 2010年5月 GoDaddy 主机遭封锁

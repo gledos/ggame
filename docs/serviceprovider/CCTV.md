@@ -6,6 +6,7 @@ date: "2021-06-17T11:15:59"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-17T11:15:59"
+icon: material/cctv
 ---
 
 ## 2021 端午晚会
