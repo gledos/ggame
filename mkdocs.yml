@@ -339,9 +339,9 @@ plugins:
       "game/《如何防小玩家钻空子》.md": "theme/禁止未经审批的游戏主题.md#禁止境外游戏报导"
 
       # SIM 卡相关
-      "anti-censorship/MVNO.md": "docs/serviceprovider/sim_卡.m#mvno"
-      "serviceprovider/giffgaff.md": "docs/serviceprovider/sim_卡.md#giffgaff"
-      "serviceprovider/HK_SIM.md": "docs/serviceprovider/sim_卡.md#香港"
+      "anti-censorship/MVNO.md": "serviceprovider/sim_卡.md#mvno"
+      "serviceprovider/giffgaff.md": "serviceprovider/sim_卡.md#giffgaff"
+      "serviceprovider/HK_SIM.md": "serviceprovider/sim_卡.md#香港"
 
       # 拼写相关〔似乎并不需要，因为会自动跳转，那么就不需要添加了〕
       # "game/Doki_Doki_Literature_Club.md": "game/doki_doki_literature_club.md"

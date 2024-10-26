@@ -712,7 +712,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 2024年10月19日，国际服重新上传了直播录像。画面中的词语和配音，从 country 被修改为了 Region。[^_BxOY]
 
-[^6o3m3]: PisangMinyakRebus, [Blue Archive CN apologized after global 3rd anniversary livestream shows player numbers ranked by country](www.reddit.com/r/gachagaming/comments/1g6o3m3/blue_archive_cn_apologized_after_global_3rd/), r/gachagaming, 2024-10-18. (参照 2024-10-20).
+[^6o3m3]: PisangMinyakRebus, [Blue Archive CN apologized after global 3rd anniversary livestream shows player numbers ranked by country](https://www.reddit.com/r/gachagaming/comments/1g6o3m3/blue_archive_cn_apologized_after_global_3rd/), r/gachagaming, 2024-10-18. (参照 2024-10-20).
 
 [^dztZO]: 陳子貢 (@remember_10118882), 《[蔚藍檔案辱華事件](https://www.threads.net/@remember_10118882/post/DBUbSddztZO)》, Threads, 2024-10-19. (参照 2024-10-20).
 
@@ -782,7 +782,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 [^47578]: BlueArchive (@EN_BlueArchive), [Apology Regarding <Blue Archive>’s the Global Server Live Broadcast](https://x.com/EN_BlueArchive/status/1847716213625147578), X (formerly Twitter), 2024-10-20. (参照 2024-10-20).
 
-> [!quote]- 韩文官号的道歉公告（@KR_BlueArchive）[^47578]
+> [!quote]- 韩文官号的道歉公告（@KR_BlueArchive）[^66697]
 >
 > <블루 아카이브> 3주년 생방송 이슈 관련 사과의 말씀 드립니다.
 >
