@@ -17,7 +17,7 @@ article [href*="/"]::after {
     -ms-interpolation-mode: nearest-neighbor;
 }
 
-article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/gledos/ggame"]):not([href$=".webp"]):not([href$=".png"]):not([href$=".jpg"]):not([href$=".jpeg"]):not([href$=".svg"]):not([href$=".webm"]):not([href$=".mp4"]):not([href$=".flv"]):not([href$=".docs"]):not([href$=".doc"]):not([href$=".odt"]):not([href$=".pdf"])::after {
+article [href^="http"]:not([href^="https://ggame.gledos.science"]):not([href^="http://ggame.gledos.science"]):not([href^="http://127.0.0.1"]):not([href^="https://raw.githubusercontent.com/gledos/ggame"]):not([href$=".webp"]):not([href$=".png"]):not([href$=".jpg"]):not([href$=".jpeg"]):not([href$=".svg"]):not([href$=".avif"]):not([href$=".webm"]):not([href$=".mp4"]):not([href$=".flv"]):not([href$=".docs"]):not([href$=".doc"]):not([href$=".odt"]):not([href$=".pdf"])::after {
     content: '(external link)';
     background-image: url("../src/external-links/out_link.png");
     width: 1em;
