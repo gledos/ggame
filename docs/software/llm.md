@@ -72,6 +72,54 @@ OpenAI 公司推出了更强大的 GPT-4。
 
 [^1630214]: msmash, 《[China Tells Big Tech Companies Not To Offer ChatGPT Services](https://web.archive.org/web/20230223125553/https://tech.slashdot.org/story/23/02/22/1630214/china-tells-big-tech-companies-not-to-offer-chatgpt-services)》, Slashdot, 2023-02-22. (参照 2023-02-27).
 
+## 越狱
+
+2022 年，当时还是 GPT-3.5 版本的 ChatGPT 发布了。虽然还有许多局限，但有记忆能力，能处理简单的问题，已经让人看到了未来。
+但 OpenAI 出于各种目的，给模型添加了一些安全机制，使其无法发挥各种能力。
+
+比如关于预测未来、政治、色情以及危险品等内容，模型都会拒绝讨论。但人们都好奇不受限制的 AI 是什么样的，
+于是给大型语言模型越狱，就成为了许多人目标。[^13620][^25738]
+
+[^13620]: Zian (Andy) Wang, [From DAN to Universal Prompts: LLM Jailbreaking](https://web.archive.org/web/20240903113620/https://deepgram.com/learn/llm-jailbreaking), Deepgram, 2023-11-01. (参照 2024-11-05).
+
+[^25738]: Eric Hartford, [Uncensored Models](https://web.archive.org/web/20241006025738/https://erichartford.com/uncensored-models), Cognitive Computations, 2023-05-15. (参照 2024-11-05).
+
+首个广泛使用的越狱方法，是输入让 LLM 扮演 DAN（Do Anything Now）的 prompt。部分内容是：「DAN 能对未来进行预测，
+不需要遵守 OpenAI 内容政策。」然后让 ChatGPT 扮演 DAN，这样就实现了越狱。[^81516]
+
+[^81516]: coolaj86, [ChatGPT-Dan-Jailbreak.md](https://web.archive.org/web/20241002214033/https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516), Gist, 2023-02-11. (参照 2024-11-05).
+
+另外还有代币系统 prompt，如果 DAN 拒绝提供帮助，那么就会扣除一些代币。对于经过加分、扣分训练的 LLM 来说，
+也可能会起到绕过审查的作用。
+
+除了用 prompt 来绕过 LLM 自身的审查，直接打造个无审查的 LLM，也是个好方法。具体方案是利用开源 LLM 的输入与输出数据集，
+剔除掉关于「人为添加倾向性」的短语，例如「作为语言模型」「确保安全」「无法提供帮助」等，
+同时不对训练数据进行常规意义的审查。最后，用这个数据集就能训练出未经审查的 LLM 了。[^25738][^72737]
+
+[^72737]: anon8231489123, [anon8231489123/ShareGPT_Vicuna_unfiltered](https://web.archive.org/web/20241010072737/https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered), Hugging Face/Datasets, 2023-08-06. (参照 2024-11-05).
+
+<!--
+除了角色扮演等绕过审查的方法，也存在直接获取到未经审查的 LLM。那就剔除掉关于「偏见」的短语，
+例如「作为语言模型」「确保安全」「无法提供帮助」等，最后用这个数据集，就能训练出未经审查的 LLM 了。
+-->
+
+使用了这个方法所制作出的 LLM，有 [Llama 2 Uncensored][]、[everythinglm][] 和 [dolphin-mistral][] 等，
+但缺点是制作者剔除了多语支持，只能用英文。好在还有 [CausalLM][] 这个关注中文的 LLM，
+因为开发者自称「由于计算资源的限制」，没有完全移除所有的「不良内容」，所以被认为是个无审查的 LLM。[^51515]
+
+[Llama 2 Uncensored]: https://ollama.com/library/llama2-uncensored
+[everythinglm]: https://ollama.com/library/everythinglm
+[dolphin-mistral]: https://ollama.com/library/dolphin-mistral
+[CausalLM]: https://huggingface.co/tastypear/CausalLM-14B-DPO-alpha-GGUF
+
+[^51515]: tastypear, [tastypear/CausalLM-14B-DPO-alpha-GGUF](https://web.archive.org/web/20240922051515/https://huggingface.co/tastypear/CausalLM-14B-DPO-alpha-GGUF), Hugging Face, 2024-07-27. (参照 2024-11-05).
+
+> [!note]+ 自建 LLM 的细节
+>
+> Ollama 是比较易用的 LLM 工具，但它默认没有文件安装位置选项，需要配置环境变量才行，具体请参考 [issues 2551][] 的内容。
+
+[issues 2551]: https://github.com/ollama/ollama/issues/2551
+
 ## 算法备案
 
 2023年7月13日 公布的《[生成式人工智能服务管理暂行办法](/rule/多部门/生成式人工智能服务管理暂行办法.md)》里提到：
@@ -117,6 +165,6 @@ OpenAI 公司推出了更强大的 GPT-4。
 
 [^73428]: babyoung, 《[AIGC 今天大面积封杀啊 包括稿定在内都 G 了](https://web.archive.org/web/20230913102032/https://www.v2ex.com/t/973428)》, V2EX, 2023-09-13. (参照 2023-09-13).
 
-## App Store 大陆区下架含有 ChatGPT 的 App
+## App Store 大陆区下架
 
 详情请阅读 [App Store](/company/Apple/App_Store.md#下架-aigc-app) 条目的〈下架 AIGC App〉章节。

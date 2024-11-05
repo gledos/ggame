@@ -2,7 +2,7 @@
 title: WAPI
 description:
 published: true
-date: "2024-03-05T17:06:04"
+date: "2024-11-06T00:28:26"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-10T08:58:51"
@@ -877,3 +877,46 @@ Windows Mobile 此时才支持在 Wi-Fi 下使用手机 QQ。[^qwifi] 不过 QQ 
 [^77867]: 赵卓, 《[不安WIFI防护设备不能上网 2万安装费店家难接受](https://web.archive.org/web/20240304045022/http://www.chinasoushang.com/news/77867.html)》, 搜商网, 2018-08-21. (参照 2024-03-04).
 
 [captive portal]: https://en.wikipedia.org/wiki/Captive_portal
+
+### 禁止 CallKit
+
+CallKit 是 iOS 的通话相关应用程序的原生框架，以及 VoIP 推送机制。能够让第三方软件使用系统的电话框架，
+让 VoIP 像原生通话一样操作顺畅。[^callk]
+
+[^callk]: [CallKit](https://developer.apple.com/documentation/callkit), Apple Developer Documentation. (参照 2024-11-06).
+
+但在 2018年5月，Apple 要求在 App Store 大陆区应用商店的 App 发布者，停止使用 CallKit 功能。
+因为工信部对 Apple 有相关要求：
+
+> [!email]+ Email from Apple[^54144]
+>
+> Dear Developer,
+>
+> The Chinese Ministry of Industry and Information Technology (MIIT)
+> `http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057709/n3057713/index.html`[^url]
+> requested that CallKit functionality be deactivated in all apps available on the China App Store.
+>
+> Since your app currently includes CallKit and is available for sale on the China App Store, you will need to submit
+> an update that removes CallKit functionality in China.
+>
+> VOIP call functionality continues to be allowed but can no longer take advantage of CallKit ’ s intuitive look and
+> feel. CallKit can continue to be used in apps outside of China.
+>
+> If you have questions or do not believe your app is subject to this update, please contact MIIT.
+>
+> Best regards,
+>
+> App Store Review
+
+[^54144]: wohenyingyu03, 《[苹果国区 App Store 下架所有使用 Callkit 的语音通话类应用，你们中枪了么](https://web.archive.org/web/20240927214438/https://www.v2ex.com/t/454144)》, V2EX, 2018-05-11. (参照 2024-11-06).
+
+[^url]: 然而这个链接并没有什么内容：[link](https://web.archive.org/web/20180615143837/http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057709/n3057713/index.html)
+
+之后微信的外区版本 WeChat 倒是还能继续正常使用 CallKit，所以一些用户转而使用 WeChat。[^82849] 不过在 2023年3月20日，
+WeChat 8.0.34 版本移除了 CallKit（至少不能稳定使用），一些用户只能坚持使用 8.0.33 版本。[^readt][^56122]
+
+[^82849]: lqcc, 《[为什么苹果的微信 callkit 不可用，安卓端就可以像普通电话那样提示微信电话？](https://web.archive.org/web/20240927214413/https://v2ex.com/t/982849)》, V2EX, 2023-10-17. (参照 2024-11-06).
+
+[^readt]: 《[微信 8.0.34 for iOS 全新发布](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_faq_list&head=true)》, 微信, 2023-03-20. (参照 2024-11-06).
+
+[^56122]: 04wyt, 《[微信 8.0.50 能用 callkit 了吗，一直没有更新还停留在 8.0.33，更新还得备份聊天记录，还容易弄丢记录](https://web.archive.org/web/20240816105719/https://www.v2ex.com/t/1056122)》, V2EX, 2024-07-10. (参照 2024-11-06).
