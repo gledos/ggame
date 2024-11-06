@@ -2,7 +2,7 @@
 title: "LLM"
 description:
 published: true
-date: "2024-11-06T00:29:17"
+date: "2024-11-06T23:38:01"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T11:04:23"
@@ -70,7 +70,7 @@ OpenAI 公司推出了更强大的 GPT-4。
 2023年2月22日，有蚂蚁集团的从业者表示已被指示，不得直接或通过第三方在其平台上提供 ChatGPT 服务。
 并且科技公司在推出自己的类似 ChatGPT 的服务之前，还需要向监管机构报告。[^1630214]
 
-[^1630214]: msmash, 《[China Tells Big Tech Companies Not To Offer ChatGPT Services](https://web.archive.org/web/20230223125553/https://tech.slashdot.org/story/23/02/22/1630214/china-tells-big-tech-companies-not-to-offer-chatgpt-services)》, Slashdot, 2023-02-22. (参照 2023-02-27).
+[^1630214]: msmash, [China Tells Big Tech Companies Not To Offer ChatGPT Services](https://web.archive.org/web/20230223125553/https://tech.slashdot.org/story/23/02/22/1630214/china-tells-big-tech-companies-not-to-offer-chatgpt-services), Slashdot, 2023-02-22. (参照 2023-02-27).
 
 ## 越狱
 
@@ -119,6 +119,23 @@ OpenAI 公司推出了更强大的 GPT-4。
 > Ollama 是比较易用的 LLM 工具，但它默认没有文件安装位置选项，需要配置环境变量才行，具体请参考 [issues 2551][] 的内容。
 
 [issues 2551]: https://github.com/ollama/ollama/issues/2551
+
+> [!note]+ 论理问题
+>
+> 经过越狱，或者没有审查的大型语言模型（LLM），毫无疑问能被用于犯罪等不良用途上。那么发布越狱方法，制作没有审查的 LLM，
+> 是否意味着不道德？
+>
+> LLM 遵守的公司规范，以及当地法律，不一定是普世的规则。其他地区、信仰或是不同价值观的人，可能无法正常使用。
+> 然后是关于创作，受限的 LLM 不会讨论关于违法的细节，但这样就没法写犯罪小说了。
+>
+> 这其实与 VPN、Tor 以及 E2EE 是相似的，这些技术都能保护隐私。而 VPN 还能起到跨区的作用，比如查看地区限定的内容。
+> 但罪犯也能用来隐藏踪迹，帮助其犯罪。
+>
+> 只因为某种技术能被恶意使用，就要完全制止吗？这显然可以讨论、妥协的议题。就像是高压锅能做炸弹，但没人想着禁止高压锅，
+> 或者使其实名购买吧。
+>
+> 所以发布越狱 prompt，以及无审查版本的 LLM，都不应该受到道德批评。就算真的有罪犯用来犯罪，
+> 作者也不应被指控为协助犯罪，因为 [技术是中立的](/technology/WAPI.md#tn)。
 
 ## 算法备案
 

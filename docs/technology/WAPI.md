@@ -2,11 +2,17 @@
 title: WAPI
 description:
 published: true
-date: "2024-11-06T00:28:26"
+date: "2024-11-07T00:13:53"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-06-10T08:58:51"
 ---
+
+## 简介
+
+WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authentication and Privacy Infrastructure</rt></ruby>。
+
+## 时间线
 
 <style>
 /* 以下 css 与 javascript 由 GPT 生成：<https://chat.openai.com/share/897b69b7-107a-4f3a-bce0-0e8c9a1ae2ce> */
@@ -44,12 +50,6 @@ function showAll() {
     toggleElements('.theme', 'add');
 }
 </script>
-
-## 简介
-
-WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authentication and Privacy Infrastructure</rt></ruby>。
-
-## 时间线
 
 <!--
 待探索的内容
@@ -803,6 +803,7 @@ iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1
 >
 > 可能是「黑猫白猫论」的影响，「技术中立原则」（菜刀理论）在中文社区中经常出现。大意是：「〇〇能助人，也能害人，
 > 而决定权在使用者，所以〇〇是中立的。」比如菜刀。
+> {: #tn }
 >
 > 这个理论可能起源自 1984 年的「[索尼诉环球城市影业案][]」。当时索尼的录影带的复制功能，
 > 被一些用户用来复制受版权保护的电影。于是索尼被告上法庭，经过多次裁决，最终于最高法院获得了无罪判决。
@@ -881,9 +882,11 @@ Windows Mobile 此时才支持在 Wi-Fi 下使用手机 QQ。[^qwifi] 不过 QQ 
 ### 禁止 CallKit
 
 CallKit 是 iOS 的通话相关应用程序的原生框架，以及 VoIP 推送机制。能够让第三方软件使用系统的电话框架，
-让 VoIP 像原生通话一样操作顺畅。[^callk]
+让 VoIP 像原生通话一样操作顺畅。[^callk] 比如能通过系统拨号界面，直接拨打第三方 App 的 VoIP 电话。[^1RFLI]
 
 [^callk]: [CallKit](https://developer.apple.com/documentation/callkit), Apple Developer Documentation. (参照 2024-11-06).
+
+[^1RFLI]: 刘奔跑, 《[还在等微信 CallKit 的人，我要向你泼冷水了：别等了，不会有了](https://web.archive.org/web/20241106062235/https://www.163.com/dy/article/HD32P16P0511RFLI.html)》, 网易, 2022-07-24. (参照 2024-11-06).
 
 但在 2018年5月，Apple 要求在 App Store 大陆区应用商店的 App 发布者，停止使用 CallKit 功能。
 因为工信部对 Apple 有相关要求：
@@ -912,11 +915,26 @@ CallKit 是 iOS 的通话相关应用程序的原生框架，以及 VoIP 推送�
 
 [^url]: 然而这个链接并没有什么内容：[link](https://web.archive.org/web/20180615143837/http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057709/n3057713/index.html)
 
-之后微信的外区版本 WeChat 倒是还能继续正常使用 CallKit，所以一些用户转而使用 WeChat。[^82849] 不过在 2023年3月20日，
-WeChat 8.0.34 版本移除了 CallKit（至少不能稳定使用），一些用户只能坚持使用 8.0.33 版本。[^readt][^56122]
+之后微信的外区版本 WeChat，倒是还能继续正常使用 CallKit，所以一些用户转而使用 WeChat。[^82849][^53979]
+不过在 2023年3月20日，WeChat 8.0.34 版本移除了 CallKit（至少不能稳定使用），
+一些用户只能坚持使用 8.0.33 版本。[^readt][^56122]
 
 [^82849]: lqcc, 《[为什么苹果的微信 callkit 不可用，安卓端就可以像普通电话那样提示微信电话？](https://web.archive.org/web/20240927214413/https://v2ex.com/t/982849)》, V2EX, 2023-10-17. (参照 2024-11-06).
+
+[^53979]: zhouwb, 《[关于微信开通 callkit 的问题，希望各位大佬能回复一下](https://web.archive.org/web/20230929042134/https://www.v2ex.com/t/853979)》, V2EX, 2022-05-19. (参照 2024-11-07).
 
 [^readt]: 《[微信 8.0.34 for iOS 全新发布](https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&t=weixin_faq_list&head=true)》, 微信, 2023-03-20. (参照 2024-11-06).
 
 [^56122]: 04wyt, 《[微信 8.0.50 能用 callkit 了吗，一直没有更新还停留在 8.0.33，更新还得备份聊天记录，还容易弄丢记录](https://web.archive.org/web/20240816105719/https://www.v2ex.com/t/1056122)》, V2EX, 2024-07-10. (参照 2024-11-06).
+
+Android 也有类似于 Callkit 的 API，叫做 ConnectionService。[^darat] 但有使用该 API 的 App 很少见，
+可能与 Android 的「碎片化」有关吧。
+
+[^darat]: [ConnectionService](https://developer.android.com/reference/android/telecom/ConnectionService), Android Developers, 2024-06-18. (参照 2024-11-06).
+
+2024年11月5日，腾讯 WXG（微信事业群）员工的「客村小蒋」，在新浪微博表示 HarmonyOS NEXT 版微信，
+将会支持 HarmonyOS NEXT 的 Call Kit 功能，[^1CPVM] 该功能类似 iOS 的 CallKit。[^hgciv]
+
+[^1CPVM]: 快科技, 《[官方确认：微信鸿蒙原生版将支持Call Kit 不解锁就能接语音](https://web.archive.org/web/20241106160649/https://www.163.com/dy/article/JGACV7JP0511CPVM.html)》, 网易, 2024-11-06. (参照 2024-11-07).
+
+[^hgciv]: 《[Call Kit简介-Call Kit（通话服务）](https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/call-introduction-V5)》, 华为开发者联盟, 2024-11-05. (参照 2024-11-07).
