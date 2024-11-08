@@ -2,7 +2,7 @@
 title: "Clash for Windows"
 description:
 published: true
-date: "2024-03-02T16:24:06"
+date: "2024-11-09T00:23:32"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-11-03T08:19:45"
@@ -92,6 +92,18 @@ Fndroid 随后在 Telegram 频道和 X（Twitter），发布了说明：「停�
 最后表达了暂停开发的声明，并保留了恢复开发的可能性。[^opboh]
 
 [^opboh]: EAimTY, 《[基于荷尔蒙开发的开源项目](https://web.archive.org/web/20231103102043/https://www.eaimty.com/2023/opensource-project-based-on-hormone/)》, EAimTY’s Blog, 2023-11-03. (参照 2023-11-04).
+
+2023年12月2日，Telegram 上有人观察到 metacubex/Clash.Meta 复活了，[^hd]但修改了仓库名为 mihomo。[^97259][^85500]
+而在文档里出现了这样的内容：「虚空终端是一个基于开源项目原神的二次开发版本」，有人认为是 meta → 元 → 原，
+所以玩了原神的梗。[^22905]
+
+[^hd]: 消息来源要求禁止转发。
+
+[^97259]: icaolei, 《[开源的 Clash meta 内核复活了](https://www.v2ex.com/t/997259)》, V2EX, 2023-12-03. (参照 2024-11-08). 附言：存在登录墙。
+
+[^85500]: 《[简介](https://web.archive.org/web/20241106085500/https://wiki.metacubex.one/)》, 虚空终端 Docs, 2024-02-08. (参照 2024-11-08).
+
+[^22905]: 搞七捻三, 《[clash.meta内核_有趣的发现](https://linux.do/t/topic/122905)》, LINUX DO, 2024-06-28. (参照 2024-11-08).
 
 ## 流言
 
