@@ -165,7 +165,7 @@ OpenAI 公司推出了更强大的 GPT-4。
 
 4.  提供警用接口。[^47418][^A95A7]
 
-    [^A95A7]: 312（公安部）, 《[互联网服务警用接口总体技术要求](https://web.archive.org/web/20240607062515/https://std.samr.gov.cn/gb/search/gbDetailed?id=5DDA8B9DCA2C18DEE05397BE0A0A95A7)》, 国家标准项目 - 全国标准信息公共服务平台, 2017-08-01. (参照 2024-06-07).
+    [^A95A7]: 312（公安部）, 《[互联网服务警用接口总体技术要求](https://web.archive.org/web/20240607062515/https://std.samr.gov.cn/gb/search/gbDetailed?id=5DDA8B9DCA2C18DEE05397BE0A0A95A7)》, 国家标准项目 - 全国标准信息公共服务平台, 2017-08-01. (参照 2024-06-07). 附言：该标准已过期。
 
 5.  网络信息办公室需要测试该模型。[^47418]
 
