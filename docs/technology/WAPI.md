@@ -933,7 +933,7 @@ Android 也有类似于 Callkit 的 API，叫做 ConnectionService。[^darat] �
 [^darat]: [ConnectionService](https://developer.android.com/reference/android/telecom/ConnectionService), Android Developers, 2024-06-18. (参照 2024-11-06).
 
 2024年11月5日，腾讯 WXG（微信事业群）员工的「客村小蒋」，在新浪微博表示 HarmonyOS NEXT 版微信，
-将会支持 HarmonyOS NEXT 的 Call Kit 功能，[^1CPVM] 该功能类似 iOS 的 CallKit。[^hgciv]
+将会支持 HarmonyOS NEXT 的 Call Kit 功能，[^1CPVM]（HarmonyOS NEXT 的 Call Kit 功能，类似于 iOS 的 CallKit）[^hgciv]
 
 [^1CPVM]: 快科技, 《[官方确认：微信鸿蒙原生版将支持Call Kit 不解锁就能接语音](https://web.archive.org/web/20241106160649/https://www.163.com/dy/article/JGACV7JP0511CPVM.html)》, 网易, 2024-11-06. (参照 2024-11-07).
 
