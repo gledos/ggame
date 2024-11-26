@@ -2,7 +2,7 @@
 title: LonaRPG
 description:
 published: true
-date: "2023-01-30T01:22:00"
+date: "2024-11-26T21:28:09"
 tags:
 - diy
 - steam
@@ -15,33 +15,49 @@ dateCreated: "2022-01-14T13:47:44"
 
 > [!summary inline end]+ 元数据
 >
-> ![标志](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_logo1.jpg "https://www.steamgriddb.com/grid/231323")
+> ![标志 https://www.steamgriddb.com/grid/231323](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_logo1.jpg "https://www.steamgriddb.com/grid/231323")
 >
-> ```yaml
-> 标题: LonaRPG
-> itch链接: https://eccma417.itch.io/lonarpg
-> Steam_ID: 1507030
-> DLsite_ID: RJ317211
-> 引擎: Rpg Maker VX Ace
-> ```
+> <div markdown=1 class="infobox">
+>
+> | 标题      | 🗽 LonaRPG<br>‼️ 洛娜的世界<br>                |
+> | --------- | ---------------------------------------------- |
+> | 平台      | :material-microsoft-windows: Microsoft Windows |
+> | 开发      | 417-中華民國光束炮（eccma417）                 |
+> | 发行时间  | 2020 年                                        |
+> | 引擎      | Rpg Maker VX Ace                               |
+> | itch 链接 | <https://eccma417.itch.io/lonarpg>             |
+> | Steam ID  | 1507030                                        |
+> | DLsite ID | RJ317211                                       |
+>
+> </div>
 
-LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分硬核，有人称其为 2D 版的《上古卷轴》，非官方译名叫做「洛娜的世界」。
+LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分硬核，有人称其为 2D 版的《上古卷轴》，
+非官方译名叫做「洛娜的世界」。
+
+> [!tip] 提示
+>
+> 这里不是攻略 Wiki，LonaRPG 似乎没有中文攻略 Wiki，只有但有其他语言的攻略 Wiki 站：
+>
+> +   英文：[LonaRPG Wiki](https://lonarpg.miraheze.org/wiki/LonaRPG_Wiki)
+> +   韩文：[LonaRPG - 나무위키](https://namu.wiki/w/LonaRPG)
+> +   俄文：[LonaRPG Вики](https://lona.fandom.com/ru/wiki/LonaRPG_Вики)
 
 ## 被平台下架
 
-2020年12月22日，此游戏准备上架至 Steam，[^1507030] 不过没有通过审核，原因可能是儿童色情，[^49993] 目前作者没有上架 Steam 的计划了。[^1815567]
+2020年12月22日，此游戏准备上架至 Steam，[^07030] 不过没有通过审核，原因可能是儿童色情，[^49993]
+目前作者没有上架 Steam 的计划了。[^15567]
 
-[^1507030]: [SteamDB Unknown App 1507030 · AppID: 1507030 · SteamDB](https://steamdb.info/app/1507030/info/)
+[^07030]: [SteamDB Unknown App 1507030 · AppID: 1507030](https://steamdb.info/app/1507030/info/), SteamDB.
 
-[^49993]: [[RPGM] - LonaRPG [v0.6.4.0 Beta] [EccmA417] - F95zone](https://web.archive.org/web/20220114155804/https://f95zone.to/threads/lonarpg-v0-6-4-0-beta-eccma417.49993/page-407)
+[^49993]: [[RPGM] - LonaRPG [v0.6.4.0 Beta] [EccmA417]](https://web.archive.org/web/20220114155804/https://f95zone.to/threads/lonarpg-v0-6-4-0-beta-eccma417.49993/page-407), F95zone.
 
-[^1815567]: [Steam release - LonaRPG community - itch.io](https://itch.io/t/1815567/steam-release)
+[^15567]: [Steam release](https://itch.io/t/1815567/steam-release), itch.io/LonaRPG community. 附言：[Internet Archive](https://web.archive.org/web/20240204075442/https://itch.io/t/1815567/steam-release) 保存的页面无法点击「已满 18 岁」的按钮，需要用工具移除 `##.base_widget.content_warning_widget`，才能看到内容。
 
-2021年6月1日，开发者在 pixiv FANBOX 公布了 Dliste 下架 LonaRPG 的情况，并附上了电子邮件：[^2313294]
+2021年6月1日，开发者在 pixiv FANBOX 公布了 Dliste 下架 LonaRPG 的情况，并附上了电子邮件：[^sEIKc]
 
-[^2313294]: [things u should know - 417-中華民國光束炮 - pixivFANBOX](https://archive.is/sEIKc "https://eccma417.fanbox.cc/posts/2313294")
+[^sEIKc]: 417-中華民國光束炮, [things u should know](https://archive.is/sEIKc "https://eccma417.fanbox.cc/posts/2313294"), pixivFANBOX.
 
-> [!quote]+ DLsite中文支援
+> [!email]+ DLsite中文支援[^sEIKc]
 >
 > ```email
 > 您好
@@ -93,3 +109,10 @@ LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分�
 === "CHT"
 
     ![CHT](https://s3.tebi.io/ggame/ShareX/game_LonaRPG_WarningCHT.png)
+
+不过哔哩哔哩等地依然能搜索到此游戏的游玩视频，[^31629] 不像其他其他出现政治不正确元素的游戏，[^pol]
+比如<ruby>[還願](/game/Devotion.md)<rt>Devotion</rt></ruby>那样，完全被抹去了痕迹。
+
+[^31629]: 「[搜索 LonaRPG](https://web.archive.org/web/20241126131629/https://search.bilibili.com/all?keyword=LonaRPG)」, 哔哩哔哩, 2024-11-26. (参照 2024-11-26).
+
+[^pol]: 这里的「政治不正确」，指的是大陆语境下的「政治不正确」，而不是美国的。

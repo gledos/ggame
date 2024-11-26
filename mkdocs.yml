@@ -59,6 +59,7 @@ markdown_extensions:
 - admonition                # 突出显示一些东西，比如 !!!info|bug|tips之类
 - footnotes                 # 支持脚注[^1]
 - def_list                  # 支持有序、无序、任务列表
+- sane_lists                # 允许从任意数字开始的有序列表    https://python-markdown.github.io/extensions/sane_lists/
 - pymdownx.superfences:     # 代码块相关
     custom_fences:          # 代码块相关
     - name: mermaid
@@ -308,49 +309,56 @@ plugins:
       # 实名制相关
       "catch_the_wind/KOL_前台实名.md": "censorship/实名制.md#kol-前台实名显示"
       "catch_the_wind/KOL-前台实名.md": "censorship/实名制.md#kol-前台实名显示"
-      "censorship/韩国的实名制.md": "censorship/实名制.md#kol-前台实名显示#韩国的实名制"
-      "rule/烟花实名制.md": "censorship/实名制.md#烟花实名制"
-      "rule/Sugar_Real_Name.md": "censorship/实名制.md#白糖实名制"
+      "censorship/韩国的实名制.md":     "censorship/实名制.md#kol-前台实名显示#韩国的实名制"
+      "rule/烟花实名制.md":             "censorship/实名制.md#烟花实名制"
+      "rule/Sugar_Real_Name.md":        "censorship/实名制.md#白糖实名制"
 
       # 清朗相关
-      "activities/2020清朗专项行动.md": "activities/清朗系列行动.md"
+      "activities/2020清朗专项行动.md":                        "activities/清朗系列行动.md"
       "activities/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
-      "movement/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
-      "movement/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
-      "movement/2020清朗专项行动.md": "activities/清朗系列行动.md"
-      "activities/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
+      "activities/清朗·暑期未成年人网络环境整治.md":           "activities/清朗系列行动.md"
+      "movement/2020清朗专项行动.md":                          "activities/清朗系列行动.md"
+      "movement/清朗·互联网用户账号运营乱象专项整治行动.md":   "activities/清朗系列行动.md"
+      "movement/清朗·暑期未成年人网络环境整治.md":             "activities/清朗系列行动.md"
       # 合并清朗相关
-      "activities/清朗/2020清朗专项行动.md": "activities/清朗系列行动.md"
-      "activities/清朗/2024-年清朗系列专项行动.md": "activities/清朗系列行动.md"
-      "activities/清朗/清朗_2024年春节网络环境整治.md": "activities/清朗系列行动.md"
-      "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md": "activities/清朗系列行动.md"
+      "activities/清朗/2020清朗专项行动.md":                                              "activities/清朗系列行动.md"
+      "activities/清朗/2024-年清朗系列专项行动.md":                                       "activities/清朗系列行动.md"
+      "activities/清朗/清朗_2024年春节网络环境整治.md":                                   "activities/清朗系列行动.md"
+      "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md":                       "activities/清朗系列行动.md"
       "activities/清朗/清朗·商业网站平台和_自媒体_违规采编发布财经类信息专项整治工作.md": "activities/清朗系列行动.md"
-      "activities/清朗/清朗·暑期未成年人网络环境整治.md": "activities/清朗系列行动.md"
+      "activities/清朗/清朗·暑期未成年人网络环境整治.md":                                 "activities/清朗系列行动.md"
 
       # 反诈相关
-      "company/Microsoft/aka.ms.md": "censorship/国家反诈中心.md#错误情况"
-      "software/白描证件照.md": "censorship/国家反诈中心.md#错误情况"
-      "software/讯飞记笔记.md": "censorship/国家反诈中心.md#错误情况"
+      "company/Microsoft/aka.ms.md":            "censorship/国家反诈中心.md#错误情况"
+      "software/白描证件照.md":                 "censorship/国家反诈中心.md#错误情况"
+      "software/讯飞记笔记.md":                 "censorship/国家反诈中心.md#错误情况"
       "software/National_Anti-fraud_Center.md": "censorship/国家反诈中心.md"
 
       # 禁止未经审批的游戏主题
       "blocklist/关于禁售游戏的公告-京东.md": "theme/禁止未经审批的游戏主题.md"
       "censorship/禁止直播未经审批的游戏.md": "theme/禁止未经审批的游戏主题.md#禁止直播未经审批的游戏"
-      "game/《如何防小玩家钻空子》.md": "theme/禁止未经审批的游戏主题.md#禁止境外游戏报导"
+      "game/《如何防小玩家钻空子》.md":       "theme/禁止未经审批的游戏主题.md#禁止境外游戏报导"
 
       # SIM 卡相关
-      "anti-censorship/MVNO.md": "serviceprovider/sim_卡.md#mvno"
+      "anti-censorship/MVNO.md":     "serviceprovider/sim_卡.md#mvno"
       "serviceprovider/giffgaff.md": "serviceprovider/sim_卡.md#giffgaff"
-      "serviceprovider/HK_SIM.md": "serviceprovider/sim_卡.md#香港"
+      "serviceprovider/HK_SIM.md":   "serviceprovider/sim_卡.md#香港"
 
       # 拼写相关〔似乎并不需要，因为会自动跳转，那么就不需要添加了〕
       # "game/Doki_Doki_Literature_Club.md": "game/doki_doki_literature_club.md"
 
+      # 漫展相关
+      "activities/漫展/2022武汉百合only.md": "activities/漫展.md#夏日祭事件"
+      "activities/漫展/ComicDawn动漫展.md":  "activities/漫展.md#夏日祭事件"
+      "activities/漫展/COMICUP.md":          "activities/漫展.md#夏日祭事件"
+      "activities/漫展/IJOY漫展.md":         "activities/漫展.md#夏日祭事件"
+      "activities/漫展/index.md":            "activities/漫展.md"
+      "activities/ComicDawn动漫展.md":       "activities/漫展.md#夏日祭事件"
+      "activities/COMICUP_28.md":            "activities/漫展.md#夏日祭事件"
+      "activities/IJOY漫展.md":              "activities/漫展.md#夏日祭事件"
+
       # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
-      "activities/ComicDawn动漫展.md": "activities/漫展/ComicDawn动漫展.md"
-      "activities/COMICUP_28.md": "activities/漫展/COMICUP.md"
-      "activities/IJOY漫展.md": "activities/漫展/IJOY漫展.md"
       "anti-censorship/网际飞梭.md": "anti-censorship/VPN/网际飞梭.md"
       "anti-censorship/ClashDotNetFramework.md": "anti-censorship/VPN/ClashDotNetFramework.md"
       "anti-censorship/GoAgent.md": "anti-censorship/VPN/GoAgent.md"

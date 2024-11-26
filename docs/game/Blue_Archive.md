@@ -372,7 +372,7 @@ dateCreated: "2022-11-14T21:57:06"
 
 ![00.16.166](https://s3.tebi.io/ggame/ShareX/new_pv.e9782579.mp4_snapshot_00.16.166.jpg)
 
-这可能是规避 [夏日祭事件](/activities/漫展/index.md#夏日祭事件)。
+这可能是规避 [夏日祭事件](/activities/漫展.md#夏日祭事件)。
 
 > [!abstract]+ 简中服 PV1 01:16.474
 >
