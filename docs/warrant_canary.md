@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-10-25T19:55:47"
+date: "2024-11-28T17:55:16"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -29,6 +29,33 @@ icon: material/pen-lock
 
 [^tg]: <https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases>
 
+### 2024年11月28日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年11月28日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   David E. Sanger、Julian E. Barnes, 《[中国黑客深度入侵美电信系统：窃听电话、读取短信](https://web.archive.org/web/20241123234018/https://cn.nytimes.com/world/20241122/china-hacking-telecommunications/)》, 纽约时报中文网, 2024-11-22. (参照 2024-11-28).
++   大井真理子（Mariko Oi）, 《[优衣库创办人柳井正：Uniqlo“没有使用新疆棉”](https://web.archive.org/web/20241128073931/https://www.bbc.com/zhongwen/articles/cly2mn9gp3po/simp)》, BBC News 中文, 2024-11-28. (参照 2024-11-28).
++   arsan, 《[〈RIKI 8Bit 遊戲集〉Switch 數位版正式上市！實體版 12/26 發售＆開始預購](https://news.gamebase.com.tw/news/detail/99429432)》, 遊戲基地 Gamebase, 2024-11-28. (参照 2024-11-28).
++   《[美对华晶片设备销售限制或不如预期严格 日本晶片股上涨](https://web.archive.org/web/20241128094431/https://www.zaobao.com.sg/realtime/china/story20241128-5413206)》, 联合早报, 2024-11-28. (参照 2024-11-28).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZ0g+JAAKCRCZXo6bU2oX
+pN5DAP49aUSQhqm8HpDjTfNv98aRxsxGjLDF8ORWagrNBHwY2wD/bCbYaiKfa4U/
+vWJ2m29hpiXQs3S2OXTRGhBi0NPNZAI=
+=JVP0
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2024年10月25日
 
 ```markdown
@@ -52,8 +79,6 @@ YP2J9s9G9Gg95OhRFXWj3i2+xhy1IAI=
 =8KkM
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年9月19日
 
