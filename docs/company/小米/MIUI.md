@@ -688,7 +688,7 @@ String dnsv6 = System.isInCnRegion() ? "240c::6666" : "2001:4860:4860::8888";
 ```
 
 其他品牌的国行手机也有类似的情况，比如 vivo 的 OriginOS，[^26785] OPPO 的 ColorOS，[^80960] 以及华为的 EMUI，[^51822]
-甚至是「[三星港版手机](/company/Samsung/HK_Phone.md)」。
+甚至是「[三星港版手机](/company/Samsung/index.md#dns-问题)」。
 
 [^26785]: ESXi, 《[维沃vivo OriginOS安卓系统强制在系统夹带114 DNS导致网络卡顿](https://www.txrjy.com/thread-1326785-1-1.html)》, 运营商·运营人 - 通信人家园 - Powered by C114, 2024-04-10. (参照 2024-06-26).
 

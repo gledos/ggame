@@ -398,6 +398,8 @@ plugins:
       "company/Google/Gmail.md": "company/Google/index.md#Gmail"
       "company/Microsoft/Xbox_One.md": "company/Microsoft/xbox.md"
       "company/Pixiv.md": "company/pixiv.md"
+      "company/Samsung/三星_Galaxy_Z_系列.md": "company/Samsung/index.md#修改-z-系列名称"
+      "company/Samsung/HK_Phone.md": "company/Samsung/index.md#dns-问题"
       "company/Sony/PSN.md": "company/Sony/playstation.md#psn"
       "game/惩戒魅魔.md": "game/index.md#she_will_punish_them"
       "game/禁止快递游戏光盘.md": "serviceprovider/快递.md"
