@@ -2,7 +2,7 @@
 title: "ISOLATION BY DESIGN（设计上的隔离）"
 description:
 published: true
-date: "2024-06-28T00:32:55"
+date: "2024-12-10T01:01:15"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2024-06-27T16:29:49"
@@ -2098,3 +2098,14 @@ rights are prioritized in new markets. **Reiterating recommendations made in our
         unique expertise and perspective.
 
 <!-- 53 -->
+
+## 相关研究
+
+2024年11月12日，开放技术基金会与 GreatFire 发布了研究报告《<ruby>数字门槛<rt>Blocked by Numbers</rt></ruby> | <ruby>中国社交媒体应用实名制政策对海外用户的影响<rt>The Impact of Real-Name Registration Policies on Transnational Access to Chinese Social Media Apps</rt></ruby>》。[^63659][^25228]
+
+[^63659]: Sam Ju 等、GreatFire 防火墙项目信息控制高级研究员、开放技术基金会, 《[数字门槛 | 中国社交媒体应用实名制政策对海外用户的影响](https://web.archive.org/web/20241209163659/https://www.opentech.fund/wp-content/uploads/2024/11/Translated-Blocked-by-Numbers.pdf)》, 2024-10. [Online].
+[^25228]: Sam Ju, et al., [Blocked by Numbers | The Impact of Real-Name Registration Policies on Transnational Access to Chinese Social Media Apps](https://web.archive.org/web/20241127225228/https://www.opentech.fund/wp-content/uploads/2024/11/Blocked-by-Numbers-English.pdf), 2024-10. [Online].
+
+「数字门槛」报告介绍了大陆对 App 要求实名制，导致大陆社交媒体在海外的影响力也减弱。[^13059]
+
+[^13059]: 南方街头运动员, 《[【CDT报告汇】开放技术基金会：中国APP设置“数字门槛”将海外用户挡在墙外（外二篇）](https://web.archive.org/web/20241127043101/https://chinadigitaltimes.net/chinese/713059.html)》, 中国数字时代, 2024-11-15. (参照 2024-12-10).
