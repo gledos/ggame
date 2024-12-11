@@ -29,7 +29,7 @@ dateCreated: "2021-08-21T13:17:30"
 
 [^bw]: 使用 BuiltWith 查询 [iwara.tv Technology Profile](https://builtwith.com/?https://www.iwara.tv/)。
 
-[^02134]:  [iwara.tv](https://web.archive.org/web/20240620102134/https://dic.pixiv.net/a/iwara.tv), ピクシブ百科事典, 2022-10-07. (参照 2024-11-27).
+[^02134]: [iwara.tv](https://web.archive.org/web/20240620102134/https://dic.pixiv.net/a/iwara.tv), ピクシブ百科事典, 2022-10-07. (参照 2024-11-27).
 
 Iwara 是 MMD 托管网站，曾经具有表站 `www.iwara.tv` 与里站 `ecchi.iwara.tv` 两种域名，之后合并到为了 www.iwara.tv。
 
