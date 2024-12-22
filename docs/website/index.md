@@ -2,7 +2,7 @@
 title: website
 description:
 published: true
-date: "2024-12-09T00:53:39"
+date: "2024-12-22T21:22:34"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-12T21:09:29"
@@ -150,9 +150,45 @@ website 即网站，一些网站相关的内容会被收录到此版块（文件
 曾经在 <meta> 标签里嵌入了「六四天安門」这个关键词，[^35226] 原因似乎是阻止中国学生入学。
 东京大学公关部对此表示不知情，并欢迎各地的学生和教职人员，对此事表示遗憾。现在网站已移除关键词。[^0000c]
 
-[^35226]: 《[入試情報｜東京大学大学院　新領域創成科学研究科 メディカル情報生命専攻](https://web.archive.org/web/20230929035226/https://www.cbms.k.u-tokyo.ac.jp/admission/index.html)》, 2023-09-29. (参照 2024-12-09).
+[^35226]: 『[入試情報｜東京大学大学院　新領域創成科学研究科 メディカル情報生命専攻](https://web.archive.org/web/20230929035226/https://www.cbms.k.u-tokyo.ac.jp/admission/index.html)』, 2023-09-29. (参照 2024-12-09).
 
-[^0000c]: 井川加菜美, 斎藤文太郎と西本紗保美, 《[中国人留学生の入学阻害? 東京大学大学院サイトに閲覧しにくい細工](https://web.archive.org/web/20241207024702/https://mainichi.jp/articles/20241206/k00/00m/040/370000c)》, 毎日新聞, 2024-12-06. (参照 2024-12-09).
+[^0000c]: 井川加菜美, 斎藤文太郎と西本紗保美, 『[中国人留学生の入学阻害? 東京大学大学院サイトに閲覧しにくい細工](https://web.archive.org/web/20241207024702/https://mainichi.jp/articles/20241206/k00/00m/040/370000c)』, 毎日新聞, 2024-12-06. (参照 2024-12-09).
+
+2024年12月20日，大陆、香港和澳门 IP 的用户，无法直接注册 GitLab.com 帐号，
+会被跳转到独家永久授权的<ruby>极狐<rt>JiHu</rt></ruby>官网。[^90539][^85749]
+并且曾经使用上述位置 IP 登录过的 GitLab 用户，会接到迁移到极狐的建议。[^f5c0a][^99280]
+
+[^85749]: Ashley Kramer, [JiHu FAQ](https://web.archive.org/web/20241219085749/https://about.gitlab.com/pricing/faq-jihu/), GitLab, 2024-. (参照 2024-12-22).
+
+[^90539]: 《[欢迎使用极狐 GitLab](https://web.archive.org/web/20241219090539/https://gitlab.cn/saasmigration/)》, 极狐 GitLab, 2024-12-19. (参照 2024-12-22).
+
+[^f5c0a]: 层叠 - The Cascadingbot, 《[陆港澳用户已无法直接注册 GitLab.com 帐号，会被跳转到极狐……](https://misskey.io/notes/a21mfq5faxaf5c0a)》, Misskey.io, 2024-12-21. (参照 2024-12-22).
+
+[^99280]: notifier, 《[GitLab60 天后会将位于中国大陆、香港和澳门地区的帐号进行自动删号操作](https://web.archive.org/web/20241222124127/https://v2ex.com/t/1099280)》, V2EX, 2024-12-21. (参照 2024-12-22).
+
+> [!quote]- Important Change to Your GitLab.com Account[^99280]
+>
+> Please be advised that GitLab can no longer service GitLab.com accounts for individuals and
+> organizations located in Mainland China, Macao, and Hong Kong. Our system indicates that
+> you are visiting GitLab from one of these locations. We advise you to transition your
+> GitLab.com account from GitLab to JiHu. JiHu is an independent company with a localized
+> GitLab offering that has exclusive rights to provide GitLab to individuals and organizations
+> located in this region. You have 60 days to complete the transition, after which GitLab will
+> delete your account from our systems. If you believe you are receiving this notification in error,
+> please log in to GitLab.com from a supported service location. For further information or
+> support, please feel free to contact saasmigration@gitlab.cn.
+>
+> ---
+>
+> 您的 GitLab.com 帐户的重要变更（机器翻译）
+>
+> 请注意，GitLab 不再为位于中国大陆、澳门和香港的个人和组织提供 GitLab.com 帐户服务。
+> 我们的系统显示您正在从这些位置之一访问 GitLab。我们建议您将您的 GitLab.com 帐户从 GitLab 转换到极狐。
+> 极狐是一家拥有本地化 GitLab 产品的独立公司，拥有向位于该地区的个人和组织提供 GitLab 的独家权利。
+> 您有 60 天的时间完成转换，之后 GitLab 将从我们的系统中删除您的帐户。如果您认为您错误地收到此通知，
+> 请从受支持的服务位置登录 GitLab.com。如需更多信息或支持，请随时联系 saasmigration@gitlab.cn。
+
+[^99280]: notifier, 《[GitLab 60 天后会将位于中国大陆、香港和澳门地区的帐号进行自动删号操作](https://web.archive.org/web/20241222124127/https://v2ex.com/t/1099280)》, V2EX, 2024-12-21. (参照 2024-12-22). 附言：有调整标题空格。
 
 ## 条目清单
 
