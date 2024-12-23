@@ -304,6 +304,11 @@ plugins:
       - website
       size: 50
       template: overrides/custom-blog.html
+    - name: theme
+      dirs:
+      - theme
+      size: 50
+      template: overrides/custom-blog.html
 - redirects:              # 重定向插件                https://github.com/datarobot/mkdocs-redirects
     redirect_maps:
       # 实名制相关

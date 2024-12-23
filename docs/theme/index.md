@@ -12,14 +12,10 @@ icon: material/tag-text
 
 ## 简介
 
-theme 即主题，ggame 含有大量分散的内容，所以主题条目就能连接起来，这比<ruby>标签<rp>(</rp><rt>Tag</rt><rp>)</rp></ruby>的效果更直观。
+theme 即主题，ggame 含有大量分散的内容，所以主题条目就能连接起来，这比<ruby>标签<rt>Tag</rt></ruby>的效果更直观。
 
 ## 主题
 
-+   [LGBT主题][]
-+   [游戏官方纵容甚至支持的反和谐][]
-+   [斯肯索普问题][]
-
-[LGBT主题]: /theme/LGBT主题.md
-[游戏官方纵容甚至支持的反和谐]: /theme/游戏官方纵容甚至支持的反和谐.md
-[斯肯索普问题]: /theme/斯肯索普问题.md
+> [!note]+ 最近更新
+>
+> {{ blog_content theme }}

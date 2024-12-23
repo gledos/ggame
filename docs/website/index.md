@@ -157,6 +157,7 @@ website 即网站，一些网站相关的内容会被收录到此版块（文件
 2024年12月20日，大陆、香港和澳门 IP 的用户，无法直接注册 GitLab.com 帐号，
 会被跳转到独家永久授权的<ruby>极狐<rt>JiHu</rt></ruby>官网。[^90539][^85749]
 并且曾经使用上述位置 IP 登录过的 GitLab 用户，会接到迁移到极狐的建议。[^f5c0a][^99280]
+亦或是收到英文的电子邮件，要求进行迁移。[^80123]
 
 [^85749]: Ashley Kramer, [JiHu FAQ](https://web.archive.org/web/20241219085749/https://about.gitlab.com/pricing/faq-jihu/), GitLab, 2024-. (参照 2024-12-22).
 
@@ -165,6 +166,8 @@ website 即网站，一些网站相关的内容会被收录到此版块（文件
 [^f5c0a]: 层叠 - The Cascadingbot, 《[陆港澳用户已无法直接注册 GitLab.com 帐号，会被跳转到极狐……](https://misskey.io/notes/a21mfq5faxaf5c0a)》, Misskey.io, 2024-12-21. (参照 2024-12-22).
 
 [^99280]: notifier, 《[GitLab60 天后会将位于中国大陆、香港和澳门地区的帐号进行自动删号操作](https://web.archive.org/web/20241222124127/https://v2ex.com/t/1099280)》, V2EX, 2024-12-21. (参照 2024-12-22).
+
+[^80123]: 头号书迷, 《[GitLab 停止为中国区用户提供 GitLab.com 账号服务](https://web.archive.org/web/20241223075154/https://www.solidot.org/story?sid=80123)》, 奇客Solidot, 2024-12-23. (参照 2024-12-23).
 
 > [!quote]- Important Change to Your GitLab.com Account[^99280]
 >
