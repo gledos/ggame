@@ -4,9 +4,9 @@ description:
 published: true
 date: "2024-06-19T00:12:29"
 tags:
-- roc_flag
 - apple
 - proxy
+- roc_flag
 editor: markdown
 dateCreated: "2022-08-03T09:18:38"
 icon: material/apple
@@ -16,15 +16,14 @@ icon: material/apple
 
 <ruby>Apple<rp>(</rp><rt>苹果</rt><rp>)</rp></ruby> 公司是科技公司，主要产品是 iPhone、iPad 和 MacBook。
 
-## 子条目
-
-+   [激光镌刻服务](/company/Apple/激光镌刻服务.md)
-+   [苹果地图](/company/Apple/苹果地图.md)
-+   [为万物，齐创造 系列活动](/company/Apple/为万物，齐创造_系列活动.md)
-+   [指南针](/company/Apple/指南针.md)
-+   [App Store](/company/Apple/App_Store.md)
-+   [Apple Watch](/company/Apple/Apple_Watch.md)
-+   [flag emoji](/company/Apple/flag_emoji.md)
+> [!abstract]+ 子条目
+>
+> [激光镌刻服务](/company/Apple/激光镌刻服务.md)、
+> [苹果地图](/company/Apple/苹果地图.md)、
+> [为万物，齐创造 系列活动](/company/Apple/为万物，齐创造_系列活动.md)、
+> [指南针](/company/Apple/指南针.md)、
+> [App Store](/company/Apple/App_Store.md)、
+> [Apple Watch](/company/Apple/Apple_Watch.md)。
 
 ## 在大陆不支持的服务
 
@@ -136,6 +135,129 @@ iBooks 是苹果公司的电子书阅读软件，而 iBooks 在部分地区还�
 [移动智能终端应用软件预置和分发管理暂行规定]: https://web.archive.org/web/20211104054106/http://www.gov.cn/xinwen/2016-12/25/content_5152517.htm
 
 [^35720]: Yvesss, 《[具透 | 你可能不知道，iOS 10 有一个中国「特供」的联网权限功能](https://web.archive.org/web/20220116192031/https://sspai.com/post/35720)》, 少数派 - 高品质数字消费指南, 2016-10-11. (参照 2022-11-15).
+
+## flag emoji
+
+<!--
+    合并来源:    docs/company/Apple/flag_emoji.md
+    date:        "2021-07-28T07:34:20"
+    dateCreated: "2021-07-28T07:34:20"
+-->
+
+2017年2月，有人观察到 iPhone 审查了中华民国 flag emoji 🇹🇼。[^15718]
+
+[^15718]: [Apple censors Taiwan flag on iPhones in China](https://web.archive.org/web/20180919115718/https://forums.macrumors.com/threads/apple-censors-taiwan-flag-on-iphones-in-china.2034425/page-2), MacRumors Forums, 2017-02-25. (参照 2024-12-26).
+
+而 🇹🇼 被添加到 iPhone，似乎也并不简单，因为直到 iOS 9 的正式版（2015年9月），🇹🇼 才被添加。2018年3月，
+Emojipedia 表示将手机地区设置为中国，那么输入法键盘中的 🇹🇼，就会消失。[^50884]
+
+[^50884]: Josh Horwitz, [You can’t use the Taiwan flag emoji on a Chinese iPhone](https://web.archive.org/web/20241124234047/https://qz.com/1250884/you-cant-use-the-taiwan-flag-emoji-on-a-chinese-iphone), Quartz, 2018-04-12. (参照 2024-12-26).
+
+该审查还在 2018年7月，造成了 iPhone 意外崩溃。原因是这段审查代码存在问题，在某些情况下，只要有人发送 🇹🇼 的短信，
+接收者的 iPhone 就会崩溃并重启。[^74606]（随后该漏洞被修复）
+
+[^74606]: Andy Greenberg, [Apple’s China-Friendly Censorship Caused an iPhone-Crashing Bug](https://web.archive.org/web/20241213074606/https://www.wired.com/story/apple-china-censorship-bug-iphone-crash-emoji/), Wired, 2018-07-10. 参照: 2024-12-26. [Online].
+
+2019年9月，在 iOS 13.1.1 更新后，有香港用户发现 iPhone 的键盘不再出现 🇹🇼 了。该话题在 Hacker News 大量讨论，[^82705]
+有人逆向分析后得到了以下代码（有调整）：[^4855]
+
+[^82705]: pulisse, 《[Apple Hides Taiwan Flag in Hong Kong](https://web.archive.org/web/20191228153402/https://news.ycombinator.com/item?id=21182705)》, Hacker News, 2019-10-07. (参照 2024-12-26).
+
+[^4855]: Hiraku, 《[iOS 13.1.1 之後，在香港、澳門的 Emoji 鍵盤不會出現中華民國國旗了](https://web.archive.org/web/20240613144943/https://hiraku.dev/2019/10/4855/)》, Hiraku Dev, 2019-10-03. (参照 2024-12-26).
+
+```objective-c
++ (id)computeEmojiFlagsSortedByLanguage
+{
+    NSMutableArray *array = [NSMutableArray arrayWithArray:[EMFEmojiCategory flagEmojiCountryCodesCommon」; //獲得大部分的國旗 Emoji
+    NSString *regionCode = _EMFGetDeviceRegionCode(); //獲得裝置地區（硬體）
+
+    if (![regionCode isEqualToString:@"CH"] && ![regionCode isEqualToString:@"ZA"])
+    {
+        NSString *locale = [[NSLocale currentLocale] objectForKey: NSLocaleCountryCode]; //獲得設定裡面的地區（軟體）
+        if (![locale isEqualToString:@"CN"] && ![locale isEqualToString:@"MO"] && ![locale isEqualToString:@"HK"])
+        {
+            [array addObject:@"TW"]; //檢查通過，增加 TW Emoji（中華民國國旗）
+        }
+    }
+//... 後面不重要
+}
+```
+
+而之前版本的代码是：
+
+```objective-c
++ (id)computeEmojiFlagsSortedByLanguage
+{
+    NSMutableArray *array = [NSMutableArray arrayWithArray:[EMFEmojiCategory flagEmojiCountryCodesCommon」; //獲得大部分的國旗 Emoji
+    NSString *regionCode = _EMFGetDeviceRegionCode(); //獲得裝置地區（硬體）
+
+    if (![regionCode isEqualToString:@"CH"])
+    {
+        NSString *locale = [[NSLocale currentLocale] objectForKey: NSLocaleCountryCode]; //獲得設定裡面的地區（軟體）
+        if (![locale isEqualToString:@"CN"])
+        {
+            [array addObject:@"TW"]; //檢查通過，增加 TW Emoji（中華民國國旗）
+        }
+    }
+//... 後面不重要
+}
+```
+
+所以 iOS 13.1.1 更新后，香港和澳门就不会在输入法里显示 🇹🇼 了。Emojipedia 也发现同时期的 macOS 10.15，
+有进行类似的限制。[^72520]
+
+[^72520]: Jeremy Burge, [Apple Hides Taiwan Flag in Hong Kong](https://web.archive.org/web/20241217172520/https://blog.emojipedia.org/apple-hides-taiwan-flag-in-hong-kong/), Emojipedia - The Latest Emoji News, 2019-10-07. (参照 2024-12-26).
+
+2022年10月，有人反汇编了 `/System/Library/Input Methods/CharacterPalette.app`，从中找到了具体的审查代码：[^5y8t6][^90197]
+
+[^5y8t6]: stephancasas, [How Apple blocks the Taiwanese flag emoji in China](https://www.reddit.com/r/MacOS/comments/y5y8t6/how_apple_blocks_the_taiwanese_flag_emoji_in_china/), r/MacOS, 2022-10-17. (参照 2024-12-26).
+
+[^90197]: Keoni Everington, [Developer reveals how Apple blocks Taiwan flag emoji in China](https://web.archive.org/web/20241214023011/https://www.taiwannews.com.tw/news/4690197), Taiwan News, 2022-10-18. (参照 2024-12-26).
+
+```c++
+        ; Section __ustring
+        ; Range: [0x10002f4de; 0x10002f4e8 [ (10 bytes)
+        ; File offset : [193758; 193768[ (10 bytes)
+        ;   S_REGULAR
+
+000000010002f4de         dw         U"🇹🇼", 0             ; DATA XREF=cfstring________
+```
+
+```c++
+int sub_1000052bf(int arge, int arg1) {
+    rsi = argi:
+    if (arge != 0x0) {
+            rbx = rsi;
+            rax = CFPreferencesCopyValue(@"Country", **_kCFPreferencesAnyApplication, **_KCFPreferencesAnyUser, **_KCFPreferencesCurrentHost);
+            rax = [rax autorelease];
+            rax = [rax isEqualToString:@"CN"];
+            rcx = 0x1;
+            if (rax == 0x0) {
+                    rcx = [[[NSLocale currentLocale] objectForKey:**_NSLocaleCountryCode] isEqualToString:@"CN"] != 0x0 ? 0x1 : 0x0;
+            }
+            if (rbx != 0x0) {
+                    *(int8_t *)rbx = (rcx & 0xff) != sign_extend_64(+(int8_t *)byte_100044938)?  0x1 : 0x0;
+            }
+            *(int8_t *)byte_100844938 = rcx;
+    }
+    else {
+            rcx = (int8_t *)byte_100044938;
+    }
+    rax = sign_extend_64(rcx);
+    return rax;
+}
+```
+
+该审查没有简单的破除方式，iPhone 只能越狱。而 macOS 可以修改 plist 文件，伪装硬件的地点来显示。[^ETO42][^46623]
+
+[^ETO42]: blackcurrant, 《[如何让 iPhone 正常显示台湾图标？](http://archive.today/2021.07.27-232821/https://webcache.googleusercontent.com/search?q=cache:S7mXSRYxf2kJ:https://v2ex.com/t/791716 "https://www.v2ex.com/t/791716")》, V2EX, 2021-07-26. (参照 2024-12-26). 附言：有登录墙。
+
+[^46623]: Jay Wang, [Can’t see this emoji 🇹🇼 on macOS](https://web.archive.org/web/20220521193357/https://apple.stackexchange.com/questions/328474/cant-see-this-emoji-on-macos/346623), Ask Different, 2018-06-23. (参照 2024-12-26).
+
+2024年12月17日，有人发现 X 的 App（前 Twitter），存在可以正常显示 🇹🇼，并且是 Apple Color Emoji，而非 X 网页、
+Android 版使用的 Twemoji。[^98048]
+
+[^98048]: canaanlv1, 《[X 最新版可以在国行 iPhone 显示台湾国旗🇹🇼](https://web.archive.org/web/20241217140915/https://v2ex.com/t/1098048)》, V2EX, 2024-12-16. (参照 2024-12-26).
 
 ## 修改 (PRODUCT) RED 版本
 

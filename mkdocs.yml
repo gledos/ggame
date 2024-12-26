@@ -362,6 +362,9 @@ plugins:
       "activities/COMICUP_28.md":            "activities/漫展.md#夏日祭事件"
       "activities/IJOY漫展.md":              "activities/漫展.md#夏日祭事件"
 
+      # Apple
+      "company/Apple/flag_emoji.md": "company/Apple/index.md#flag_emoji"
+
       # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "anti-censorship/网际飞梭.md": "anti-censorship/VPN/网际飞梭.md"

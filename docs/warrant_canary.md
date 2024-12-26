@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-11-28T17:55:16"
+date: "2024-12-26T20:49:11"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -28,6 +28,33 @@ icon: material/pen-lock
 以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。[^tg]
 
 [^tg]: <https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases>
+
+### 2024年12月26日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2024年12月26日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Hurubie Meko, 《[中国在纽约警务站负责人承认密谋充当中国政府代理人](https://web.archive.org/web/20241221010237/https://cn.nytimes.com/usa/20241219/chinese-police-station-plea-chen-jinping/)》, 纽约时报中文网, 2024-12-19. (参照 2024-12-26).
++   聯合新聞網, 《[他再爆任天堂 Switch 2新規格！主機搖桿、控制器、重量、顏色、價格一次看](https://web.archive.org/web/20241220182235/https://tech.udn.com/tech/story/123154/8430944)》, udn科技玩家, 2024-12-17. (参照 2024-12-26).
++   《[陈婧：“远洋捕捞”伸向网文圈？](https://web.archive.org/web/20241226124319/https://www.kzaobao.com/shiju/20241225/176251.html)》, 联合早报, 2024-12-25. (参照 2024-12-26).
++   《[网文作家遭集体抓捕的几大争议焦点：定罪依据、高额罚款以及跨省执法](https://web.archive.org/web/20241226124030/https://www.bbc.com/zhongwen/articles/cx2yrnl7r1lo/simp)》, BBC News 中文, 2024-12-26. (参照 2024-12-26).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZ21QpAAKCRCZXo6bU2oX
+pNFlAP9laf+rF3ouVYUQfVe/aklWfHdiQbg7N3xRpcg50vXyTgEAt2A3p3QIpFm/
+uvP8FeCvfK82jynS8uH8raAEICcHeQc=
+=hv2Q
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年11月28日
 
@@ -53,8 +80,6 @@ vWJ2m29hpiXQs3S2OXTRGhBi0NPNZAI=
 =JVP0
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年10月25日
 
