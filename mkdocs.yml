@@ -44,6 +44,7 @@ theme:
   - content.tabs.link     # 同步内容选项卡（点击 A 选项卡后，其他的 A 选项卡也会自动被选择） https://squidfunk.github.io/mkdocs-material/reference/content-tabs/#open-me-in-a-new-tab-
   - navigation.indexes    # 文件夹下的 index.md 自动「连接」
   - header.autohide
+  - announce.dismiss      # 公告栏关闭按钮 https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-header/?h=setting+up+header
   - navigation.top        # 回到顶部的按钮
   # - search.highlight
   # - navigation.instant  # XHR 支持
@@ -88,7 +89,7 @@ markdown_extensions:
 - pymdownx.mark
 - pymdownx.critic         # 支持 markdown 高亮==、删除、注解等高级样式
 - pymdownx.keys           # 支持 快捷键渲染
-- pymdownx.emoji:         # 支持图标 icons 和表情渲染，比如:smile:
+- pymdownx.emoji:         # 支持图标 icons 和表情渲染，比如 :smile:
     emoji_index: !!python/name:material.extensions.emoji.twemoji
     emoji_generator: !!python/name:material.extensions.emoji.to_svg
     options:
@@ -169,13 +170,13 @@ plugins:
 # - autolinks
 - exclude:
     glob:
-    - "src/_HD_/*"
-    - "mkdocs/本地/*"
-    - "*.tmp"
+    - ".trash/*"
     - "*.gz"
+    - "*.tmp"
     - "encryption/*"
     - "liquid/*"
-    - ".trash/*"
+    - "mkdocs/本地/*"
+    - "src/_HD_/*"
     - "templates/*"
     # regex:
     # - '.*\.(tmp|bin|tar)$'
@@ -468,6 +469,7 @@ extra:
     title: Cookie 设置
     description: >-
       ggame 使用 Cookie 实现 Google 广告、分析和 GitHub 连接功能，请根据情况选择允许或拒绝这些 Cookie。<br>
+      （同意后再拒绝，不会删除 Cookie，只会阻止连接与运行第三方 JavaScript 资源。如果在意，仍需手动清理 Cookie）<br>
       完成设置后，也可以在网站底部的「更改 Cookie 设置」重新调整。
     actions:
       - accept
@@ -485,5 +487,7 @@ extra_javascript:
 # - https://unpkg.com/mermaid/dist/mermaid.min.js
 
 copyright: >
+  由 gledos 创作的内容，如果没有另外声明，均为 CC0 许可协议。<br>
+  可以在 <a href="https://afdian.com/a/gledos/">爱发电</a> 为此捐赠金钱。<br>
   使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br>
   <a href="#__consent">更改 Cookie 设置</a>
