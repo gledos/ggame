@@ -422,6 +422,7 @@ plugins:
       "hardware/Smart_set-top_box.md": "serviceprovider/智能机顶盒.md"
       "hardware/Synology.md": "company/Synology.md"
       "hardware/WAPI.md": "technology/WAPI.md"
+      "mkdocs/黑幕_刮刮乐.md": "mkdocs/Attribute_List.md#黑幕"
       "movement/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "movement/2014年东莞扫黄事件.md": "activities/2014年东莞扫黄事件.md"
       "movement/扫黄打非·净网2014.md": "activities/扫黄打非·净网2014.md"
