@@ -865,3 +865,11 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 > 〔机器翻译〕中国周三敦促美国遵守美国总统拜登多次重申的一个中国政策。
 
 [^6a3ab]: [U.S. urged to honor its commitment on one-China policy](https://web.archive.org/web/20240325153817/https://english.news.cn/20240117/d8392eda50c64b319ebeeb98f856a3ab/c.html), Xinhua, 2024-01-17. (参照 2024-10-20).
+
+<!--
+    blackredhat 的像素画
+    https://danbooru.donmai.us/posts/6840692
+    【ブルアカ】
+    「為什麼去奇普托斯當老師？」  
+    「因為這是我的職責！」
+-->
