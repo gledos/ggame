@@ -19,7 +19,7 @@ dateCreated: "2020-10-15T04:32:22"
 >
 > 总的来说，评价并不好。很多都带着冷嘲热讽的口吻。总共5颗星的评价平均评分只有2.7颗星。[^20190215]
 
-[^20190215]: [“学习强国”App：在线版〇〇〇“红宝书” - 纽约时报中文网](https://web.archive.org/web/20190215133906/https://cn.nytimes.com/technology/20190215/china-communist-app/)
+[^20190215]: [“学习强国”App：在线版**〇〇〇**{: .mohu }“红宝书” - 纽约时报中文网](https://web.archive.org/web/20190215133906/https://cn.nytimes.com/technology/20190215/china-communist-app/)
 
 [发现学习强国这个app没有评分了](https://web.archive.org/web/20201015042753/https://www.douban.com/group/topic/132814272/)
 

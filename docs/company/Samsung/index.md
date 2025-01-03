@@ -18,7 +18,7 @@ dateCreated: "2024-12-04T16:18:43"
 ### DNS 问题
 
 <!--
-    合并来源:    docs\company\Samsung\HK_Phone.md
+    合并来源:    \company\Samsung\HK_Phone.md
     date:        "2022-06-13T14:09:24"
     dateCreated: "2021-01-15T14:21:58"
 -->
@@ -54,7 +54,7 @@ dateCreated: "2024-12-04T16:18:43"
 
 ## 修改 Z 系列名称
 <!--
-    合并来源:    docs\company\Samsung\三星_Galaxy_Z_系列.md
+    合并来源:    \company\Samsung\三星_Galaxy_Z_系列.md
     date:        "2022-03-30T00:03:59"
     dateCreated: "2022-03-30T00:03:59"
 -->

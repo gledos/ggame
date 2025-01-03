@@ -133,7 +133,6 @@ _Goose Goose Duck_ 是一款<ruby>模仿<rp>(</rp><rt>抄袭</rt><rp>)</rp></rub
 +   [1月12日爆破皮套人联动直播最大恶性事件 相关博主粉丝总计400万 - YouTube](https://web.archive.org/web/20230113111700/https://www.youtube.com/watch?v=powtZCx7uRI)
 +   [东雪莲炸房事件始末公开 新猎杀皮套狗tv对此负责 - YouTube](https://web.archive.org/web/20230114151628/https://www.youtube.com/watch?v=336y7hH8Ar4)
 +   [皮套人哭述：为什么要反〇，我爷爷是军人，大家要爱国，中国是很好的国家 - YouTube](https://web.archive.org/web/20230115040350/https://www.youtube.com/watch?v=FG6hb1Hcnjk)
-+   [为什么玩游戏都不带〇〇〇？ 鹅鸭杀〇〇〇入侵合集（一次看个够） - YouTube](https://web.archive.org/web/20230115042457/https://www.youtube.com/watch?app=desktop&v=plyFJjcN2wg)
++   [为什么玩游戏都不带**〇〇〇**{: .mohu }？ 鹅鸭杀**〇〇〇**{: .mohu }入侵合集（一次看个够） - YouTube](https://web.archive.org/web/20230115042457/https://www.youtube.com/watch?app=desktop&v=plyFJjcN2wg)
 +   [〇鸭杀精彩内容 抢先派送 - YouTube](https://web.archive.org/web/20230115050501/https://www.youtube.com/watch?v=ffPIntAFOrw)
-
 -->
