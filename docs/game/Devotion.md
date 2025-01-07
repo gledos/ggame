@@ -64,3 +64,7 @@ dateCreated: "2021-04-22T12:22:03"
 > + [Daniel on Twitter: "what gamers? is the gamer a leader of a country in asia?… "](https://archive.is/MiTs5 "https://twitter.com/C418/status/1339266712160653312")
 > + [Megan Fox on Twitter: "Earlier today, it was assumed that the game SkateBIRD was coming to @GOGcom. After receiving one message from them that undercut a fellow indie dev, we have decided not to list our game in their store."](https://archive.vn/oJpGe "https://twitter.com/glassbottommeg/status/1339236952692850688")
 > + [《還願》宣布再上市引爆小粉紅反彈　6小時後迅速「被取消」](https://web.archive.org/web/20201217064812if_/https://www.mirrormedia.mg/story/20201217insight001/)
+
+<!--
+    https://web.archive.org/web/20241223073756/https://www.rfi.fr/tw/中國/20190302-還願符咒被冤枉了高手指咒語原意護佑中國最高領導人
+-->
