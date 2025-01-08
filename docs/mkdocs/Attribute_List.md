@@ -157,7 +157,7 @@ Obsidian 也可以使用，只是没有支持对链接黑幕，CSS 片段如下�
 {: .heimu }
 ```
 
-ggame 中的 [黑幕（刮刮乐）](/mkdocs/黑幕_刮刮乐.md)，使用了 Attribute List 来快速输入。
+ggame 中的 [黑幕（刮刮乐）](#黑幕)，使用了 Attribute List 来快速输入。
 
 ### 文字显示位置
 

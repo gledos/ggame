@@ -85,7 +85,7 @@ icon: material/file-video
 [^19369]: 读否读否应是满腹经纶, 《[创作谈｜赵林山：迟到了80年的电影〈731〉](https://web.archive.org/web/20240727160734/https://www.sohu.com/a/783890241_121119369)》, 搜狐新闻／搜狐号, 2024-06-05. (参照 2024-07-28).
 
 2024年12月，成人电影 FC2PPV-4231959 的墙壁上，被贴上了一个独特的，像「小熊维尼」角色的贴纸。[^31959]
-这似乎是为了试图防止中国人盗版，而使用的「咒语」。就像 YouTuber [叉鸡](people/Fork_chicken) 一样。
+这似乎是为了试图防止中国人盗版，而使用的「咒语」。就像 YouTuber [叉鸡](/people/Fork_chicken) 一样。
 
 [^31959]: Yume Nakata, [FC2PPV 4231959 [LLM sub]](https://web.archive.org/web/20241223084821/https://javfc2.xyz/watch/fc2ppv-4231959.html), JAVFC2.XYZ, 2024-12-16. (参照 2025-01-02).
 
