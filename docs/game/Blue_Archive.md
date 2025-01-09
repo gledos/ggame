@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2024-10-21T00:33:44"
+date: "2025-01-09T21:38:48"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -682,6 +682,15 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 > ![［简中服］邦妮保安](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_bunny_2_girl_guard_zh.avif){: .off-glb slot="second" }
 > </img-comparison-slider>
 
+### 坦克和谐
+
+早于 2025年1月9日 的未知具体时间，《蔚蓝档案》简中服调整了启动界面动画。
+将伊吕波驾驶坦克的 CG，替换为了美食研究会角色的 CG。[^Bsvh0][^YcEqt]
+
+[^Bsvh0]: [【Blue Archive】All Title Screen(1st pv ~ 4.5th pv)](https://www.youtube.com/watch?v=O5VD8sBsvh0), (2023-08-15). 参照: 2025-01-09. [Online Video].
+
+[^YcEqt]: 是可爱的小星野呀, 《[蔚蓝档案这次国服更新后怎么总是闪退？（是果子手机的问题嘛？）现在烦😡死了](https://www.bilibili.com/video/BV1YXrpYcEqt/)》, 哔哩哔哩, 2025-01-04. (参照 2025-01-09).
+
 ## 其他内容
 
 2023年11月9日，蔚蓝档案相关资料的第三方帐号，「碧蓝档案资讯站」表示自己的直播间被封禁，
@@ -870,6 +879,6 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
     blackredhat 的像素画
     https://danbooru.donmai.us/posts/6840692
     【ブルアカ】
-    「為什麼去奇普托斯當老師？」  
+    「為什麼去奇普托斯當老師？」
     「因為這是我的職責！」
 -->
