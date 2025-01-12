@@ -2,7 +2,7 @@
 title: meme
 description:
 published: true
-date: "2024-12-10T23:10:30"
+date: "2025-01-12T19:21:57"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-21T19:09:19"
@@ -22,6 +22,10 @@ icon: material/human-female-dance
 可以阅读中国数字时代编写的《[「别有用心」是什么梗？为何总与「不明真相」搭配？][tpuott]》。<!-- 2023-10-24 -->
 
 [tpuott]: https://web.archive.org/web/20231025142402/https://chinadigitaltimes.net/chinese/701397.html
+
+「五毛」的相关新闻：
+
++   《[[视频][网络黑帖]发帖无规范 利益滋养“五毛党”](https://web.archive.org/web/20241222142935/http://news.cctv.com/society/20091221/102475.shtml)》, 央视网, 2009-12-21. (参照 2025-01-12).
 
 ## 言论
 

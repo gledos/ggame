@@ -2,7 +2,7 @@
 title: Apple
 description:
 published: true
-date: "2024-06-19T00:12:29"
+date: "2025-01-12T19:21:53"
 tags:
 - apple
 - proxy
@@ -478,6 +478,12 @@ Apple News 具有严格的地区认证，会从 IP 地址和移动运营商信�
 签保证书来解封。在致电 96180 后（联通客服经理电话），得到了：因为打 FaceTime 多了，涉嫌电信诈骗的答复。[^lNlZ7]
 
 [^lNlZ7]: skyrocketing, 《[归属地 0719，中国电信（湖北）因为打 FaceTime 多了涉嫌电诈封号](http://archive.today/2024.06.18-061633/http://webcache.googleusercontent.com/search?q=cache:https://v2ex.com/t/1050130)》, V2EX, 2024-06-17. (参照 2024-06-18).
+
+2024年8月，有用户发现 iMessage 一直无法激活，然后通过 Apple 客服转到高级技术支持。支持直接问是什么运营商，得到是电信后，
+支持说电信现在不行了，中国电信以反诈为理由屏蔽了 iMessage 激活的短信。[^63171] 广东、四川、湖北电信的用户，
+也在评论中表示无法激活。
+
+[^63171]: takeshima, 《[中国电信屏蔽了 iMessage 激活的短信](https://web.archive.org/web/20240807043052/https://www.v2ex.com/t/1063171)》, V2EX／[水深火热](/website/V2EX.md#水深火热), 2024-08-07. (参照 2025-01-12).
 
 ## FaceTime 反诈更新
 
