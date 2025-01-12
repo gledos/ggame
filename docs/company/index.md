@@ -2,7 +2,7 @@
 title: company
 description:
 published: true
-date: "2024-12-13T16:46:00"
+date: "2025-01-12T19:44:05"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-12T21:08:56"
@@ -17,6 +17,11 @@ company 即公司，一些公司相关的内容会被收录到此版块（文件
 可以在 [下方](#条目清单) 查看最近更新的页面，或者到左边的树状列表，进行查看条目。
 
 ## 简易内容
+
+2011年10月，百事可乐取消了一款特殊涂装设计的易拉罐，因为有顾客抱怨其设计像世界贸易中心（双子塔），导致被抵制。
+百事可乐公司对此表示：图像是在呼应迪拜的天际线，任何造成的冒犯都是意外。[^90311]
+
+[^90311]: BEN HARTMAN, 《[Pepsi scraps can after some say it evokes 9/11](https://web.archive.org/web/20230531090311/https://www.jpost.com/Features/In-Thespotlight/Pepsi-scraps-can-after-some-say-it-evokes-911)》, The Jerusalem Post | JPost.com, 2011-12-20. (参照 2025-01-12).
 
 2024年12月9日，<ruby>英伟达<rt>NVIDIA</rt></ruby>因涉嫌违反反垄断法，而被市场监管总局调查。[^81708]
 英伟达方面对此没有立刻回应，期间有自媒体注意到，「英伟达GeForce旗舰店」下架了所有商品，页面显示「抱歉，没有相关宝贝」。
