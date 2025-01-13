@@ -90,7 +90,7 @@ icon: material/file-video
 [^37436]: 李老师不是你老师, 「[8月12日，中国电影报消息，新海诚高分长篇动画《你的名字》延长上映至9月18日，遭大量网民抵制和不满。](https://web.archive.org/web/20250112114818/https://nitter.privacydev.net/whyyoutouzhele/status/1823703318407037436)」, X (formerly Twitter), 2024-08-14. (参照 2025-01-12).
 
 2024年12月，成人电影 FC2PPV-4231959 的墙壁上，被贴上了一个独特的，像「小熊维尼」角色的贴纸。[^31959]
-这似乎是为了试图防止中国人盗版，而使用的「咒语」。就像 YouTuber [叉鸡](/people/Fork_chicken) 一样。
+这似乎是为了试图防止中国人盗版，而使用的「咒语」。就像 YouTuber [叉鸡](/people/Fork_chicken.md) 一样。
 
 [^31959]: Yume Nakata, [FC2PPV 4231959 [LLM sub]](https://web.archive.org/web/20241223084821/https://javfc2.xyz/watch/fc2ppv-4231959.html), JAVFC2.XYZ, 2024-12-16. (参照 2025-01-02).
 
