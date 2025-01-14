@@ -87,9 +87,10 @@ html>div>img {
 */
 
 /*
---md-default-fg-color    文字颜色
---md-default-bg-color    背景颜色
---md-typeset-a-color     链接颜色
+--md-default-fg-color           文字颜色
+--md-default-fg-color--light    文字颜色（浅色）
+--md-default-bg-color           背景颜色
+--md-typeset-a-color            链接颜色
 */
 
 .heimu {
@@ -150,5 +151,17 @@ html>div>img {
     min-width: 2rem !important;
     padding-bottom: 3px !important;
 }
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    让文字降低对比度，算是高亮的反义词。
+*/
+
+.light{
+    color: var(--md-default-fg-color--light);
+    --md-typeset-a-color: var(--md-primary-fg-color--light);
+}
+
 
 /* -------------------- 分割线 -------------------- */
