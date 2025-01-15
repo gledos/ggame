@@ -161,6 +161,7 @@ html>div>img {
 .light{
     color: var(--md-default-fg-color--light);
     --md-typeset-a-color: var(--md-primary-fg-color--light);
+    font-weight: 300;  /* 原本是 400，调低一点字重，更能降低存在感 */
 }
 
 
