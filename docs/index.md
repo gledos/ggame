@@ -2,7 +2,7 @@
 title: 主页
 description: 记录一切和谐游戏
 published: true
-date: "2023-01-02T21:35:00"
+date: "2025-01-16T18:25:20"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-03-18T10:32:32"
@@ -11,7 +11,12 @@ icon: material/home
 
 ## 和谐游戏
 
-这里是收集许多的和谐游戏的百科，点击 [这里][/game] 跳转到游戏板块，然后从左边的树状列表进行查看条目
+这里是收集许多的和谐游戏的百科，点击 [这里][/game] 跳转到游戏板块，然后从左边的树状列表进行查看条目。
+
+ggame 的含义是 GGAME Game Archive Modify Encyclopedia。[^ggame]
+
+[^ggame]: 其实没有什么特别含义，只是 gledos + game = ggame，gg 也表示 good game，有点消极结束游戏的含义。
+（即便 gg 原本是积极的含义）
 
 <!--
 如果需要搜索，可以进入 Github 仓库进行搜索，因为 Mkdocs 内建的搜索功能不适合过大的文档，所以 Mkdocs 搜索功能已关闭。
@@ -64,9 +69,12 @@ icon: material/home
 
 ## 搜索功能
 
-/punish 和 /news_archive 板块的绝大部分内容都被排除了。因为搜索功能的本质是一个包含所有内容的 json 文件，大小为 2 MB 左右，而这些部分的内容只是资料库，并且量大。
+/punish 和 /news_archive 板块的绝大部分内容都被排除了。因为搜索功能的本质,是一个包含所有内容的 json 文件，
+目前大小为 2 MiB 左右（解压后为 10 MiB），如果太大就不利于加载了。
 
-更好的中文分词搜索预计 Material for MkDocs 更新到 10.0.0 版本时就能使用，现在需要给搜索的词语间手动加上空格。
+<!--
+    更好的中文分词搜索预计 Material for MkDocs 更新到 10.0.0 版本时就能使用，现在需要给搜索的词语间手动加上空格。
+-->
 
 ## 联系方式
 
@@ -79,6 +87,7 @@ icon: material/home
 ## 源文件
 
 [这里](https://github.com/gledos/ggame)（Github 仓库）可以查看到所有的条目的 Markdown Raw 文件。
+由 gledos 创作的内容，如果没有另外声明，均为 CC0 许可协议。
 
 ## 游客计数
 
