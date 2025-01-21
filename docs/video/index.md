@@ -2,7 +2,7 @@
 title: video
 description:
 published: true
-date: "2025-01-15T21:50:47"
+date: "2025-01-21T22:52:56"
 特殊标签标记: #介绍与更新页
 tags:
 - diy
@@ -102,6 +102,57 @@ icon: material/file-video
 这似乎是为了试图防止中国人盗版，而使用的「咒语」。就像 YouTuber [叉鸡](/people/Fork_chicken.md) 一样。
 
 [^31959]: Yume Nakata, [FC2PPV 4231959 [LLM sub]](https://web.archive.org/web/20241223084821/https://javfc2.xyz/watch/fc2ppv-4231959.html), JAVFC2.XYZ, 2024-12-16. (参照 2025-01-02).
+
+2025年1月4日，VOCALOID 作者 Atena 发布了作品『踊っチャイナ』。[^g8Xsc] 该作品也被作者发布到了哔哩哔哩，但随后视频被删除，
+帐号也被封禁。（有消息称是 30 天）原因是第 13 秒，出现了一帧小熊维尼以及社会信用评分的 meme：[^91556][^25796]
+
+[^g8Xsc]: 『[【手描き】踊っチャイナ【オリジナル】#meme](https://www.youtube.com/watch?v=-VSM-wg8Xsc)』, (2025-01-04). 参照: 2025-01-21. [Online Video].
+
+[^91556]: Atena, [My Bilibili account got banned due to a frame featuring a bear resembling Winnie the Pooh (...) 私のビリビリのアカウント停止について（中国圏の方向け） Translated by @loqyshchsh47179](https://x.com/atena_fumei/status/1876994529313591556), X (formerly Twitter), 2025-01-08. (参照 2025-01-21).
+
+[^25796]: 李老师不是你老师, 「[一位日本网友表示，因为自己在B站上传的视频中出现了一个小熊维尼的头像，导致账号被封锁。](https://x.com/whyyoutouzhele/status/1877097902960525796)」, X (formerly Twitter), 2025-01-08. (参照 2025-01-21).
+
+> [!quote]+ 『踊っチャイナ』00.13.500
+>
+> <pre style="color: #ffffff;background-color: #000082; font-size: 14px; font-family: aahub; white-space: pre">
+> *** STOP: 0x000001E
+> VIDEO PLAYBACK FAILED　　　　　　　　　　　／￣￣ヽ
+> 　　　　　　　　　　　　　　 　　　　　　/　　　　　 |
+> This video is restricted or　　　　　　　|　　　　　　レ ──── ヽ　　　＿＿
+> unavailable in your region.　　　　　　　|　　　　　　　　　　　　　　　＼／　　　￣ヽ
+> 　　　　　　　　　　　　　　 　　　　　　ヽ　 /　　／　　　　　　　　　　ヽ　　　　 　|
+> Check your social credit　　 　　　　　　　>　　 /　　　　　　　　　　　　　　　　　　/
+> score. If your score is below　　　　　　　/　　　　　　　　　　　　　 　ヽ　　　　 ／
+> the required threshold, the　　　　　　 ／　　　　　　　　　　　　　　　　|　　 |／
+> access for this video is not 　　　　／　　　　　●　　　　　　　　　　　　　　|
+> permitted.　　　　　　　　　　　　　/　　　　　　　 ｒ￣￣￣￣ヽ●　　　 　　|
+> 　　　　　　　　　　　　　　 　　　/　　　　　　　　　 ｒ── ヽ　　　　　 　　ヽ
+> Resolve the issue to regain　　　　|　　　　　　イ　　　＼　　／　　　　　　　　＼
+> access.　　　　　　　　　　　　　　|　　 　　　　|　　　　　￣　　　　 ヽ　　　　　 ヽ
+> 　　　　　　　　　　　　　　 　　　ヽ　　　　　　ヽ　　　 　　　　　／　　　　　　　|
+> 　　　　　　　　　　　　　　　　　　 ヽ　　　　 　　＼＿＿＿_ ／　　　　　　　丿
+> 　　　　　　　　　　　　　　 　　　／＼　　　　　　　＼　__／　　　　　　　 ／ )）
+> 　　　　　　　　　　　　　　　　　＼　ヽヽ　　　　　　　￣ノ　＿＿＿＿／　/丿
+> 　　　　　　　　　　　　　　　　　　/＼ヽヽ　　　　＿＿────────）
+> 　　　　　　　　　　　　　　 　　／ヽ　────　　　 ／シ∠≡≡　　　ノ
+> 　　　　　　　　　　　　　　 　ノ　 　＼＿＿＿　　　／　　／　　　　ヽ／/
+> 　　　　　　　　　　　　　　 ／　　　　　　　　　　／　　／　　　　　 　ヽ |
+> </pre>
+>
+> ＊ 该 ASCII art 来自 [aahub][] 网站。
+
+[aahub]: https://aahub.org/mlt/c46925e0342ab25308edf9425d0c1ef8
+
+随后作者在 X 上表示，自己不知道该 meme 在中国是被禁止的，绝对没有不尊重中国，视频的完整版本将删除该场景。[^91556]
+
+> [!quote]+ Atena 对此事的澄清[^91556]
+>
+> 我的 BiliBili 因为我的视频中有出现一个类似小熊维尼的熊而帐号被锁了，我现在已经了解这个东西在中国是被禁止的，
+> 我要向我的中国观众深深的道歉，我绝对没有意图要不尊重中国。熊有代表轻快的意思，
+> 我深深的反省了自己对于中国文化的理解不足，在接下来的完整版视频里，我会删除这个场景，
+> 并且在未来会更谨慎地对待中国文化和你们的流行元素。
+>
+> 感谢你们的理解和支持。
 
 ## 条目清单
 

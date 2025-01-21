@@ -4,7 +4,7 @@ search:
   exclude: true
 description:
 published: true
-date: "2024-12-26T20:49:11"
+date: "2025-01-21T23:41:38"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-08-14T23:43:59"
@@ -28,6 +28,33 @@ icon: material/pen-lock
 以及其他的小型恒温动物带入矿洞，由于鸟类更敏感，所以这能给矿工增加生存的机会。[^tg]
 
 [^tg]: <https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases>
+
+### 2025年1月21日
+
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+该证明将会一个月更新一次，通常会签名最新的新闻页面。本次更新时间为：2025年1月21日。
+
+gledos 的 PGP 公钥在 Github Gits: <https://gist.github.com/gledos/3dbcd35203d7ec5e12716b9f55beaf17>
+
++   Baker Peter, 《[川普宣誓就任總統，稱將結束「美國的衰落」](https://web.archive.org/web/20250121011220/https://cn.nytimes.com/usa/20250121/trump-inauguration/zh-hant/)》, 紐約時報中文網, 2025-01-21. (参照 2025-01-21).
++   李海, 《[緬甸詐騙園區人口販賣再引華語世界關注，泰國陷入「中轉站」危機](https://web.archive.org/web/20250117230707/https://theinitium.com/article/20250116-whatsnew-thailand-myanmar-telecom-fraud)》, 端傳媒 Initium, 2025-01-16. (参照 2025-01-21).
++   喬納森·赫德（Jonathan Head）, 《[「人間地獄」：被拘留在泰國超過十年的新疆維族逃難者面臨遣返](https://web.archive.org/web/20250121153810/https://www.bbc.com/zhongwen/articles/cwye7glg00no/trad)》, BBC News 中文, 2025-01-21. (参照 2025-01-21).
++   井上亮, 『[中国の無差別殺傷事件の2死刑囚、同日死刑執行 厳罰姿勢示す狙いか](https://web.archive.org/web/20250120125159/https://www.asahi.com/articles/AST1N2CL0T1NUHBI01YM.html)』, 朝日新聞デジタル, 2025-01-20. (参照 2025-01-21).
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZ4/ACQAKCRCZXo6bU2oX
+pFccAP9xECYysWr3Bv/56C9Kzu7lYqbngaZIYexZIdeWvtL7ugEAp1HWAy/gWQ2I
+3xP8cBcuNfNO/v68a8Y0zWgYDKnXegE=
+=F4VQ
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
 
 ### 2024年12月26日
 
@@ -53,8 +80,6 @@ uvP8FeCvfK82jynS8uH8raAEICcHeQc=
 =hv2Q
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年11月28日
 
