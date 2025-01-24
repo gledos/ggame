@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2025-01-09T21:38:48"
+date: "2025-01-24T21:35:58"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -700,6 +700,11 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 ## country 争议
 
+> [!abstract inline end]+ 统计图
+>
+> ![日文 YouTube 频道的统计图截图](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_country_争议_jp.avif)
+> ![英文 YouTube 频道的统计图截图](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_country_争议_en.avif)
+
 2024年10月18日 09:00 UTC，《蔚蓝档案》的国际服官方在 YouTube 频道举办了
 <ruby>三周年纪念直播<rt>Kivotos! ~Live~ 3rd Anniversary</rt></ruby>。[^62405] 但在直播到 44 分钟左右，
 主持人展示了 Most players by country 的统计图，导致引发了争议。
@@ -882,3 +887,34 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
     「為什麼去奇普托斯當老師？」
     「因為這是我的職責！」
 -->
+
+## 第二次 country 争议
+
+> [!abstract inline end]+ 网店咨询截图
+>
+> ![天猫旗舰店咨询截图](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_第二次_country_争议.avif)
+
+2025年1月24日 16 时左右，有玩家在《蔚蓝档案》的天猫旗舰店咨询了商品能否直寄台北，结果客服称不能直邮寄国外。
+随后该截图在玩家社区传播，引发了争议。[^13512]
+
+[^13512]: 嘿嘿713, 《[客服:我曾经有一份工作](https://web.archive.org/web/20250124123550/https://tieba.baidu.com/p/9441213512)》, 百度贴吧／蔚蓝档案吧, 2025-01-24. (参照 2025-01-24).
+
+2025年1月24日 18:11，《蔚蓝档案》网店的官方帐号「基沃托斯百货」，在哔哩哔哩与新浪微博发文，表示旗舰店始终维护领土完整，
+台湾是中华人民共和国领土不可分割的一部分。涉事相关客服我们已做开除处理，未来会加强内部人员的培训，
+杜绝类似事件。最后向<ruby>老师<rt>玩家</rt></ruby>表示歉意。[^44005][^47503][^vDDJ5]
+
+[^44005]: 基沃托斯百货, 《[亲爱的老师您好](https://web.archive.org/web/20250124122928/https://www.bilibili.com/opus/1025964350111744005)》, 哔哩哔哩, 2025-01-24. (参照 2025-01-24).
+
+[^47503]: 基沃托斯百货, 《[亲爱的老师您好](https://arquivo.pt/wayback/20250124125508/https://m.weibo.cn/detail/5126404259447503)》, 新浪微博, 2025-01-24. (参照 2025-01-24).
+
+[^vDDJ5]: 基沃托斯百货, 《[亲爱的老师您好](https://www.weibo.com/7834267204/Pb4TvDDJ5)》, 新浪微博, 2025-01-24. (参照 2025-01-24).
+
+> [!quote]+ 「基沃托斯百货」发布的公告[^44005]
+>
+> 亲爱的老师您好：<br>
+> 蔚蓝档案旗舰店始终坚定不移地维护中国主权和领土完整的立场，台湾是中华人民共和国领土不可分割的一部分。
+>
+> 对于部分老师反馈的蔚蓝档案旗舰店客服的不当回复，我们深表歉意，涉事相关客服我们已做开除处理。
+> 后续我们将进一步加强内部人员的培训，杜绝类似事件再次出现。
+>
+> 再次向各位老师表示歉意。
