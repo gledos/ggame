@@ -892,7 +892,7 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 
 > [!abstract inline end]+ 网店咨询截图
 >
-> ![天猫旗舰店咨询截图](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_第二次_country_争议.avif)
+> ![天猫旗舰店咨询截图<br>内容是「您好 请问这个可以直寄台北吗」「不能哦老师我们不能直邮寄国外的」](https://s3.tebi.io/ggame/ShareX/game_Blue_Archive_第二次_country_争议.avif)
 
 2025年1月24日 16 时左右，有玩家在《蔚蓝档案》的天猫旗舰店咨询了商品能否直寄台北，结果客服称不能直邮寄国外。
 随后该截图在玩家社区传播，引发了争议。[^13512]
