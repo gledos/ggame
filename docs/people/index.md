@@ -314,6 +314,13 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 >
 > 北大马会殷鉴不远，但这个 up 就真的只是拍拍基层生活，何至于此啊
 
+<!--
+    部分视频存档链接：
+    https://web.archive.org/web/20241003042254/https://www.bilibili.com/video/BV1o94y1V7Ko/
+    https://archive.org/details/BiliBili-BV1o94y1V7Ko_p1-1K1V6VB
+    https://archive.org/details/BiliBili-BV1tF411Z7x5_p1-3Z3F2VB
+-->
+
 ## 条目清单
 
 > [!note]+ 最近更新
