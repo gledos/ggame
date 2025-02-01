@@ -272,7 +272,7 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 [^4KY4T]: 走读新生, 《[说“血压不降、麻药不睡、泻药不泻”的郑主任，悄悄注销了账号？](https://web.archive.org/web/20250123084055/https://www.163.com/dy/article/JMJHFSBN0534KY4T.html)》, 网易, 2025-01-23. (参照 2025-01-25).
 
 附言：集采的仿制药，在稍后还曝出大量实验有效性数据相同的情况。[^gx4Sg][^DOFSQ] 药审中心对此表示是编辑错误，
-现已对错误信息进行更正。之后将加强公开信息的审核力度，避免类似问题再次发生。[^bf4e8][^JMMKH]
+现已对错误信息进行更正。之后将加强公开信息的审核力度，避免类似问题再次发生。[^bf4e8][^JMMKH][^55545]
 {: .light }
 
 [^gx4Sg]: 项栋梁, 《[仿制药一致性评价的数据，连小数点后两位都完全一致？](https://web.archive.org/web/20250124125123/https://mp.weixin.qq.com/s/vNoM7gLWpukt98Hcpgx4Sg)》, 微信公众号, 2025-01-24. (参照 2025-01-25).
@@ -283,16 +283,18 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 
 [^JMMKH]: 走读新生, 《[仿制药一致性评价出现数据雷同，原因居然是“登记错了”？](https://web.archive.org/web/20250124161632/https://www.163.com/dy/article/JMMKHKUO0534KY4T.html)》, 网易, 2025-01-24. (参照 2025-01-25).
 
+[^55545]: 马晓华, 《[“仿制药一致性评价大量数据雷同” 是造假？消息人士称导入上传时出错](https://web.archive.org/web/20250125021351/https://www.yicai.com/news/102455545.html)》, 第一财经, 2025-01-24. (参照 2025-02-01).
+
 但随后曝光实验数据相同的文章《仿制药一致性评价大量数据雷同》，[^DOFSQ] 被以涉嫌侵权，而无法查看。
 《国产药涉嫌一致性造假，活干得太糙了》文章，也从微信公众号与网易下架。[^6AV6M][^ebd69]
 并且药物一致性公开信息已无法下载，官网停用了下载功能。[^JXDJA]
 {: .light }
 
-[^JXDJA]: 卸妆君, 《[药物一致性公开信息已无法下载](https://web.archive.org/web/20250125011145/https://mp.weixin.qq.com/s/TwjE4G3o-O2LTToqQJXDJA)》, 微信公众号／翻车志, 2025-01-24. (参照 2025-01-25).
-
 [^6AV6M]: 不正确, 《[国产药涉嫌一致性造假，活干得太糙](https://web.archive.org/web/20250124131655/https://www.163.com/dy/article/JMMGD60U0556AV6M.html)》, 网易, 2025-01-24. (参照 2025-01-25).
 
 [^ebd69]: 「此内容因违规无法查看」「由用户投诉并经平台审核，此内容涉嫌违反相关法律法规和政策，查看[对应规则](http://mp.weixin.qq.com/mp/opshowpage?action=oplaw&id=32&t=operation/faq_index#wechat_redirect)」`https://mp.weixin.qq.com/s?__biz=MzUzNjA0NDY4OA==&mid=2247483939&idx=1&sn=998d10f2a2b0b20635d13c8cae2ebd69&scene=21`
+
+[^JXDJA]: 卸妆君, 《[药物一致性公开信息已无法下载](https://web.archive.org/web/20250125011145/https://mp.weixin.qq.com/s/TwjE4G3o-O2LTToqQJXDJA)》, 微信公众号／翻车志, 2025-01-24. (参照 2025-01-25).
 
 ### 这是个令人疑惑的星球
 

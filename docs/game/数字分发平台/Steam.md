@@ -1,8 +1,8 @@
 ---
 title: Steam
-description: PC 最大的游戏平台，由 Valve 运营
+description:
 published: true
-date: "2025-01-25T23:28:56"
+date: "2025-02-01T22:24:42"
 tags:
 - steam
 - 游戏平台
@@ -22,11 +22,15 @@ dateCreated: "2021-03-18T10:34:26"
 > | 名称 | 🐼 蒸汽平台<br>🗽 Steam                                                                          |
 > | ---- | ------------------------------------------------------------------------------------------------ |
 > | 平台 | :material-microsoft-windows: Microsoft Windows<br>:material-apple: macOS<br>:simple-linux: Linux |
-> | 开发 |                                                                                                  |
+> | 开发 | Valve                                                                                            |
 > | 运营 | Valve                                                                                            |
-> | 时间 |                                                                                                  |
+> | 时间 | 🌐 2003年9月12日<br>🐼 2021年2月9日                                                              |
 >
 > </div>
+
+<!--
+    PC 最大的游戏平台，由 Valve 运营
+-->
 
 Steam 是 Valve 推出的电子游戏数字发行服务平台。2003年9月，Valve 将其作为一款软件客户端推出，提供自动更新游戏的功能，
 这一功能在 2005 年末扩展到了第三方游戏发行商发行的作品。Steam 集合了多种功能，
@@ -130,12 +134,27 @@ Steam 大陆区有严格的色情游戏锁区政策，直接将账号设置偏�
 
 ## 新年特惠活动问题
 
-2024年2月7日，Steam 举办了新年特惠活动，不过名称存在问题。简中界面的文字是：「农历新年、特卖、2024 Chinese New Year」，[^W2HV7]
-但英文界面的的文字是：「Lunar New Year、SALE、2024 Happy New Year」。[^80119]
+2023年1月，蒸汽动力在 Steam 举办了 2023 年的新年特惠活动。简中繁中均显示位「农历新年特卖」，[^10419][^05843]
+只是 URL 仍延续了之前的 `chinesenewyear2023`。但英文页面却显示的是「Chinese New Year Sale 2023」，[^40950]
+数日后才修改为「Lunar New Year Sale」，但仍有部分「Chinese New Year」的字符。[^14322]
+
+[^10419]: 《[农历新年销售2023在蒸汽中国播放100多种折扣游戏](https://web.archive.org/web/20230119010419/https://store.steampowered.com/sale/chinesenewyear2023?l=schinese)》, Steam, 2023-01-19. (参照 2025-02-01). 附言：早期 Internet Archive 存档的标题是英文，之后 Steam 才将页面修改为中文。
+
+[^05843]: 《[2023 年農曆新年特賣](https://web.archive.org/web/20230122105843/https://store.steampowered.com/sale/chinesenewyear2023?l=tchinese)》, Steam, 2023-01-22. (参照 2025-02-01). 附言：Steam 忘记了繁中页面，所以一直是英文标题，这里使用了页面内的描述作为标题。
+
+[^40950]: [Chinese New Year Sale 2023 Went Live on Steam China with 100+ Discounted Games](https://web.archive.org/web/20230118040950/https://store.steampowered.com/sale/chinesenewyear2023), Steam, 2023-01-18. (参照 2025-02-01).
+
+[^14322]: [Chinese New Year Sale 2023 Went Live on Steam China with 100+ Discounted Games](https://web.archive.org/web/20230302214322/https://store.steampowered.com/sale/chinesenewyear2023), Steam, 2023-03-02. (参照 2025-02-01).
+
+2024年2月7日，蒸汽动力在 Steam 举办了 2024 年的新年特惠活动，不过名称存在问题。简中界面的文字是：
+「农历新年、特卖、2024 Chinese New Year」，[^W2HV7]
+但英文界面的的文字是：「Lunar New Year、SALE、2024 Happy New Year」。[^80119] 与繁中的「2024 農曆新年特賣」相同。[^32221]
 
 [^W2HV7]: 《[2024 年农历新年特卖](https://perma.cc/SJ6W-2HV7 "https://store.steampowered.com/sale/lunarnewyear2024?l=schinese")》, Steam, 2024-02-07. (参照 2024-02-09).
 
 [^80119]: [Lunar New Year Sale 2024](https://web.archive.org/web/20240208180119/https://store.steampowered.com/sale/lunarnewyear2024), Steam, 2024-02-07. (参照 2024-02-09).
+
+[^32221]: 《[2024 農曆新年特賣](https://web.archive.org/web/20240218032221/https://store.steampowered.com/sale/lunarnewyear2024?l=tchinese)》, Steam, 2024-02-07. (参照 2025-02-01).
 
 可以看出大部分描述，都是以<ruby>农历新年<rt>Lunar New Year</rt></ruby>为主，但唯有简中使用了 Chinese New Year。
 
@@ -147,10 +166,30 @@ Steam 大陆区有严格的色情游戏锁区政策，直接将账号设置偏�
 附言：Valve 在 2022 年说，将会取消「农历新年特惠」，转而变更为「春季特惠」。[^58401]
 不过 2023 年依然举办了农历新年特惠，然后 2024 年的农历新年特惠举办方是「蒸汽平台」，这点被专门标出，
 打折的游戏主要也是大陆游戏。[^02911]
+{: .light }
 
 [^58401]: Steamworks Development, _[Changes to Four Major Seasonal Steam Sales + Upcoming Seasonal Sale Dates](https://web.archive.org/web/20220927164842/https://steamcommunity.com/groups/steamworks/announcements/detail/3282583269823858401)_, Steam, 2022-09-27. (参照 2024-02-09).
 
 [^02911]: Andy Chalk, _[Surprise! Steam’s Lunar New Year Sale is back](https://web.archive.org/web/20240209102911/https://www.pcgamer.com/steam-lunar-new-year-sale-2024/)_, PC Gamer, 2024-02-06. 参照: 2024-02-09. [Online].
+
+2025年1月，蒸汽动力再次于 Steam 举办了新年特惠。这次简中繁中均是农历新年，总算统一了。[^04948][^30750]
+不过英文页面有些诡异的问题，标题名为「2025 CNY Sale」，[^03457] 并在搜索引擎里能看到「Chinese New Year」的字样，[^ption]
+甚至还有相同字样，精心制作的含有蛇的 CNY 艺术字。[^8720c]
+
+[^04948]: 《[2025农历新年特卖：新春折扣福满门 宝藏游戏迎新春](https://web.archive.org/web/20250127104948/https://store.steampowered.com/sale/lunarnewyear2025?l=schinese)》, Steam, 2025-01-27. (参照 2025-02-01).
+
+[^30750]: 《[2025 農曆新年特賣](https://web.archive.org/web/20250126230750/https://store.steampowered.com/sale/lunarnewyear2025?l=tchinese)》, Steam, 2025-01-27. (参照 2025-02-01).
+
+[^03457]: [2025 CNY Sale: Discounts & Treasures](https://web.archive.org/web/20250127103457/https://store.steampowered.com/sale/lunarnewyear2025), Steam, 2025-01-27. (参照 2025-02-01).
+
+[^ption]: 可在网页源码里找到 `<meta name="Description" content="Steam China invites you to celebrate the 2025 Year of the Snake with a Chinese New Year Sale! ……` 这样的内容。
+
+[^8720c]: <https://web.archive.org/web/20250201150232/https://clan.cloudflare.steamstatic.com/images/45195660/62d764fcf6160089773d0c42c85b9f5bfbe8720c.png>
+
+附言：日本的新年叫做「[旧正月](https://ja.wikipedia.org/wiki/旧正月)」。[^03930]
+{: .light }
+
+[^03930]: 『[2025年旧正月セール：割引＆お年玉](https://web.archive.org/web/20250127103930/https://store.steampowered.com/sale/lunarnewyear2025?l=japanese)』, Steam, 2025-01-26. (参照 2025-02-01).
 
 ### 相似情况
 
