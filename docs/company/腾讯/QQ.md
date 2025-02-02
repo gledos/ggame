@@ -2,7 +2,7 @@
 title: QQ
 description:
 published: true
-date: "2023-09-14T14:20:12"
+date: "2025-02-02T21:04:06"
 tags:
 - 即时通讯
 - 腾讯
@@ -14,20 +14,21 @@ dateCreated: "2021-06-02T03:46:58"
 
 <!--ICQ-Like 即时通讯软件-->
 
-> [!summary inline end]+ QQ
+> [!summary inline end]+ 元数据
 >
-> ![QQ黑色logo](https://s3.tebi.io/ggame/company/腾讯/QQ/qq-3.webp)[^logo]
+> ![QQ 黑色 logo<br>https://worldvectorlogo.com/logo/qq-3](https://s3.tebi.io/ggame/company/腾讯/QQ/qq-3.webp "https://worldvectorlogo.com/logo/qq-3")
 >
-> ```yaml
-> 名称: QQ
-> 曾用名:
-> - OICQ
-> - QICQ
-> 类型: 即时通讯软件
-> 推出时间: 1999年2月11日
-> ```
-
-[^logo]: <https://worldvectorlogo.com/logo/qq-3>
+> <div markdown=1 class="infobox">
+>
+> | 名称     | QQ                                                                                               |
+> | -------- | ------------------------------------------------------------------------------------------------ |
+> | PC 平台  | :material-microsoft-windows: Microsoft Windows<br>:material-apple: macOS<br>:simple-linux: Linux |
+> | 手机平台 | :material-apple-ios: iOS<br>:material-android: Android                                           |
+> | 开发     | 腾讯                                                                                             |
+> | 曾用名   | OICQ<br>QICQ                                                                                     |
+> | 时间     | 1999年2月11日                                                                                    |
+>
+> </div>
 
 腾讯 QQ 是模仿 ICQ 的即时通讯软件，曾经叫做 OICQ，后来成为了大陆使用者最多的桌面版即时通讯软件。
 
@@ -87,10 +88,23 @@ dateCreated: "2021-06-02T03:46:58"
 
 ## 暂停小世界
 
-2023年9月13日，国家网信办指导广东省网信办，依据《[未成年人保护法](/rule/普通法律/中华人民共和国未成年人保护法.md)》第一百二十七条，责令腾讯暂停「小世界」版块信息更新 30 日，没收违法所得并处 100 万元罚款。[^33311]
+2023年9月13日，国家网信办指导广东省网信办，
+依据《[未成年人保护法](/rule/普通法律/中华人民共和国未成年人保护法.md)》第一百二十七条，
+责令腾讯暂停「小世界」版块信息更新 30 日，没收违法所得并处 100 万元罚款。[^33311]
 
 [^33311]: 网信中国, 《[网信部门依法查处腾讯QQ危害未成年人身心健康违法案件](https://web.archive.org/web/20230913133311/https://mp.weixin.qq.com/s/YHUpyS1fOQX19u4_G_QvMQ)》, 微信公众号, 2023-09-13. (参照 2023-09-14).
 
-腾讯在两分钟后就发出了「诚恳接受、坚决执行」的公告。[^g2NOg] 这件事与同一天发生的，「[封禁 AI 绘画](/software/llm.md#封禁-ai-绘画)」可能存在潜在联系，因为 QQ 小世界含有 AI 画匠功能。
+腾讯在两分钟后就发出了「诚恳接受、坚决执行」的公告。[^g2NOg] 这件事与同一天发生的，
+「[封禁 AI 绘画](/software/llm.md#封禁-ai-绘画)」可能存在潜在联系，因为 QQ 小世界含有 AI 画匠功能。
 
 [^g2NOg]: QQ安全中心, 《[公告](https://web.archive.org/web/20230913133713/https://mp.weixin.qq.com/s/qgbyd2gDsZlKfsBnNg2NOg)》, 微信公众号, 2023-09-13. (参照 2023-09-14).
+
+## 小世界疑似出现审查漏洞
+
+2025年2月1日 凌晨，腾讯 QQ 小世界疑似出现严重审查漏洞，大量六四等敏感内容突然出现，随后逐渐被清空。[^44315][^36760][^27609]
+
+[^44315]: 李老师不是你老师, 「[2月1日凌晨，腾讯QQ小世界疑似出现严重审查漏洞，突然出现大量六四，辱……](https://x.com/whyyoutouzhele/status/1885455520620044315)」, X (formerly Twitter), 2025-01-31. (参照 2025-02-02).
+
+[^36760]: 钟锦隆, 《[騰訊平台疑審查漏洞 出現大量六四內容](https://cn4.rti.tw/news/view/id/2236760)》, Rti 中央廣播電臺, 2025-02-01. (参照 2025-02-01).
+
+[^27609]: RTI, 《[腾讯突然出现大量六四内容](https://web.archive.org/web/20250202130611/https://news.creaders.net/china/2025/02/01/2827609.html)》, 万维读者网, 2025-02-01. (参照 2025-02-02).
