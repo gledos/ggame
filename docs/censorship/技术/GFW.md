@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2024-04-11T17:43:53"
+date: "2025-02-10T22:45:28"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -162,6 +162,25 @@ GFW 修改内容为 a28z，也许有些多此一举，应该可以无感知的�
 并且 Steam 的网络劣化也消失了（仅指 store.steampowered.com）。[^916909]
 
 [^916909]: XIU2, 《[Steam、Github 域名疑似已解除 SNI 干扰（已无法复现），可以正常链接了？](https://web.archive.org/web/20230217093733/https://www.v2ex.com/t/916909)》, V2EX, 2023-02-17. (参照 2023-02-17).
+
+### Greasy Fork
+
+2017年10月2日，知名用户脚本 ([userscript](https://en.wikipedia.org/wiki/Userscript)) 分享网站 Greasy Fork，
+被发现无法在大陆打开。于是有用户认为 Greasy Fork 被封锁，但也有人认为是 `ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js` 被墙，
+所以导致网站需要很久才能打开。[^56219]
+
+[^56219]: hacker6, 《[中国的greasyfork被墙了吗，打不开了啊，所有地区都打不开了](https://web.archive.org/web/20250210133851/https://greasyfork.org/en/discussions/greasyfork/56219-中国的greasyfork被墙了吗-打不开了啊-所有地区都打不开了)》, Greasy Fork Discussions, 2017-10-02. (参照 2025-02-10).
+
+> [!note]+ 关于油猴
+>
+> 更常见的称呼是油猴脚本，之所以使用油猴代之，[可能](https://sspai.com/post/68574) 是因为最初流行的插件，
+> 名为 Greasymonkey（油腻猴子），之后即使出现了 Violentmonkey（暴力猴），也没有撼动这个脚本类型的名称。
+
+2025年2月6日，Greasy Fork 再次被发现无法在大陆开启。这次经验丰富的用户发现，网站遭到了 [SNI 封锁](#sni)，
+以及 [DNS 污染](/censorship/技术/DNS_污染.md)。[^78992] 被封原因尚不明确，也许是上面有各种自动刷题的脚本、
+去广告的脚本，亦或是含有敏感词的脚本。
+
+[^78992]: letsgogogo, 《[greasyfork.org 已被中国封锁！](https://greasyfork.org/zh-CN/discussions/greasyfork/278992-greasyfork-org-已被中国封锁)》, Greasy Fork Discussions, 2025-02-06. (参照 2025-02-10).
 
 ## 没有使出全力的 GFW
 
