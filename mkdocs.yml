@@ -162,6 +162,9 @@ plugins:
     # - encryption/*
 - tags:
     tags_file: tags.md
+    # 新功能 `<!-- material/tags -->` 没法使用…… https://squidfunk.github.io/mkdocs-material/plugins/tags/#config.tags_file
+    # 所以暂时沿用这个被弃用的定义页面……
+    tags_slugify_format: "{slug}"
 - callouts:               # 微软风格的 admonition     https://github.com/sondregronas/mkdocs-callouts
     breakless_lists: false
 - abs-to-rel              # 绝对路径转相对路径        https://pypi.org/project/mkdocs-abs-rel-plugin/
