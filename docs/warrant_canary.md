@@ -29,6 +29,24 @@ icon: material/pen-lock
 
 [^tg]: <https://en.wikipedia.org/wiki/Sentinel_species#Toxic_gases>
 
+```markdown
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+GGAME Warrant Canary
+
+未来不会每月更新令状金丝雀了，原因是缺乏时间。原因可查看 Telegram 频道信息：<https://t.me/gledos_microblogging/2137>
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQTn7Ffb3i/H2AScIeZXo6bU2oXpAUCZ8JBGAAKCRCZXo6bU2oX
+pE4DAQC6oWaNwz1b72BmLTbs4ZKWMEMvH2j1d1JnvXCauiWlkwD/R2znPlCWZmLr
+UTSgVGTUdEAf+8A4qsuOR3frDIaMCgk=
+=IpWt
+-----END PGP SIGNATURE-----
+```
+
+## 过去的令状金丝雀
+
 ### 2025年1月21日
 
 ```markdown
@@ -53,8 +71,6 @@ pFccAP9xECYysWr3Bv/56C9Kzu7lYqbngaZIYexZIdeWvtL7ugEAp1HWAy/gWQ2I
 =F4VQ
 -----END PGP SIGNATURE-----
 ```
-
-## 过去的令状金丝雀
 
 ### 2024年12月26日
 
