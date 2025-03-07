@@ -391,6 +391,13 @@ plugins:
       "anti-censorship/Trojan-Qt5.md": "anti-censorship/VPN/Trojan_Qt5.md"
       "technology/VPN.md": "anti-censorship/VPN/index.md"
 
+      # DNS 相关
+      "anti-censorship/DNS加密/红鱼_DNS.md": "technology/DNS.md#红鱼-dns"
+      "anti-censorship/DNS加密/DNS666.md": "technology/DNS.md#dns666"
+      "anti-censorship/DNS加密/iQDNS.md": "technology/DNS.md#iqdns"
+      "censorship/技术/DNS污染.md": "censorship/技术/DNS_污染.md"
+      "company/Samsung/HK_Phone.md": "company/Samsung/index.md#dns-问题"
+
       # 重定向 book 到 text
       "book/「苏联相关」.md": "text/index.md#苏联相关"
       "book/~大家学系列口袋书.md": "text/~大家学系列口袋书.md"
@@ -417,7 +424,6 @@ plugins:
       # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "blocklist/文化部查处6款违法网络游戏和6家网络游戏运营商.md": "blocklist/文化部办公厅关于查处第一批违法网络游戏的通知.md"
-      "censorship/技术/DNS污染.md": "censorship/技术/DNS_污染.md"
       "censorship/技术/TCP重置攻击.md": "censorship/技术/TCP_重置攻击.md"
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
@@ -426,9 +432,8 @@ plugins:
       "company/Microsoft/Xbox_One.md": "company/Microsoft/xbox.md"
       "company/Pixiv.md": "company/pixiv.md"
       "company/Samsung/三星_Galaxy_Z_系列.md": "company/Samsung/index.md#修改-z-系列名称"
-      "company/Samsung/HK_Phone.md": "company/Samsung/index.md#dns-问题"
       "company/Sony/PSN.md": "company/Sony/playstation.md#psn"
-      "game/惩戒魅魔.md": "game/index.md#she_will_punish_them"
+      "game/惩戒魅魔.md": "game/index.md#惩戒魅魔"
       "game/禁止快递游戏光盘.md": "serviceprovider/快递.md"
       "game/塞尔达传说_旷野之息.md": "company/任天堂/switch.md#游戏送审失败"
       "game/噬梦者.md": "game/大陆色情游戏.md"
