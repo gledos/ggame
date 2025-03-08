@@ -22,6 +22,7 @@ docs/src/*
 docs/src/**
 docs/templates/*
 docs/unclear/女性相关词语的污名化情况.md
+mkdocs_local.yml
 rm0.bat
 run_o.bat
 run_o.yml

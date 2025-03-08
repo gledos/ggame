@@ -181,6 +181,7 @@ plugins:
     - "mkdocs/本地/*"
     - "src/_HD_/*"
     - "templates/*"
+    - "kanban.md"
     # regex:
     # - '.*\.(tmp|bin|tar)$'
 - blogging:
