@@ -371,7 +371,7 @@ plugins:
       # Apple
       "company/Apple/flag_emoji.md": "company/Apple/index.md#flag_emoji"
 
-      # 合并人物
+      # 合并人物（people）
       "people/蔡依林.md": "people/index.md#蔡依林"
       "people/罗翔.md": "people/index.md#罗翔"
       "people/马薇薇.md": "people/index.md#马薇薇"
@@ -379,6 +379,9 @@ plugins:
       "people/严歌苓.md": "people/index.md#严歌苓"
       "people/张煜.md": "people/index.md#张煜"
       "people/钟秀勇.md": "people/index.md#钟秀勇"
+
+      # 合并视频（video）
+      "video/鹿鼎记(1998).md": "video/index.md#鹿鼎记1998-年陈小春版"
 
       # VPN 相关
       "anti-censorship/网际飞梭.md": "anti-censorship/VPN/网际飞梭.md"
