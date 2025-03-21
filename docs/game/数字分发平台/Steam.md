@@ -1,14 +1,14 @@
 ---
 title: Steam
-description:
+description: 
 published: true
-date: "2025-02-01T22:24:42"
+date: 2025-03-21T13:22:11
 tags:
-- steam
-- 游戏平台
-- 地图
+  - steam
+  - 游戏平台
+  - 地图
 editor: markdown
-dateCreated: "2021-03-18T10:34:26"
+dateCreated: 2021-03-18T10:34:26
 ---
 
 ## 简介
@@ -191,23 +191,7 @@ Steam 大陆区有严格的色情游戏锁区政策，直接将账号设置偏�
 
 [^03930]: 『[2025年旧正月セール：割引＆お年玉](https://web.archive.org/web/20250127103930/https://store.steampowered.com/sale/lunarnewyear2025?l=japanese)』, Steam, 2025-01-26. (参照 2025-02-01).
 
-### 相似情况
-
-2025年1月，茶饮品牌霸王茶姬在社交媒体上发文庆祝新年。但其在 Instagram 上使用了「Lunar New Year」，[^93204]
-与微信公众号、新浪微博上的「Chinese New Year」不同。所以引发了争议。
-
-随后霸王茶姬修改了 Instagram 的表述为「Chinese New Year」，并在微信公众号与新浪微博的评论区澄清：[^27390][^93571]
-
-[^93204]: ITBEAR, 《[霸王茶姬社媒春节英文表述引争议，已改Chinese New Year，网友呼吁道歉](https://web.archive.org/web/20250125025054/http://www.itbear.com.cn/html/2025-01/693204.html)》, ITBear科技资讯, 2025-01-24. (参照 2025-01-25).
-
-[^27390]: 拾柒, 《[海外文案将春节写成Lunar New Year！网红奶茶霸王茶姬深夜紧急道歉](https://web.archive.org/web/20250125055012/https://news.mydrivers.com/1/1027/1027390.htm)》, 快科技, 2025-01-25. (参照 2025-01-25).
-
-[^93571]: 界面快报, 《[霸王茶姬就“春节”翻译不当致歉](https://web.archive.org/web/20250125053458/https://www.jiemian.com/article/12293571.html)》, 界面新闻, 2025-01-24. (参照 2025-01-25).
-
-> [!quote]+ 霸王茶姬 CHAGEE[^27390]
+> [!note]+ 相似情况
 >
-> 茶友们，晚上好！全球华人庆祝春节的心情是一样的，现在 CHAGEE 的
-> 全球媒介团队由来目十多个国家的伙伴共同组成，很抱歉我们没有拉齐海外在地团队对「春节」
-> 的翻译使用更一致的说法，我们后续会加强对海外账户的管理和沟通，确保表达内容的准确性。
-
-但是霸王茶姬没有致歉，没有单独发一条消息，也没有在 Instagram 发文，所以被认为缺乏诚意。[^27390]
+> 2025年1月，茶饮品牌 [霸王茶姬](/company/霸王茶姬.md) 在社交媒体上发文庆祝新年。
+> 但其在 Instagram 上使用了「Lunar New Year」，与微信公众号、新浪微博上的「Chinese New Year」不同。所以引发了争议。
