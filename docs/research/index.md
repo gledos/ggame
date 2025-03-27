@@ -2,7 +2,7 @@
 title: research
 description:
 published: true
-date: "2021-09-12T21:51:49"
+date: "2025-03-26T22:54:57"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-09-12T21:51:49"
@@ -41,3 +41,19 @@ research 即研究，一些审查相关的研究，会被收录到此版块（�
 > [!abstract]+ 科学上网指南、教程
 >
 > +   毒药, 《[一份不负责任的机场使用手册（转载）](https://web.archive.org/web/20201029221853/https://www.duyaoss.com/archives/1086/)》, DuyaoSS-机场测速和简介, 2018-03-15. (参照 2024-05-03).
+
+## 其它（非审查研究）
+
+胡立刚团队与湖南省妇幼保健院彭湘莲团队合作，研究了北京和长沙地区产妇脐带血的锂含量。[^12959]
+结果北京浓度高了近 20 倍，但无法找到暴露源，之后财新网和环生实验室删除了相关报道，[^24739][^50317] 可能不会有后续研究了吧。
+
+[^12959]: Yu Li 等, [Lithium Levels in Umbilical Cord Blood from Two Cities in China: Indicating Unidentified Sources of Human Exposure](http://doi.org/10.1021/acs.est.4c12959), _Environ. Sci. Technol._, vol. 59, no. 9, 4344–4351, 2025年3月, doi: 10.1021/acs.est.4c12959.
+
+[^24739]: 《[胡立刚团队发现北京地区脐带血中锂浓度显著偏高暴露源尚待确认](https://web.archive.org/web/20250304135918/https://et.rcees.ac.cn/kydt/202502/t20250228_824739.html)》, 环境化学与生态毒理学国家重点实验室, 2025-02-28. (参照 2025-03-26).
+
+[^50317]: 杨眉, 《[研究显示：北京孕妇脐带血锂浓度超高而暴露源不明](https://web.archive.org/web/20250318054532/https://www.rfi.fr/cn/专栏检索/环境与发展/20250317-研究显示-北京孕妇脐带血锂浓度超高而暴露源不明)》, RFI - 法国国际广播电台, 2025-03-17. (参照 2025-03-26).
+
+附言：2024年7月，北京现存 4318 家动力蓄电池回收相关企业，是全国回收企业第一多的城市。[^46971]
+{: .light }
+
+[^46971]: admin, 《[国内现存锂电池回收相关企业超14万家](https://web.archive.org/web/20250117101013/http://www.li-b.cn/post/46971.html)》, 锂电网, 2024-07-05. (参照 2025-03-26).
