@@ -2,7 +2,7 @@
 title: MIUI
 description:
 published: true
-date: "2025-03-22T15:32:50"
+date: "2025-03-27T23:17:45"
 tags:
 - operating-system
 - dns
@@ -975,4 +975,11 @@ Android 系统里存在「设备名称」这个配置，它会作为蓝牙、Wi-
 2024年7月13日，有人测试 vivo 手机设置手机名为「小学博士」，结果系统提示「名称包含敏感词，请重新输入。」
 小米手机同样不允许，提示的是「请重新修改设备名称」，Root 后禁用系统的远程服务，才能正常修改。[^08909]
 
-[^08909]: 李老师不是你老师, 「[网友投稿](https://web.archive.org/web/20240804095414/https://nitter.privacydev.net/whyyoutouzhele/status/1812118888127008909)」, X (formerly Twitter), 2024-07-13. (参照 2024-08-04).
+[^08909]: 李老师不是你老师, 「[网友投稿](https://nitter.privacydev.net/whyyoutouzhele/status/1812118888127008909)」, X (formerly Twitter), 2024-07-13. ([Internet Archive 存档](https://web.archive.org/web/20240804095414/https://nitter.privacydev.net/whyyoutouzhele/status/1812118888127008909) 2024-08-04).
+
+## AI 修图审查
+
+2024年11月，有华为手机用户发现，手机自带的 AI 消除功能，无法消除国旗并提示「此图无法使用消除功能」。
+也小米和 OPPO 用户表示自己遇到了类似的情况。
+
+[^EC908]: 刘育良, 《[用中国手机的代价 连AI修图都强制你爱祖国](https://web.archive.org/web/20250327135252/https://nextapple.com.sg/international/20241130/9ED770507820627FC6F2968002BEC908)》, 壹蘋新聞網, 2024-11-30. (参照 2025-03-27).
