@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2025-01-24T21:35:58"
+date: "2025-04-01T23:44:58"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -918,3 +918,56 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 > 后续我们将进一步加强内部人员的培训，杜绝类似事件再次出现。
 >
 > 再次向各位老师表示歉意。
+
+## 王小桃种族主义梗
+
+2025年3月28日，知名 YouTube Speed 在中国直播后，观察者网发文转述了直播评论「他直播 6 个小时，
+粉碎了西方几十年反华宣传谎言」。并称直播中，没有剪辑，不带任何修饰。[^HcWwW]
+
+[^HcWwW]: 阮佳琪（观察者网）, 《[美国顶流网红游中国爆火，“他直播6个小时，粉碎了西方几十年反华宣传谎言”](https://news.ifeng.com/c/8i6D19HcWwW)》, 凤凰网, 2025-03-28. ([Internet Archive 存档](https://web.archive.org/web/20250401141602/https://news.ifeng.com/c/8i6D19HcWwW) 2025-04-01, 参照 2025-04-01).
+
+2025年3月31日，知名 YouTube Speed 在成都直播时，遇到有人当面说出种族主义的话语：[^30442][^17035]
+
+[^30442]: Shreyan Mukherjee, [IShowSpeed left shocked after fan calls herself "n****r killer" during IRL stream in Chengdu, China](https://www.sportskeeda.com/us/streamers/news-ishowspeed-left-shocked-fan-calls-n-r-killer-irl-stream-chengdu-china), sportskeeda, 2025-03-31. ([Internet Archive 存档](https://web.archive.org/web/20250401030442/https://www.sportskeeda.com/us/streamers/news-ishowspeed-left-shocked-fan-calls-n-r-killer-irl-stream-chengdu-china) 2025-04-01).
+
+[^17035]: 既要又要还要, 《[【网络民议】“Speed展现了一个没有剪辑和滤镜的真实中国”](https://chinadigitaltimes.net/chinese/717035.html)》, 中国数字时代, 2025-04-01. ([Internet Archive 存档](https://web.archive.org/web/20250401095542/https://chinadigitaltimes.net/chinese/717035.html) 2025-04-01, 参照 2025-04-01).
+
+> [!quote]+ Cos 为《蔚蓝档案》里的才羽桃井的人
+>
+> I am racist. I am a N-Word killer, I'm so sorry about that. I love your girlfriend because your girlfriend is white
+> people. I love her.
+
+> [!quote]+ Speed
+>
+> What? Wait, I don't think you understand what you are saying. Do you speak English?
+
+> [!quote]+ Cos 为才羽桃井的人
+>
+> Yes, I am racist.
+
+> [!quote]+ Speed
+>
+> What? What the fuck? Bro, hell no, what the fuck? What is she saying? What!"
+
+稍后蔚蓝档案的腾讯频道全体禁言了一段时间，并发布了公告，表示有同人创作违反了《〈蔚蓝档案〉同人创作指引v1.0》。[^06541]
+
+[^06541]: 蔚蓝档案, 《[《蔚蓝档案》同人创作指引v1.0](https://www.bilibili.com/opus/815150433068646440)》, 哔哩哔哩, 2023-07-06. ([Internet Archive 存档](https://web.archive.org/web/20240618232210/https://www.bilibili.com/read/cv24806541/) 2024-06-18, 参照 2025-04-01).
+
+> [!quote]+ 蔚蓝档案在腾讯频道的公告[^34995]
+>
+> 各位老师晚上好呀～
+>
+> 我们有留意到近期部分用户在进行二创行为时，违反了【《蔚蓝档案》同人创作指引 v1.0】创对于相关行为，官方将保留诉讼权力
+>
+> 各位老师在日常讨论的同时，请注意不要将个人行为上升至集体
+>
+> 对于继续讨论相关内容的老师，我们视情况将进行删帖、禁言等操作
+>
+> 感谢各位老师的理解
+
+[^34995]: kerycheng (甚麼都不想做的凱瑞), 《[[檔案] 中國檔案：有老師違反同人創作規定](https://web.archive.org/web/20250401151149/https://www.pttweb.cc/bbs/C_Chat/M.1743434995.A.780)》, PTTweb.cc, 2025-03-31. (参照 2025-04-01).
+
+这应该是指将要移除《蔚蓝档案》里，才羽桃井有关种族主义的二次创作。在二次创作中，才羽桃井是个歧视深色皮肤，
+经常说 N-Word 的人。[^80730]
+
+[^80730]: [Saiba Momoi (Meme)](https://villainsfanon.fandom.com/wiki/Saiba_Momoi_(Meme)), Villains Fanon Wiki, 2025-04-01. ([Internet Archive 存档](https://web.archive.org/web/20250313180730/https://villainsfanon.fandom.com/wiki/Saiba_Momoi_(Meme)) 2025-03-13, 参照 2025-04-01).
