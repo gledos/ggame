@@ -2,7 +2,7 @@
 title: GitHub
 description:
 published: true
-date: "2024-08-18T23:47:37"
+date: "2025-04-15T23:59:55"
 tags:
 - github
 - gfw
@@ -218,3 +218,38 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 [^qD5xo]: [github.com HTTP Test](https://ghostarchive.org/archive/qD5xo "https://boce.aliyun.com/detect/http/4c020e9f7f0f4f56ab2686f90a5987d1"), 阿里云网站运维检测平台, 2024-02-21. (参照 2024-02-22).
 
 [^odcrM]: [github.com HTTP Test](https://web.archive.org/web/20240222031149/https://boce.aliyun.com/detect/http/c266725cc83e48488dedea180cab3873), 阿里云网站运维检测平台, 2024-02-22.
+
+## 大陆无法连接的一天
+
+2025年4月13日 上午，大陆 IP 访问 GitHub 且未登录时，高概率会出现「Access to this site has been restricted」提示，
+也就是访问受限的意思。[^25154][^82752]
+
+[^25154]: [Access to this site has been restricted · community · Discussion #156515](https://github.com/orgs/community/discussions/156515), GitHub, 2025-04-13. ([Internet Archive](https://web.archive.org/web/20250413135923/https://v2ex.com/t/1125154), 参照 2025-04-15).
+
+[^82752]: github.com GET 测试结果, 17CE, 2025-04-13. ([Internet Archive](https://web.archive.org/web/20250413050541/https://www.17ce.com/site/http/20250413_0a9bd740182411f0b3e2f1f3d5982752:1.html), 参照 2025-04-15).
+
+搜索「Access to this site has been restricted」之后，会发现未登录的情况下，对 GitHub 的请求过多也会出现，
+属于防滥用功能。[^stoh4] 考虑到 2015 年，GFW 对 GitHub 进行了 5 天的持续攻击（[大炮][]），所以现在又出现了网络攻击，
+亦或是 GitHub 的防滥用功能出错了？
+
+[^stoh4]: BrockPlaysFortniteYT, [Access to github denied?](https://www.reddit.com/r/AskProgramming/comments/12stoh4/access_to_github_denied/), r/AskProgramming, 2023-04-20. (参照 2025-04-15).
+
+[大炮]: https://zh.wikipedia.org/zh-tw/大炮_(网络攻击工具)
+
+关于「源代码禁运」的可能性，有伊朗用户分享了篇文章。[^2cb74] 其中详细描述了被封禁的过程，首先是收到邮件信息，
+告知帐号被限制。然后虽然能够正常打开 GitHub 网页，但访问自己的私有仓库时，会显示「This repository has been disabled」，
+并在个人主页上挂出横幅，表示该帐号由于美国贸易管制法而被限制。
+
+[^2cb74]: Hamed, [GitHub blocked my account and they think I’m developing nuclear weapons](https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74), Medium, 2020-10-11. ([Internet Archive](https://web.archive.org/web/20190725170128/https://medium.com/@hamed/github-blocked-my-account-and-they-think-im-developing-nuclear-weapons-e7e1fe62cb74), 参照 2025-04-15).
+
+虽然不排除未来出现「源代码禁运」的可能，但目前的情况来看，最大的可能，还是 GitHub 的防滥用功能被触发了吧。
+至于是故障还是遭到「大炮」攻击，还需要看 GitHub 的回应。
+
+2025年4月13日 晚间，GitHub 修复了故障，稍后发布了错误报告，原因是「配置更改造成了意外影响」。
+后续似乎还更新了处理问题速度过慢的原因「在此期间，来自中国的所有匿名请求中，高达 4 % 未成功。」[^9swln]
+
+[^9swln]: [[Retroactive] Access from China temporarily blocked for users that were not logged in](https://www.githubstatus.com/incidents/jfvgcls9swln), Incident Report for GitHub, 2025-04-13. ([Internet Archive](https://web.archive.org/web/20250415151051/https://www.githubstatus.com/incidents/jfvgcls9swln), 参照 2025-04-15).
+
+2025年4月15日，GitHub 又出现故障，将 Safari 浏览器给拦截了，好在不到一小时就解决了该问题。[^bghdy]
+
+[^bghdy]: [Disruption with some GitHub services for Safari Users](https://www.githubstatus.com/incidents/0r3t35cbghdy), GitHub, 2025-04-15. ([Internet Archive](https://web.archive.org/web/20250415145733/https://www.githubstatus.com/incidents/0r3t35cbghdy), 参照 2025-04-15).
