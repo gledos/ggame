@@ -330,6 +330,7 @@ plugins:
       "movement/2020清朗专项行动.md":                          "activities/清朗系列行动.md"
       "movement/清朗·互联网用户账号运营乱象专项整治行动.md":   "activities/清朗系列行动.md"
       "movement/清朗·暑期未成年人网络环境整治.md":             "activities/清朗系列行动.md"
+
       # 合并清朗相关
       "activities/清朗/2020清朗专项行动.md":                                              "activities/清朗系列行动.md"
       "activities/清朗/2024-年清朗系列专项行动.md":                                       "activities/清朗系列行动.md"
@@ -337,7 +338,6 @@ plugins:
       "activities/清朗/清朗·互联网用户账号运营乱象专项整治行动.md":                       "activities/清朗系列行动.md"
       "activities/清朗/清朗·商业网站平台和_自媒体_违规采编发布财经类信息专项整治工作.md": "activities/清朗系列行动.md"
       "activities/清朗/清朗·暑期未成年人网络环境整治.md":                                 "activities/清朗系列行动.md"
-
 
       # 反诈相关
       "company/Microsoft/aka.ms.md":            "censorship/国家反诈中心.md#错误情况"
@@ -463,6 +463,7 @@ plugins:
       "text/「苏联相关」.md": "text/index.md#苏联相关"
       "theme/书籍审查主题.md": "text/index.md"
       "unclear/禁止兽人.md": "unclear/禁止人外.md"
+      "video/樱子小姐的脚下埋着尸体.md": "website/哔哩哔哩弹幕网.md#樱子小姐的脚下埋着尸体"
       "website/立场新闻.md": "company/立场新闻.md"
       "website/面包多.md": "censorship/技术/clienthold.md"
       "website/新浪博客.md": "company/新浪/新浪博客.md"

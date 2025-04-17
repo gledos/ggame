@@ -2,7 +2,7 @@
 title: GitHub
 description:
 published: true
-date: "2025-04-15T23:59:55"
+date: "2025-04-17T12:38:02"
 tags:
 - github
 - gfw
@@ -221,8 +221,10 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 
 ## 大陆无法连接的一天
 
-2025年4月13日 上午，大陆 IP 访问 GitHub 且未登录时，高概率会出现「Access to this site has been restricted」提示，
-也就是访问受限的意思。[^25154][^82752]
+2025年4月13日 03:58，[^25154] 大陆 IP 访问 GitHub 且未登录时，
+高概率会出现「Access to this site has been restricted」提示，也就是访问受限的意思。[^25154][^82752]
+
+[^25154]: SpaceTimee, 《[Github 主动屏蔽事件全记录及其绕过](https://v2ex.com/t/1125154)》, V2EX, 2025-04-13. ([Internet Archive](https://web.archive.org/web/20250414054419/https://v2ex.com/t/1125154), 参照 2025-04-17).
 
 [^25154]: [Access to this site has been restricted · community · Discussion #156515](https://github.com/orgs/community/discussions/156515), GitHub, 2025-04-13. ([Internet Archive](https://web.archive.org/web/20250413135923/https://v2ex.com/t/1125154), 参照 2025-04-15).
 
