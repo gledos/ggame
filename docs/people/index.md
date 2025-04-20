@@ -6,6 +6,8 @@ date: "2025-03-20T22:44:35"
 特殊标签标记: #介绍与更新页
 tags:
 - 新浪微博
+- youtuber
+- roc_flag
 editor: markdown
 dateCreated: "2021-08-12T21:09:51"
 exclude_from_blog: true
@@ -49,6 +51,23 @@ people 即人物，一些人物、昵称或者一些组织。会被收录到此�
 [^93611]: Josh Chin, 《[天安门效应：“大黄鸭”成搜索敏感词](https://web.archive.org/web/20130608172806/http://cn.wsj.com/gb/20130604/rlw193611.asp)》, 华尔街日报, 2013-06-04. (参照 2024-04-16).
 
 [^30964]: 《[「六四」過後仍有異見人士受監控 「大黃鴨」突變敏感詞](https://web.archive.org/web/20131030011339/http://news.singtao.ca/toronto/2013-06-06/china1370504977d4530964.html)》, 星島日報／加拿大多倫多中文新聞網, 2013-06-06. (参照 2024-04-16).
+
+### 老高與小茉
+
+<!--
+    合并来源:    \people\老高與小茉.md
+    date:        "2021-11-24T15:41:01"
+    dateCreated: "2021-11-24T15:41:01"
+-->
+
+2021年4月21日，YouTube 频道「老高與小茉Mr & Mrs Gao」，发布了影片
+《[千萬不要去！世界十大人類禁地 | 老高與小茉 Mr & Mrs Gao](https://www.youtube.com/watch?v=6SwJpgNLvTk)》，
+其中 6:33 的位置出现了一个中华民国的旗帜，随后哔哩哔哩上，未取得授权的转载者都被退稿，直到修改这一段内容后才成功上传。
+
+> [!abstract]+ 相关链接
+>
+> +   [老高曬「台灣國旗」影片登上發燒！粉絲怕爆：會被出征嗎？](https://web.archive.org/web/20210508114912/https://star.setn.com/news/929172), 娛樂星聞.
+> +   [200萬人看見！老高影片出現「青天白日滿地紅」　網：辱華了？](https://web.archive.org/web/20211124035027/https://www.ttshow.tw/article/79377)
 
 ### 张煜
 

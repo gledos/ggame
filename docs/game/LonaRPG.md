@@ -116,3 +116,6 @@ LonaRPG 是一款以色情为主要内容之一的 RPG 游戏，但游戏十分�
 [^31629]: 「[搜索 LonaRPG](https://web.archive.org/web/20241126131629/https://search.bilibili.com/all?keyword=LonaRPG)」, 哔哩哔哩, 2024-11-26. (参照 2024-11-26).
 
 [^pol]: 这里的「政治不正确」，指的是大陆语境下的「政治不正确」，而不是美国的。
+
+附言：部分盗版移除了启动画面。
+{: .light }

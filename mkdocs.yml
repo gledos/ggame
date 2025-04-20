@@ -373,6 +373,7 @@ plugins:
 
       # 合并人物（people）
       "people/蔡依林.md": "people/index.md#蔡依林"
+      "people/老高與小茉.md": "people/index.md#老高與小茉"
       "people/罗翔.md": "people/index.md#罗翔"
       "people/马薇薇.md": "people/index.md#马薇薇"
       "people/莫文蔚.md": "people/index.md#莫文蔚"
