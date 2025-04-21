@@ -17,22 +17,35 @@ dateCreated: "2021-09-28T23:09:13"
 >
 > ![CSGO黑色logo](https://s3.tebi.io/ggame/game/csgo/csgo_logo_black.webp#only-light "https://www.steamgriddb.com/logo/56046")
 >
-> ```yaml
-> 标题:
-> - 简体中文: 反恐精英：全球攻势
-> - 香港繁体: 絕對武力：全球攻勢
-> - 台湾正体: 絕對武力：全球攻勢
-> - 英文: "Counter-Strike: Global Offensive"
-> 开发: 维尔福
-> 类型: 第一人称射击游戏
-> 发售时间:
-> - 全球: 2012年8月21日
-> - 完美世界: 2017年9月15日
-> ```
+> <div markdown=1 class="infobox">
+>
+> | 标题 | 🐼 反恐精英：全球攻势<br>🧋 絕對武力：全球攻勢<br>🗽 Counter-Strike: Global Offensive            |
+> | ---- | ------------------------------------------------------------------------------------------------ |
+> | 平台 | :material-microsoft-windows: Microsoft Windows<br>:material-apple: macOS<br>:simple-linux: Linux |
+> | 开发 | Valve                                                                                            |
+> | 运营 | 🌐 Valve<br>🐼 完美世界                                                                          |
+> | 时间 | 🌐 2012年8月21日<br>🐼 2017年9月15日                                                             |
+> | 引擎 | :simple-sourceengine: Source Engine                                                              |
+>
+> </div>
 
-<ruby>维尔福<rp>(</rp><rt>Valve</rt><rp>)</rp></ruby>公司开发的第一人称射击游戏。于 2012年8月21日 全球发售。
+> [!summary inline end]+ 反恐精英2
+>
+> <div markdown=1 class="infobox">
+>
+> | 标题 | 🐼 反恐精英2<br>🧋 絕對武力2<br>🗽 Counter-Strike 2                                              |
+> | ---- | ------------------------------------------------------------------------------------------------ |
+> | 平台 | :material-microsoft-windows: Microsoft Windows<br>:material-apple: macOS<br>:simple-linux: Linux |
+> | 开发 | Valve                                                                                            |
+> | 运营 | 🌐 Valve<br>🐼 完美世界                                                                          |
+> | 时间 | 2023年9月27日（测试）                                                                            |
+> | 引擎 | :simple-sourceengine: Source Engine 2                                                            |
+>
+> </div>
 
-2023 年，《反恐精英：全球攻势》更新为了《反恐精英 2》（CS2）。
+<ruby>维尔福<rt>Valve</rt></ruby>公司开发的第一人称射击游戏。于 2012年8月21日 全球发售。
+
+2023年9月27日，《反恐精英：全球攻势》更新为了《反恐精英2》（CS2）。
 
 ## 移除部分阵营
 
@@ -52,6 +65,11 @@ CS:GO 在开发时，似乎有 [红卫兵][]（T 阵营）、[PLA][]（CT 阵营
 > 宪兵特勤队是台湾的特种部队。
 >
 > 可惜没找到其他内容，关于开发者是如何注意到红卫兵，以及停止添加的细节，也不得而知了。
+
+虽然概念艺术设计中的红卫兵，服装像越南战争期间的援老越南志愿军的军服，但这个名字应该来自游戏数据挖掘出的文件名。
+只是 The Cutting Room Floor 没有注明，这些图片究竟源自什么地方，也许是泄漏文件？[^03001]
+
+[^03001]: [Prerelease:Counter-Strike: Global Offensive](https://tcrf.net/Prerelease:Counter-Strike:_Global_Offensive), The Cutting Room Floor, 2024-06-21. ([Internet Archive](https://web.archive.org/web/20241223203001/https://tcrf.net/Prerelease:Counter-Strike:_Global_Offensive), 参照 2025-04-21).
 
 ## 完美世界和谐与反和谐
 
