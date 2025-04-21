@@ -16,7 +16,7 @@ dateCreated: "2022-11-14T21:57:06"
 >
 > <div markdown=1 class="infobox">
 >
-> | 标题     | 🥷 ブルーアーカイブ<br>🐼 蔚蓝档案<br>‼️ 碧蓝档案<br>🧋 蔚藍檔案<br>🗽 Blue Archive<br>🤏 블루 아카이브 |
+> | 标题     | 🥷 ブルーアーカイブ<br>🐼 蔚蓝档案<br>‼️ 碧蓝档案<br>🧋 蔚藍檔案<br>🗽 Blue Archive<br>🫰 블루 아카이브 |
 > | -------- | ---------------------------------------------------------------------------------------------------- |
 > | 平台     | :material-apple-ios: iOS<br>:material-android: Android                                               |
 > | 开发     | NEXON                                                                                                |
