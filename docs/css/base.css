@@ -9,7 +9,7 @@
 /* 防止标题后的 # 被复制 */
 
 .md-typeset .headerlink {
-	user-select: none;
+    user-select: none;
 }
 
 /* -------------------- 分割线 -------------------- */
@@ -38,9 +38,10 @@
 }
 
 rtc,
-rt { font-size: 11px;
-    line-height: 11px
-};
+rt {
+    font-size: 11px;
+    line-height: 11px;
+}
 
 /* 废弃部分 */
 
@@ -105,7 +106,9 @@ html>div>img {
     让透明图使用 MkDocs 的背景色，这样就不会叠在一起
 */
 
-.off-glb{ background: var(--md-default-bg-color); }
+.off-glb {
+    background: var(--md-default-bg-color);
+}
 
 /* -------------------- 分割线 -------------------- */
 
@@ -124,7 +127,7 @@ html>div>img {
 
 .mohu {
     font-weight: normal;
-    opacity: 0.8;        /* 半透明 */
+    opacity: 0.8; /* 半透明 */
     filter: blur(0.8px); /* 模糊效果 */
 }
 
@@ -144,7 +147,8 @@ html>div>img {
     border-top: none !important;
 }
 
-.infobox th, .infobox td {
+.infobox th,
+.infobox td {
     font-size: 85%;
     font-weight: 500 !important;
     padding-top: 3px !important;
@@ -158,11 +162,21 @@ html>div>img {
     让文字降低对比度，算是高亮的反义词。
 */
 
-.light{
+.light {
     color: var(--md-default-fg-color--light);
     --md-typeset-a-color: var(--md-primary-fg-color--light);
-    font-weight: 300;  /* 原本是 400，调低一点字重，更能降低存在感 */
+    font-weight: 300; /* 原本是 400，调低一点字重，更能降低存在感 */
 }
 
+/* -------------------- 分割线 -------------------- */
+
+/*
+    表示失效链接的 CSS。
+*/
+
+.deadlink {
+    color: red !important; /* 设置链接文字颜色为红色 */
+    text-decoration: line-through; /* 可以添加删除线，更直观地表示失效 */
+}
 
 /* -------------------- 分割线 -------------------- */
