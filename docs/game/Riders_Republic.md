@@ -53,3 +53,10 @@ Riders Republic 直译是「骑手共和国」，不过前作 Steep 被翻译成
 不过简中译名最终选择了《[极限国度](https://ggame.gledos.science/game/Riders_Republic.html)》，繁中才是《極限共和國》。
 
 可以看出，Riders Republic 的简体中文翻译，刻意避免了「共和国」这个词语。
+
+> [!quote]+ 相似情况
+>
+> Republic of Gamers 是华硕旗下的电竞硬件品牌，台湾译作「<ruby>玩家共和國<rt>玩家共和国</rt></ruby>」，
+> 但大陆译作「玩家国度」。[^00057]
+
+[^00057]: [ROG - Republic of Gamers｜台灣 | The Choice of Champions](https://web.archive.org/web/20250401100057/https://rog.asus.com/tw/content/about-rog/), @ROG, 2025-04-25. (参照 2025-04-25).
