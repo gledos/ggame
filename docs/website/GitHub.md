@@ -2,7 +2,7 @@
 title: GitHub
 description:
 published: true
-date: "2025-04-17T12:38:02"
+date: "2025-05-01T17:29:23"
 tags:
 - github
 - gfw
@@ -255,3 +255,26 @@ GitHub 是一个在线软件源代码托管服务平台，使用 Git 作为版�
 2025年4月15日，GitHub 又出现故障，将 Safari 浏览器给拦截了，好在不到一小时就解决了该问题。[^bghdy]
 
 [^bghdy]: [Disruption with some GitHub services for Safari Users](https://www.githubstatus.com/incidents/0r3t35cbghdy), GitHub, 2025-04-15. ([Internet Archive](https://web.archive.org/web/20250415145733/https://www.githubstatus.com/incidents/0r3t35cbghdy), 参照 2025-04-15).
+
+## 大陆再次出现异常
+
+2025年4月29日 开始，访问 GitHub 文件原始内容时（`raw.githubusercontent.com` 域名），当浏览器的 user agent 含有 zh_CN 语言，
+可能会显示「Access to this site has been restricted.」「Access has been restricted」这样的访问受限提示。[^1156][^57992]
+
+[^1156]: 秋风于渭水, 《[GitHub 阻止中文用户访问了 吗？(附临时解决方案)](https://www.tjsky.net/news/1156)》, 秋风于渭水, 2025-04-29. ([Internet Archive](https://web.archive.org/web/20250501080437/https://www.tjsky.net/news/1156), 参照 2025-05-01).
+
+[^57992]: LOWERTOP, [Strong Condemnation of GitHub’s Discriminatory Restrictions Against Chinese Users · community · Discussion #157992](https://github.com/orgs/community/discussions/157992), GitHub, 2025-04-30. (参照 2025-05-01).
+
+除此之外还影响到 `user-images.githubusercontent.com` `private-user-images.githubusercontent.com`
+`avatars.githubusercontent.com` `camo.githubusercontent.com` 域名，导致无法正常显示图片。[^57887]
+
+[^57887]: Aoang, [Persistent HTTP 429 Rate Limiting on *.githubusercontent.com Triggered by Accept-Language: zh-CN Header · community · Discussion #157887](https://github.com/orgs/community/discussions/157887), GitHub, 2025-04-29. (参照 2025-05-01).
+
+有人推测 GitHub 这是为了反爬虫，所以封锁了 IP 有风险 + zh_CN 语言的访问。[^96170]
+由于 `raw.githubusercontent.com` 间歇性被墙，许多大陆用户都在使用代理访问，而这些代理的 IP 评分低，因此受到较大的影响吧。
+
+[^96170]: 蓝点网, 《[GitHub实施更严格的风控规则阻止中文用户访问 疑似是为了反爬虫和反抓取](https://www.cnbeta.com.tw/articles/tech/1496170.htm)》, cnBeta.COM, 2025-04-29. ([Internet Archive](https://web.archive.org/web/20250501091411/https://www.cnbeta.com.tw/articles/tech/1496170.htm), 参照 2025-05-01).
+
+目前的缓解方式为更换更干净的 IP，或者修改浏览器的 user agent（比如修改浏览器语言）。[^32522]
+
+[^32522]: 青小蛙, 《[GitHub 被访问限制，Access has been restricted 错误临时解决方案[Chrome/Edge/Firefox]](https://www.appinn.com/github-access-has-been-restricted-429/)》, 小众软件, 2025-04-30. ([Internet Archive](https://web.archive.org/web/20250430232522/https://www.appinn.com/github-access-has-been-restricted-429/), 参照 2025-05-01).
