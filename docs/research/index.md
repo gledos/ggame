@@ -57,3 +57,5 @@ research 即研究，一些审查相关的研究，会被收录到此版块（�
 {: .light }
 
 [^46971]: admin, 《[国内现存锂电池回收相关企业超14万家](https://web.archive.org/web/20250117101013/http://www.li-b.cn/post/46971.html)》, 锂电网, 2024-07-05. (参照 2025-03-26).
+
+2025年2月，[Censorship as a Service | Leak Reveals Public-Private Collaboration to Monitor Chinese Cyberspace](https://www.sentinelone.com/labs/censorship-as-a-service-leak-reveals-public-private-collaboration-to-monitor-chinese-cyberspace/)。
