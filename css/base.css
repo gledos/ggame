@@ -1,0 +1,182 @@
+/* 移除 cookie overlay 模糊效果 */
+
+.md-consent__overlay {
+    display: none;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 防止标题后的 # 被复制 */
+
+.md-typeset .headerlink {
+    user-select: none;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 数字的有序列表（覆盖原本的英文） */
+
+.md-typeset ul ol,
+.md-typeset ol ol {
+    list-style-type: decimal;
+}
+.md-typeset ul ol ol,
+.md-typeset ol ol ol {
+    list-style-type: decimal;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/* 字体配置 */
+
+:root {
+    --md-text-font: "-apple-system, Noto Sans, Nimbus Sans L, Arial, Liberation Sans, PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, Source Han Sans SC, Source Han Sans CN, Microsoft YaHei, Wenquanyi Micro Hei, WenQuanYi Zen Hei, ST Heiti, SimHei, WenQuanYi Zen Hei Sharp, sans-serif";
+}
+
+:root {
+    --md-code-font: "Sarasa Fixed SC, Noto Sans Mono CJK SC";
+}
+
+rtc,
+rt {
+    font-size: 11px;
+    line-height: 11px;
+}
+
+/* 废弃部分 */
+
+/* -------------------- 分割线 -------------------- */
+
+/* 行首缩进 */
+
+/* p {
+    text-indent: 2em;
+} */
+
+/* blockquote>p {
+    text-indent: 0em;
+} */
+
+/* li>p,
+.admonition-title {
+    text-indent: 0em;
+} */
+
+/* 防止将图片也给缩进 */
+
+/* p>img,
+html>div>img {
+    display: block
+} */
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    勾选框位置调整 */
+
+/* .md-typeset,
+.task-list-item [type="checkbox"] {
+    top: .1em;
+} */
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    黑幕 CSS
+    来源自 无限UCW 的 [CSS+JS轻松实现自定义黑幕效果](https://ucw.moe/archives/js-with-css-implements-heimu.html)
+    萌娘百科 https://web.archive.org/web/20220427162917/https://zh.moegirl.org.cn/MediaWiki:Mobile.css
+*/
+
+/*
+--md-default-fg-color           文字颜色
+--md-default-fg-color--light    文字颜色（浅色）
+--md-default-bg-color           背景颜色
+--md-typeset-a-color            链接颜色
+*/
+
+.heimu {
+    font-weight: normal;
+}
+
+/* 似乎优先级存在问题，运行会出错，所以 CSS 被移动到了 /overrides/main.html 下。 */
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    让透明图使用 MkDocs 的背景色，这样就不会叠在一起
+*/
+
+.off-glb {
+    background: var(--md-default-bg-color);
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    添加汉字着重号
+    <https://zh.wikipedia.org/wiki/着重号>
+*/
+
+.zhong {
+    text-emphasis: circle;
+    -webkit-text-emphasis: circle;
+    text-emphasis-position: over right;
+    -webkit-text-emphasis-position: over right;
+    font-weight: normal;
+}
+
+.mohu {
+    font-weight: normal;
+    opacity: 0.8; /* 半透明 */
+    filter: blur(0.8px); /* 模糊效果 */
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    类似维基百科的 infobox，用法可参考 game/战地4 条目的简介。
+*/
+
+.infobox table {
+    table-layout: fixed;
+    border: none !important;
+    line-height: 1.2em !important;
+}
+
+.infobox td {
+    border-top: none !important;
+}
+
+.infobox th,
+.infobox td {
+    font-size: 85%;
+    font-weight: 500 !important;
+    padding-top: 3px !important;
+    min-width: 2rem !important;
+    padding-bottom: 3px !important;
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    让文字降低对比度，算是高亮的反义词。
+*/
+
+.light {
+    color: var(--md-default-fg-color--light);
+    --md-typeset-a-color: var(--md-primary-fg-color--light);
+    font-weight: 300; /* 原本是 400，调低一点字重，更能降低存在感 */
+}
+
+/* -------------------- 分割线 -------------------- */
+
+/*
+    表示失效链接的 CSS。
+*/
+
+.deadlink {
+    color: red !important; /* 设置链接文字颜色为红色 */
+    text-decoration: line-through; /* 可以添加删除线，更直观地表示失效 */
+}
+
+/* -------------------- 分割线 -------------------- */
