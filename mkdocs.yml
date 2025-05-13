@@ -371,6 +371,10 @@ plugins:
       # Apple
       "company/Apple/flag_emoji.md": "company/Apple/index.md#flag_emoji"
 
+      # Google
+      "company/Google/Gmail.md": "company/Google/index.md#Gmail"
+      "company/Google/Google_Now_Feed.md": "company/Google/index.md#限制大陆用户使用的功能"
+
       # 合并人物（people）
       "people/蔡依林.md": "people/index.md#蔡依林"
       "people/老高與小茉.md": "people/index.md#老高與小茉"
@@ -433,7 +437,6 @@ plugins:
       "censorship/内容分级/游戏/CERO.md": "censorship/内容分级/游戏/コンピュータエンターテインメントレーティング機構.md"
       "censorship/内容分级/游戏/EOCS.md": "censorship/内容分级/游戏/コンピュータソフトウェア倫理機構.md"
       "censorship/展示用户_IP_属地信息.md": "activities/展示用户_IP_属地信息.md"
-      "company/Google/Gmail.md": "company/Google/index.md#Gmail"
       "company/Microsoft/Xbox_One.md": "company/Microsoft/xbox.md"
       "company/Pixiv.md": "company/pixiv.md"
       "company/Samsung/三星_Galaxy_Z_系列.md": "company/Samsung/index.md#修改-z-系列名称"

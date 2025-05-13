@@ -2,7 +2,7 @@
 title: Google
 description:
 published: true
-date: "2023-12-27T14:27:52"
+date: "2025-05-13T23:34:54"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-09-11T21:40:29"
@@ -192,6 +192,40 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/ind
 所以一直没有发布。[^03729]
 
 [^03729]: 杨飞, 「[后文一直没写，没时间。如果要写，大致会和谷歌那篇差不多。](https://web.archive.org/web/20220911143608/http://users.smartgb.com/g/g.php?a=s&i=g17-03729-65&m=all&p=1)」, 杨飞的留言板, 2020-04-07. (参照 2022-09-11).
+
+## 限制大陆用户使用的功能
+
+<!--
+title:       "Google Now Feed"
+date:        "2022-06-13T14:05:38"
+dateCreated: "2021-07-25T23:34:37"
+-->
+
+iPhone 有许多功能不向大陆用户提供，
+包括但不限于 eSIM、FaceTime 音频和 Apple News [等超过 40 个功能](/company/Apple/index.md)。
+
+Google 几乎不再为大陆的个人用户提供服务，理论上不需要像 iPhone 一样需要遵守当地规则，
+但大陆 Android 用户还是会缺少一些功能，有些奇怪。
+
+Google Assistant 是 Google 在 Android 上推出的语音助手，但曾经无法在一些国行手机上使用 Hey Google 功能，
+部分可能的解决方法是更换系统语言为英文，这样可能才能开启 Hey Google 功能。[^47052]
+
+[^47052]: 知乎用户8xAohv, 《[Google应用系列（一）：Google, Google Assistant](https://zhuanlan.zhihu.com/p/391147052)》, 知乎专栏, 2021-08-06. (参照 2025-05-13).
+
+当 Google app 检测到用户的 SIM 卡是大陆时，就不提供 Google Now Feed 服务。[^10498][^12209]
+
+[^10498]: [如何解决新版Google now feed不可用的问题?](https://web.archive.org/web/20210725153451/https://www.zhihu.com/question/56510498), 知乎.
+
+[^12209]: [如何在中国大陆境内调教 Android 11 的 Google](https://web.archive.org/web/20210306153012/https://plumz.me/archives/12209/), Plum's Blog.
+
+然后是 Google 翻译可能在大陆无法离线使用
+以至于有开发者制作了 Xposed 模块 [Telionslate](https://github.com/Xposed-Modules-Repo/com.ailr.SeemNetOfTranslate)。
+不过现在新版 Google 翻译的离线功能，可能正常了。
+
+仅有 Google Now Feed 的区域限制像是遵守当地规则，
+也许这与 [蜻蜓计划](https://en.wikipedia.org/wiki/Dragonfly_(search_engine)) 有关。
+蜻蜓计划是 2018 年被 Google 员工披露的项目，Google 的目标是创建一个符合大陆审查标准的搜索引擎，计划被露后便搁浅，
+Google 之后的 app 或服务，似乎就没有明显限制大陆用户的情况了。
 
 ## AlphaGo
 
