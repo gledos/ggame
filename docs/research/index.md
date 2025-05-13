@@ -42,6 +42,14 @@ research 即研究，一些审查相关的研究，会被收录到此版块（�
 >
 > +   毒药, 《[一份不负责任的机场使用手册（转载）](https://web.archive.org/web/20201029221853/https://www.duyaoss.com/archives/1086/)》, DuyaoSS-机场测速和简介, 2018-03-15. (参照 2024-05-03).
 
+## 人口数据
+
+wNvJungle 在 reddit 上发布了文章《简单科普：几项不再公开的人口数据》，从民政部的《民政事业发展统计公报》、
+卫健委的《中国卫生健康统计年鉴》、中国食品药品检定研究院的疫苗数据、公安部的《全国姓名报告》数据，
+研究了中华人民共和国的出生率，更贴近真实的出生率。[^3gwrq]
+
+[^3gwrq]: wNvJungle, 《[简单科普：几项不再公开的人口数据](https://www.reddit.com/r/China_irl/comments/1i3gwrq/简单科普几项不再公开的人口数据/)》, r/China_irl, 2025-01-17. ([Internet Archive](https://web.archive.org/web/20250122193216/https://old.reddit.com/r/China_irl/comments/1i3gwrq/简单科普几项不再公开的人口数据/), 参照 2025-05-07).
+
 ## 其它（非审查研究）
 
 胡立刚团队与湖南省妇幼保健院彭湘莲团队合作，研究了北京和长沙地区产妇脐带血的锂含量。[^12959]
