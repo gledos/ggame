@@ -2,7 +2,7 @@
 title: text
 description:
 published: true
-date: "2025-05-16T00:00:20"
+date: "2025-05-17T23:54:03"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-21T19:10:08"
@@ -274,6 +274,10 @@ icon: material/text
 > 2025年5月，最新一期主题是采访台湾老兵高秉涵，谈国共内战的残酷往事。
 
 [^09594]: 夏松, 《[前央视主持人柴静畅销书《看见》遭下架](https://web.archive.org/web/20250515155227/https://www.epochtimes.com/gb/25/5/15/n14509594.htm)》, 大纪元 www.epochtimes.com, 2025-05-15. (参照 2025-05-15).
+
+2025年5月16日 下午，微信读书的《看见》被下架，显示为「预约上架」。[^06311]
+
+[^06311]: 大魔王p, 《[要下架了？](https://web.archive.org/web/20250517154303/https://book.douban.com/subject/20427187/discussion/637806311/)》, 豆瓣, 2025-05-16. (参照 2025-05-17).
 
 ## 条目清单
 
