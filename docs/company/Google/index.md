@@ -196,9 +196,9 @@ Google 现在拥有众多产品，包括电子邮箱 [Gmail](/company/Google/ind
 ## 限制大陆用户使用的功能
 
 <!--
-title:       "Google Now Feed"
-date:        "2022-06-13T14:05:38"
-dateCreated: "2021-07-25T23:34:37"
+    合并来源:    "docs/company/Google/Google_Now_Feed.md"
+    date:        "2022-06-13T14:05:38"
+    dateCreated: "2021-07-25T23:34:37"
 -->
 
 iPhone 有许多功能不向大陆用户提供，
