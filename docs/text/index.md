@@ -2,7 +2,7 @@
 title: text
 description:
 published: true
-date: "2025-05-17T23:54:03"
+date: "2025-05-22T23:39:15"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-21T19:10:08"
@@ -278,6 +278,10 @@ icon: material/text
 2025年5月16日 下午，微信读书的《看见》被下架，显示为「预约上架」。[^06311]
 
 [^06311]: 大魔王p, 《[要下架了？](https://web.archive.org/web/20250517154303/https://book.douban.com/subject/20427187/discussion/637806311/)》, 豆瓣, 2025-05-16. (参照 2025-05-17).
+
+2025年5月21日，有人观察到豆瓣上的《看见》书籍页面被删除。[^92102]
+
+[^92102]: 李老师不是你老师, 「[5月21日，知名记者、主持人柴静的自传《看见》的豆瓣页面已被删除……](https://x.com/whyyoutouzhele/status/1925486933855392102)」, X (formerly Twitter), 2025-05-22. (参照 2025-05-22).
 
 ## 条目清单
 
