@@ -2,7 +2,7 @@
 title: game
 description:
 published: true
-date: "2025-05-02T17:01:34"
+date: "2025-06-26T00:09:48"
 特殊标签标记: #介绍与更新页
 editor: markdown
 dateCreated: "2021-08-12T21:08:44"
@@ -28,6 +28,52 @@ game 即游戏，一些游戏被收录到此版块（文件夹）。
 {: #she_will_punish_them }
 
 [^SWPT]: [最近国区大火的惩戒魅魔被锁区了](https://archive.is/gOwkU "https://keylol.com/t733421-1-1"), 其乐 Keylol.
+
+### 逆统战
+
+2022年1月，有人观察到哔哩哔哩的 [直播禁播名单页面](/website/哔哩哔哩弹幕网.md#直播禁止列表) 上，
+出现了游戏《逆统战》，[^26660] 即便游戏还未上线。[^0hli4]
+
+[^26660]: 姆咪姆咪, 《[中國 bilibili 公開禁播遊戲名單 包含 〈還願〉〈惡靈古堡〉〈俠盜獵車手〉系列等作](https://gnn.gamer.com.tw/detail.php?sn=226660)》, 巴哈姆特電玩資訊站, 2022-01-13. (参照 2025-06-25, [Internet Archive](https://web.archive.org/web/20221222121618/https://gnn.gamer.com.tw/detail.php?sn=226660)).
+
+[^0hli4]: Critical-Energy2463, 《[Bilibili 关于禁播游戏的公告](https://www.reddit.com/r/China_irl/comments/s0hli4/bilibili_关于禁播游戏的公告/)》, r/China_irl, 2022-01-10. (参照 2025-06-25).
+
+2025年6月 的月初，OpenAI 在阻止人工智能的恶意使用的月报里，提到取缔了 10 场利用 GPT 的危害行为，
+其中 4 起很可能是由中国政府实施的。其中就有使用 GPT 生成针对《逆统战》的批评评论的行为。[^81620][^23607]
+
+[^81620]: [Disrupting malicious uses of AI: June 2025](https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf), 2025-06, (参照 2025-06-25, [Internet Archive](https://web.archive.org/web/20250620171747/https://cdn.openai.com/threat-intelligence-reports/5f73af09-a3a3-4a55-992e-069237681620/disrupting-malicious-uses-of-ai-june-2025.pdf)).
+
+[^23607]: Shannon Bond, [OpenAI takes down covert operations tied to China and other countries](https://www.npr.org/2025/06/05/nx-s1-5423607/openai-china-influence-operations), NPR, 2025-06-05. (参照: 2025-06-25, [Internet Archive](https://web.archive.org/web/20250607220710/https://www.npr.org/2025/06/05/nx-s1-5423607/openai-china-influence-operations)).
+
+之所以使用 GPT，而不是 DeepSeek，也许是 DeepSeek 的审查严格，难以生成相关内容。
+{: .light }
+
+2025年6月10日，警務處國家安全處通过香港特別行政區政府新聞公報，提醒市民不要下载游戏
+app《<ruby>逆统战：烽火<rt>逆統戰：烽火</rt></ruby>》。并表示分享或推荐该游戏，就有机会触犯《香港国安法》
+的第二十一条「煽动颠覆国家政权罪」，以及《维护国家安全条例》第二十四条「煽动意图的相关罪行」。[^00661]
+
+[^00661]: 警務處國家安全處, 《[警方提醒切勿下載或資助危害國家安全的流動應用程式](https://www.info.gov.hk/gia/general/202506/10/P2025061000661.htm)》, 香港特別行政區政府新聞公報, 2025-06-10. (参照 2025-06-25, [Internet Archive](https://web.archive.org/web/20250610133105/https://www.info.gov.hk/gia/general/202506/10/P2025061000661.htm)).
+
+香港 TVB 無綫新聞臺也在节目中介绍了该游戏，[^20702][^42620] 结果警務處國家安全處和 TVB 的行为，
+给《逆统战：烽火》带来了巨大的关注（触发了「[史翠珊效应](/meme/史翠珊效应.md)」）。
+使其登上 app store 香港下載排行榜第 1 名。[^31768]
+
+[^20702]: 逆統戰：烽火 Reversed Front: Bonfire, 「[【歷史上的今天】2025年6月10日，香港TVB無綫新聞臺向全香港介紹手遊《逆統戰：烽火》。](https://x.com/ReversedFrontTW/status/1932412041681420702)」, X (formerly Twitter), 2025-06-10. (参照 2025-06-25).
+
+[^42620]: 倪浩軒, 《[港禁台灣手遊〈逆統戰〉！反助攻搜尋量暴增](https://tw.news.yahoo.com/港禁台灣手遊-逆統戰-反助攻搜尋量暴增-072642620.html)》, Yahoo News, 2025-06-11. (参照 2025-06-25, [Internet Archive](https://web.archive.org/web/20250612010548/https://tw.news.yahoo.com/港禁台灣手遊-逆統戰-反助攻搜尋量暴增-072642620.html)).
+
+[^31768]: 逆統戰：烽火 Reversed Front: Bonfire, 「[《逆統戰：烽火》昨晚衝上AppStore香港下載排行榜第1名，今早已被AppStore香港區緊急下架，因此歡迎將Apple ID設定「更改國家或地區」以後再進行下載。](https://x.com/ReversedFrontTW/status/1932664437372231768)」, X (formerly Twitter), 2025-06-11. (参照 2025-06-25).
+
+2025年6月11日，app store 香港将《逆统战：烽火》下架。[^31768]
+
+2025年6月13日，香港与澳门屏蔽了《逆统战：烽火》官网域名，这些地区需要通过 VPN 才能正常使用。[^00899]
+
+[^00899]: 逆統戰：烽火 Reversed Front: Bonfire, 「[🇨🇳长城扩建🇨🇳 现在起，香港与澳门境内部分地区已经无法正常访问《逆统战：烽火》官网与登录游戏，须先连上VPN翻墙。](https://x.com/ReversedFrontTW/status/1933194551487000899)」, X (formerly Twitter), 2025-06-12. (参照 2025-06-25).
+
+2025年6月15日，香港与澳门屏蔽了《逆统战：烽火》游戏内的域名，导致进入游戏会显示「服务器维护中」的字样，
+这些地区需要通过 VPN 才能正常使用。[^32641]
+
+[^32641]: 逆統戰：烽火 Reversed Front: Bonfire, 「[《逆統戰：烽火》近排都唔會維護，喺香港澳門而家要VPN先入到game，如果唔係會顯示「伺服器維護中」。 《逆统战：烽火》最近都不会维护，在香港澳门现在要VPN才能进入游戏，否则会显示“伺服器维护中”。](https://x.com/ReversedFrontTW/status/1934141707035332641)」, X (formerly Twitter), 2025-06-15. (参照 2025-06-25).
 
 ### 时光杂货铺
 
