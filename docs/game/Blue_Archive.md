@@ -2,7 +2,7 @@
 title: "Blue Archive"
 description:
 published: true
-date: "2025-04-01T23:44:58"
+date: "2025-06-26T11:13:12"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2022-11-14T21:57:06"
@@ -971,3 +971,18 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 经常说 N-Word 的人。[^80730]
 
 [^80730]: [Saiba Momoi (Meme)](https://villainsfanon.fandom.com/wiki/Saiba_Momoi_(Meme)), Villains Fanon Wiki, 2025-04-01. ([Internet Archive 存档](https://web.archive.org/web/20250313180730/https://villainsfanon.fandom.com/wiki/Saiba_Momoi_(Meme)) 2025-03-13, 参照 2025-04-01).
+
+## 未能按时登录 Steam
+
+2025年4月11日，在《蔚蓝档案》3.5 周年的直播节目里，主持人介绍了国际服将会登录 Steam 的消息，
+时间预订为 2025 年夏季。[^71219]
+
+[^71219]: 歪力, 《[Steam版本《蔚藍檔案》預定2025夏季上架，主線故事將收錄韓文語音](https://www.4gamers.com.tw/news/detail/71219/blue-archive-is-coming-to-steam-at-2025)》, 4Gamers 官方網站, 2025-04-11. (参照 2025-06-26, [Internet Archive](https://arquivo.pt/wayback/20250626024647/https://www.4gamers.com.tw/news/detail/71219/blue-archive-is-coming-to-steam-at-2025)).
+
+2025年6月17日，《蔚蓝档案》公布了 Steam 上线日期，预订在 6月24日 上线。[^56403]
+
+[^56403]: GM-Arona, [6/24(Tue) Blue Archive Steam Launch Annoucement](https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2956403), Nexon Community, 2025-06-17. (参照 2025-06-26, [Internet Archive](https://arquivo.pt/wayback/20250626024032/https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2956403)).
+
+2025年6月23日，就在预订上线的前一天，《蔚蓝档案》官方表示平台审核流程延迟，所以上线时间被推迟。[^82148]
+
+[^82148]: GM-Arona, [Notice of Delay in STEAM Client Launch Due to Platform Review Delays](https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2982148), Nexon Community, 2025-06-23. (参照 2025-06-26, [Internet Archive](https://arquivo.pt/wayback/20250626024015/https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2982148)).
