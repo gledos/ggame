@@ -112,6 +112,38 @@ app《<ruby>逆统战：烽火<rt>逆統戰：烽火</rt></ruby>》。并表示�
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zh" dir="ltr">近日，37手游旗下游戏《时光杂货店》的广告，因包含“回收地沟油”“城管没收摊贩水果”等内容，引发争议。有网民认为“这广告不是挺贴切真实生活吗？哪不对了？”还有网民认为广告内容夸大抹黑。<br> 4月21日，37手游人力资源部通报：游戏使用了违背社会公序良俗的素材，多人被处理。 <a href="https://t.co/WcvAhHoaRH">pic.twitter.com/WcvAhHoaRH</a></p>&mdash; 李老师不是你老师 (@whyyoutouzhele) <a href="https://twitter.com/whyyoutouzhele/status/1915720855788896343">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### 捞女游戏
+
+2025年6月19日，前方工作室在 Steam 发行了游戏《捞女游戏》。其导演是来自香港的胡耀辉，
+曾担任《功夫足球》《3D 肉蒲团之极乐宝鉴》的编剧。
+
+2025年6月20日，有人观察到胡耀辉的哔哩哔哩帐号显示「该帐号封禁中」。[^16sy2] 哔哩哔哩与抖音的官方账号、QQ 群、
+新浪微博部分话题也被封禁。[^47745][^04447][^47501]
+
+[^16sy2]: 新浪游戏, 《[捞女游戏制作人胡耀辉B站号被封，Steam获好评如潮](https://k.sina.com.cn/article_1255795640_4ad9ebb8040016sy2.html)》, 新浪网, 2025-06-20. (参照 2025-06-29, [Internet Archive](https://web.archive.org/web/20250620094635/https://k.sina.com.cn/article_1255795640_4ad9ebb8040016sy2.html)).
+
+[^47745]: 猛鲨男鱼王, 《[换皮重生！〈捞女游戏〉改名〈情感反诈模拟器〉](https://www.gamersky.com/news/202506/1947745.shtml)》, 游民星空, 2025-06-20. (参照 2025-06-29, [Internet Archive](https://web.archive.org/web/20250624093155/https://www.gamersky.com/news/202506/1947745.shtml)).
+
+[^04447]: 救死扶伤牛, 《[封杀后游戏更火，“捞女”这个词让谁破防？](https://news.17173.com/content/06232025/173004447.shtml)》, 17173, 2025-06-23. (参照 2025-06-29, [Internet Archive](https://web.archive.org/web/20250629100116/https://news.17173.com/content/06232025/173004447.shtml)).
+
+[^47501]: 元素黄狗, 《[〈捞女游戏〉微博部分话题内容被屏蔽！原因不明](https://www.gamersky.com/news/202506/1947501.shtml)》, 游民星空, 2025-06-20. (参照 2025-06-29, [Internet Archive](https://web.archive.org/web/20250620170317/https://www.gamersky.com/news/202506/1947501.shtml)).
+
+同日，[官媒](/rule/互联网新闻信息稿源单位名单(2021年).md#湖北66家) 湖北日报传媒集团旗下的《极目新闻》，也发文以导演被封禁，
+以及争议过大而批评该游戏。[^z0ajI]
+
+[^z0ajI]: 石平, 《[极目锐评丨〈捞女游戏〉制作人B站账号被封，靠性别对立“捞”流量只会一塌到底](https://www.ctdsb.net/c1715_202506/2465566.html)》, 极目新闻, 2025-06-20. (参照 2025-06-29, [Archive Today](http://archive.today/2025.06.20-092019/https://www.ctdsb.net/c1715_202506/2465566.html "http://archive.today/z0ajI")).
+
+不过未知具体时间，有人在 2025年6月24日 观察到《极目新闻》的这篇报导被下架。之后同样在未知时间，以另一个 URL 重新发布，
+不过新 URL 的内容与原文没有差异。[^1gOGU]
+
+[^1gOGU]: 石平, 《[极目锐评丨〈捞女游戏〉制作人B站账号被封，靠性别对立“捞”流量只会一塌到底](https://www.ctdsb.net/t2229/241211.html)》, 极目新闻, 2025-06-20. (参照 2025-06-29, [Archive Today](http://archive.today/2025.06.29-094642/https://www.ctdsb.net/t2229/241211.html "http://archive.today/1gOGU")).
+
+2025年6月20日 18:00，游戏更名从《捞女游戏》更名为《情感反诈模拟器》。[^47745]
+
+2025年6月23日，北京青年报发布了赞扬该游戏的新闻，新华网也转发了此新闻。[^89cc1]
+
+[^89cc1]: 北京青年报, 《[〈情感反诈模拟器〉：以创新形式筑牢青年婚恋安全防线](https://web.archive.org/web/20250625155847/http://www.xinhuanet.com/tech/20250623/5e181eb3501041c7a4db12a729689cc1/c.html)》, 新华网, 2025-06-23. (参照 2025-06-29).
+
 ## 条目清单
 
 > [!note]+ 最近更新
