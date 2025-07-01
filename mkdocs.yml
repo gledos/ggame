@@ -430,6 +430,9 @@ plugins:
       "book/RAIDEN-18.md": "text/RAIDEN-18.md"
       "book/The_Anarchist_Cookbook.md": "text/The_Anarchist_Cookbook.md"
 
+      # 音乐
+      "sound/可惜不是你.md": "sound/index.md#lemon会有那么一天可惜不是你"
+
       # 其他
       "activities/「明星相关的审查」.md": "theme/明星相关的审查.md"
       "blocklist/文化部查处6款违法网络游戏和6家网络游戏运营商.md": "blocklist/文化部办公厅关于查处第一批违法网络游戏的通知.md"
