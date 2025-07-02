@@ -6,7 +6,7 @@ date: "2021-05-17T14:38:33"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2021-05-17T14:38:33"
-icon: simple/amazon
+icon: fontawesome/brands-amazon
 ---
 
 ## 简介
