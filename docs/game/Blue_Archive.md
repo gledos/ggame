@@ -986,3 +986,5 @@ ResUrls=https://static.bluearchive-cn.com/prodm39;https://static-qc.bluearchive-
 2025年6月23日，就在预订上线的前一天，《蔚蓝档案》官方表示平台审核流程延迟，所以上线时间被推迟。[^82148]
 
 [^82148]: GM-Arona, [Notice of Delay in STEAM Client Launch Due to Platform Review Delays](https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2982148), Nexon Community, 2025-06-23. (参照 2025-06-26, [Internet Archive](https://arquivo.pt/wayback/20250626024015/https://forum.nexon.com/bluearchive-en/board_view?board=3028&thread=2982148)).
+
+2025年7月3日，《蔚蓝档案》官方表示 Steam 版将在明天发布，对此会提供 10 次票券以及 300 AP 作为补偿。
