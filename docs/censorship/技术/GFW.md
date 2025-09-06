@@ -2,7 +2,7 @@
 title: "GFW"
 description:
 published: true
-date: "2025-09-06T16:10:27"
+date: "2025-09-06T16:26:09"
 特殊标签标记: #无标签
 editor: markdown
 dateCreated: "2023-02-17T17:44:15"
@@ -338,6 +338,17 @@ GFW 修改内容为 a28z，也许有些多此一举，应该可以无感知的�
 所以触发了 GFW 的风控。[^93059]
 
 [^93059]: SunsetShimmer, 《[原神 osasiadispatch 域名被墙了？](https://web.archive.org/web/20231119085828/https://www.v2ex.com/t/993059)》, V2EX, 2023-11-18. (参照 2023-11-19).
+
+### 2025年 屏蔽 Let's Encrypt 的 CRL 域名
+
+2025年7月11日，有用户在得知 Let's Encrypt 将从 OCSP 切换到 CRL 时，对 CRL 在大陆的可访问性好奇，于是进行了测试。
+测试结果显示 GFW 会屏蔽 Let's Encrypt 的 CRL 域名 `e5.c.lencr.org`，方式是 TCP RST。[^44666]
+
+[^44666]: MiKing233, 《[关于 Let’s Encrypt 签发的证书 Ending OCSP Support in 2025 的后续问题](https://web.archive.org/web/20250822144257/https://www.v2ex.com/t/1144666)》, V2EX, 2025-07-11. (参照 2025-09-06).
+
+截至 2025年8月20日，此屏蔽依然存在。[^53589]
+
+[^53589]: villivateur, 《[Let’s Encrypt 颁发的证书所包含的 CRL 链接完全被墙，可能导致所有用 LE 证书的网站在国内无法打开或者弹出警告。](https://web.archive.org/web/20250820065243/https://www.v2ex.com/t/1153589)》, V2EX, 2025-08-20. (参照 2025-09-06).
 
 ### 2025年8月20日 屏蔽境外 443 端口
 
