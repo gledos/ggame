@@ -1,0 +1,4789 @@
+<!DOCTYPE html><html lang="zh" class="no-js"><head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ggame.gledos.science/technology/WAPI.html">
+      
+      
+        <link rel="prev" href="SMS.html">
+      
+      
+        <link rel="next" href="WebRTC.html">
+      
+      
+        <link rel="alternate" type="application/rss+xml" title="RSS 订阅" href="../feed_rss_created.xml">
+        <link rel="alternate" type="application/rss+xml" title="已更新内容的 RSS 订阅" href="../feed_rss_updated.xml">
+      
+      <link rel="icon" href="../favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.20">
+    
+    
+      
+        <title>WAPI - 游戏和谐 Wiki</title>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.e53b48f4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+  
+  
+    
+      
+      
+    
+  
+  
+  <style>:root{--md-admonition-icon--quote:url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2016%2016%22%3E%3Cpath%20fill-rule%3D%22evenodd%22%20d%3D%22M%207.1474672%2C4.1999327%20H%2011%20V%201.8275%20H%205%20v%2012.345%20h%202.1474672%20z%22/%3E%3C/svg%3E');}</style>
+
+
+
+    
+<!-- 下面的「黑幕（刮刮乐）」CSS 来自：-->
+<!-- 萌娘百科 https://web.archive.org/web/20220427162917/https://zh.moegirl.org.cn/MediaWiki:Mobile.css -->
+<!-- 无限UCW [CSS+JS轻松实现自定义黑幕效果](https://ucw.moe/archives/js-with-css-implements-heimu.html) -->
+<!-- 有经过一些修改，增加了选中也能显现，以及适配 Material for MkDocs 的明暗色调。 -->
+<style>
+.cem {
+    text-emphasis: circle;
+    font-weight: normal;
+}
+
+.heimu, .heimu.a, .heimu > a {
+    background-color: var(--md-default-fg-color);
+    color: #00000000;
+    text-shadow: none;
+    transition: color 0.2s;
+}
+
+.heimu:hover, .heimu:active {
+    color: var(--md-default-bg-color);
+}
+
+.heimu:hover.a, .heimu:active.a,
+.heimu:hover > a, .heimu:active > a {
+    color: var(--md-typeset-a-color);
+}
+
+.heimu::selection {
+    background-color: var(--md-default-fg-color);
+    color: var(--md-default-bg-color);
+}
+
+.heimu::selection.a, .heimu::selection > a {
+    background-color: var(--md-default-fg-color);
+    color: var(--md-typeset-a-color);
+}
+</style>
+
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../css/base.css">
+    
+      <link rel="stylesheet" href="../css/custom_admonitions.css">
+    
+      <link rel="stylesheet" href="../css/external_link_icon.css">
+    
+      <link rel="stylesheet" href="../css/footnotes.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-6NFWGJL748"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-6NFWGJL748",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-6NFWGJL748",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>if("undefined"!=typeof __md_analytics){var consent=__md_get("__consent");consent&&consent.analytics&&__md_analytics()}</script>
+  
+
+    
+    
+    
+  <link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: none; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#简介" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+              <button class="md-banner__button md-icon" aria-label="不再显示此消息">
+                
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+              </button>
+            
+            
+<!-- 下面的 banner 来自 https://github.com/squidfunk/mkdocs-material/blob/master/material/overrides/main.html -->
+<!-- 有经过一些修改 -->
+可订阅 Telegram 频道（<a rel="me" href="https://t.me/gledos_microblogging">
+    <span class="twemoji telegram"> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"></path></svg> </span>
+    <strong>@gledos_microblogging</strong>
+</a>）获取一些新页面的消息。
+
+          </div>
+          
+            <script>var el=document.querySelector("[data-md-component=announce]");if(el){var content=el.querySelector(".md-typeset");__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0)}</script>
+          
+        </aside>
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href="../index.html" title="游戏和谐 Wiki" class="md-header__button md-logo" aria-label="游戏和谐 Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 5.27 3.28 4 20 20.72 18.73 22l-6.23-6.25H8.75C6.75 15.75 6 18 4 19c-2 0-3.5-2.96.42-11.31zm7.33.96h5.34c1.33-1.23 4.14.44 4.14.44l.44.83h.25c3.5 7.5 2.78 10.7 1.19 11.37L7.62 5.8c.63-.07 1.25.01 1.71.43M12 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1"></path></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            游戏和谐 Wiki
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              WAPI
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo" aria-label="切换到暗模式" type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="切换到暗模式" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6m0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4M7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3"></path></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="blue" data-md-color-accent="indigo" aria-label="切换到亮模式" type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="切换到亮模式" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3"></path></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/gledos/ggame" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"></path></svg>
+  </div>
+  <div class="md-source__repository">
+    gledos/ggame
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="游戏和谐 Wiki" class="md-nav__button md-logo" aria-label="游戏和谐 Wiki" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M2 5.27 3.28 4 20 20.72 18.73 22l-6.23-6.25H8.75C6.75 15.75 6 18 4 19c-2 0-3.5-2.96.42-11.31zm7.33.96h5.34c1.33-1.23 4.14.44 4.14.44l.44.83h.25c3.5 7.5 2.78 10.7 1.19 11.37L7.62 5.8c.63-.07 1.25.01 1.71.43M12 7a1 1 0 0 0-1 1 1 1 0 0 0 1 1 1 1 0 0 0 1-1 1 1 0 0 0-1-1"></path></svg>
+
+    </a>
+    游戏和谐 Wiki
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/gledos/ggame" title="前往仓库" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M439.6 236.1 244 40.5c-5.4-5.5-12.8-8.5-20.4-8.5s-15 3-20.4 8.4L162.5 81l51.5 51.5c27.1-9.1 52.7 16.8 43.4 43.7l49.7 49.7c34.2-11.8 61.2 31 35.5 56.7-26.5 26.5-70.2-2.9-56-37.3L240.3 199v121.9c25.3 12.5 22.3 41.8 9.1 55-6.4 6.4-15.2 10.1-24.3 10.1s-17.8-3.6-24.3-10.1c-17.6-17.6-11.1-46.9 11.2-56v-123c-20.8-8.5-24.6-30.7-18.6-45L142.6 101 8.5 235.1C3 240.6 0 247.9 0 255.5s3 15 8.5 20.4l195.6 195.7c5.4 5.4 12.7 8.4 20.4 8.4s15-3 20.4-8.4l194.7-194.7c5.4-5.4 8.4-12.8 8.4-20.4s-3-15-8.4-20.4"></path></svg>
+  </div>
+  <div class="md-source__repository">
+    gledos/ggame
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"></path></svg>
+  
+  <span class="md-ellipsis">
+    主页
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../CODE_OF_CONDUCT.html" class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 17q.86 0 1.45.6t.58 1.4L14 22l-7-2v-9h1.95l7.27 2.69q.78.31.78 1.12 0 .47-.34.82t-.86.37H13l-1.75-.67-.33.94L13 17zM16 3.23Q17.06 2 18.7 2q1.36 0 2.3 1t1 2.3q0 1.03-1 2.46t-1.97 2.39T16 13q-2.08-1.89-3.06-2.85t-1.97-2.39T10 5.3q0-1.36.97-2.3t2.34-1q1.6 0 2.69 1.23M.984 11H5v11H.984z"></path></svg>
+  
+  <span class="md-ellipsis">
+    行为守则
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tags.html" class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.5 7A1.5 1.5 0 0 1 4 5.5 1.5 1.5 0 0 1 5.5 4 1.5 1.5 0 0 1 7 5.5 1.5 1.5 0 0 1 5.5 7m15.91 4.58-9-9C12.05 2.22 11.55 2 11 2H4c-1.11 0-2 .89-2 2v7c0 .55.22 1.05.59 1.41l8.99 9c.37.36.87.59 1.42.59s1.05-.23 1.41-.59l7-7c.37-.36.59-.86.59-1.41 0-.56-.23-1.06-.59-1.42"></path></svg>
+  
+  <span class="md-ellipsis">
+    标签
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../warrant_canary.html" class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.7 7c-.3.4-.7.7-.7 1s.3.6.6 1c.5.5 1 .9.9 1.4 0 .5-.5 1-1 1.5L17.4 16 16 14.7l4.2-4.2-1-1-1.4 1.4L14 7.1l4-3.8c.4-.4 1-.4 1.4 0l2.3 2.3c.4.4.4 1.1 0 1.4M4 17.2l9.6-9.6 3.7 3.8L7.8 21H4zM8 5v-.5C8 3.1 6.9 2 5.5 2S3 3.1 3 4.5V5c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1h5c.6 0 1-.4 1-1V6c0-.6-.4-1-1-1M7 5H4v-.5C4 3.7 4.7 3 5.5 3S7 3.7 7 4.5z"></path></svg>
+  
+  <span class="md-ellipsis">
+    令状金丝雀
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../activities/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Activities
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../allowlist/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Allowlist
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../anti-censorship/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Anti censorship
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../blocklist/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Blocklist
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../catch_the_wind/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Catch the wind
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../censorship/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Censorship
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../company/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Company
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../game/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Game
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../meme/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Meme
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../mkdocs/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Mkdocs
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../news_archive/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    News archive
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../people/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    People
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../punish/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Punish
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../research/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Research
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../rule/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Rule
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../serviceprovider/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Serviceprovider
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../software/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Software
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../sound/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Sound
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_23" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="index.html" class="md-nav__link ">
+              
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 3v2a2 2 0 0 1 2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 1 2-2V3zm4 6h3v1H7zm0 2h3v1H7zm3 5H7v-1h3zm2-2H7v-1h5zm0-6H7V7h5z"></path></svg>
+  
+  <span class="md-ellipsis">
+    Technology
+    
+  </span>
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_23" id="__nav_23_label" tabindex="0">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_23_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_23">
+            <span class="md-nav__icon md-icon"></span>
+            Technology
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="BitTorrent.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    BitTorrent
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="DNS.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    DNS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="IPv4.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    IPv4
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="SMS.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    SMS
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    WAPI
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="WAPI.html" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    WAPI
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#简介" class="md-nav__link">
+    <span class="md-ellipsis">
+      简介
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#时间线" class="md-nav__link">
+    <span class="md-ellipsis">
+      时间线
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#其他" class="md-nav__link">
+    <span class="md-ellipsis">
+      其他
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="其他">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#禁止路由器" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止路由器
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#支持-wi-fi-的手机-qq" class="md-nav__link">
+    <span class="md-ellipsis">
+      支持 Wi-Fi 的手机 QQ
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#禁止-wi-fi-手机的原因" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止 Wi-Fi 手机的原因
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#禁止-callkit" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止 CallKit
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="WebRTC.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    WebRTC
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="eSIM.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    eSIM
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6%E9%95%9C%E5%83%8F%E7%AB%99.html" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    开源软件镜像站
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../text/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Text
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../theme/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Theme
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../unclear/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Unclear
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../video/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Video
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../website/index.html" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    Website
+    
+  </span>
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#简介" class="md-nav__link">
+    <span class="md-ellipsis">
+      简介
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#时间线" class="md-nav__link">
+    <span class="md-ellipsis">
+      时间线
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#其他" class="md-nav__link">
+    <span class="md-ellipsis">
+      其他
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="其他">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#禁止路由器" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止路由器
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#支持-wi-fi-的手机-qq" class="md-nav__link">
+    <span class="md-ellipsis">
+      支持 Wi-Fi 的手机 QQ
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#禁止-wi-fi-手机的原因" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止 Wi-Fi 手机的原因
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#禁止-callkit" class="md-nav__link">
+    <span class="md-ellipsis">
+      禁止 CallKit
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+  
+
+
+
+
+
+  <h1>WAPI</h1>
+
+<h2 id="简介">简介<a class="headerlink" href="#%E7%AE%80%E4%BB%8B" title="Permanent link">#</a></h2>
+<p>WAPI 的全称是<ruby>无线局域网鉴别与保密基础结构<rt>WLAN Authentication and Privacy Infrastructure</rt></ruby>。</p>
+<h2 id="时间线">时间线<a class="headerlink" href="#%E6%97%B6%E9%97%B4%E7%BA%BF" title="Permanent link">#</a></h2>
+<style>
+/* 以下 css 与 javascript 由 GPT 生成：<https://chat.openai.com/share/897b69b7-107a-4f3a-bce0-0e8c9a1ae2ce> */
+
+.tl.hidden {
+    display: none;
+}
+
+.tl, .summary {
+    display: block;
+}
+</style>
+
+<script>
+function toggleElements(selector, action) {
+    var elements = document.querySelectorAll(selector);
+    elements.forEach(function (element) {
+        element.classList[action]('hidden');
+    });
+}
+
+function showTheme(theme) {
+    // 隐藏所有的时间线段落和相关 .theme
+    toggleElements('.tl, .theme', 'add');
+
+    // 显示特定主题的时间线段落和相关 .theme
+    toggleElements('.tl.' + theme + ', .tl.' + theme + ' .theme', 'remove');
+}
+
+function showAll() {
+    // 显示所有的时间线段落和相关 .theme
+    toggleElements('.tl, .theme', 'remove');
+
+    // 隐藏 .theme
+    toggleElements('.theme', 'add');
+}
+</script>
+
+<!--
+待探索的内容
+
++   [ ] 一加 3G 问题
+
+        相关描述：😏当年一加手机最开始不支持3G网络，需要在官方论坛里下载一个“非官方人员”提供的（经过官方签名的）
+        第三方补丁，就能用3G了。进recovery刷一次就行了，后面再清除数据或者重刷系统也不影响。
+-->
+
+<p><button class="md-button" onclick="showTheme('oz')">机构专题</button>
+<button class="md-button" onclick="showTheme('dv')">机型专题</button>
+<button class="md-button" onclick="showTheme('ft')">事件专题</button>
+<button class="md-button" onclick="showAll()">全部展示</button></p>
+<!-- 机构专题 -->
+
+<p><button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ip')">中国宽带无线IP标准工作组</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('mii')">信产／工信部</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ca')">国家密码管理局</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('ct')">中国电信</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('cu')">中国联通</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('cm')">中国移动</button>
+<button class="md-button tl oz ip mii ca ct cu cm iwncomm theme hidden" onclick="showTheme('iwncomm')">西电捷通</button></p>
+<!-- 机型专题 -->
+
+<p><button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('c1250i')">Calypso C1250i</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('p50')">明基 P50</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('m8')">魅族 M8</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('a3100')">摩托罗拉 A3100（联通定制 3G 版）</button>
+<button class="md-button tl dv c1250i a3100 n5530 m8 p50 theme hidden" onclick="showTheme('n5530')">诺基亚 5530 XpressMusic</button></p>
+<!-- 事件专题 -->
+
+<p><button class="md-button tl ft tn2004 theme hidden" onclick="showTheme('tn2004')">2004 年贸易谈判</button></p>
+<p class="tl p50 m8 theme hidden">Wi-Fi 手机在 2009年4月17日 之前被禁止，但实际上还是有漏网之鱼。</p>
+<p class="tl ip mii ca iwncomm">2001年8月，在国家信息产业部科技司的指导下，二十多家单位于在北京召开了「中国宽带无线IP标准工作组」（China Broadband
+Wireless IP Standard group，缩写为 ChinaBWIPS，后文简称为 BWIPS）成立会议。<sup id="fnref:bjhtm"><a class="footnote-ref" href="#fn:bjhtm">1</a></sup></p>
+<p class="tl ip ca iwncomm">之后 BWIPS 正式组建，官网披露了 10 家创始会员单位：<sup id="fnref:cydw"><a class="footnote-ref" href="#fn:cydw">2</a></sup></p>
+<div class="tl ip ca iwncomm">
+<table>
+<thead>
+<tr>
+<th>成员单位</th>
+<th>通讯地址</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>中国电子技术标准化研究所</td>
+<td>北京市安定门东大街 1 号</td>
+</tr>
+<tr>
+<td>西安电子科技大学</td>
+<td>西安电子科技大学 119 信箱</td>
+</tr>
+<tr>
+<td>＊西安西电捷通无线网络通信有限公司</td>
+<td>西安市高新 2 路 12 号协同大厦 4F.C</td>
+</tr>
+<tr>
+<td>北京邮电大学</td>
+<td>北京邮电大学 92# 信箱</td>
+</tr>
+<tr>
+<td>西安交通大学</td>
+<td>西安交通大学电信学院信通系</td>
+</tr>
+<tr>
+<td>西安邮电学院</td>
+<td>陕西西安市新城大院 10 楼</td>
+</tr>
+<tr>
+<td>武汉汉网公司高技术有限公司</td>
+<td>武汉市洪山区珞喻路 243 号华工科技产业大厦 10 楼</td>
+</tr>
+<tr>
+<td>桂林电子工业学院</td>
+<td>广西桂林金鸡路 1 号桂林电子工业学院</td>
+</tr>
+<tr>
+<td>国家商用密码研究中心</td>
+<td>北京</td>
+</tr>
+<tr>
+<td>国家无线电监测中心</td>
+<td>北京西城区北礼士路 80 号</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 域名                 | 邮政编码 -->
+<!-- -------------------- | -------- -->
+<!-- `www.cesi.gov.cn`    | 100007   -->
+<!-- `www.xidian.edu.cn`  | 710071   -->
+<!-- `www.iwncomm.com`    | 710075   -->
+<!-- `www.bupt.edu.cn`    | 100876   -->
+<!-- `www.xjtu.edu.cn`    | 710049   -->
+<!-- `www.xiyou.edu.cn`   | 710001   -->
+<!-- `www.hanwang.net.cn` | 430074   -->
+<!-- `www.gliet.edu.cn`   | 541004   -->
+<!--                      | 100032   -->
+<!-- `www.srrc.org.cn`    | 100037   -->
+
+<p class="tl ip ca iwncomm">＊号表示为「宽带无线IP标准工作组」组长单位。</p>
+<p class="tl ip">2003 年左右，BWIPS 上线了官方网站，其中给出了研究 WLAN 技术的原因：</p>
+<div class="tl ip">
+<details class="quoti" open="open">
+<summary>《工作组背景》（摘录）<sup id="fnref2:bjhtm"><a class="footnote-ref" href="#fn:bjhtm">1</a></sup></summary>
+<p>随着中国加入 WTO，经济全球化的步伐大大加快，而国内计算机网络特别是有关无线IP技术方面的标准很少，甚至还没有，
+这对于我国面临的国际国内市场、技术的竞争极其不利。为了推动网络化建设，提高我国在无线 IP 方面的国际地位，掌握核心技术，
+制定有关无线 IP 方面的标准，成立无线 IP 领域的标准研究组不仅十分必要，而且十分迫切。</p>
+</details>
+</div>
+<p class="tl abc iwncomm">2003年5月12日，两个 WLAN 国家标准同时发布，分别是《信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分:
+无线局域网媒体访问控制和物理层规范》（GB 15629.11-2003）<sup id="fnref:14125"><a class="footnote-ref" href="#fn:14125">3</a></sup>
+与《信息技术 系统间远程通信和信息交换局域网和城域网 特定要求 第11部分:
+无线局域网媒体访问控制和物理层规范:2.4 GHz频段较高速物理层扩展规范》（GB 15629.1102-2003）<sup id="fnref:75520"><a class="footnote-ref" href="#fn:75520">4</a></sup><sup id="fnref:CHN_188"><a class="footnote-ref" href="#fn:CHN_188">5</a></sup>。</p>
+<p class="tl iwncomm">不过国标的起草公司写的是「西安西电捷通无线网络通信有限公司」，根据之后的专利官司来看，也是该公司持有相关专利。<sup id="fnref:72535"><a class="footnote-ref" href="#fn:72535">6</a></sup><sup id="fnref:51376"><a class="footnote-ref" href="#fn:51376">7</a></sup></p>
+<p class="tl mii">2003年7月9日，「无线局域网国家标准宣贯会」在北京正式召开，关于目的主要提到下面两句话：</p>
+<div class="tl mii">
+<details class="quote" open="open">
+<summary>无线局域网国家标准宣贯会（摘录）<sup id="fnref:07440"><a class="footnote-ref" href="#fn:07440">89</a></sup></summary>
+<p>相关领导：旨在促进标准相关企业用户、设备供应商、集成商、运营商等各产业环节对新标准的深入理解和正确认知，
+进而推动标准的实施，引导产业配套工作，以期实现相关产业利益的最大化。</p>
+<p>韩俊（信息产业部科技司副司长）：这两个标准是有我国自主知识产权的标准。他不但在国内而且在国际上都申请了许多专业。
+两个标准的发布对电信监管提供了有利手段。为共同创造产业发展创良好环境和条件。</p>
+</details>
+</div>
+<p class="tl">而安全问题，主要是站在商业推广角度陈述的：「无线安全问题已经日益凸现并成为阻碍无线局域网进入信息化应用领域的最大障碍。」
+所以安全问题至少在此「宣贯会」中是手段，而不是目的。</p>
+<p class="tl c1250i ct">2003年7月，中国电信与 Calypso Wireless 公司签订了一项总额为 5 亿美元，履约期为 3 年的订货合同，
+后者需要提供 Wi-Fi 宽带、视频聊天功能的手机。<sup id="fnref:13871"><a class="footnote-ref" href="#fn:13871">8</a></sup><sup id="fnref:60358"><a class="footnote-ref" href="#fn:60358">9</a></sup>
+这款型号为 Calypso C1250i 的手机，被一些人认为是最早含有 Wi-Fi 功能的手机。</p>
+<p class="tl tn2004">2003年10月14日，中美商务理事会（US-China Business Dialogue，USCBD）在北京成立，<sup id="fnref:35434"><a class="footnote-ref" href="#fn:35434">10</a></sup><sup id="fnref:12566"><a class="footnote-ref" href="#fn:12566">11</a></sup>
+并在首届理事会后签署了《中美商务理事会联合声明》。</p>
+<p class="tl tn2004">《中美商务理事会联合声明》中可能提到了（原文似乎未公开）：<sup id="fnref:77707"><a class="footnote-ref" href="#fn:77707">12</a></sup></p>
+<p class="tl tn2004">一、中美双方代表团承认两国间实现货物与服务的自由流动的重要性，并同意将协作促进中美两国商业利益作为总的指导原则。</p>
+<p class="tl tn2004">二、双方都强调了履行 WTO 承诺的重要性，同时也承认中国经济改革过程的艰巨性。</p>
+<p class="tl tn2004">三、双方理事认为，中国经济增长对世界经济增长的影响力将越来越大，这符合中美两国人民的根本利益。</p>
+<p class="tl tn2004">四、双方赞成并支持中国政府发展经济的举措。</p>
+<p class="tl tn2004">五、美方理事强调中国遵守其入世承诺时间表的必要性。</p>
+<p class="tl tn2004">此时与美国的贸易关系裂痕逐渐变大。因为中国持续成为世界反倾销的头号目标。<sup id="fnref:64326"><a class="footnote-ref" href="#fn:64326">13</a></sup>
+以及国会议员致函财政部长斯诺，要求调查人民币汇率可能被操纵的问题。<sup id="fnref:81493"><a class="footnote-ref" href="#fn:81493">14</a></sup>
+所以中国新闻网认为理事会的「第一使命」，似乎是防止中美贸易关系陷入僵局。<sup id="fnref:1041s"><a class="footnote-ref" href="#fn:1041s">15</a></sup></p>
+<p class="tl tn2004">2003年10月 下旬，美国财政部在向国会提出的年度报告中说，中国并不符合美国 1988 年贸易法案所规定进行经济制裁的条件。<sup id="fnref:02728"><a class="footnote-ref" href="#fn:02728">16</a></sup></p>
+<p class="tl tn2004">2003年11月21日，美国国务院副发言人亚当·埃雷利表示，美国重视通过对话解决同中国的贸易争端问题。<sup id="fnref:0421s"><a class="footnote-ref" href="#fn:0421s">17</a></sup></p>
+<p class="tl">2003年11月26日，「国家质量监督检验检疫总局」与「国家标准化管理委员会」联合发布了
+《关于无线局域网强制性国家标准实施的公告》，要求在不到一周后，禁止进口、生产和销售含有 Wi-Fi 功能的设备。</p>
+<div class="tl">
+<details class="rule">
+<summary>关于无线局域网强制性国家标准实施的公告<sup id="fnref:67244"><a class="footnote-ref" href="#fn:67244">90</a></sup></summary>
+<p align="center">中华人民共和国国家质量监督检验检疫总局</p>
+<p align="center">中华人民共和国国家标准化管理委员会</p>
+<p align="center">公 告</p>
+<p align="center">2003年第110号</p>
+<p>关于无线局域网强制性国家标准实施的公告</p>
+<p>强制性国家标准GB15629.11-2003《信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分：无线局域网媒体访问
+控制和物理层规范》和GB15629.1102-2003《信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分：无线局域网
+媒体访问控制和物理层规范：2.4GHz频段较高速物理层扩展规范》已于2003年5月12日发布，自2003年12月1日起实施。
+为便于企业及其无线局域网产品符合上述两项国家标准，现就此两项国家标准的实施的时间和要求公告如下：</p>
+<p>一、国家标准于2003年12月1日起实施，即日起禁止进口、生产和销售不符合强制性国家标准的无线局域网产品。</p>
+<p>二、符合下述情况之一的无线局域网产品，允许在2004年6月1日之前进口、生产和销售：</p>
+<p>1、2003年12月1日前已经进口或生产的；</p>
+<p>2、2003年12月1日前已签订有效合同的；</p>
+<p>三、为给生产企业在2003年12月1日前生产的产品在市场销售留有过渡期，国家和各地质量监督、
+出入境检验检疫机构在2004年6月1日以后再安排质量监督检查和抽查。</p>
+<p>四、来料加工用于出口的产品，不受上述两项国家标准的约束。</p>
+<p>特此公告。</p>
+<p align="right">二〇〇三年十一月二十六日</p>
+</details>
+</div>
+<p class="tl">2003年12月1日，「国家质量监督检验检疫总局」与「国家认证认可监督管理委员会」发布 2003 年第 113 号公告：</p>
+<div class="tl">
+<details class="rule">
+<summary>公告（2003 年第 113 号）<sup id="fnref:67245"><a class="footnote-ref" href="#fn:67245">91</a></sup></summary>
+<p>根据《中华人民共和国产品质量法》、《中华人民共和国进出口商品检验法》、《中华人民共和国进出口商品检验法实施条例》、
+《中华人民共和国认证认可条例》和《强制性产品认证管理规定》的规定，现决定对无线局域网产品实施强制性产品认证。
+自2004年6月1日起，未获得强制性产品认证证书和未加施中国强制性认证标志的无线局域网产品不得出厂、进口、
+销售或者在其他经营活动中使用。</p>
+<p>自2004年1月1日起，委托人可以向指定机构提出认证产品的检测、认证委托。</p>
+<p>特此公告。</p>
+<p align="right">二〇〇三年十二月一日</p>
+</details>
+</div>
+<p class="tl ca">2003年12月12日，有业内人士和分析家指出，GB 15629.11-2003 标准只授权少量境内公司有权自由获得加密技术，
+而其他所有国内外的公司，都必须与特许公司合作（可能需要转让技术），才能使用相关加密技术。<sup id="fnref:67677"><a class="footnote-ref" href="#fn:67677">18</a></sup></p>
+<p class="tl ca">因为该标准、技术并非完全开放的，比如加密算法 SM4 在 2003 年还未公开，本质上 WAPI 让 WLAN／Wi-Fi 在大陆变成了专营。</p>
+<div class="tl ip mii">
+<details class="abstract" open="open">
+<summary>媒体态度</summary>
+<p>这段时间中，知名媒体对于 WAPI 的报导，比如中国经营报<sup id="fnref:79029"><a class="footnote-ref" href="#fn:79029">92</a></sup>、赛迪网（工业和信息化部直属单位）<sup id="fnref:90423"><a class="footnote-ref" href="#fn:90423">93</a></sup>、
+中国计算机报（工业和信息化部主管）<sup id="fnref:jszqa"><a class="footnote-ref" href="#fn:jszqa">94</a></sup>，基本都会提及 WAPI 是为了解决安全性而生的。</p>
+<p>南方周末直接表示 WAPI 不是贸易保护主义，BWIPS 新闻发言人刘朝阳表示 WAPI 的目的是保护国家安全。<sup id="fnref:73569"><a class="footnote-ref" href="#fn:73569">95</a></sup></p>
+</details>
+</div>
+<!--
+    3G 时代，电信（CDMA1x、EV-DO）、移动（TD-SCDMA）和联通（W-CDMA、HSPA+）不兼容。
+-->
+
+<p class="tl">2004年1月29日，博通公司 CEO Alan E. "Lanny" Ross 和 Wi-Fi 联盟负责人丹 Dennis Eaton 接受路透社采访，
+透露了担心芯片设计在中国将被盗版和复制的问题，因为一些限制，必须在大陆制造 WAPI 芯片，
+所以除非解决知识产权（IP）泄漏的问题，否则会考虑暂停 Wi-Fi 芯片供应。<sup id="fnref:34385"><a class="footnote-ref" href="#fn:34385">19</a></sup></p>
+<p class="tl">2004年2月4日，国家标准委副主任宿忠民称，<a href="../censorship/%E6%9C%89%E5%85%B3%E9%83%A8%E9%97%A8.html">有关部门</a> 最开始计划直接禁止含有 Wi-Fi 商品，
+但后来中方作出了让步，同意了 6 个月的宽限期。所以国家标准委对 Wi-Fi 联盟的要求，不会作出任何让步。<sup id="fnref:87828"><a class="footnote-ref" href="#fn:87828">20</a></sup></p>
+<p class="tl tn2004">2004年4月 中旬，外国报导称：国务院副总理吴仪将前往华盛顿，与美国贸易代表佐立克和商务部长埃文斯，
+就多项商务事宜进行会谈。<sup id="fnref:3145s"><a class="footnote-ref" href="#fn:3145s">21</a></sup></p>
+<p class="tl tn2004">2004年4月19日，吴仪坐上前往美国的飞机后，才有官媒报导此次商贸联委会会议。<sup id="fnref:43428"><a class="footnote-ref" href="#fn:43428">22</a></sup></p>
+<p class="tl tn2004">2004年4月22日，中美达成协定，<sup id="fnref:smyyt"><a class="footnote-ref" href="#fn:smyyt">23</a></sup> 将无限期推迟强制实施的 WAPI 标准。<sup id="fnref:65021"><a class="footnote-ref" href="#fn:65021">24</a></sup><sup id="fnref:22335"><a class="footnote-ref" href="#fn:22335">25</a></sup></p>
+<p class="tl tn2004">附言：「无限期推迟强制实施的 WAPI 标准」，大陆媒体均是转载，<sup id="fnref:52746"><a class="footnote-ref" href="#fn:52746">26</a></sup> 没有官方直接宣布的报导。</p>
+<p class="tl tn2004">2004年5月9日，人民网发布了评论文章《中国推迟实施 WAPI 标准并非迁就美国》（作者米阿仑），澄清了 WAPI 的缺点（祛魅），
+批判了一些神话 WAPI 的报导，以及正视 WAPI 没有受到美国、Wi-Fi 厂家不公正待遇的情况。<sup id="fnref:58779"><a class="footnote-ref" href="#fn:58779">27</a></sup></p>
+<p class="tl tn2004">文中还提到了反对 WAPI 民族主义，「支持 WAPI 就是符合国家利益、反对 WAPI 就是反对国家利益。」是错觉，
+算是给 WAPI 事件降温吧。</p>
+<p class="tl ca">2004年5月29日，《经济观察报》提到网通集团首席科学家侯自强对于 WAPI 的看法：像 WAPI 这种对无线局域网进行加密的技术，
+说到底只是修改了原来 Wi-Fi 的接入密码而已，而这种通过软件升级的方法或者将加密算法直接钳入到硬件芯片中的，
+其实不是解决安全问题的根本方法。<sup id="fnref:68816"><a class="footnote-ref" href="#fn:68816">28</a></sup></p>
+<p class="tl mii iwncomm">2004年6月4日，《21世纪经济报道》采访了西安西电捷通无线网络通信有限公司，从中能看到许多细节：<sup id="fnref:71654"><a class="footnote-ref" href="#fn:71654">29</a></sup></p>
+<div class="tl mii iwncomm">
+<details class="quote">
+<summary>《新闻调查：中国无线局域网标准WAPI幕后的故事》（摘录）</summary>
+<p>西电捷通人士拒绝透露公司在 WAPI 研发上的投入金额，但他向记者表示，西电捷通 WAPI 技术标准文本有几百页厚。一般来说，
+技术标准文本平均一页纸的投入为几万美元，而公司在此次标准研发上的支出「比这种平均水平还要多得多」，投入「十分巨大」。</p>
+<p>…………</p>
+<p>「我可以负责地说，西电捷通绝对没有任何政府关系，纯粹是一个市场化运作的股份制企业。」</p>
+<p>…………</p>
+<p>2001年6月，信息产业部开始下达标准起草任务后，8 月，西电捷通即发起成立中国宽带无线IP标准工作组，
+同年 11 月完成标准草案。很快地，2003年1月，标准送审，5 月正式颁布。</p>
+<p>…………</p>
+<p>电信研究院对外交流部某人士称，由于市场顾虑始终没有消除，大多数 WAPI 产品生产企业都没有大规模量产，
+造成的损失目前来看并不惨重。</p>
+<p>他指出，由于 WAPI 产品仅仅是在原有无线局域网产品上进行加密而成，而如果是通过软件加密的产品，
+在作出软件修改后与一般无线局域网产品就没有什么差别，同样可以回到现有通用的标准市场，而且不会造成多大损失。</p>
+<p>反倒是西电捷通、六合万通、中电华大这样的企业，在核心技术研发上投入不菲，背负的压力会比较大。
+六合万通和中电华大是 WAPI 核心芯片研发企业，据称，在产品研发上皆投入了千万元计的资金。</p>
+</details>
+</div>
+<p class="tl iwncomm">一、西电捷通投入 WAPI 技术标准，花费了千万级别的人民币。</p>
+<p class="tl iwncomm">二、西电捷通绝对没有任何政府关系，是市场化运作的股份制企业。</p>
+<p class="tl mii">三、信息产业部在 2001年6月 开始下达 WLAN 标准起草任务，仅 3 个月就完成了标准草案。</p>
+<p class="tl">四、WAPI 产品大多是软件性的，厂商可以刷入新固件来支持 WAPI，原理是 WAPI 的加密替代 WPA 加密。</p>
+<p class="tl">五、在当时仅有六合万通、中电华大在研发 WAPI 核心芯片。（名为「万通3号」）</p>
+<p class="tl mii p50">2005年10月，国行明基 P50 开始发售。<sup id="fnref:36784"><a class="footnote-ref" href="#fn:36784">30</a></sup> 手机存在 Wi-Fi 芯片，只是被软件屏蔽，于是有人开发了破解工具，
+国行明基 P50 就能用 Wi-Fi 了。<sup id="fnref:43873"><a class="footnote-ref" href="#fn:43873">31</a></sup><sup id="fnref:65204"><a class="footnote-ref" href="#fn:65204">32</a></sup></p>
+<p class="tl mii p50">有人认为明基戏耍了信息产业部，所以信产部之后提高了审查要求，直接停止检测含有 Wi-Fi 芯片的手机。<sup id="fnref:36860"><a class="footnote-ref" href="#fn:36860">33</a></sup>
+比如国行明基 P50 的后继机型 P51，就缺少了 Wi-Fi 芯片，无法再通过破解工具恢复 Wi-Fi 功能。</p>
+<p class="tl ca">2007 年，许多论文开始研究 WAPI 的加密算法，因为算法被公开，算法名称为 SMS4。<sup id="fnref:97990"><a class="footnote-ref" href="#fn:97990">34</a></sup><sup id="fnref:85032"><a class="footnote-ref" href="#fn:85032">35</a></sup></p>
+<p class="tl m8">2008年8月15日，魅族公布 M8 第一批内测用户名单，<sup id="fnref:62417"><a class="footnote-ref" href="#fn:62417">36</a></sup> 之后在 9 月公布第二批内测用户名单。<sup id="fnref:65380"><a class="footnote-ref" href="#fn:65380">37</a></sup>
+内测用户拥有「魅族 M8 内测版」付费测试的资格。并且因为这是测试，所以能退款。<sup id="fnref:60641"><a class="footnote-ref" href="#fn:60641">38</a></sup></p>
+<p class="tl m8">2008年11月7日，魅族 M8 未获得「入网许可」的消息已经被广泛知晓，J.Wong 在魅族论坛表示将在每个周末，
+抽取 100 人获得 M8 内测资格。<sup id="fnref:44355"><a class="footnote-ref" href="#fn:44355">39</a></sup></p>
+<p class="tl ct">2008年11月19日，南方都市报给出了相关方对 Wi-Fi 手机的看法：<sup id="fnref:54933"><a class="footnote-ref" href="#fn:54933">40</a></sup></p>
+<p class="tl mii">一、不具名工业和信息化部人士：「不检测、不认证、不许可」。<sup id="fnref2:54933"><a class="footnote-ref" href="#fn:54933">40</a></sup></p>
+<p class="tl ct">二、不具名电信内部人士：「我们是否将推出 Wi-Fi 手机，以及何时推出 Wi-Fi 手机将取决于政府态度。
+我们在技术上已经完全没有障碍，正在等待政府决策。」<sup id="fnref3:54933"><a class="footnote-ref" href="#fn:54933">40</a></sup></p>
+<p class="tl mii">三、某手机厂商：「Wi-Fi 手机批量生产肯定要等到工信部出台政策后。」<sup id="fnref4:54933"><a class="footnote-ref" href="#fn:54933">40</a></sup></p>
+<p class="tl m8">2008年12月3日，小熊在线（数码新闻网站）在新闻中介绍了魅族 M8 的 Wi-Fi 破解工具 M8Cracker，
+此工具能解除系统对 Wi-Fi、蓝牙 和 EDGE 网络的限制。而这个破解工具来自论坛，
+作者称 M8Cracker 是根据之前流出的 firmware（固件）来制作的破解程序。<sup id="fnref:03318"><a class="footnote-ref" href="#fn:03318">41</a></sup>
+使用方法是在手机里运行 M8Cracker.exe 软件。</p>
+<p class="tl">2008年12月4日，搜狐网采访了一些从业者，得到了以下内容：<sup id="fnref:52363"><a class="footnote-ref" href="#fn:52363">42</a></sup></p>
+<p class="tl">一、运营商内部知情人士透露：目前，国内市场上的水货手机超过了 300 万，其中有 Wi-Fi 功能的手机超过了 100 万。</p>
+<p class="tl">二、手机厂商内部人士透露：此前，由于国内的 Wi-Fi 覆盖面积很有限，因此水货中的 Wi-Fi 功能并不是很突出的卖点。
+但是，随着无线城市建设的加快，Wi-Fi 热点覆盖的增多，水货市场的 Wi-Fi 手机成为热销产品。</p>
+<p class="tl mii">三、工信部电信管理局相关人士对「为什么不放开手机 Wi-Fi 的问题」表示：「敏感话题」，不愿意多谈。<sup id="fnref2:52363"><a class="footnote-ref" href="#fn:52363">42</a></sup></p>
+<p class="tl m8">2008年12月，由于尚未取得进网许可证书，魅族 M8 开始以「公测版」的名义销售。该版本与「内测版」基本相同，
+同样需要 M8Cracker 来解除限制。</p>
+<p class="tl m8">2008年12月26～27日，J.Wong 面对魅族 M8 迟迟未能获得「入网许可」，未能上市的指责，给出了辩解：<sup id="fnref:73436"><a class="footnote-ref" href="#fn:73436">43</a></sup></p>
+<p class="tl m8">一、「申请入网许可流程当中可没有这样（禁止手机含有 Wi-Fi 硬件）的规定，至今也没找到任何入网许可文件有这样的规定，
+在申请过程中才被告知这无条文的规定」</p>
+<p class="tl m8">二、并表示正式版 M8 不会有 Wi-Fi 硬件。（即无法使用破解补丁启用 Wi-Fi 功能）</p>
+<p class="tl m8">2008年12月，有人跑遍整个城市的门店，终于找到了销售魅族 M8 的店铺，最终交了 1600 定金获得了该手机。<sup id="fnref:0HGKU"><a class="footnote-ref" href="#fn:0HGKU">44</a></sup></p>
+<p class="tl m8 mii">2009年1月15日，魅族 M8 取得了工业和信息化部颁发的进网许可证书。<sup id="fnref:06874"><a class="footnote-ref" href="#fn:06874">45</a></sup></p>
+<p class="tl cm">2009年2月 上旬，有传闻表示，中国移动已成功游说相关部门：只允许 TD-SCDMA 手机嵌入 Wi-Fi，而 W-CDMA 手机不得嵌入 Wi-Fi，
+否则不发入网证。对此，移动相关负责人对此消息进行了驳斥，称该消息纯属谣言。<sup id="fnref:02227"><a class="footnote-ref" href="#fn:02227">46</a></sup></p>
+<p class="tl m8">2009年2月18日，魅族科技宣布魅族 M8 正式上市，<sup id="fnref2:06874"><a class="footnote-ref" href="#fn:06874">45</a></sup> 不过公测版没有下架。</p>
+<p class="tl ct mii">2009年4月10日，中国电信开始宣传即将上市的 3G 手机。而这些手机明确标明了支持 Wi-Fi 功能，
+即使工信部仍未表示允许 Wi-Fi 手机。「IT时报」将此形容为闯关。<sup id="fnref:91844"><a class="footnote-ref" href="#fn:91844">47</a></sup></p>
+<p class="tl ct mii">2009年4月17日，工业和信息化部召集了几乎所有的手机厂商，在「闭门会议」中宣布今后的 2G、3G 手机都可以使用 WAPI 技术，
+但是没有提及 Wi-Fi 相关的话题。数日后，这个「闭门会议」被手机厂商透露给媒体，
+中国电信表示目前设备厂商大力推出 Wi-Fi/WAPI 双模兼容型产品。<sup id="fnref:12316"><a class="footnote-ref" href="#fn:12316">48</a></sup><sup id="fnref:15726"><a class="footnote-ref" href="#fn:15726">49</a></sup><sup id="fnref:68783"><a class="footnote-ref" href="#fn:68783">50</a></sup></p>
+<p class="tl m8">2009年5月，Apple4us 在《一个 iPod touch 用户的魅族 M8 使用体验》中提到了自己购买魅族 M8 的趣事：<sup id="fnref:21027"><a class="footnote-ref" href="#fn:21027">51</a></sup></p>
+<p class="tl m8">一、「公测版」产品包装上印有「本产品为非卖品，仅供测试使用」的字样。</p>
+<p class="tl m8">二、在魅族专卖购机的时候，销售人员当场就会帮你安装「第三方补丁」，并测试 Wi-Fi 连接。</p>
+<p class="tl cu a3100">2009年5月11日，有消息称即将发售的摩托罗拉 A3100（联通定制 3G 版），会保留 Wi-Fi 功能，原因是引入了 WAPI 功能。<sup id="fnref:80153"><a class="footnote-ref" href="#fn:80153">52</a></sup><sup id="fnref:84472"><a class="footnote-ref" href="#fn:84472">53</a></sup></p>
+<p class="tl cu a3100">2009年6月11日，摩托罗拉 A3100 开始在北京手机店铺出售。<sup id="fnref:69806"><a class="footnote-ref" href="#fn:69806">54</a></sup> 新浪科技称 A3100 在 6月18日 正式上市。<sup id="fnref:94889"><a class="footnote-ref" href="#fn:94889">55</a></sup>
+这是首部国行的 Wi-Fi 手机。</p>
+<p class="tl a3100">不过手机的设置里，使用 WLAN 来表示 Wi-Fi 一词，并且如果要使用 WAPI，需要在设置里选定一种模式，然后重启手机。<sup id="fnref:80367"><a class="footnote-ref" href="#fn:80367">56</a></sup><sup id="fnref:92952"><a class="footnote-ref" href="#fn:92952">57</a></sup></p>
+<p class="tl mii">2009年6月22日，知情人士透露的消息，表明 Wi-Fi 手机可以随 WAPI 通过入网检测，不过纯粹的 Wi-Fi 手机，
+仍然不能通过入网检测。<sup id="fnref:98563"><a class="footnote-ref" href="#fn:98563">58</a></sup><sup id="fnref:52415"><a class="footnote-ref" href="#fn:52415">59</a></sup></p>
+<p class="tl n5530">2009年6月25日，在北京举办的 2009 诺基亚「轻松互联生活」会上，诺基亚发布了 13 款全新手机。<sup id="fnref:90694"><a class="footnote-ref" href="#fn:90694">60</a></sup>
+其中就出现了诺基亚 5530 XpressMusic，并在会上提到，这是诺基亚首款支持 WLAN（WAPI + Wi-Fi）的行货产品。<sup id="fnref:694_1"><a class="footnote-ref" href="#fn:694_1">61</a></sup>
+（虽然诺基亚 5530 XM 属于仅支持 GSM 网络，镜头没有蔡司认证的廉价版机型）</p>
+<p class="tl n5530">2009年7月 月底，诺基亚 5530 XM 开始登录广州的市场。<sup id="fnref:18235"><a class="footnote-ref" href="#fn:18235">62</a></sup> 这是诺基亚品牌的第一台 Wi-Fi/WAPI 行货手机。</p>
+<p class="tl n5530">诺基亚 5530 XM 的 Wi-Fi 设置，被命名为「WLAN 向导」，没有出现任何含有「Wi-Fi」的表述。<sup id="fnref:543_2"><a class="footnote-ref" href="#fn:543_2">63</a></sup>
+在官网以及说明书中，也刻意比开了 Wi-Fi 一词：「WLAN；支持 WAPI 和 IEEE 802.11 b/g」，<sup id="fnref:5530h"><a class="footnote-ref" href="#fn:5530h">64</a></sup> 甚至出现错误翻译：</p>
+<div class="tl n5530">
+<table>
+<thead>
+<tr>
+<th>语言</th>
+<th>描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>简体中文</td>
+<td>WLAN 保护访问（WPA）<sup id="fnref:5530s"><a class="footnote-ref" href="#fn:5530s">100</a></sup></td>
+</tr>
+<tr>
+<td>繁体中文</td>
+<td>Wi-Fi 保護存取（WPA）<sup id="fnref:5530t"><a class="footnote-ref" href="#fn:5530t">101</a></sup></td>
+</tr>
+<tr>
+<td>英文</td>
+<td>Wi-Fi protected access (WPA)<sup id="fnref:5530e"><a class="footnote-ref" href="#fn:5530e">102</a></sup></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p class="tl n5530">可以看到简中说明书甚至故意错误翻译，将「Wi-Fi protected access (WPA)」翻译成了「WLAN 保护访问（WPA）」。
+还有一个细节，各种语言的说明书里，都写了支持 WAPI 功能，所以其他地区售卖的 5530 XM 应该也含有 WAPI 功能。</p>
+<p class="tl">2009年9月16日，时代在线网发布了关于手机 Wi-Fi 的采访与分析：<sup id="fnref:92150"><a class="footnote-ref" href="#fn:92150">65</a></sup></p>
+<p class="tl mii">一、工业与信息化部的知情人士：三大运营商之前关于 Wi-Fi 手机入网的竞争非常激烈，现在，结局已经很清楚了，
+「Wi-Fi 手机政策会对三大运营商同时开放，很公平」。</p>
+<p class="tl">二、知情人士：很多行货手机也带有 Wi-Fi 功能。这些正货在进行入网检测时，关闭了这一功能，
+因而才能通过检测。</p>
+<p class="tl">三、记者分析：入网检测，正是「Wi-Fi 手机政策上受限」在具体操作层面上的体现。一直以来，
+政府部门没有对 Wi-Fi 手机发布入网许可证，政策上不允许手机接入 Wi-Fi 功能，
+因而 Wi-Fi 手机就处于「不检测、不认证、不许可」的境地中，所有通过相关机构监测的手机都没有 Wi-Fi 功能。</p>
+<p class="tl">四、知情人士：「之所以如此艰难地问世，更重要的原因还是 Wi-Fi 与 WAPI 的博弈」。</p>
+<p class="tl m8">2009年8月，《微型计算机》撰文批判魅族 M8 公测版的 Wi-Fi 可能属于违规销售，随后引发了讨论。<sup id="fnref:23379"><a class="footnote-ref" href="#fn:23379">66</a></sup><sup id="fnref:91575"><a class="footnote-ref" href="#fn:91575">67</a></sup></p>
+<p class="tl cu">2009年10月16日，联通宣布允许水货 iPhone 使用联通 3G，甚至成立专门的适配部门。联通版本的国行 iPhone 也在一天前透露：
+iPhone 3GS（16 GB）的价格为 5880 元，这比同型号的水货贵出了 1000 元。<sup id="fnref:13601"><a class="footnote-ref" href="#fn:13601">68</a></sup></p>
+<p class="tl ca">2012年3月21日，国家密码管理局正式公布了 WAPI 的加密算法，并更名为《SM4 分组密码算法》（GM/T 0002-2012）。<sup id="fnref:1229"><a class="footnote-ref" href="#fn:1229">69</a></sup></p>
+<p class="tl n5530">2015年10月，前诺基亚 N 系列总经理李天健，在知乎以当事人的视角透露了诺基亚与 WAPI、Wi-Fi 的情况：<sup id="fnref:81480"><a class="footnote-ref" href="#fn:81480">70</a></sup><sup id="fnref:tjlee"><a class="footnote-ref" href="#fn:tjlee">71</a></sup></p>
+<p class="tl n5530">一、诺基亚 N 系列（属于高端功能手机、智能手机）对 Wi-Fi 功能的需求急迫。</p>
+<p class="tl n5530">二、诺基亚公司认为 WAPI 没有技术含量，仅仅是坐地收钱的借口，所以不愿向西安公司支付昂贵的 WAPI 授权费用。</p>
+<p class="tl n5530">三、针对 Wi-Fi 的禁令是硬件层面的，所以诺基亚大陆手机的无法与全球接轨，造成供应链巨大的负担。</p>
+<p class="tl n5530">四、李天健在诺基亚内部上下游说，表示没有 Wi-Fi 功能的手机没有未来，只要价格谈得差不多就该上了。（价格降到了开价的 1/10）</p>
+<p class="tl n5530">五、2008 年的年底，诺基亚公司决定接受 WAPI。</p>
+<!--
+[回到时间线顶部](#时间线)
+{: .md-button }
+-->
+
+<hr>
+<!--
+
+〔后文正在施工中〕 -->
+
+<!-- --- -->
+
+<!-- 无线局域网产品强制性认证实施规则 -->
+
+<!-- 2004年12月7日，WAPI一事再次出现曙光，在中国方面的不懈努力之下，SC6形成决议，将WAPI和美国IEEE 802.11i一同进入提案流程， -->
+<!-- 并被列入明年2月的SC6，第一工作组的工作会议议程，有望成为国际标准。 -->
+
+<!-- --- -->
+
+<!-- 〔以下旧版内容将在未来重置〕 -->
+
+<!-- ## 必须使用这个，否则无法发售 -->
+
+<!-- ![WAPI 手机](https://web.archive.org/web/20150719074515/http://i1.sinaimg.cn/IT/2011/1209/U4672P2DT20111209171000.jpg) -->
+
+<!-- + [iOS 10以上系统里国行版本里的手机启用WAPI是什么？ - 知乎](https://web.archive.org/web/20210610075504/https://www.zhihu.com/question/51504511) -->
+<!-- + 2013-02-21 [国行iphone有WAPI? - V2EX](https://web.archive.org/web/20210610080147/https://www.v2ex.com/t/60993) -->
+<!-- + [问一个简单的问题： wifi&wlan - V2EX](https://web.archive.org/web/20210610080030/https://www.v2ex.com/t/379991) -->
+<!-- + [iOS10.0 DB2 WiFi 设置中多出了 WAPI？！ - V2EX](https://web.archive.org/web/20160714222517/http://v2ex.com/t/290540) -->
+<!-- + [电信版iPhone 5获得无线电业务许可_网易手机](https://web.archive.org/web/20130412151700/http://mobile.163.com/12/1030/15/8F2T3IE20011179O.html) -->
+<!-- + [WAPI是什么？WAPI和WIFI是否兼容？](https://web.archive.org/web/20160304102245/http://www.tompda.com/article/?9440) -->
+<!-- + [南方周末 - WiFi圈地之战](https://archive.is/20120907191213/http://www.infzm.com/content/62143) -->
+
+<h2 id="其他">其他<a class="headerlink" href="#%E5%85%B6%E4%BB%96" title="Permanent link">#</a></h2>
+<h3 id="禁止路由器">禁止路由器<a class="headerlink" href="#%E7%A6%81%E6%AD%A2%E8%B7%AF%E7%94%B1%E5%99%A8" title="Permanent link">#</a></h3>
+<p>2006年8月21日，茂名市公安局发布了一则通告，表示「多户人家同时共用一条宽带上网线路上网的行为」违反了
+《计算机信息网络国际联网安全保护管理办法》和《中华人民共和国计算机信息网络国际联网管理暂行规定》等规定，
+要求用户自行拆除相关设备，停止共享方式上网，否则一经查实，将依法处理。</p>
+<details class="rule" open="open">
+<summary>茂名市公安局关于清理整治多户擅自合用一条宽带上网的通告<sup id="fnref:m7719"><a class="footnote-ref" href="#fn:m7719">86</a></sup></summary>
+<p align="center">茂公通字［2006］123号</p>
+<p>为加强我市互联网安全管理，确保信息网络安全，根据《计算机信息网络国际联网安全保护管理办法》和
+《中华人民共和国计算机信息网络国际联网管理暂行规定》等规定，
+市公安局决定对多户人家擅自合用一条宽带共同上网的行为进行清理整治。现将有关事项通告如下：</p>
+<p>一、多户人家合用一条宽带上网是指由一用户向运营商申请一条宽带上网线路，然后利用路由器（或开启 MODEM 的路由功能）、
+交换机、集线器等网络共享设备以达到多户人家同时共用一条宽带上网线路上网的行为。</p>
+<p>二、多户人家擅自合用一条宽带线路共同上网，属于违法行为，
+请有上述擅自合用宽带上网行为的用户自通告之日起一个月内自行拆除相关设备，停止共享方式上网，否则一经查实，将依法处理。</p>
+<p align="right">茂名市公安局</p>
+<p align="right">二〇〇六年八月二十一日</p>
+</details>
+<p>2006年10月，网络上关于中国电信封杀路由器的流言越来越多。<sup id="fnref:44893"><a class="footnote-ref" href="#fn:44893">72</a></sup></p>
+<p>2006年10月17日，南方日报对此禁令咨询了电信从业者，从业者没有明确表示会对多设备封禁。
+广东电信新闻发言人对此拒绝回答。至少表明，运营商并不愿意公然站到用户的对立面。<sup id="fnref2:44893"><a class="footnote-ref" href="#fn:44893">72</a></sup></p>
+<p>所以「禁止路由器」这一禁令，算是存在。但运营商是以禁止多户的名义，留下了误封的借口。</p>
+<details class="note" open="open">
+<summary>技术的中立性</summary>
+<p id="tn">可能是「黑猫白猫论」的影响，「技术中立原则」（菜刀理论）在中文社区中经常出现。大意是：「〇〇能助人，也能害人，
+而决定权在使用者，所以〇〇是中立的。」比如菜刀。</p>
+<p>这个理论可能起源自 1984 年的「<a href="https://en.wikipedia.org/wiki/Sony_Corp._of_America_v._Universal_City_Studios,_Inc.">索尼诉环球城市影业案</a>」。当时索尼的录影带的复制功能，
+被一些用户用来复制受版权保护的电影。于是索尼被告上法庭，经过多次裁决，最终于最高法院获得了无罪判决。</p>
+<p>所以「技术中立原则」是一种法律概念，意为不能因为一项技术存在非法、恶意的用途，而禁止该技术。比如 <a href="https://en.wikipedia.org/wiki/End-to-end_encryption">端到端加密</a> 技术，
+显然会被恐怖分子、欺诈师和黑客等团体使用，用来作为犯罪沟通的一部分。但因为「技术中立原则」，在法制健全的地区，
+不会轻易的禁止该技术。</p>
+<p>而尼尔·波兹曼在其传播学著作中，提到技术没有中立性。比如古腾堡的印刷术毁灭了宗教的霸权，枪炮让骑士阶级变得模糊。
+人类选择的媒介，亦决定了人类的未来。</p>
+<p>也许二者其实并没有冲突，法律上的「技术中立原则」，以及尼尔提出的技术具有某种倾向性，都可以同时存在。</p>
+</details>
+<p>考虑到技术的中立性，电信公司为了「禁止多户」，而禁止路由器，显然违反了技术的中立性。</p>
+<h3 id="支持-wi-fi-的手机-qq">支持 Wi-Fi 的手机 QQ<a class="headerlink" href="#%E6%94%AF%E6%8C%81-wi-fi-%E7%9A%84%E6%89%8B%E6%9C%BA-qq" title="Permanent link">#</a></h3>
+<p>2008年10月，腾讯公司在苹果官方在线商店 iTunes Apps Store，推出了 QQ For iPhone。
+这是腾讯首次允许移动终端，使用 Wi-Fi 网络运行 QQ 的版本。此前腾讯推出的移动终端均需通过运营商网络才能使用。<sup id="fnref:71819"><a class="footnote-ref" href="#fn:71819">73</a></sup></p>
+<p>2008年11月11日，Windows Mobile 版本的手机 QQ 2008 (S60 V3) 发布，<sup id="fnref:72226"><a class="footnote-ref" href="#fn:72226">74</a></sup>
+Windows Mobile 此时才支持在 Wi-Fi 下使用手机 QQ。<sup id="fnref:qwifi"><a class="footnote-ref" href="#fn:qwifi">75</a></sup> 不过 QQ 空间、音乐、新闻等功能均无法在 Wi-Fi 下使用，
+会提示「您目前的网络连接方式不支持此功能」，仍然有一些限制。<sup id="fnref:1460"><a class="footnote-ref" href="#fn:1460">76</a></sup></p>
+<p>附言：QQ 2008 禁止在 Wi-Fi 下使用，这应该是客户端限制。因为有用户表示，QQ 2005 就能在 Wi-Fi 下正常使用。<sup id="fnref2:1460"><a class="footnote-ref" href="#fn:1460">76</a></sup>
+这种限制，被一些人认为与运营商有关，不过细节不明，算是某种未解之谜吧。</p>
+<h3 id="禁止-wi-fi-手机的原因">禁止 Wi-Fi 手机的原因<a class="headerlink" href="#%E7%A6%81%E6%AD%A2-wi-fi-%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0" title="Permanent link">#</a></h3>
+<p>禁止 Wi-Fi 手机的原因未知，但是可以将各种可能性，以及支持、反对此观点的证据都列举出来：</p>
+<ol>
+<li>
+<p>影响 WAPI 的利益。（信息产业部、中国宽带无线IP标准工作组等）<sup id="fnref:92100"><a class="footnote-ref" href="#fn:92100">96</a></sup></p>
+<ul>
+<li>【支持】使用 WAPI 需要支付费用。</li>
+</ul>
+</li>
+<li>
+<p>影响各大运营商的 3G 利益。<sup id="fnref2:92100"><a class="footnote-ref" href="#fn:92100">96</a></sup></p>
+<ul>
+<li>【支持】3G 与 Wi-Fi 的启用时间，是相同的。</li>
+<li>【反对】Wi-Fi 的覆盖范围有限，不足以影响 3G 网络。</li>
+</ul>
+</li>
+<li>
+<p>VoIP 等技术影响各大运营商的利益。<sup id="fnref3:92100"><a class="footnote-ref" href="#fn:92100">96</a></sup></p>
+<ul>
+<li>【支持】手机 QQ 直到 2013年12月 才拥有语音通话功能。<sup id="fnref:95407"><a class="footnote-ref" href="#fn:95407">97</a></sup></li>
+<li>【支持】微信的「语音通话」被整合到「视频通话」功能中，而海外版两个功能是分开的，<sup id="fnref:3hq0j"><a class="footnote-ref" href="#fn:3hq0j">98</a></sup>
+    所以有人猜测微信是为了满足运营商的要求，而将「语音通话」隐藏到「视频通话」中。<sup id="fnref2:95407"><a class="footnote-ref" href="#fn:95407">97</a></sup></li>
+</ul>
+</li>
+<li>
+<p>影响监管的利益。<sup id="fnref4:92100"><a class="footnote-ref" href="#fn:92100">96</a></sup></p>
+<ul>
+<li>【支持】店家的免费 Wi-Fi 可能会被处罚。
+    因为没有使用符合法律要求的，价值 2 万人民币安装费的保护技术措施设备。<sup id="fnref:77867"><a class="footnote-ref" href="#fn:77867">99</a></sup></li>
+<li>【反对】公共 Wi-Fi 诞生起已经拥有登录验证功能，叫做 <a href="https://en.wikipedia.org/wiki/Captive_portal">captive portal</a>（强制门户），这实际上是一种中间人攻击。
+    如果未通过验证，那么就无法使用网络。所以 Wi-Fi 监管应该不是问题。</li>
+</ul>
+</li>
+</ol>
+<h3 id="禁止-callkit">禁止 CallKit<a class="headerlink" href="#%E7%A6%81%E6%AD%A2-callkit" title="Permanent link">#</a></h3>
+<p>CallKit 是 iOS 的通话相关应用程序的原生框架，以及 VoIP 推送机制。能够让第三方软件使用系统的电话框架，
+让 VoIP 像原生通话一样操作顺畅。<sup id="fnref:callk"><a class="footnote-ref" href="#fn:callk">77</a></sup> 比如能通过系统拨号界面，直接拨打第三方 App 的 VoIP 电话。<sup id="fnref:1RFLI"><a class="footnote-ref" href="#fn:1RFLI">78</a></sup></p>
+<p>但在 2018年5月，Apple 要求在 App Store 大陆区应用商店的 App 发布者，停止使用 CallKit 功能。
+因为工信部对 Apple 有相关要求：</p>
+<details class="email" open="open">
+<summary>Email from Apple<sup id="fnref:54144"><a class="footnote-ref" href="#fn:54144">87</a></sup></summary>
+<p>Dear Developer,</p>
+<p>The Chinese Ministry of Industry and Information Technology (MIIT)
+<code>http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057709/n3057713/index.html</code><sup id="fnref:url"><a class="footnote-ref" href="#fn:url">88</a></sup>
+requested that CallKit functionality be deactivated in all apps available on the China App Store.</p>
+<p>Since your app currently includes CallKit and is available for sale on the China App Store, you will need to submit
+an update that removes CallKit functionality in China.</p>
+<p>VOIP call functionality continues to be allowed but can no longer take advantage of CallKit ’ s intuitive look and
+feel. CallKit can continue to be used in apps outside of China.</p>
+<p>If you have questions or do not believe your app is subject to this update, please contact MIIT.</p>
+<p>Best regards,</p>
+<p>App Store Review</p>
+</details>
+<p>之后微信的外区版本 WeChat，倒是还能继续正常使用 CallKit，所以一些用户转而使用 WeChat。<sup id="fnref:82849"><a class="footnote-ref" href="#fn:82849">79</a></sup><sup id="fnref:53979"><a class="footnote-ref" href="#fn:53979">80</a></sup>
+不过在 2023年3月20日，WeChat 8.0.34 版本移除了 CallKit（至少不能稳定使用），
+一些用户只能坚持使用 8.0.33 版本。<sup id="fnref:readt"><a class="footnote-ref" href="#fn:readt">81</a></sup><sup id="fnref:56122"><a class="footnote-ref" href="#fn:56122">82</a></sup></p>
+<p>Android 也有类似于 Callkit 的 API，叫做 ConnectionService。<sup id="fnref:darat"><a class="footnote-ref" href="#fn:darat">83</a></sup> 但有使用该 API 的 App 很少见，
+可能与 Android 的「碎片化」有关吧。</p>
+<p>2024年11月5日，腾讯 WXG（微信事业群）员工的「客村小蒋」，在新浪微博表示 HarmonyOS NEXT 版微信，
+将会支持 HarmonyOS NEXT 的 Call Kit 功能，<sup id="fnref:1CPVM"><a class="footnote-ref" href="#fn:1CPVM">84</a></sup>（HarmonyOS NEXT 的 Call Kit 功能，类似于 iOS 的 CallKit）<sup id="fnref:hgciv"><a class="footnote-ref" href="#fn:hgciv">85</a></sup></p>
+<div class="footnote">
+<hr>
+<ol>
+<li id="fn:bjhtm">
+<p>《<a href="https://web.archive.org/web/20030816070455/http://www.chinabwips.org/bj.htm">工作组背景</a>》, 中国宽带无线IP标准工作组, 2003-08-16. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:bjhtm" title="Jump back to footnote 1 in the text">↩</a><a class="footnote-backref" href="#fnref2:bjhtm" title="Jump back to footnote 1 in the text">↩</a></p>
+</li>
+<li id="fn:cydw">
+<p>《<a href="https://web.archive.org/web/20030815170629/http://www.chinabwips.org/cydw.htm">成员单位</a>》, 中国宽带无线IP标准工作组, 2003-08-15. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:cydw" title="Jump back to footnote 2 in the text">↩</a></p>
+</li>
+<li id="fn:14125">
+<p>西安西电捷通无线网络通信有限公司, 《<a href="https://web.archive.org/web/20230323114125/https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFBD3A7E05397BE0A0AB82A">信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第11部分:无线局域网媒体访问控制和物理层规范</a>》, 国家标准 - 全国标准信息公共服务平台, 2003-05-12. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:14125" title="Jump back to footnote 3 in the text">↩</a></p>
+</li>
+<li id="fn:75520">
+<p>西安西电捷通无线网络通信有限公司, 《<a href="https://web.archive.org/web/20240225075520/https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D75DFCD3A7E05397BE0A0AB82A">信息技术 系统间远程通信和信息交换局域网和城域网 特定要求 第11部分:无线局域网媒体访问控制和物理层规范:2.4 GHz频段较高速物理层扩展规范</a>》, 国家标准 - 全国标准信息公共服务平台, 2003-05-12. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:75520" title="Jump back to footnote 4 in the text">↩</a></p>
+</li>
+<li id="fn:CHN_188">
+<p>《<a href="https://web.archive.org/web/20240225075252/http://www.inmetro.gov.br/barreirastecnicas/pontofocal/textos/regulamentos/CHN_188.pdf">信息技术 系统间远程通信和信息交换 局域网和城域网 特定要求 第 11 部分： 无线局域网媒体访问控制和物理层规范： 2.4 GHz 频段更高数据速率扩展规范</a>》, [Online].&nbsp;<a class="footnote-backref" href="#fnref:CHN_188" title="Jump back to footnote 5 in the text">↩</a></p>
+</li>
+<li id="fn:72535">
+<p>知产力, 《<a href="https://web.archive.org/web/20240225083714/https://www.zhichanli.com/p/1774172535">被判赔910万元！索尼因侵犯西电捷通无线通信SEP一审败诉,知产力,为创新聚合知识产权解决方案</a>》, 知产力, 2017-03-22. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:72535" title="Jump back to footnote 6 in the text">↩</a></p>
+</li>
+<li id="fn:51376">
+<p>陈涛、陈杰, 《<a href="https://web.archive.org/web/20240225083559/https://www.lindapatent.com/cn/info/insights_patent/2022/0125/1376.html">西电捷通诉索尼WAPI专利侵权案评析</a>》, 北京林达刘知识产权代理事务所, 2018-. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:51376" title="Jump back to footnote 7 in the text">↩</a></p>
+</li>
+<li id="fn:13871">
+<p>21世纪经济报道／陈志刚, 《<a href="https://web.archive.org/web/20050924135034/http://tech.sina.com.cn/it/t/2003-07-26/1617213871.shtml">消息称中国电信借力美国公司 密谋Wi-Fi手机</a>》, 新浪网, 2003-07-26. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:13871" title="Jump back to footnote 8 in the text">↩</a></p>
+</li>
+<li id="fn:60358">
+<p><em><a href="https://web.archive.org/web/20220524160358/https://www.commsupdate.com/articles/2003/12/02/calypso-wireless-inks-usd500-million-wi-fi-deal/">Calypso Wireless inks USD500 million Wi-Fi deal</a></em>, TeleGeography, 2003-12-02. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:60358" title="Jump back to footnote 9 in the text">↩</a></p>
+</li>
+<li id="fn:35434">
+<p>《<a href="https://web.archive.org/web/20150507235434/http://finance.sina.com.cn/nz/US-China/">中美商务理事会在京成立</a>》, 新浪网, 2003-. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:35434" title="Jump back to footnote 10 in the text">↩</a></p>
+</li>
+<li id="fn:12566">
+<p>中国政府网, 《<a href="https://web.archive.org/web/20240226055554/https://www.gov.cn/test/2005-07/06/content_12566.htm">中美商务理事会成立</a>》, 中国政府网, 2005-07-06. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:12566" title="Jump back to footnote 11 in the text">↩</a></p>
+</li>
+<li id="fn:77707">
+<p>新浪财经, 《<a href="https://web.archive.org/web/20040622073946/http://finance.sina.com.cn/roll/20031016/1729477707.shtml">中美商务理事会联合声明</a>》, 新浪网, 2003-10-16. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:77707" title="Jump back to footnote 12 in the text">↩</a></p>
+</li>
+<li id="fn:64326">
+<p>《<a href="https://web.archive.org/web/20210518110217/https://www.voachinese.com/a/a-21-a-2003-07-09-15-1-63185112/964326.html">世界反倾销势头凶猛中国首当其冲</a>》, 美国之音, 2003-07-09. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:64326" title="Jump back to footnote 13 in the text">↩</a></p>
+</li>
+<li id="fn:81493">
+<p>《<a href="https://web.archive.org/web/20210621034010/https://www.voachinese.com/a/a-21-a-2003-07-18-13-1-58399957/1081493.html">美议员要查北京是否操纵人民币汇率</a>》, 美国之音, 2003-07-18. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:81493" title="Jump back to footnote 14 in the text">↩</a></p>
+</li>
+<li id="fn:1041s">
+<p>中国新闻网, 《<a href="https://web.archive.org/web/20050902201805/http://news.sina.com.cn/o/2003-10-30/08171021041s.shtml">中美商务理事会第一项使命：排除“非经济因素”</a>》, 新浪网, 2003-10-30. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:1041s" title="Jump back to footnote 15 in the text">↩</a></p>
+</li>
+<li id="fn:02728">
+<p>《<a href="https://web.archive.org/web/20210726173135/https://www.voachinese.com/a/a-21-a-2003-10-30-20-1-63439837/1002728.html">中未操纵汇率制造不公平贸易</a>》, 美国之音, 2003-10-30. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:02728" title="Jump back to footnote 16 in the text">↩</a></p>
+</li>
+<li id="fn:0421s">
+<p>湖南在线-湖南日报, 《<a href="https://web.archive.org/web/20050502164125/http://news.sina.com.cn/o/2003-11-23/08221170421s.shtml">解决中美贸易争端问题</a>》, 新浪网, 2003-11-23. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:0421s" title="Jump back to footnote 17 in the text">↩</a></p>
+</li>
+<li id="fn:67677">
+<p>计算机世界网, 《<a href="https://web.archive.org/web/20050407114148/http://tech.sina.com.cn/other/2003-12-12/1535267677.shtml">WLAN安全标准再起波澜 美大使向中国发声明</a>》, 新浪网, 2003-12-12. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:67677" title="Jump back to footnote 18 in the text">↩</a></p>
+</li>
+<li id="fn:34385">
+<p>Reuters, <em><a href="https://web.archive.org/web/20040213032221/http://www.forbes.com/technology/newswire/2004/01/29/rtr1234385.html">Forbes.com: US supplier threatens China Wi-Fi chip boycott</a></em>, Forbes.com, 2004-01-29. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:34385" title="Jump back to footnote 19 in the text">↩</a></p>
+</li>
+<li id="fn:87828">
+<p>21世纪经济报道, 《<a href="https://tech.sina.com.cn/it/t/2004-02-04/1024287828.shtml">国际Wi-Fi联盟施压 中国无线标准实施不变</a>》, 新浪网, 2004-02-04. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:87828" title="Jump back to footnote 20 in the text">↩</a></p>
+</li>
+<li id="fn:3145s">
+<p>中国新闻网, 《<a href="https://web.archive.org/web/20050313042202/http://news.sina.com.cn/c/2004-04-19/07472343145s.shtml">吴仪本周访美磋商贸易议题 美方称中美关系成熟</a>》, 新浪网, 2004-04-19. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:3145s" title="Jump back to footnote 21 in the text">↩</a></p>
+</li>
+<li id="fn:43428">
+<p>新华网, 《<a href="https://web.archive.org/web/20050518163813/http://news.sina.com.cn/c/2004-04-19/14093143428.shtml">吴仪离京赴美 中美本周将全力解决经贸争端</a>》, 新浪网, 2004-04-19. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:43428" title="Jump back to footnote 22 in the text">↩</a></p>
+</li>
+<li id="fn:smyyt">
+<p>《<a href="https://web.archive.org/web/20070315093524/http://news.sina.com.cn/z/wycsmyyt/index.shtml">吴仪访美磋商贸易议题</a>》, 2003-. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:smyyt" title="Jump back to footnote 23 in the text">↩</a></p>
+</li>
+<li id="fn:65021">
+<p>Grant Gross, <em><a href="https://web.archive.org/web/20240114113137/https://www.computerworld.com/article/2565021/china-agrees-to-drop-wapi-standard.html">China agrees to drop WAPI standard</a></em>, Computerworld, 2004-04-22. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:65021" title="Jump back to footnote 24 in the text">↩</a></p>
+</li>
+<li id="fn:22335">
+<p>Elizabeth Becker, <em><a href="https://web.archive.org/web/20210609022335/https://www.nytimes.com/2004/04/22/business/china-agrees-to-postpone-wireless-plan.html">China Agrees To Postpone Wireless Plan</a></em>, The New York Times, 2004-04-22. 参照: 2024-02-27. [Online].&nbsp;<a class="footnote-backref" href="#fnref:22335" title="Jump back to footnote 25 in the text">↩</a></p>
+</li>
+<li id="fn:52746">
+<p>新浪科技, 《<a href="https://web.archive.org/web/20130616153628/http://tech.sina.com.cn/it/t/2004-04-22/0710352746.shtml">中美达成协定推迟WAPI实施 6月不会强制认证</a>》, 新浪网, 2004-04-22. (参照 2024-02-26).&nbsp;<a class="footnote-backref" href="#fnref:52746" title="Jump back to footnote 26 in the text">↩</a></p>
+</li>
+<li id="fn:58779">
+<p>人民网／米阿仑, 《<a href="https://web.archive.org/web/20220519181508/http://tech.sina.com.cn/it/2004-05-09/1019358779.shtml">评论：中国推迟实施WAPI标准并非迁就美国</a>》, 新浪网, 2004-05-09. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:58779" title="Jump back to footnote 27 in the text">↩</a></p>
+</li>
+<li id="fn:68816">
+<p>经济观察报／方雷, 《<a href="https://web.archive.org/web/20050312094721/http://tech.sina.com.cn/it/2004-05-29/1116368816.shtml">谁为中国首枚WAPI核心芯片巨额研发费买单</a>》, 新浪网, 2004-05-29. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:68816" title="Jump back to footnote 28 in the text">↩</a></p>
+</li>
+<li id="fn:71654">
+<p>21世纪经济报道, 《<a href="https://web.archive.org/web/20210224174824/http://tech.sina.com.cn/other/2004-06-05/0729371654.shtml">新闻调查：中国无线局域网标准WAPI幕后的故事</a>》, 新浪网, 2004-06-05. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:71654" title="Jump back to footnote 29 in the text">↩</a></p>
+</li>
+<li id="fn:36784">
+<p>IT.COM.CN, 《<a href="https://web.archive.org/web/20240228140512/https://tech.sina.com.cn/mobile/n/2005-10-11/0919736784.shtml">IT市场更便宜 行货明基P50报价只有6000</a>》, 新浪网, 2005-10-11. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:36784" title="Jump back to footnote 30 in the text">↩</a></p>
+</li>
+<li id="fn:43873">
+<p>太平洋电脑网, 《<a href="https://web.archive.org/web/20240228135314/https://tech.sina.com.cn/mobile/n/2006-02-17/0736843873.shtml">17日各地手机：百万像素蓝牙商务手机降300(8)</a>》, 新浪网, 2006-02-17. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:43873" title="Jump back to footnote 31 in the text">↩</a></p>
+</li>
+<li id="fn:65204">
+<p>ganziyin, 《<a href="https://web.archive.org/web/20240228140145/https://zhidao.baidu.com/question/26165204.html">如何激活p50的wifi功能</a>》, 百度知道, 2007-05-12. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:65204" title="Jump back to footnote 32 in the text">↩</a></p>
+</li>
+<li id="fn:36860">
+<p>19xx, 《<a href="https://bbs.tgfcer.com/viewthread.php?tid=6036860">JW终于憋不住自宫了，M8上市版将硬件阉割Wi-Fi</a>》, TGFC Lifestyle, 2008-12-29. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:36860" title="Jump back to footnote 33 in the text">↩</a></p>
+</li>
+<li id="fn:97990">
+<p>《<a href="https://web.archive.org/web/20110707041401/http://www.oscca.gov.cn/UpFile/200621016423197990.pdf">无线局域网产品使用的 SMS4 密码算法</a>》, 国家密码管理局, 2007-. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:97990" title="Jump back to footnote 34 in the text">↩</a></p>
+</li>
+<li id="fn:85032">
+<p>Jiqiang Lu, <em><a href="https://dl.acm.org/doi/abs/10.5555/1785001.1785032">Attacking reduced-round versions of the SMS4 block cipher in the Chinese WAPI standard</a></em>, Proceedings of the 9th international conference on Information and communications security, Berlin, Heidelberg, 2007, 页码 306–318.&nbsp;<a class="footnote-backref" href="#fnref:85032" title="Jump back to footnote 35 in the text">↩</a></p>
+</li>
+<li id="fn:62417">
+<p>ugmbbc, 《<a href="https://web.archive.org/web/20081013193747/http://www.cnbeta.com/articles/62417.htm">魅族公布M8第一批内测用户名单</a>》, cnbeta.com, 2008-08-15. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:62417" title="Jump back to footnote 36 in the text">↩</a></p>
+</li>
+<li id="fn:65380">
+<p>Aoouch, 《<a href="https://web.archive.org/web/20080926065914/http://www.cnbeta.com/articles/65380.htm">M8延期到11月开卖 魅族公布第二批内测名单</a>》, cnBeta.COM, 2008-09-23. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:65380" title="Jump back to footnote 37 in the text">↩</a></p>
+</li>
+<li id="fn:60641">
+<p>ugmbbc, 《<a href="https://web.archive.org/web/20080908173440/http://www.cnbeta.com/articles/60641.htm">律师:M8内测是变相的销售</a>》, cnBeta.COM, 2008-07-20. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:60641" title="Jump back to footnote 38 in the text">↩</a></p>
+</li>
+<li id="fn:44355">
+<p>PCPOP, 《<a href="https://web.archive.org/web/20240228111519/https://digi.it.sohu.com/20081110/n260544355.shtml">J.Wong:魅族M8先到先得 每周放出百部</a>》, 搜狐数码, 2008-11-10. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:44355" title="Jump back to footnote 39 in the text">↩</a></p>
+</li>
+<li id="fn:54933">
+<p>南方都市报, 《<a href="https://web.archive.org/web/20110204221211/http://www.chinanews.com/it/txxw/news/2008/11-19/1454933.shtml">中电信失意WiFi手机 “天翼”等待政策放行</a>》, 中国新闻网, 2008-11-19. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:54933" title="Jump back to footnote 40 in the text">↩</a><a class="footnote-backref" href="#fnref2:54933" title="Jump back to footnote 40 in the text">↩</a><a class="footnote-backref" href="#fnref3:54933" title="Jump back to footnote 40 in the text">↩</a><a class="footnote-backref" href="#fnref4:54933" title="Jump back to footnote 40 in the text">↩</a></p>
+</li>
+<li id="fn:03318">
+<p>Sky, 《<a href="https://web.archive.org/web/20081205082437/http://www.beareyes.com.cn/2/lib/200812/03/20081203318.htm">传闻被证实 魅族M8支持wifi 破解攻略</a>》, 小熊在线, 2008-12-03. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:03318" title="Jump back to footnote 41 in the text">↩</a></p>
+</li>
+<li id="fn:52363">
+<p>搜狐IT, 《<a href="https://web.archive.org/web/20081209022958/http://net.zol.com.cn/115/1152363.html">100万水货手机可用WIFI 行货用户抱怨</a>》, 中关村在线, 2008-12-04. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:52363" title="Jump back to footnote 42 in the text">↩</a><a class="footnote-backref" href="#fnref2:52363" title="Jump back to footnote 42 in the text">↩</a></p>
+</li>
+<li id="fn:73436">
+<p>ugmbbc, 《<a href="https://web.archive.org/web/20081228021018/http://www.cnbeta.com/articles/73436.htm">M8再次遭阉割 Wi-Fi硬件下面没有了</a>》, cnBeta.COM, 2008-12-27. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:73436" title="Jump back to footnote 43 in the text">↩</a></p>
+</li>
+<li id="fn:0HGKU">
+<p>数码辣条, 《<a href="https://web.archive.org/web/20240228115112/https://www.163.com/dy/article/H6KHMQ4D0530HGKU.html">花40元买到魅族M8，插上充电器成功开机</a>》, 网易, 2022-05-05. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:0HGKU" title="Jump back to footnote 44 in the text">↩</a></p>
+</li>
+<li id="fn:06874">
+<p>魅族宇飞, 《<a href="https://web.archive.org/web/20160310093947/http://bbs.meizu.cn/thread-806874-1-1.html">魅族M8正式上市</a>》, 魅族社区／综合讨论, 2009-02-17. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:06874" title="Jump back to footnote 45 in the text">↩</a><a class="footnote-backref" href="#fnref2:06874" title="Jump back to footnote 45 in the text">↩</a></p>
+</li>
+<li id="fn:02227">
+<p>计世网／陈楚, 《<a href="https://web.archive.org/web/20090212150302/http://tech.sina.com.cn/t/2009-02-07/16482802227.shtml">传中国移动TD手机将嵌入WIFI</a>》, 新浪网, 2009-02-07. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:02227" title="Jump back to footnote 46 in the text">↩</a></p>
+</li>
+<li id="fn:91844">
+<p>IT时报, 《<a href="https://tech.sina.com.cn/t/2009-04-10/15422991844.shtml">WiFi手机闯关前途未卜只有中国禁止</a>》, 新浪网, 2009-04-10. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:91844" title="Jump back to footnote 47 in the text">↩</a></p>
+</li>
+<li id="fn:12316">
+<p>Stev, 《<a href="https://web.archive.org/web/20240227140459/https://www.isc.org.cn/article/12316.html">手机接入无线局域网开禁 工信部放行国产标准</a>》, 中国互联网协会, 2009-04-29. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:12316" title="Jump back to footnote 48 in the text">↩</a></p>
+</li>
+<li id="fn:15726">
+<p>信息时报讯／杨章玉, 《<a href="https://web.archive.org/web/20240227140205/https://tech.sina.cn/t/2009-04-22/detail-ichmifpy2815726.d.html">传工信部同意手机用WAPI技术 未对WiFi表态</a>》, 新浪网, 2009-04-22. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:15726" title="Jump back to footnote 49 in the text">↩</a></p>
+</li>
+<li id="fn:68783">
+<p>广州日报, 《<a href="https://web.archive.org/web/20100508010754/http://www.chinanews.com.cn/it/itxw/news/2009/04-29/1668783.shtml">WAPI可兼容WIFI：手机接入速度更快 资费恐洗牌</a>》, 中新网, 2009-04-29. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:68783" title="Jump back to footnote 50 in the text">↩</a></p>
+</li>
+<li id="fn:21027">
+<p>-2, 《<a href="https://web.archive.org/web/20090819021027/http://apple4.us/2009/05/ipod-touch-2meizu-m8.html">一个 iPod touch 用户的魅族 M8 使用体验</a>》, Apple4us, 2009-05-15. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:21027" title="Jump back to footnote 51 in the text">↩</a></p>
+</li>
+<li id="fn:80153">
+<p>欢少~, 《<a href="https://web.archive.org/web/20240301073331/https://tech.sina.com.cn/mobile/n/2009-05-11/10403080153.shtml">摩托罗拉联通定制3G手机A3100揭秘(图)</a>》, 新浪网／IT.COM.CN, 2009-05-11. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:80153" title="Jump back to footnote 52 in the text">↩</a></p>
+</li>
+<li id="fn:84472">
+<p>断了的弦, 《<a href="https://web.archive.org/web/20240301073333/https://tech.sina.com.cn/mobile/n/2009-05-12/12103084472.shtml">摩托罗拉A3100行货6月上市 支持WAPI</a>》, 新浪网／IT168.com, 2009-05-12. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:84472" title="Jump back to footnote 53 in the text">↩</a></p>
+</li>
+<li id="fn:69806">
+<p>杨雪涛, 《<a href="https://tech.sina.com.cn/mobile/n/2009-06-11/10093169806.shtml">商务精英 摩托罗拉A3100行货售3500</a>》, 新浪网／手机中国, 2009-06-11. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:69806" title="Jump back to footnote 54 in the text">↩</a></p>
+</li>
+<li id="fn:94889">
+<p>文元, 《<a href="https://web.archive.org/web/20200514065933/http://tech.sina.com.cn/t/2009-06-19/11303194889.shtml">WAPI/WiFi手机在中国市场正式上市(图)</a>》, 新浪网／新浪科技, 2009-06-19. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:94889" title="Jump back to footnote 55 in the text">↩</a></p>
+</li>
+<li id="fn:80367">
+<p>阿涛, 《<a href="https://web.archive.org/web/20240301094512/https://mobile.pconline.com.cn/review/0906/1680367_all.html">3G+WLAN 联通定制MOTO智能旗舰A3100评测</a>》, 太平洋电脑网, 2009-06-15. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:80367" title="Jump back to footnote 56 in the text">↩</a></p>
+</li>
+<li id="fn:92952">
+<p>阿涛, 《<a href="https://web.archive.org/web/20240301102432/https://mobile.pconline.com.cn/review/0906/1692952_all.html">WAPI/Wifi手机 MOTO A3100网络功能评测</a>》, 太平洋电脑网PConline, 2009-06-30. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:92952" title="Jump back to footnote 57 in the text">↩</a></p>
+</li>
+<li id="fn:98563">
+<p>新浪科技, 《<a href="https://web.archive.org/web/20090625165439/http://tech.sina.com.cn/t/2009-06-22/02203198563.shtml">检测机构详解手机WAPI政策:纯WiFi手机不能上市</a>》, 新浪网, 2009-06-22. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:98563" title="Jump back to footnote 58 in the text">↩</a></p>
+</li>
+<li id="fn:52415">
+<p>新浪四川, 《<a href="https://web.archive.org/web/20240228051856/https://sc.sina.com.cn/digi/digiinfo/yunying/2009-06-23/09152415.html">工信部展开WAPI手机入网检测</a>》, 新浪网, 2009-06-23. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:52415" title="Jump back to footnote 59 in the text">↩</a></p>
+</li>
+<li id="fn:90694">
+<p>wanpeng1, 《<a href="https://web.archive.org/web/20100105172836/http://mobile.pconline.com.cn/dclub/0906/1690694.html">10款中国市场3G手机!诺基亚在京发13新机</a>》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:90694" title="Jump back to footnote 60 in the text">↩</a></p>
+</li>
+<li id="fn:694_1">
+<p>wanpeng1, 《<a href="https://web.archive.org/web/20100117065034/http://mobile.pconline.com.cn/dclub/0906/1690694_1.html">诺基亚:新机5530 XpressMusic</a>》, 太平洋电脑网, 2009-06-25. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:694_1" title="Jump back to footnote 61 in the text">↩</a></p>
+</li>
+<li id="fn:18235">
+<p>士旦, 《<a href="https://web.archive.org/web/20090803155451/http://mobile.pconline.com.cn/market/gz/0907/1718235.html">智能全触摸!诺基亚5530行货仅2190元开卖</a>》, 太平洋电脑网, 2009-07-29. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:18235" title="Jump back to footnote 62 in the text">↩</a></p>
+</li>
+<li id="fn:543_2">
+<p>VSing, 《<a href="https://web.archive.org/web/20120227204742/http://mobile.pconline.com.cn/review/0907/1709543_2.html">诺基亚5530评测:屏幕、WAPI无线</a>》, 太平洋电脑网, 2009-07-21. (参照 2024-03-01).&nbsp;<a class="footnote-backref" href="#fnref:543_2" title="Jump back to footnote 63 in the text">↩</a></p>
+</li>
+<li id="fn:5530h">
+<p>《<a href="https://web.archive.org/web/20090705085556/http://www.nokia.com.cn/find-products/products/nokia-5530-xpressmusic/specifications">诺基亚 5530 XpressMusic</a>》, 诺基亚, 2009-07-05. (参照 2024-03-01). 附言：内含该机型的详细参数。&nbsp;<a class="footnote-backref" href="#fnref:5530h" title="Jump back to footnote 64 in the text">↩</a></p>
+</li>
+<li id="fn:92150">
+<p>时代周报记者, 《<a href="https://web.archive.org/web/20240227092150/https://www.time-weekly.com/post/3060">解禁前夜 Wi-Fi手机博弈WAPI</a>》, 时代在线网, 2009-09-16. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:92150" title="Jump back to footnote 65 in the text">↩</a></p>
+</li>
+<li id="fn:23379">
+<p>伍健, 《<a href="https://web.archive.org/web/20240228120454/https://www.fx361.cc/page/2009/1027/4223379.shtml">“国产第一手机”神话破灭魅族Ｍ８深陷“公测门”</a>》, 参考网／微型计算机, 2009-08. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:23379" title="Jump back to footnote 66 in the text">↩</a></p>
+</li>
+<li id="fn:91575">
+<p>ugmbbc, 《<a href="https://web.archive.org/web/20090826191007/http://www.cnbeta.com/articles/91575.htm">魅族公司解决M8质量事件回放</a>》, cnBeta.COM, 2009-08-21. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:91575" title="Jump back to footnote 67 in the text">↩</a></p>
+</li>
+<li id="fn:13601">
+<p>北京青年报, 《<a href="https://web.archive.org/web/20240227134729/https://www.chinanews.com.cn/it/news/2009/10-16/1913601.shtml">联通不阻水货iphone入网 “水货”并非山寨机</a>》, 中新网, 2009-10-16. (参照 2024-02-27).&nbsp;<a class="footnote-backref" href="#fnref:13601" title="Jump back to footnote 68 in the text">↩</a></p>
+</li>
+<li id="fn:1229">
+<p>国家密码管理局, 《<a href="https://web.archive.org/web/20130711004248/http://www.oscca.gov.cn/News/201204/News_1229.htm">国家密码管理局公告</a>》, 国家商用密码管理办公室, 2012-03-21. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:1229" title="Jump back to footnote 69 in the text">↩</a></p>
+</li>
+<li id="fn:81480">
+<p>李天健, 《<a href="https://web.archive.org/web/20220528024840/https://www.zhihu.com/question/32032171/answer/68781480">2G时代的手机不准有 WiFi 这个规定是怎样被废除的？</a>》, 知乎, 2015-10-21. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:81480" title="Jump back to footnote 70 in the text">↩</a></p>
+</li>
+<li id="fn:tjlee">
+<p><a href="https://web.archive.org/web/20220904015640/https://www.zhihu.com/people/jimtjlee">李天健的知乎主页</a>, 知乎, 2022-09-04. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:tjlee" title="Jump back to footnote 71 in the text">↩</a></p>
+</li>
+<li id="fn:44893">
+<p>南方报业传媒集团-南方日报, 《<a href="https://web.archive.org/web/20101014033600/http://business.sohu.com/20061017/n245844893.shtml">传运营商限制路由器 共享宽带上网遭电信封杀？</a>》, 搜狐财经, 2006-10-17. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:44893" title="Jump back to footnote 72 in the text">↩</a><a class="footnote-backref" href="#fnref2:44893" title="Jump back to footnote 72 in the text">↩</a></p>
+</li>
+<li id="fn:71819">
+<p>佼佼, 《<a href="https://web.archive.org/web/20111027174754/http://it.sohu.com/20081006/n259871819.shtml">腾讯首次放弃移动中断WiFi限制 推出iPhone版QQ</a>》, 搜狐IT, 2008-10-06. (参照 2024-03-02).&nbsp;<a class="footnote-backref" href="#fnref:71819" title="Jump back to footnote 73 in the text">↩</a></p>
+</li>
+<li id="fn:72226">
+<p><a href="https://web.archive.org/web/20081204072226/http://mobile.qq.com/?from=im_m">手机QQ</a>, 腾讯官方下载中心, 2008-12-04. (参照 2024-03-02).&nbsp;<a class="footnote-backref" href="#fnref:72226" title="Jump back to footnote 74 in the text">↩</a></p>
+</li>
+<li id="fn:qwifi">
+<p>《<a href="https://web.archive.org/web/20081217074209/http://mobile.qq.com/wifi">手机QQ支持WIFI接入，完全免费聊QQ！</a>》, 腾讯官方下载中心, 2008-12-17. (参照 2024-03-02).&nbsp;<a class="footnote-backref" href="#fnref:qwifi" title="Jump back to footnote 75 in the text">↩</a></p>
+</li>
+<li id="fn:1460">
+<p>aRAY, 《<a href="https://web.archive.org/web/20230603234955/https://aray.cn/archives/1460">[聊天]QQ 2008 Beta1(支持WAP/NET/WIFI网络)</a>》, aRAY「爱生活.爱剁手.爱折腾」. (参照 2024-03-02).&nbsp;<a class="footnote-backref" href="#fnref:1460" title="Jump back to footnote 76 in the text">↩</a><a class="footnote-backref" href="#fnref2:1460" title="Jump back to footnote 76 in the text">↩</a></p>
+</li>
+<li id="fn:callk">
+<p><a href="https://developer.apple.com/documentation/callkit">CallKit</a>, Apple Developer Documentation. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:callk" title="Jump back to footnote 77 in the text">↩</a></p>
+</li>
+<li id="fn:1RFLI">
+<p>刘奔跑, 《<a href="https://web.archive.org/web/20241106062235/https://www.163.com/dy/article/HD32P16P0511RFLI.html">还在等微信 CallKit 的人，我要向你泼冷水了：别等了，不会有了</a>》, 网易, 2022-07-24. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:1RFLI" title="Jump back to footnote 78 in the text">↩</a></p>
+</li>
+<li id="fn:82849">
+<p>lqcc, 《<a href="https://web.archive.org/web/20240927214413/https://v2ex.com/t/982849">为什么苹果的微信 callkit 不可用，安卓端就可以像普通电话那样提示微信电话？</a>》, V2EX, 2023-10-17. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:82849" title="Jump back to footnote 79 in the text">↩</a></p>
+</li>
+<li id="fn:53979">
+<p>zhouwb, 《<a href="https://web.archive.org/web/20230929042134/https://www.v2ex.com/t/853979">关于微信开通 callkit 的问题，希望各位大佬能回复一下</a>》, V2EX, 2022-05-19. (参照 2024-11-07).&nbsp;<a class="footnote-backref" href="#fnref:53979" title="Jump back to footnote 80 in the text">↩</a></p>
+</li>
+<li id="fn:readt">
+<p>《<a href="https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;t=weixin_faq_list&amp;head=true">微信 8.0.34 for iOS 全新发布</a>》, 微信, 2023-03-20. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:readt" title="Jump back to footnote 81 in the text">↩</a></p>
+</li>
+<li id="fn:56122">
+<p>04wyt, 《<a href="https://web.archive.org/web/20240816105719/https://www.v2ex.com/t/1056122">微信 8.0.50 能用 callkit 了吗，一直没有更新还停留在 8.0.33，更新还得备份聊天记录，还容易弄丢记录</a>》, V2EX, 2024-07-10. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:56122" title="Jump back to footnote 82 in the text">↩</a></p>
+</li>
+<li id="fn:darat">
+<p><a href="https://developer.android.com/reference/android/telecom/ConnectionService">ConnectionService</a>, Android Developers, 2024-06-18. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:darat" title="Jump back to footnote 83 in the text">↩</a></p>
+</li>
+<li id="fn:1CPVM">
+<p>快科技, 《<a href="https://web.archive.org/web/20241106160649/https://www.163.com/dy/article/JGACV7JP0511CPVM.html">官方确认：微信鸿蒙原生版将支持Call Kit 不解锁就能接语音</a>》, 网易, 2024-11-06. (参照 2024-11-07).&nbsp;<a class="footnote-backref" href="#fnref:1CPVM" title="Jump back to footnote 84 in the text">↩</a></p>
+</li>
+<li id="fn:hgciv">
+<p>《<a href="https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/call-introduction-V5">Call Kit简介-Call Kit（通话服务）</a>》, 华为开发者联盟, 2024-11-05. (参照 2024-11-07).&nbsp;<a class="footnote-backref" href="#fnref:hgciv" title="Jump back to footnote 85 in the text">↩</a></p>
+</li>
+<li id="fn:m7719">
+<p>《茂名日报（茂名日报2006年8月22日）》, 茂名日报, 页码 1, 2006-08-22. (参照 2024-02-28).&nbsp;<a class="footnote-backref" href="#fnref:m7719" title="Jump back to footnote 86 in the text">↩</a></p>
+</li>
+<li id="fn:54144">
+<p>wohenyingyu03, 《<a href="https://web.archive.org/web/20240927214438/https://www.v2ex.com/t/454144">苹果国区 App Store 下架所有使用 Callkit 的语音通话类应用，你们中枪了么</a>》, V2EX, 2018-05-11. (参照 2024-11-06).&nbsp;<a class="footnote-backref" href="#fnref:54144" title="Jump back to footnote 87 in the text">↩</a></p>
+</li>
+<li id="fn:url">
+<p>然而这个链接并没有什么内容：<a href="https://web.archive.org/web/20180615143837/http://www.miit.gov.cn/n1146285/n1146352/n3054355/n3057709/n3057713/index.html">link</a>&nbsp;<a class="footnote-backref" href="#fnref:url" title="Jump back to footnote 88 in the text">↩</a></p>
+</li>
+<li id="fn:07440">
+<p>新浪科技, 《<a href="https://web.archive.org/web/20060913184910/http://tech.sina.com.cn/it2/2003-07-09/1310207440.shtml">无线局域网国家标准宣贯会正式召开</a>》, 新浪网, 2003-07-09. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:07440" title="Jump back to footnote 89 in the text">↩</a></p>
+</li>
+<li id="fn:67244">
+<p>新浪科技, 《<a href="https://web.archive.org/web/20220519183433/http://tech.sina.com.cn/it/t/2003-12-12/0011267244.shtml">关于无线局域网强制性国家标准实施的公告</a>》, 新浪, 2003-12-12. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:67244" title="Jump back to footnote 90 in the text">↩</a></p>
+</li>
+<li id="fn:67245">
+<p>新浪科技, 《<a href="https://web.archive.org/web/20130617092739/http://tech.sina.com.cn/it/t/2003-12-12/0013267245.shtml">国家认证认可监督管理委员会12月1日实施公告</a>》, 新浪网, 2003-12-12. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:67245" title="Jump back to footnote 91 in the text">↩</a></p>
+</li>
+<li id="fn:79029">
+<p>中国经营报, 《<a href="https://web.archive.org/web/20130617215632/http://tech.sina.com.cn/it/2004-12-18/0751479029.shtml">中国宽带无线IP标准WAPI大事记</a>》, 新浪网, 2004-12-18. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:79029" title="Jump back to footnote 92 in the text">↩</a></p>
+</li>
+<li id="fn:90423">
+<p>赛迪网-中国计算机报, 《<a href="https://web.archive.org/web/2/https://tech.sina.com.cn/it/t/2003-05-23/1723190423.shtml">无线局域网(WLAN)两项国家标准正式颁布</a>》, 新浪网, 2003-05-23. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:90423" title="Jump back to footnote 93 in the text">↩</a></p>
+</li>
+<li id="fn:jszqa">
+<p>中国计算机报／曾宝晖, 《<a href="https://web.archive.org/web/20040419031651/http://www.chinabwips.org/jszq-aq-02-1.htm">WLAN 煮酒论安全－谈无线局域网的安全问题及标准</a>》, 中国宽带无线IP标准工作组, 2004-. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:jszqa" title="Jump back to footnote 94 in the text">↩</a></p>
+</li>
+<li id="fn:73569">
+<p>南方周末, 《<a href="https://web.archive.org/web/20050416092220/http://tech.sina.com.cn/it/t/2003-12-25/1701273569.shtml">中国无线标准剑指安全性 WAPI攻伐之声不断</a>》, 新浪网, 2003-12-25. (参照 2024-02-25).&nbsp;<a class="footnote-backref" href="#fnref:73569" title="Jump back to footnote 95 in the text">↩</a></p>
+</li>
+<li id="fn:92100">
+<p>jyb, 《<a href="https://web.archive.org/web/20110903184549/http://www.elecfans.com/3g/news/20110328192100.html">3G时代Wi-Fi手机为何很难入网</a>》, 电子发烧友网, 2011-03-28. (参照 2024-03-02).&nbsp;<a class="footnote-backref" href="#fnref:92100" title="Jump back to footnote 96 in the text">↩</a><a class="footnote-backref" href="#fnref2:92100" title="Jump back to footnote 96 in the text">↩</a><a class="footnote-backref" href="#fnref3:92100" title="Jump back to footnote 96 in the text">↩</a><a class="footnote-backref" href="#fnref4:92100" title="Jump back to footnote 96 in the text">↩</a></p>
+</li>
+<li id="fn:95407">
+<p>depthsky, 《<a href="https://web.archive.org/web/20240304035913/https://www.geekpark.net/news/195407">手机 QQ：免费通话要革谁的命</a>》, GeekPark（极客公园）, 2013-12-23. (参照 2024-03-04).&nbsp;<a class="footnote-backref" href="#fnref:95407" title="Jump back to footnote 97 in the text">↩</a><a class="footnote-backref" href="#fnref2:95407" title="Jump back to footnote 97 in the text">↩</a></p>
+</li>
+<li id="fn:3hq0j">
+<p>西瓜西瓜西瓜西瓜西瓜, 《<a href="https://web.archive.org/web/20240304040818/https://wen.woshipm.com/question/detail/t3hq0j.html">微信语音通话用的人更多，为何一直放在视频通话里？</a>》, 天天问, ?. (参照 2024-03-04).&nbsp;<a class="footnote-backref" href="#fnref:3hq0j" title="Jump back to footnote 98 in the text">↩</a></p>
+</li>
+<li id="fn:77867">
+<p>赵卓, 《<a href="https://web.archive.org/web/20240304045022/http://www.chinasoushang.com/news/77867.html">不安WIFI防护设备不能上网 2万安装费店家难接受</a>》, 搜商网, 2018-08-21. (参照 2024-03-04).&nbsp;<a class="footnote-backref" href="#fnref:77867" title="Jump back to footnote 99 in the text">↩</a></p>
+</li>
+<li id="fn:5530s">
+<p>《<a href="https://web.archive.org/web/20240301052328/http://nds1.webapps.microsoft.com/files/support/china/phones/guides/Nokia_5530_UG_zh-CN.pdf">诺基亚 5530 XpressMusic 用户手册</a>》, Nokia. [Online].&nbsp;<a class="footnote-backref" href="#fnref:5530s" title="Jump back to footnote 100 in the text">↩</a></p>
+</li>
+<li id="fn:5530t">
+<p>《<a href="https://web.archive.org/web/20240301052441/http://download-fds.webapps.microsoft.com/supportFiles/files/support/china/phones/guides/Nokia_5530_UG_zh-TW.pdf">Nokia 5530 XpressMusic 用戶指南</a>》, Nokia. [Online]. 附言：Internet Archive 可能没有将链接保存上。&nbsp;<a class="footnote-backref" href="#fnref:5530t" title="Jump back to footnote 101 in the text">↩</a></p>
+</li>
+<li id="fn:5530e">
+<p>《<a href="https://web.archive.org/web/20160910123312/http://download-fds.webapps.microsoft.com/supportFiles/phones/files/guides/Nokia_5530_XpressMusic_UG_en.pdf">Nokia 5530 XpressMusic User Guide</a>》, Nokia. [Online].&nbsp;<a class="footnote-backref" href="#fnref:5530e" title="Jump back to footnote 102 in the text">↩</a></p>
+</li>
+</ol>
+</div>
+
+
+  
+
+
+
+
+
+
+
+<aside class="md-source-file" style="margin-right: .6rem; align-items: center; color: var(--md-default-fg-color--light); display: inline-flex; font-size: .68rem; gap: .3rem;"><span class="md-source-file__fact" style="display: inline-flex;"><span class="md-icon" title="更新时间"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1-2.1-2M12.5 7v5.2l4 2.4-1 1L11 13V7h1.5M11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2v1.8Z"></path></svg></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" style="padding-left: 8px;padding-top: 2px;"><span>2024-11-07T00:13:53</span></span></span><span class="md-source-file__fact" style="display: inline-flex;"><span class="md-icon" title="创建时间"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.47 15.08 11 13V7h1.5v5.25l3.08 1.83c-.41.28-.79.62-1.11 1m-1.39 4.84c-.36.05-.71.08-1.08.08-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8c0 .37-.03.72-.08 1.08.69.1 1.33.32 1.92.64.1-.56.16-1.13.16-1.72 0-5.5-4.5-10-10-10S2 6.5 2 12s4.47 10 10 10c.59 0 1.16-.06 1.72-.16-.32-.59-.54-1.23-.64-1.92M18 15v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2Z"></path></svg></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago" style="padding-left: 8px;padding-top: 2px;"><span>2021-06-10T08:58:51</span></span></span></aside>
+<small><small><p>（由于更新时间是手动更新的，所以部分页面内容已更新，但忘记修改新的日期了……）</p></small></small>
+
+<!-- 新增部分结束 -->
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"></path></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      由 gledos 创作的内容，如果没有另外声明，均为 CC0 许可协议。<br> 可以在 <a href="https://afdian.com/a/gledos/">爱发电</a> 为此捐赠金钱。<br> 使用了 <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a> 以及 Github Pages 生成并托管网站。<br> <a href="#__consent">更改 Cookie 设置</a>
+
+    </div>
+  
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://t.me/gledos_microblogging" target="_blank" rel="noopener" title="t.me" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2025 Fonticons, Inc.--><path d="M256 8a248 248 0 1 0 0 496 248 248 0 1 0 0-496m115 168.7c-3.7 39.2-19.9 134.4-28.1 178.3-3.5 18.6-10.3 24.8-16.9 25.4-14.4 1.3-25.3-9.5-39.3-18.7-21.8-14.3-34.2-23.2-55.3-37.2-24.5-16.1-8.6-25 5.3-39.5 3.7-3.8 67.1-61.5 68.3-66.7.2-.7.3-3.1-1.2-4.4s-3.6-.8-5.1-.5c-2.2.5-37.1 23.5-104.6 69.1-9.9 6.8-18.9 10.1-26.9 9.9-8.9-.2-25.9-5-38.6-9.1-15.5-5-27.9-7.7-26.8-16.3.6-4.5 6.7-9 18.4-13.7 72.3-31.5 120.5-52.3 144.6-62.3 68.9-28.6 83.2-33.6 92.5-33.8 2.1 0 6.6.5 9.6 2.9 2 1.7 3.2 4.1 3.5 6.7.5 3.2.6 6.5.4 9.8z"></path></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:cngledos@gmail.com" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2zm-2 0-8 5-8-5zm0 12H4V8l8 5 8-5z"></path></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+      <div class="md-consent" data-md-component="consent" id="__consent" hidden>
+        <div class="md-consent__overlay"></div>
+        <aside class="md-consent__inner">
+          <form class="md-consent__form md-grid md-typeset" name="consent">
+            
+
+
+
+<h4>Cookie 设置</h4>
+<p>ggame 使用 Cookie 实现 Google 广告、分析和 GitHub 连接功能，请根据情况选择允许或拒绝这些 Cookie。<br> （同意后再拒绝，不会删除 Cookie，只会阻止连接与运行第三方 JavaScript 资源。如果在意，仍需手动清理 Cookie）<br> 完成设置后，也可以在网站底部的「更改 Cookie 设置」重新调整。</p>
+<input class="md-toggle" type="checkbox" id="__settings">
+<div class="md-consent__settings">
+  <ul class="task-list">
+    
+    
+    
+    
+      
+        
+  
+  
+    
+    
+      
+    
+  
+  <li class="task-list-item">
+    <label class="task-list-control">
+      <input type="checkbox" name="github" checked>
+      <span class="task-list-indicator"></span>
+      GitHub
+    </label>
+  </li>
+
+      
+    
+      
+        
+  
+  
+    
+    
+      
+    
+  
+  <li class="task-list-item">
+    <label class="task-list-control">
+      <input type="checkbox" name="analytics" checked>
+      <span class="task-list-indicator"></span>
+      Google Analytics
+    </label>
+  </li>
+
+      
+    
+      
+        
+  
+  
+    
+    
+      
+    
+  
+  <li class="task-list-item">
+    <label class="task-list-control">
+      <input type="checkbox" name="custom" checked>
+      <span class="task-list-indicator"></span>
+      Google AdSense
+    </label>
+  </li>
+
+      
+    
+  </ul>
+</div>
+<div class="md-consent__controls">
+  
+    
+      <button class="md-button md-button--primary">同意</button>
+    
+    
+    
+  
+    
+    
+      <button type="reset" class="md-button md-button--primary">拒绝</button>
+    
+    
+  
+    
+    
+    
+      <label class="md-button" for="__settings">管理设定</label>
+    
+  
+</div>
+          </form>
+        </aside>
+      </div>
+      <script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout((function(){document.querySelector("[data-md-component=consent]").hidden=!1}),250);var form=document.forms.consent;for(var action of["submit","reset"])form.addEventListener(action,(function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map((function(e){return[e,!0]})))),location.hash="",location.reload()}))</script>
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.prune", "content.tabs.link", "navigation.indexes", "header.autohide", "announce.dismiss", "navigation.top"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+        <script src="../js/consent.js"></script>
+      
+    
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html><!-- 新增部分 -->
