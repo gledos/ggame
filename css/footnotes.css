@@ -1,0 +1,11 @@
+a.footnote-ref::before {
+    content: '[';
+}
+
+a.footnote-ref::after {
+    content: ']';
+}
+
+a.footnote-ref {
+    user-select: none;
+}
